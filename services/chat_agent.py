@@ -31,6 +31,7 @@ class ChatAgent():
         self.client = ChatGoogleGenerativeAI(
                 model="gemini-pro",
                 convert_system_message_to_human=True,
+                temperature=0.65,
                 stream=True)
         sys_prompt = SystemMessagePromptTemplate(
                 prompt=PromptTemplate(
@@ -53,7 +54,13 @@ class ChatAgent():
 
         self.chain = (
                 RunnableParallel({
-                        "context": vec_db.as_retriever(search_type="mmr"),
+                        "context": vec_db.as_retriever(
+                            search_type="mmr",
+                            search_kwargs={
+                                'k': 50,
+                                'fetch_k': 80,
+                                'lambda_mult': 0.55}
+                            ),
                         "question": RunnablePassthrough()
                 })
                 | self.prompt
