@@ -1,0 +1,4954 @@
+ANNAMALAI
+UNIVERSITY
+FACULTY OF ENGINEERING AND TECHNOLOGY
+DEPARTMENT OF ELECTRONICS AND INSTRUMENTATION ENGINEERING
+ME Two Year FullTime DEGREE
+PROCESS CONTROL AND INSTRUMENTATION CBCS
+REGULATIONS AND SYLLABUS
+REGULATIONS  2023
+1 1 Conditions for Admission
+Candidates for admission to the first year of the foursemester ME Degree Programme in
+Engineering shall be required to have passed BE  BTech degree of Annamalai University or
+any other authority accepted by the syndicate of this University as equivalent thereto They shall
+satisfy the conditions regarding qualifying marks and physical fitness as may be prescribed by the
+Syndicate of the Annamalai University from time to time
+2 Branches of Study in ME
+The Branch and Eligibility criteria of Programmes are given in Annexure
+3 Courses of Study
+The courses of study along with the respective syllabi and the scheme of Examinations for each
+of the ME Programmes offered by the different Departments of study in the Faculty of
+Engineering and Technology are given in Annexures of the respective Departments
+4 Choice Based Credit System CBCS
+The curriculum includes Program Core Program Electives and Open Electives Mandatory
+Learning Courses and Audit Courses in addition to the Thesis Each semester curriculum shall
+normally have a blend of theory and practical courses
+5 Assignment of Credits for Courses
+Each course is normally assigned one credit per hour of lecture  tutorial per week and 05 credit for
+one hour of laboratory or project or industrial training or seminar per week The total credits for
+the Programme will be 68
+6 Duration of the Programme
+A student of ME Programme is normally expected to complete in four semesters for the fulltime but in any case not more than four years from the date of admission
+7 Registration for Courses
+A newly admitted student will automatically be registered for all the courses prescribed for the
+first semester without any option Every other student shall submit a completed registration form
+indicating the list of courses intended to be credited during the next semester This registration
+will be done a week before the last working day of the current semester Late registration with the
+approval of the Dean on the recommendation of the Head of the Department along with a late fee
+will be done up to the last working day Registration for the Thesis Phase  I and PhaseII shall be
+done at the appropriate semesters
+8 Electives
+81 Program Electives
+The student has to select two electives in first semester another two electives in the second semester
+and one more in the third semester from the list of Program Electives
+82 Open Electives
+The student has to select two electives in third semester from the list of Open Electives offered
+by the Department and  or other departments in the Faculty of Engineering and Technology
+9 Industrial Project
+A student may be allowed to take up the one program elective and two open elective courses of third
+semester Full Time program in the first and second semester to enable himher to carry out
+Project PhaseI and PhaseII in an industry during the entire second year of study The condition
+is that the student must register those courses in the first semester itself Such students should
+meet the teachers offering those elective courses themselves for clarifications No specific slots
+will be allotted in the time table for such courses
+10 Assessment
+101 Theory Courses
+The breakup of continuous assessment and examination marks for theory courses is as follows
+First assessment MidSemester TestI
+ 08 marks
+Second assessment MidSemester TestII
+ 12 marks
+Third Assessment
+ 05 marks
+End Semester Examination
+ 75 marks
+102 Practical Courses
+The breakup of continuous assessment and examination marks for Practical courses is as follows
+First assessment TestI
+ 15 marks
+Second assessment TestII
+ 15 marks
+Maintenance of record book
+ 10 marks
+End Semester Examination
+ 60 marks
+103 Thesis Work
+The thesis PhaseI will be assessed for 40 marks by a committee consisting of the Head of the
+Department the guide and a minimum of two members nominated by the Head of the Department
+The Head of the Department will be the chairman The number of reviews must be a minimum of
+three per semester 60 marks are allotted for the thesis work and viva voce examination at the end
+of the third semester The same procedure will be adopted for thesis Phase II in the fourth
+semester
+104 Seminar  Industrial Training
+The continuous assessment marks for the seminar  industrial training will be 40 and to be
+assessed by a seminar committee consisting of the Seminar Coordinator and a minimum of two
+members nominated by the Head of the Department The continuous assessment marks will be
+awarded at the end of the seminar session 60 marks are allotted for the seminar  industrial
+training and viva voce examination conducted based on the seminar  industrial training report at
+the end of the semester
+11 Student Counselors Mentors
+To help the students in planning their course of study and for general advice on the academic
+Programme the Head of the Department will attach a certain number of students to a member
+of the faculty who shall function as student counselor mentor for those students throughout
+their period of study
+12 Class Committee
+For each of the semesters of ME programmes separate class committees will be constituted by the
+respective Head of the Departments The composition of the class committees from first to fourth
+semesters for Full time will be as follows
+ Teachers of the individual courses
+ A Thesis coordinator for Thesis Phase  I and II shall be appointed by the Head of the
+Department from among the Thesis supervisors
+ A thesis review committee chairman shall be appointed by the Head of the Department
+ One Professor or Associate Professor preferably not teaching the concerned class
+appointed as Chairman by the Head of the Department
+ The Head of the Department may opt to be a member or the Chairman
+ All counselors of the class and the Head of the Department if not already a member
+or any staff member nominated by the Head of the Department may opt to be special
+invitees
+The class committee shall meet three times during the semester The first meeting will be held
+within two weeks from the date of class commencement in which the type of assessment like
+test assignment etc for the third assessment and the dates of completion of the assessments
+will be decided
+The second meeting will be held within a week after the completion of the first assessment to
+review the performance and for followup action
+The third meeting will be held after all the assessments but before the University semester
+examinations are completed for all the courses and at least one week before the commencement
+of the examinations During this meeting the assessment on a maximum of 25 marks for theory
+courses  40 marks for practical courses for Industrial Training and for Thesis work PhaseI
+and PhaseII will be finalized for every student and tabulated and submitted to the Head of the
+Department for approval and transmission to the Controller of Examinations
+13 Temporary Break of Study
+A student can take a onetime temporary break of study covering the current semester and  or the
+next semester with the approval of the Dean on the recommendation of the Head of the
+Department not later than seven days after the completion of the mid semester test However the
+student must complete the entire Programme within the maximum period of four years
+14 Substitute Assessments
+A student who has missed for genuine reasons accepted by the Head of the Department one or
+more of the assessments of a course other than the end of semester examination may take a
+substitute assessment for any one of the missed assessments The substitute assessment must be
+completed before the date of the third meeting of the respective class committees
+A student who wishes to have a substitute assessment for a missed assessment must apply to the
+Head of the Department within a week from the date of the missed assessment
+15 Attendance Requirements
+The students with 75 attendance and above are permitted to appear for the University
+examinations However the Vice  Chancellor may give a rebate  concession not exceeding 10
+in attendance for exceptional cases only on Medical Grounds
+A student who withdraws from or does not meet the minimum attendance requirement in a semester
+must reregister and repeat the same semester in the subsequent academic years
+16 Passing and Declaration of Examination Results
+All assessments of all the courses on an absolute marks basis will be considered and passed by
+the respective results passing boards in accordance with the rules of the University Thereafter
+the controller of examinations shall convert the marks for each course to the corresponding letter
+grade as follows compute the grade point average GPA and cumulative grade point average
+CGPA and prepare the mark sheets
+90 to 100 marks
+80 to 89 marks
+70 to 79 marks
+60 to 69 marks
+55 to 59 marks
+50 to 54 marks
+Less than 50 marks
+Withdrawn from the
+Examination
+Grade S
+Grade A
+Grade B
+Grade C
+Grade D
+Grade E
+Grade RA
+Grade W
+A student who obtains less than 30  24 marks out of 75  60 in the theory  practical examinations
+respectively or is absent for the examination will be awarded grade RA
+A student who earns a grade of S A B C D or E for a course is declared to have successfully
+completed that course and earned the credits for that course Such a course cannot be repeated
+by the student
+A student who obtains letter grade RA  W in the mark sheet must reappear for the examination
+of the courses
+The following grade points are associated with each letter grade for calculating the grade point
+average and cumulative grade point average
+S  10 A  9 B  8 C  7 D  6 E  5 RA  0
+Courses with grade RA  W are not considered for calculation of grade point average or cumulative
+grade point average
+A student can apply for retotaling of one or more of his examination answer papers within a
+week from the date of issue of mark sheet to the student on payment of the prescribed fee per
+paper The application must be made to the Controller of Examinations with the recommendation
+of the Head of the Department
+After the results are declared mark sheets will be issued to the students The mark sheet will
+contain the list of courses registered during the semester the grades scored and the grade point
+average for the semester
+GPA is the sum of the products of the number of credits of a course with the grade point scored
+in that course taken over all the courses for the semester divided by the sum of the number of
+credits for all courses taken in that semester
+CGPA is similarly calculated considering all the courses taken from the time of admission
+17 Awarding Degree
+After successful completion of the Programme the degree will be awarded with the following
+classifications based on CGPA
+For First Class with Distinction the student must earn a minimum of 68 credits within four
+semesters from the time of admission pass all the courses in the first attempt and obtain a CGPA
+of 825 or above
+For First Class the student must earn a minimum of 68 credits within two years and six months
+from the time of admission and obtain a CGPA of 675 or above
+For Second class the student must earn a minimum of 68 credits within four years from the time
+of admission
+The conversion of OGPACGPA from I semester to IV Semester to the corresponding
+Percentage of marks may be calculated as per the following formula
+Percentage of marks  OGPACGPA  025 x 10
+Where
+ Credit hours of a course
+ Grade Point of that course
+18 Ranking of Candidates
+The candidates who are eligible to get the ME degree in First Class with Distinction will be
+ranked on the basis of CGPA for all the courses of study from I to IV semester
+The candidates passing with First Class and without failing in any subject from the time of
+admission will be ranked next to those with distinction on the basis of CGPA for all the courses of
+study from I to IV semester
+19 Transitory Regulations
+If a candidate studying under the old regulations ME could not attend any of the courses in
+hisher courses shall be permitted to attend equal number of courses under the new regulation
+and will be examined on those subjects The choice of courses will be decided by the concerned
+Head of the department However heshe will be permitted to submit the thesis as per the old
+regulations The results of such candidates will be passed as per old regulations
+The University shall have powers to revise or change or amend the regulations the scheme of
+examinations the courses of study and the syllabi from time to time
+ANNEXURE
+S
+No
+1
+2
+3
+Programme
+Full Time
+Department
+i
+Environmental
+Engineering
+ii
+Water resources
+Engineering 
+Management
+Civil
+Engineering
+Civil 
+Structural
+Engineering
+i
+ii
+Structural
+Engineering
+Construction
+Engineering and
+Management
+i
+Thermal Power
+ii
+Energy
+Engineering 
+Management
+Mechanical
+Engineering
+4
+Manufacturing
+Engineering
+i
+Manufacturing
+Engineering
+5
+Electrical
+Engineering
+i
+Power System
+Engineering
+Eligible BE  BTech Programme
+BE  BTech  Civil Engineering Civil
+Structural
+Engineering
+Environmental
+Engineering
+Mechanical Engineering Industrial
+Engineering Chemical Engineering
+Bio Chemical Engineering
+Biotechnology
+Industrial
+Biotechnology
+Chemical
+Environmental Engineering
+BE  BTech  Civil Engineering Civil
+Structural Engineering Environmental
+Engineering Mechanical Engineering
+Agricutural and irrigation Engineering
+Geo informatics Energy and
+Environmental Engineering
+BE  BTech  Civil Engineering Civil
+ Structural Engineering
+BE  BTech  Mechanical Engineering
+Automobile Engineering
+Mechanical Engineering
+Manufacturing
+BE  BTech  Mechanical Engineering
+Automobile Engineering
+Mechanical Manufacturing
+Engineering Chemical Engineering
+BE  BTech  Mechanical
+Engineering Automobile Engineering
+Manufacturing Engineering
+Production Engineering Marine
+Materials science
+EngineeringMetallurgy
+Engineering Mechatronics Engineering
+and Industrial Engineering
+BE  BTech  Electrical and
+Electronics Engineering
+8
+6
+Electronics 
+Instrumentation
+Engineering
+i
+i
+7
+Chemical
+Engineering
+ii
+8
+Computer
+Science and
+Engineering
+i
+9
+Electronic 
+Communication
+Engineering
+i
+BE  BTech  Electronics and
+Instrumentation Engineering Electrical
+and Electronics Engineering Control
+Process Control
+ Instrumentation and Instrumentation Engineering
+Instrumentation Engineering 
+Electronics and Communication
+Engineering
+BE  BTech  Chemical Engineering
+Chemical
+Petroleum Engineering
+Engineering
+Petrochemical Technology
+BE  BTech  Chemical Engineering
+Food TechnologyBiotechnology
+Food Processing
+Biochemical Engineering Agricultural
+Technology
+Engineering
+BE  BTech  Computer Science and
+Engineering Computer Science and
+Engineering Artificial Intelligence and
+Computer Science Machine Learning Computer Science
+and Engineering Data Science
+and Engineering
+Information Technology Electronics 
+Communication Engineering Software
+Engineering
+BE  BTech Electronics and
+Communication
+Communication Engineering
+Systems
+Electronics Engineering
+9
+DETAILS OF COURSE CODE
+S
+No
+3rd 
+4th
+Digits
+5th 
+6th
+Digits
+DETAILS
+i
+1
+2
+3
+CE
+CZ
+ME
+WR
+Civil Engineering
+Civil  Structural
+Engineering
+Mechanical
+Engineering
+ii
+EE
+i
+SE
+ii
+CM
+i
+TP
+ii
+EM
+DETAILS
+Water Resources
+Engineering 
+Management
+Environmental
+Engineering
+Structural
+Engineering
+Construction
+Engineering and
+Management
+Thermal Power
+Engineering
+Energy Engineering
+ Management
+Manufacturing
+Engineering
+7th 
+8th
+Digits
+DETAILS
+PC
+Program Core
+PE
+Program
+Elective
+OE
+Open Elective
+CP
+Core Practical
+4
+MF
+Manufacturing
+Engineering
+i
+ME
+5
+EE
+Electrical
+Engineering
+i
+PS
+Power System
+Engineering
+TS
+Industrial
+Training and
+Seminar
+6
+EI
+Electronics 
+Instrumentation
+Engineering
+i
+PC
+Process Control 
+Instrumentation
+PV
+Project work
+ Vivavoce
+i
+CE
+Chemical
+Engineering
+MC
+Mandatory
+Learning
+Course
+7
+CH
+8
+CS
+9
+EC
+10
+YY
+11
+ZZ
+Chemical
+Engineering
+Computer Science
+and Engineering
+Electronics 
+Communication
+Engineering
+ii
+FT
+Food Processing
+Technology
+i
+CS
+Computer Science
+and Engineering
+i
+CS
+Communication
+Systems
+AC
+Audit Course
+Name of the
+Department
+Name of the
+Program
+First two digits relate to the year from which the Regulations commence
+9th digit represents the semester and 10th digit represents the serial number of
+courses
+YY and ZZ relates to the Open Elective where YY corresponds to Name of the
+Department and ZZ to Name of the Program
+10
+ME PROCESS CONTROL AND INSTRUMENTATION
+VISION
+To nurture higher echelons of technology through participative education
+innovative and collaborative research with a view to bring out employable graduates
+of International standard
+MISSION
+1 To establish state of the art facilities related to diverse dimension in the field of
+Instrumentation Engineering Control Engineering Process Control 
+Automation
+2 To foster higher quality of education with equivocal focus in theory and practical
+areas of Electronics Control and Instrumentation Engineering
+3 To ensure that the dissemination of knowledge reaches the stakeholders and forge
+the opening of a fresh flair of human resources
+4 To create opportunities for advancements in different facets of this discipline and
+offer avenues to reach the citadels of ones career
+PROGRAMME OUTCOMES POs
+A student who has undergone the ME Process Control  Instrumentation
+program would have acquired abilities to
+PO1 Scholarship of Knowledge
+Acquire indepth knowledge of specific discipline or professional area including wider
+and global perspective with an ability to discriminate evaluate analyze and
+synthesize existing and new knowledge and integration of the same for enhancement
+of knowledge
+PO2 Critical Thinking
+Analyze complex engineering problems critically apply independent judgement for
+synthesizing information to make intellectual andor creative advances for
+conducting research in a wider theoretical practical and policy context
+PO3 Problem Solving
+Think laterally and originally conceptualize and solve engineering problems
+evaluate a wide range of potential solutions for those problems and arrive at feasible
+optimal solutions after considering public health and safety cultural societal and
+environmental factors in the core areas of expertise
+PO4 Research Skill
+Extract information pertinent to unfamiliar problems through literature survey and
+experiments apply appropriate research methodologies techniques and tools
+design conduct experiments analyze and interpret data demonstrate higher order
+skill and view things in a broader perspective contribute individuallyin groups to
+the development of scientifictechnological knowledge in one or more domains of
+engineering
+PO5 Usage of modern tools
+Create select learn and apply appropriate techniques resources and modern
+engineering and IT tools including prediction and modeling to complex engineering
+activities with an understanding of the limitations
+11
+PO6 Collaborative and Multidisciplinary work
+Possess knowledge and understanding of group dynamics recognize opportunities
+and contribute positively to collaborativemultidisciplinary scientific research
+demonstrate a capacity for selfmanagement and teamwork decisionmaking based
+on openmindedness objectivity and rational analysis in order to achieve common
+goals and further the learning of themselves as well as others
+PO7 Project Management and Finance
+Demonstrate knowledge and understanding of engineering and management
+principles and apply the same to ones own work as a member and leader in a team
+manage projects efficiently in respective disciplines and multidisciplinary
+environments after consideration of economical and financial factors
+PO8 Communication
+Communicate with the engineering community and with society at large regarding
+complex engineering activities confidently and effectively such as being able to
+comprehend and write effective reports and design documentation by adhering to
+appropriate standards make effective presentations and give and receive clear
+instructions
+PO9 Lifelong Learning
+Recognize the need for and have the preparation and ability to engage in lifelong
+learning independently with a high level of enthusiasm and commitment to improve
+knowledge and competence continuously
+PO10 Ethical Practices and Social Responsibility
+Acquire professional and intellectual integrity professional code of conduct ethics of
+research and scholarship consideration of the impact of research outcomes on
+professional practices and an understanding of responsibility to contribute to the
+community for sustainable development of society
+PO11 Independent and Reflective Learning
+Observe and examine critically the outcomes of ones actions and make corrective
+measures subsequently and learn from mistakes without depending on external
+feedback
+PROGRAMME SPECIFIC OUTCOMES PSOs
+PSO1 Attain ability to understand design develop real time process control systems
+of varying complexity
+PSO2 Acquire skills for modeling identification analyzing and control systems by
+applying advanced signal processing soft computing and machine learning
+techniques
+PSO3 Ability to apply knowledge of standard practices and strategies involved in
+PLC SCADA and DCS to meet requirements for industry 40
+12
+PROGRAMME EDUCATIONAL OBJECTIVES PEOs
+The major objectives of the ME Process Control  Instrumentation programme
+are to equip the students with adequate knowledge and skills in the areas of Process
+Control and Instrumentation and prepare them for
+1 Imparting practical knowledge in process control design of instrumentation
+systems and contribute to technological development
+2 Attaining professional competency to address the technological needs of society
+and industrial problems
+3 A successful career in Process Control and Automation industries RD
+organizations and Academic Institutions
+4 Showing the society for lifelong selfgoverning and thoughtful learning skills in
+their career
+5 Exhibiting their potential in project
+multidisciplinary task in their profession
+management
+collaborative
+and
+ME PCCONSISTENCY OF PEOs WITH MISSION OF THE DEPARTMENT
+PEO Statements
+PE01 Imparting practical knowledge in process control
+design of instrumentation systems and contribute to
+technological development
+Mission Statements
+M1
+M2
+M3 M4
+3
+3
+2
+2
+PE02
+Attaining professional competency to address the
+technological needs of society and industrial problems
+2
+3
+2
+3
+PE03 A successful career in Process Control and Automation
+industries RD organizations and Academic Institutions
+3
+3
+3
+3
+PE04 Showing the society for lifelong selfgoverning and
+thoughtful learning skills in their career
+3
+2
+2
+3
+PE05 Exhibiting their potential in project management
+collaborative and multidisciplinary task in their profession
+3
+2
+3
+2
+3Strong Correlation
+2Moderate Correlation
+1Weak Correlation
+MAPPING OF POS WITH PEOS
+PO1
+PO2
+PO3
+PO4
+PO5
+PEO1
+3
+3
+3
+3
+3
+PEO2
+2
+3
+3
+3
+PEO3
+3
+3
+2
+3
+1
+2
+PEO4
+PEO5
+3
+3Strong Correlation
+PO6
+PO7
+PO8
+3
+3
+3
+3
+2
+2
+2
+3
+2
+3
+3
+1
+3
+3
+3
+2Moderate Correlation
+3
+PO9
+PO10
+PO11
+3
+3
+2
+3
+1Weak Correlation
+3
+13
+ME PROCESS CONTROL AND INSTRUMENTATION FULLTIME
+COURSES OF STUDY AND SCHEME OF EXAMINATIONS REGULATION  2023
+SEMESTER I
+Course Code
+23EIPCPC 11
+Category
+PC
+23EIPCPC 12
+23EIPCPE 13
+23EIPCPE 14
+23EIPCMC15
+PC
+PE
+PE
+MC
+23EIPCCP16
+CP
+23EIPCCP17
+CP
+23EIPCAC18
+AC
+Course
+Process Dynamics and
+Control
+Industrial Instrumentation
+Program ElectiveI
+Program ElectiveII
+Research Methodology and
+IPR
+Process Control 
+Instrumentation Lab
+Instrumentation System
+Design Lab
+Audit CourseI
+Total
+L
+3
+T
+P CA
+ 25
+FE Total Credits
+75 100
+3
+3
+3
+3
+2
+25
+25
+25
+25
+75
+75
+75
+75
+100
+100
+100
+100
+3
+3
+3
+2
+3
+40
+60
+100
+2
+3
+40
+60
+100
+2
+2
+205
+495
+700
+0
+18
+L
+T
+P
+CA
+FE Total Credits
+Industrial Data
+Communication and Control
+System Identification and
+Modeling
+3
+25
+75
+100
+3
+3
+25
+75
+100
+3
+SEMESTER II
+Course
+Code
+23EIPCPC21
+Category
+PC
+Course
+23EIPCPC22
+PC
+23EIPCPE23
+PE
+Program ElectiveIII
+3
+25
+75
+100
+3
+23EIPCPE24
+23YYZZOE25
+23EIPCCP26
+23EIPCTS27
+PE
+OE
+CP
+TS
+Program ElectiveIV
+Open Elective  I
+Industrial Automation Lab
+Industrial Training  Seminar
+3
+3
+75
+75
+60
+100
+100
+100
+3
+3
+2
+40
+60
+100
+2
+AC
+Audit CourseII
+Total
+2
+3
+S
+2
+25
+25
+40
+23EIPCAC28
+Tr
+2
+205
+495
+700
+0
+19
+T
+SEMESTER III
+Course Code
+Category
+Course
+L
+P
+CA
+FE Total Credits
+23EIPCPE31
+PE
+Program ElectiveV
+3
+25
+75
+100
+3
+23YYZZOE32
+OE
+Open Elective  II
+3
+25
+75
+100
+3
+Pr
+S
+16
+4
+40
+60
+100
+10
+90
+210 300
+16
+CA
+FE Total Credits
+40
+60
+100
+15
+40
+60
+100
+15
+23EIPCPV33
+PVI
+Project work  Vivavoce
+PhaseI
+Total
+SEMESTER IV
+Course Code
+Category
+23EIPCPV41
+PVII
+Course
+Project work  Vivavoce
+PhaseII
+L
+T
+P
+Pr
+S
+24
+6
+Total
+Note   Four weeks during the summer vacation at the end of IInd Semester
+L Lecture P Practical T Tutorial CA Continuous Assessment
+FE Final Examination Tr Training Pr Project work S Seminar
+14
+SNo COURSE CODE
+LIST OF PROGRAM ELECTIVES
+Credits
+1
+23EIPCPEXX
+Instrumentation System Design
+3
+2
+23EIPCPEXX
+Advanced Instrumentation System
+3
+3
+23EIPCPEXX
+Instrumentation in Petrochemical Industry
+3
+4
+23EIPCPEXX
+Thermal Power Plant Instrumentation
+3
+5
+23EIPCPEXX
+Virtual Instrumentation
+3
+6
+23EIPCPEXX
+Automotive Instrumentation
+3
+7
+23EIPCPEXX
+Advanced Process Control
+3
+8
+23EIPCPEXX
+Adaptive Control
+3
+9
+23EIPCPEXX
+Optimal Control
+3
+10
+23EIPCPEXX
+Robust Control
+3
+11
+23EIPCPEXX
+Non Linear System Theory
+3
+12
+23EIPCPEXX
+Statistical Process Control
+3
+13
+23EIPCPEXX
+Advanced Digital Signal Processing
+3
+14
+23EIPCPEXX
+Machine Learning Techniques
+3
+15
+23EIPCPEXX
+Robotics  Automation
+3
+16
+23EIPCPEXX
+Artificial Intelligence for Process Control
+3
+17
+23EIPCPEXX
+Real time Embedded System
+3
+SNo COURSE CODE
+LIST OF OPEN ELECTIVES
+Credits
+1
+23EIPCOEXX
+Industrial Drives and Control
+3
+2
+23EIPCOEXX
+Digital Control
+3
+3
+23EIPCOEXX
+Wireless Sensor Networks
+3
+4
+23EIPCOEXX
+Digital Image Processing
+3
+5
+23EIPCOEXX
+Multi Sensor Data Fusion
+3
+SNo COURSE CODE
+LIST OFAUDIT COURSES
+1
+23EIPCACXX
+English for Research Paper Writing
+2
+23EIPCACXX
+Disaster Management
+3
+23EIPCACXX
+Sanskrit for Technical Knowledge
+4
+23EIPCACXX
+Value Education
+5
+23EIPCACXX
+Constitution of India
+6
+23EIPCACXX
+Pedagogy Studies
+7
+23EIPCACXX
+Stress Management by Yoga
+8
+23EIPCACXX
+Personality Development through Life Enlightment
+Skills
+15
+SYLLABUS
+23EIPCPC11
+PROCESS DYNAMICS AND CONTROL
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To introduce the dynamics of various processes and modelling of physical
+processes using first principles
+To get adequate knowledge about basic control actions and related issues
+To educate the effect of various control actions and the methods of tuning the
+controller
+To introduce the concept of MIMO process and its control schemes
+To study the control schemes for typical processes and its P  I Diagram
+PROCESS CONTROL
+Design aspects  Hardware elements of process control system Mathematical
+modeling of processes Fundamental laws and equations  level thermal flow gas
+and mixing process Interacting and non  interacting process  self regulation 
+inverse response  degrees of freedom  linearization  transfer function
+representation of process  variable gain variable time constant
+FEEDBACK CONTROL OF PROCESSES
+Basic control actions  characteristics of ONOFF P PI PD PID control modes
+ nonlinear PID control  position and velocity forms of PID controllers  antireset
+windup  bump less transfer  practical forms of PID control modes Methods of
+controller tuning Ziegler  Nichols continuous cycling damped oscillations process
+reaction curve method  Cohen and Coon method time  integral criteria
+ADVANCED CONTROL SYSTEMS
+Feedback control of systems with large dead time dead time compensation  cascade
+control  feed forward and ratio control  adaptive and inferential control systems 
+internal model control  model predictive control  introduction to MPC schemes
+DESIGN OF CONTROL SYSTEMS FOR MULTIVARIABLE PROCESS
+Design equations  degrees of freedom  poles and zeros  number of controlled and
+manipulated variables  generation of alternative loop configurations  extension to
+systems with interacting units Interaction of control loops  relative gain array 
+selection of loops  design of noninteracting control loops Decoupling control
+CONTROL OF TYPICAL PROCESSES
+Selection of control modes for different processes  control schemes for flow level
+pressure and temperature  Distillation column control of top and bottom product
+16
+composition reflux ratio CSTR four  tank system and PH process Piping and
+Instrumentation Drawing PI D of control loops
+REFERENCES
+1 Ramesh C Panda and T Thyagarajan An Introduction to Process Modelling
+Identification and control for Engineers Narosa Publishing House First edition
+2017
+2 B WaynBequette Process Control Modeling Design and Simulation Prentice
+Hall International series Third edition 2003
+3 George Stephanopoulos Chemical Process Control An Introduction to the Theory
+and Practice Prentice Hall International Inc First edition 2008
+4 Donald R Coughanowr Process Systems Analysis and Control Third Edition
+McGraw Hill Inc 2013
+5 Peter Harriott Process Control Tata McGraw Hill 26th Reprint 2005
+6 D Patranabis Principles of Process Control Tata McGraw Hill Third Edition
+2013
+7 William L Luyben and Michael L Luyben Essentials of Process Control Tata
+McGraw Hill 1997
+COURSE OUTCOMES
+At the completion of this course students will be able to
+1 Understand basic principles and importance of process control in industrial
+process plants
+2 Apply knowledge in the design of ONOFF and PID controllers
+3 Apply knowledge in the design of advanced control strategies
+4 Understand the concept of MIMO process
+5 Design and implementation of controllers for typical processes
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+3
+1
+1
+1
+2
+CO2
+1
+3
+2
+3
+2
+1
+3
+CO3
+1
+3
+2
+3
+2
+2
+3
+CO4
+3
+1
+2
+1
+2
+2
+CO5
+1
+3
+2
+3
+3
+3
+3
+2
+2
+17
+23EIPCPC12
+INDUSTRIAL INSTRUMENTATION
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To impart knowledge on the various techniques used for the measurement of
+primary industrial parameters like flow level temperature and pressure
+To make students understand the important parameters to be monitored and
+analyzed in Thermal power plant and Nuclear power plant
+To get an exposure on the important parameters to be monitored and analyzed in
+Petrochemical Industry
+To learn about the intrinsic safety techniques adapted in industries
+To familiarize the students about the safety instrumented system and method to
+evaluate risk and safety instrumentation levels
+MEASUREMENT OF IMPORTANT PROCESS VARIABLES
+Measurement principles of temperature pressure level and flow measuring
+instruments  general considerations for instrument mounting calibration principles
+for temperature and pressure transmitters semiconductor transducers for
+temperature pressure level and flow
+INSTRUMENTATION FOR THERMAL POWER PLANT
+Measurement of fuel flow air flow drum level steam pressure steam temperature selection and installation of instruments for these variables dissolved oxygen
+analyzer flue gas analyzer pH analyzer  coal oil analyzer  pollution instrumentsdust monitor
+INSTRUMENTATION FOR NUCLEAR POWER PLANT
+Nuclear radiation sensors out of coreneutron sensorsin core  process
+instrumentation temperature sensing pressure sensing and transmitting flow
+sensing level and position sensing steam properties sensing water properties
+sensing gas properties sensing  special sensor for sodium cooled reactors and gas
+cooled reactors
+INSTRUMENTATION FOR PETRO CHEMICAL INDUSTRYREFINERY
+Selection and installation of instruments for the measurement of temperature level
+flow and pressure in refinery  measurements in pyrolysis catalytic cracking and
+reforming processeshydrocarbon analysersulphur in oil analyzer
+INSTRUMENTATION FOR INDUSTRIAL SAFETY
+Intrinsic safety Definition  conservation and emergency vents  flame fire and
+smoke detectors  leak detectors  metal detectors safety instrument system sis
+need features components difference between basic process control system and sis
+18
+Safety Integrity Levels SIL Determination method  as low as reasonably
+practical alarp evaluating risk risk matrix risk graph layers of protection analysis
+lopa  issues related to system size and complexity issues related to field device
+safety
+REFERENCES
+1 DPatranabis Principles of Industrial Instrumentation 3rd Edition Tata McGraw
+Hill Publishing Company Ltd New Delhi 2010
+2 BGLiptak Instrumentation Engineers Handbook Measurement Fourth
+Edition Volume 1 CRC press 2011
+3 Donald PEckman Industrial Instrumentation Wiley Eastern Limited 1991
+4 Zamuel Glasstone and Alexander Sessonske Nuclear Reactor Engineering CBS
+publishers and Distributors Pvt Ltd 2004
+5 Paul Gruhn and Harry L Cheddie Safety Instrumented systems Design
+Analysis and Justification ISA 2nd Edition 2006
+6 Eric W Scharpf Heidi J Hartmann Harlod W Thomas Practical SIL target
+selection Riskanalysis as per the IEC 61511 safety Lifecycle Exida 2012
+7 Gill AB Power Plant performance Butterworth and Co Publishers Ltd 2003
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Apply knowledge on measurement and calibration principles of basic industrial
+process variables to ensure proper functioning of industrial systems
+2 Appropriately select and mount the instruments for a particular process
+3 Execute instrumentation requirements in various process industries such as
+Thermal power plant and Nuclear power plant and Petro Chemical Refinery
+4 Identify hazardous area and ensure safety measures by evaluating risk levels and
+features
+5 Design and implement a safety instrumentation system
+PO1
+PO2
+PO3
+PO4
+PO5
+CO1
+3
+2
+1
+1
+1
+1
+1
+CO2
+2
+3
+2
+3
+3
+2
+1
+CO3
+2
+3
+3
+3
+3
+2
+3
+CO4
+3
+2
+1
+2
+2
+1
+1
+3
+3
+3
+3
+CO5
+2
+3
+3
+PO6
+PO7
+PO8
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+19
+23EIPCMC15
+RESEARCH METHODOLOGY AND IPR
+L
+T P
+C
+2
+0
+2
+0
+COURSE OBJECTIVE
+To understand the research problem formulation and analyze research related
+information
+RESEARCH PROBLEM
+Meaning of research problem Sources of research problem Criteria Characteristics
+of a good research problem Errors in selecting a research problem Scope and
+objectives of research problem Approaches of investigation of solutions for research
+problem data collection analysis interpretation Necessary instrumentations
+EFFECTIVE LITERATURE STUDIES
+Approaches analysis Plagiarism Research ethics
+EFFECTIVE TECHNICAL WRITING
+How to write report Paper Developing a Research Proposal Format of research
+proposal a presentation and assessment by a review committee
+NATURE OF INTELLECTUAL PROPERTY
+Patents Designs Trade and Copyright Process of Patenting and Development
+technological research innovation patenting development International Scenario
+International cooperation on Intellectual Property Procedure for grants of patents
+Patenting under PCT
+PATENT RIGHTS
+Scope of Patent Rights Licensing and transfer of technology Patent information and
+databases Geographical Indications
+NEW DEVELOPMENTS IN IPR
+Administration of Patent System New developments in IPR IPR of Biological
+Systems Computer Software etc Traditional knowledge Case Studies IPR and IITs
+REFERENCES
+1 Stuart Melville and Wayne Goddard Research methodology an introduction for
+science  engineering students
+2 Wayne Goddard and Stuart Melville Research Methodology An Introduction
+Ranjit Kumar 2nd Edition
+3 Halbert Resisting Intellectual Property Taylor  Francis Ltd 2007
+4 Mayall Industrial Design McGraw Hill 1992
+5 Niebel Product Design McGraw Hill 1974
+20
+6 Asimov Introduction to Design Prentice Hall 1962
+7 Robert P Merges Peter S Menell Mark A Lemley Intellectual Property in New
+Technological Age 2016
+8 T Ramappa Intellectual Property Rights Under WTO S Chand 2008
+COURSE OUTCOMES
+At the end of this course students will be able to
+1 Understand research problem formulation
+2 Follow research ethics
+3 Understand that todays world is controlled by Computer Information
+Technology but tomorrow world will be ruled by ideas concept and creativity
+4 Understanding that when IPR would take such important place in growth of
+individuals  nation it is needless to emphasis the need of information about
+Intellectual Property Right to be promoted among students in general 
+engineering in particular
+5 Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R  D which leads to creation of new and
+better products and in turn brings about economic growth and social
+benefits
+PO1
+PO2
+CO1
+3
+3
+CO2
+3
+CO3
+PO3
+PO4
+PO6
+PO7
+PO8
+2
+3
+3
+3
+2
+3
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+3
+3
+CO4
+CO5
+PO5
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+21
+23EIPCCP16
+PROCESS CONTROL  INSTRUMENTATION LAB
+L T P C
+0 0 3 2
+COURSE OBJECTIVES
+ To impart knowledge on the real time process modelling principle
+To design and implement tuning techniques of PID controller for a typical process
+and verify its performance in MATLABSimulink environment
+To understand the calibration procedure for various transmitters
+To implement closed loop control for processes like air temperature air flow and
+level
+To familiarize students with design and simulation of advanced control strategies
+for the given process
+To develop programming skill for a typical PLC
+LIST OF EXPERIMENTS
+1 a Determination of control valve characteristics
+b Determination of characteristics of capacitive level transmitter
+2 a Controller tuning using continuous cycling method
+b Controller tuning using Process Reaction Curve method
+3 Modeling of an proto type air temperature process
+4 Study of Air flow control system and determination of transfer characteristics
+of IP converter Control Valve and Flow transmitter
+5 Modeling and simulation of a Level process using TUTSIM software package
+6 Determination of characteristics of a PID controller using MATLAB Simulink
+software
+7 Determination of Transfer function Experimental model of Level process
+8 Design and simulation of Averaging Control
+COURSE OUTCOMES
+At the end of the practical course the students will be able to
+1 Identify the types of control valve for a particular process determine the
+characteristics of level and flow transmitter and identify the error if any
+2 Model and design controllers for different processes
+3 Design and implement advanced control techniques
+4 Develop and program with TUTSIM and MATLAB software for process control
+applications
+5 Do the modeling of a real time process
+22
+PO1
+PO2
+PO3
+PO4
+CO1
+3
+2
+1
+1
+CO2
+2
+3
+3
+2
+CO3
+2
+3
+3
+CO4
+2
+3
+CO5
+1
+3
+PO5
+PO6
+PO7
+PO8
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+1
+1
+1
+2
+1
+1
+2
+1
+2
+3
+1
+1
+2
+1
+3
+3
+3
+1
+1
+3
+3
+3
+3
+2
+1
+1
+3
+1
+23
+23EIPCCP17
+L T P C
+INSTRUMENTATION SYSTEM DESIGN LAB
+0 0 3 2
+COURSE OBJECTIVES
+ To impart knowledge about the implementation of AutoManual switch in PID
+controller
+ To study and implement antireset windup scheme and various practical forms
+of PID controller
+ To design and implement an electronic PID controller
+ To design and implement signal conditioning circuits for various processes
+ To learn the design and development procedure of cold junction compensation
+scheme for a thermocouple using RTD
+LIST OF EXPERIMENTS
+1 a Implementation of AutoManual switch in PID controller
+b Implementation of antireset windup scheme
+2 Design of an Annunciator circuit using PLC
+3 a Implementation of practical forms of PID controller
+b Design and simulation of two position controller for a Thermal process
+using Electronic Work Bench EWB software
+4 Design and implementation of Electronic PID controller
+5 Realization of first order and second order systems with dead time using
+electronic circuits
+6 Design and implementation of cold junction compensation scheme using RTD
+7 a Design of Signal conditioning circuit for the given process
+b Design of Alarm circuit using Logic gates
+8 a Design of control valve sizing
+b Design of an orifice
+COURSE OUTCOMES
+At the end of the practical course the students will be able
+1 To implement the AutoManual switch in PID controller
+2 To design practical forms of PID and antireset windup scheme
+3 To design and implement electronic PID controller
+4 To familiarize with cold junction compensation for Thermocouple using RTD
+5 Design of orifice for flow process and sizing of control valve for a particular
+application
+PO1
+PO2
+PO3
+PO4
+CO1
+3
+3
+2
+1
+CO2
+3
+2
+2
+1
+CO3
+3
+2
+2
+1
+CO4
+3
+3
+2
+CO5
+3
+3
+2
+PO5
+PO6
+PO7
+PO8
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+3
+3
+3
+3
+3
+1
+3
+3
+1
+1
+3
+2
+1
+3
+3
+2
+24
+23EIPCPC21
+INDUSTRIAL DATA COMMUNICATION AND CONTROL
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To provide fundamental knowledge about industrial data acquisition system and
+different industrial networking standards
+ To provide comprehensive knowledge about the methods of internetworking
+ To give basic knowledge in the architecture and local control unit of distributed
+control system
+ To give adequate information about SCADA PLC and OPC
+ To give basic knowledge about HART field bus and control network technology
+DATA ACQUISITION SYSTEMS DAS
+Review of AD and DA Converters  Review of Analog Communication Systems and
+techniques multiplexing TDM  FDM Data Communication  transmission lines
+and digital signals  practical line interface circuits  serial asynchronous
+communication protocol  current loop RS 232 C RS 485  GPIB  USB
+MODEM
+Data coding methods  error detection correction and encryption Fiber Optic
+transmission  Optical fiber Cables  light sources and detectors Architecture of a
+PLC  Networking of multiple PLC
+METHODS OF COMPUTER CONTROL OF PROCESSES THEIR CONFIGURATION
+AND COMPARISON
+Direct Digital Control Supervisory Digital Control Distributed Control System DCS
+DCS Local Control UnitLCU and architecture  LCU languages  LCU  Process
+interfacing issues Operator interface  requirements Engineering interface
+requirements  displays  alarms and alarm management Factors to be considered
+in selecting a DCS Introduction to SCADA OLE for Process control OPC
+NETWORK MODELS AND PROTOCOLS
+OSI model  Data link Control protocol Media access protocol Commandresponse
+ Token passing  CSMACD TCPIP Bridges  Routers  Gateways Industrial
+ETHERNET Configuration  Special requirement for networks used for Control IEEE
+80211 IEEE 802154 Bluetooth RFID SDWAN Networking with Remote AI
+Support IntentBased Networking IBN Introduction to MODBUS CANBUS LON
+WORKS FIP
+COMMON INDUSTRIAL PROTOCOLS
+HART Introduction  HART Communication protocol  Communication modes 
+HART Commands  HART and the OSI model Field Bus Introduction  General Field
+bus architecture  basic requirements of field bus standard  field bus topology Interoperability  Interchangeability IIOT Introduction to Industry 40 Common
+Industrial protocol CIP
+25
+REFERENCES
+1 Behrouz A Forouzan Data communications and Networking Tata Mcgraw Hill
+2004
+2 Frank Petruzella Programmable Logic Controllers 5th Edition McGrawHill
+2017
+3 William L Schweber Data Communications McGrawHill 1988
+4 Yokogawa  CS 3000 Fundamental Training manual 2009
+5 Romilly Bowden HART Application Guide HART Communication Foundation
+1999
+6 BG Liptak Instrument Engineer Handbook Process software and Digital
+Networks 4th Edition 2011
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Understand the basic principle and modes of digital data transmission and
+communication
+2 Understand the various types of buses and devices used for data communication
+in industry
+3 Implement the automation concepts in a process industry with DCS and PLC
+4 Understand different networking topologies for data communication in process
+industries
+5Use HART and Fieldbus protocols for process industries
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+CO1
+3
+1
+2
+1
+2
+CO2
+3
+2
+2
+3
+3
+2
+1
+CO3
+3
+3
+3
+3
+3
+2
+1
+CO4
+3
+3
+3
+3
+3
+2
+1
+CO5
+3
+3
+3
+3
+3
+2
+1
+PO8
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+1
+3
+3
+1
+3
+1
+2
+3
+3
+3
+2
+3
+3
+2
+2
+3
+3
+2
+26
+23EIPCPC22
+SYSTEM IDENTIFICATION AND MODELLING
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To impart knowledge on various non parametric approach based system
+identification
+To make the student understand the principles of state space modelling of linear
+and nonlinear systems
+To know non recursive and recursive parametric identification approaches
+To learn to develop robust parametric identification methods
+To impart knowledge pertaining to practical aspects of system identification and
+control
+PROCESS IDENTIFICATION
+NonParametric methods Transient response analysis  frequency response
+analysis  correlation analysis  State space modeling of systems  nonlinear state
+space model and linearization of nonlinear models modeling in state space  state
+space models  canonical state space forms mechanical systems electrical systems
+ liquid level systems thermal systems state estimation using kalman filter kalman
+filter for parameter identification
+DISCRETE TIME SYSTEM MODELS FOR CONTROL
+ARX models  bilinear parametric models  ARMAX Output ErrorOE BoxJenkinsBJ models  prediction error method and instrumental variable method
+Selection of pseudo random binary sequence
+RECURSIVE PLANT MODEL IDENTIFICATION IN OPENLOOP
+Identification methods  least squares  recursive least squares  extended least
+squares  generalized least squares weighted LSEmaximum likelihood method model validation identified in openloop  model order selection
+RECURSIVE PLANT MODEL IDENTIFICATION IN CLOSEDLOOP
+Identification methods  closedloop output error algorithms  filtered closedloop
+error algorithms  filtered openloop identification algorithms  model validation
+identified in closedloop  comparative evaluation of various algorithms  Relay
+feedback identification of stable processes and unstable processes
+NONLINEAR SYSTEM IDENTIFICATION
+Modeling of nonlinear system using NARX NNSS NARMAX Hammerstein models 
+Wienner model ANN Generation of training data  training feedforward and
+recurrent neural networks tsk model adaptive neurofuzzy inference
+systemANFIS Practical aspects of System identification and control Selection of
+input signals  offline and online identification notion for persistent excitation drifts
+27
+and detrendingoutliers and missing dataprefilteringrobustness  comparison of
+parameter estimation methods  model order testing and verification case studies
+REFERENCES
+1 Ioan D Landau and Gianluca Zito Digital Control Systems Design Identification
+and Implementation SpringerVerlag London Limited 2006
+2 Ioan Dor Landau Rogelio Lozano Mohammed MSaad and Alireza Karimi
+Adaptive Control Algorithms Analysis and Applications Springer Second
+Edition 2011
+3 Dan Simon Optimal State Estimation Kalman Hinfinity and Nonlinear
+Approaches John Wiley and Sons 2006
+4 Arun K Tangirala Principles of System Identification Theory and Practice CRC
+Press Taylor and Francis Group 2015
+5 FVan der Heijden RPWDUIN Dde Ridder and DMJ Tax Classification
+Parameter Estimation and State Estimation  An Engineering Approach Using
+MATLAB John Wiley  Sons Ltd 2004
+6 Yiannis Boutalis Dimitrios Theodoridis Theodore Kottas Manolis A
+Christodoulou System Identication and Adaptive Control Theory and
+Applications of the Neurofuzzy and Fuzzy Cognitive Network Models
+Springer2014
+7 Karel J Keesman System Identification An Introduction Springer Publication
+2011
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Identify a suitable continuous time domain identification method for the taken
+up process
+2 Select a particular state space model based on specific control engineering
+problem
+3 Understand and implement the various complexity estimation methods
+offline and online open and closed loop estimation methods for modelling and
+estimating a process
+4 Gain an idea for Robust parameter estimation
+5 Select a specific identification method with an approximately equal complexity
+for the case studies
+PO1
+PO2
+PO3
+PO4
+PO5
+1
+2
+2
+2
+2
+CO1
+3
+CO2
+3
+CO3
+3
+3
+2
+2
+3
+CO4
+3
+3
+2
+3
+3
+CO5
+3
+3
+3
+3
+3
+PO6
+PO7
+PO8
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+3
+2
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+28
+23EIPCCP26
+INDUSTRIAL AUTOMATION LAB
+L
+T
+P
+C
+0
+0
+3
+2
+COURSE OBJECTIVES
+To impart knowledge on various Digital Controller design
+To design and implement tuning techniques of PID controller and verify in
+MATLABSimulink environment
+To design and implement closed loop control for processes like Air temperature
+Air flow and Level using LABVIEW software
+To familiarize students with fundamental programming concepts in PLC and
+implementation of ladder logic for an automation application
+To study the applications of SCADA and DCS for a typical process control
+application
+LIST OF EXPERIMENTS
+1 Design and Simulation of Deadbeat controller using TUTSIM
+2 a Design of Dead time compensator using smith predictor algorithm using
+MATLABSIMULINK software
+b Design and Simulation of Inverse response compensator using
+MATLABSIMULINK software
+3 Study of LABVIEW software
+4 a Study of Programmable Logic Controller Keyence PLC
+b Control of Bottle Filling Process using PLC
+5 Study of SCADA software Intouch wonderware
+6 PC based control of a simulated process
+7 Control of Air Flow process using Rock well PLC
+8 Study of DCS Centum CS 3000
+COURSE OUTCOMES
+At the end of the practical course the students will be able to
+1 Model and design digital controllers for different processes
+2 Design and implement Compensator algorithms
+3 Get hands on experience on PLC programming interfacing and
+troubleshooting
+4 Demonstrate hisher ability to develop code in LabView and SCADA software
+for process control applications
+5 Understand the features of DCS with realtime interface
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+1
+3
+3
+3
+2
+2
+1
+CO2
+1
+2
+3
+2
+1
+1
+1
+CO3
+3
+2
+3
+3
+2
+2
+CO4
+3
+3
+3
+3
+3
+2
+3
+3
+CO5
+3
+3
+3
+2
+2
+2
+1
+3
+3
+29
+23EIPCTS27
+INDUSTRIAL TRAINING  SEMINAR
+L
+T
+P
+C
+0
+2
+2
+2
+COURSE OBJECTIVES
+To expose the students to occupational environment related to controls and
+instrumentation
+To create opportunity for acquiring practical skills in carrying out preventive
+maintenance of various field instruments
+The students should undergo training program in reputed industries in the field
+of Process Control and Instrumentation during the summer vacation at the end of
+second semester for full time for a minimum stipulated period of four weeks After
+completion of the training the students have to submit a detailed report within ten
+days from the commencement of the third semester for full time on the training they
+had undertaken The students will be evaluated by a team of staff members
+nominated by the head of the department through a viva voce examination
+COURSE OUTCOMES
+At the end of the training the students will be able to
+1 Face the challenges related to work environment
+2 Manage the issues arising during the execution of projects related to Process
+Control and Instrumentation
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+3
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+3
+3
+2
+3
+2
+3
+2
+2
+2
+3
+3
+2
+2
+3
+3
+3
+30
+PROJECT WORK  VIVAVOCE
+PHASEI
+23EIPCPV33
+L T
+P
+C
+0 16
+4
+10
+COURSE OBJECTIVES
+To develop the ability to solve a scientific problem related to controls and
+instrumentation all the way from its identification literature review till the
+successful solution of the same
+To train the students in preparing project reports face reviews and viva voce
+examination
+COURSE OUTCOMES
+Upon completion of this course the students will be able to
+1 Take up any challenging practical problems and find solution
+2 Learn to adapt systematic and stepbystep problem solving methodology
+CO1
+CO2
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+3
+3
+3
+3
+2
+3
+2
+3
+2
+3
+3
+3
+3
+2
+3
+2
+PO10 PO11 PSO1 PSO2 PSO3
+2
+2
+3
+3
+3
+2
+3
+3
+3
+31
+PROJECT WORK  VIVAVOCE
+PHASEII
+23EIPCPV41
+L T
+P
+C
+0 24
+6
+15
+COURSE OBJECTIVES
+To develop the ability to solve a scientific problem related to controls and
+instrumentation all the way from its identification literature review till the
+successful solution of the same
+To train the students in preparing project reports face reviews and vivavoce
+examination
+COURSE OUTCOMES
+Upon completion of this course the students will be able to
+1 Take up any challenging practical problems and find solution
+2 Learn to adapt systematic and stepbystep problem solving methodology
+CO1
+CO2
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+3
+3
+3
+3
+2
+3
+2
+3
+2
+3
+3
+3
+3
+2
+3
+2
+PO10 PO11 PSO1 PSO2 PSO3
+2
+2
+3
+3
+3
+2
+3
+3
+3
+32
+PE  PROGRAM ELECTIVES
+23EIPCPEXX
+INSTRUMENTATION SYSTEM DESIGN
+L
+T P
+C
+3
+0
+3
+0
+COURSE OBJECTIVES
+To make students familiarize orifice design and control valve sizing procedure
+To impart knowledge on the design of signal conditioning circuits for the
+measurement of level and temperature
+To develop skills needed to design and test Analog Digital PID controller data
+acquisition system and alarm annunciator
+Orifice meter  design of orifice for given flow condition  design of rotameter
+Control valves  design of actuators and positioners  valve characteristics  sizing of
+control valves  liquid gas and steam services
+Design of VI IV PI and IP converters Analog and Digital filter design and
+Adaptive filter design  Design of signal conditioning circuits for level measurement Design of signal conditioning circuits for temperature measurementRTD
+thermocouple and thermistor
+Design of cold junction compensation circuit for thermocouple using RTD
+Transmitters  zero and span adjustment in DP transmitters  temperature
+transmitters design of RTD based temperature transmitter thermocouplebased
+temperature transmitter capacitancebased level transmitter and smart flow
+transmitters design of flappernozzle and design of pneumatic amplifiers
+Design of ON  OFF Controller using Linear Integrated Circuits Electronic PID
+controllers  design  adjustment of set point bias and controller settings Design of
+microprocessorbased PID controller  Design of microprocessorbased system for
+data acquisition
+Design of alarm and annunciation circuits using analog and digital circuits 
+Design of Programmable Logic Controller  Design of configurable sequential
+controller using PLDs
+REFERENCES
+1 CD Johnson Process Control Instrumentation Technology Prentice Hall of
+India 8th Edition 2014
+2 JPBentley Principles of Measurement Systems Pearson Education4th edition
+2004
+3 NAAnderson Instrumentation for Process Measurement and Control Chilton
+Company 3rd Edition2005
+4 DMConsidine Process Instruments and Controls Handbook McGrawHill
+Fourth Ediion 1994
+5 Bella G Liptak Instrument Engineers Handbook Elsevier 3rd Edition 2010
+33
+6 Michael D Whitt Successful Instrumentation and Control Systems Design ISA
+2nd Edition 2012
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Carryout orifice and control valve sizing for liquidsteam services
+2 Design signal conditioning circuits for temperature sensors VI IV PI and
+IP converters
+3 Design transmitters
+4 Design fabricate and testing of ONOFF PID controllers and alarm circuits
+5 Design of microprocessor based data acquisition system
+CO1
+CO2
+CO3
+CO4
+PO1
+3
+3
+3
+3
+PO2
+3
+3
+3
+3
+PO3
+2
+2
+2
+2
+PO4
+2
+2
+2
+2
+PO5
+2
+CO5
+3
+3
+2
+2
+2
+2
+PO6
+PO7
+PO8
+PO9
+PO10 PO11
+PSO1 PSO2 PSO3
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+34
+23EIPCPEXX
+ADVANCED INSTRUMENTATION SYSTEM
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To familiarize the students with concepts of fiber optic sensors modulating
+techniques and measurement methods
+To impart knowledge about laser instrumentation and its application in industry
+To equip the students about the principle and application of ultrasonic
+instrumentation systems
+To learn virtual instrumentation system and software
+To understand about the smart instruments used in transmitters
+communication and measurement systems
+FIBER OPTIC INSTRUMENTATION
+Principle of light propagation through a fiber different types of fiber and their
+propertiesfiber optic sensors fiber optic instrumentation systems different types of
+modulators optical detectors measurement of length by interferometer methodmoir fringes Measurement of pressure temperature current voltage liquid level
+and strain
+LASER INSTRUMENTATION
+Fundamental characteristics of laserthree level and four level laserlaser modesresonator configurationq switching and mode lockingcavity dumpingtypes of lasermeasurement of length distance velocity acceleration current voltage and
+atmospheric effects using laser material processing laser heating welding melting
+and trimming of materials removal and vaporization
+ULTRASONIC INSTRUMENTATION
+Principle and propagation of ultrasonic waves characterization of ultrasonic
+transmissionreflection and transmission coefficientsgeneration of ultrasonic wavesmagnetostrictive and piezoelectric effects ultrasonic test methodspulse echo transit
+time resonance direct contact and immersion typemeasurement of thickness
+depth flow using ultrasonic sensors
+VIRTUAL INSTRUMENTATION
+Block diagram and architecture of virtual instrumentation VIs and sub VIsloops and chartsarrays clusters and graphscase and sequence structuresformula
+nodes local and global variables string and file io instrument drivers publishing
+data in the websimulation of system using VI development of virtual instrument
+using GUI
+35
+SMART MEASURING INSTRUMENTS
+SmartIntelligent transducer Comparison with conventional transducers  Selfdiagnosis and remote calibration features  Smart transmitter with HART
+communicator protocol  Measurement of temperature pressure and Flow using
+HART transmitter
+REFERENCES
+1 Govind P Agrawal FiberOptic Communication Systems 4th Edition Wiley
+publication 2010
+2 SNagabhushana and NSathyanarayana Lasers and Optical Instrumentation
+IKInternational publishing 2010
+3 Jovitha Jerome Virtual Instrumentation using LabVIEW Eastern Economy
+edition PHI learning private Ltd 2010
+4 Lisa K Wells and Jeffrey Travis LABVIEW for Everyone Prentice Hall 2009
+5 Paul WChapman Smart sensors ISA Publications 1996
+6 JBDixit AmitYadav Intelligent Instrumentation for Engineers University
+Science Press 2012
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Select fiber optic sensors and Design a fiber optic based instrumentation
+system for the measurement of industrial process variables
+2 Apply the principle of Lasers and develop laser based measuring
+instrumentation system
+3 Develop ultrasonic instrumentation system for measurement and analysis
+4 Design systems applying virtual instrumentation principles
+5 Handle smart instruments and HART transmitters
+PO1
+3
+3
+3
+3
+PO2
+3
+3
+3
+3
+PO3
+2
+2
+2
+2
+PO4
+1
+1
+1
+1
+PO5
+CO1
+CO2
+CO3
+CO4
+CO5
+3
+3
+2
+1
+2
+PO6
+PO7
+PO8
+PO9
+PO10 PO11
+PSO1 PSO2 PSO3
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+36
+23EIPCPEXX
+INSTRUMENTATION IN PETROCHEMICAL INDUSTRY
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To enable students to acquire knowledge about
+The different methods of crude oil recovery processing and refining
+Important Unit operations in petroleum refinery and petrochemical industry
+Production routes of important petrochemicals and Control of selected
+petrochemicals production processes
+Hazards and therefore the necessary safety measure in planning and function
+of petrochemical Industry
+OIL EXTRACTION AND PROCESSING
+Techniques used for oil discoveryseismic survey  methods of oil extraction  oil
+rig system  Primary Secondary and Enhanced oil recovery  separation of gas and
+water from oil  control loops in oil gas separator  scrubber  coalescer
+PETROLEUM REFINING
+Petroleum refining process  unit operations in refinery thermal cracking catalytic cracking  catalytic reforming  polymerization  isomerization  alkylation Production of ethylene acetylene and propylene from petroleum
+CHEMICALS FROM PETROLEUM
+Chemicals from methane acetylene ethylene and propylene  production routes
+of important petrochemicals such as polyethylene polypropylene ethylene dioxide
+methanol xylene benzene toluene styrene VCM and PVC
+CONTROL LOOPS IN PETROCHEMICAL INDUSTRY
+Control of binary and fractional distillation columns  Control of catalytic and
+thermal crackers  control of catalytic reformer  control of alkylation process Control of polyethylene production  Control of VCM and PVC production
+SAFETY IN INSTRUMENTATION SYSTEM
+Area and material classification as per National Electric Code NEC Classification as per International Electro technical Commission IEC  Techniques
+used to reduce explosion hazards  Pressurization techniques  Type X Type Y and
+Type Z  Intrinsic safety  Mechanical and Electrical isolation  Lower and Upper
+explosion limit
+37
+REFERENCES
+1 Havard Devold Oil and Gas Production HandbookAn Introduction to Oil and Gas
+Production ABB ATPA Oil and Gas 2006
+2 Bela G Liptak Instrumentation in Process Industries Chilton Book Company
+2005
+3 Petroleum Refining Technology and Economics JH Gary and GEHandwerk
+4th Edition Marcel Dekkar Inc 2001
+4 Ram Prasad Petroleum Refining Technology Khanna Publishers New Delhi
+2000
+5 BoyunGuo William C Lyons Ali Ghalambor Petroleum Production Engineering
+A Computer Assisted Approach Elsevier Science  Technology Books 2007
+6 ID Mall Petrochemical Process Technology Macmillan India Ltd 2007
+COURSE OUTCOMES
+After completing this course the student will
+1 Gain basic knowledge about the methodologies applied for recovery and
+processing of petroleum
+2 Be familiar with different unit operations involved in Petroleum industry
+3 Have a general understanding of the production routes for important
+petrochemicals
+4 Be able to describe the control of important processes like FCCU Catalytic
+Reformer and Alkylation
+5 Be able to classify the hazardous zones and gain knowledge about the
+techniques used to reduce the explosion hazards
+CO1
+CO2
+CO3
+CO4
+PO1
+3
+3
+3
+3
+PO2
+2
+2
+2
+2
+PO3
+2
+2
+2
+3
+PO4
+1
+1
+1
+1
+CO5
+3
+2
+3
+1
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10 PO11
+PSO1 PSO2 PSO3
+3
+1
+3
+1
+3
+1
+3
+2
+3
+1
+38
+23EIPCPEXX
+THERMAL POWER PLANT INSTRUMENTATION
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+After completion of the course the students will acquire extensive knowledge
+about
+ Operation  importance of Instrumentation in Thermal power plant
+ Development of Mathematical model of different systems in Thermal power
+plant
+ Conventional and advanced control schemes applied to various processes in
+Thermal Power Plant
+ Measurement of important parameters and control techniques applied to
+steam turbines
+ Calculation and optimization of Boiler efficiency by including various losses
+in thermal power plant
+BASICS OF THERMAL POWER PLANT
+Process of power generation in coal  fired and oilfired thermal power plantsTypes of Boilers Combustion process  Super heater  Turbine  Importance of
+Instrumentation in thermal power plants
+BOILER MODELING
+Development of first principle and data driven models combustion chamber
+boiler drum superheater and attemperator
+BOILER CONTROL
+Combustion control Airfuel ratio controlfurnace draft control Drum level
+control Steam temperature Control DCS in power plant  Interlocks in Boiler
+Operation Model predictive control of super heater  control of drum level using AI
+techniques
+TURBINE  ALTERNATOR  MONITORING AND CONTROL
+Measurement of speed vibration shell temperature of steam turbine  Steam
+pressure Control  Speed control of turbine  Alternator Monitoring voltage and
+frequency Operation of several units in parallel Synchronization
+OPTIMIZATION OF THERMAL POWER PLANT OPERATION
+Determination of Boiler efficiency  Heat losses in Boiler  Effect of excess air 
+Optimizing total air supply Combustible material in ash Reduction of turbine
+lossesChoice of optimal plant parameters Economics of operation
+39
+REFERENCES
+1 ABGill Power Plant Performance Elsevier India New Delhi  2013
+2 SMElonko and ALKohal Standard Boiler Operations McGraw Hill New Delhi
+1994
+3 Sam G Duke Low The Control of Boiler ISA press 1991
+4 RKJain Mechanical and Industrial Measurements Khanna Publishers New
+Delhi 1995
+5 K Krishnaswamy and M Ponni Bala Power Plant Instrumentation PHI Learning
+Pvt Ltd Delhi 2015
+6
+Swapanbasu and Ajay Debnath Power Plant Instrumentation and Control
+Handbook A Guide to Thermal Power Plants Academic press 2014
+7
+Duncan Richardson Plant Equipment  Maintenance Engineering Handbook
+McGrawHill Education 2014
+COURSE OUTCOMES
+1 The student will be equipped with the basic knowledge of function of different
+systems in Thermal power plant
+2 The student knows the procedural steps to obtain the mathematical model of
+various units in Thermal power plant
+3 Will be able to explain conventional and advanced control concepts and
+implementation in various processes
+4 Will get idea on the parameters to be monitored measured and controlled in
+steam turbines calculation and optimization of Boiler efficiency by including
+various losses in thermal power plant
+5 Understand important control circuits in boiler and interlock in boiler operations
+CO1
+CO2
+CO3
+CO4
+PO1
+3
+3
+3
+3
+CO5
+3
+PO2
+3
+3
+3
+3
+PO3
+PO4
+PO5
+PO6
+2
+3
+3
+2
+2
+3
+3
+2
+2
+2
+2
+2
+3
+2
+PO7
+2
+PO8
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+3
+2
+3
+3
+2
+2
+2
+3
+2
+2
+2
+2
+2
+2
+2
+2
+40
+23EIPCPEXX
+VIRTUAL INSTRUMENTATION
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To provide the background for developing a VI
+ To make the student become competent in using stateoftheart VI tools
+ To enable the student to gain experience in data acquisition and instrument
+control
+INTRODUCTION
+Virtual Instrumentation Historical perspective  advantages  block diagram and
+architecture of a virtual instrument  Conventional Instruments versus Traditional
+Instruments  dataflow techniques graphical programming in data flow comparison
+with conventional programming
+VI PROGRAMMING TECHNIQUES
+VIs and subVIs loops and charts arrays clusters and graphs case and
+sequence structures formula nodes local and global variables State machine string
+and file IO
+DATA ACQUISITION
+Introduction to latest ADCs DACs Introduction to PC based data acquisition typical plugin data acquisition board  multiplexing of analog inputs  single ended
+and differential inputs  different strategy for sampling of multi channel analog
+inputs Concept of universal DAQ card  use of timerscounters
+VI TOOLSETS
+Use of Analysis tools Fourier transforms power spectrum correlation methods
+windowing and filtering Simulation of level thermal reactor processes OnOff
+controller PID Controller
+APPLICATIONS
+Distributed IO modulesVirtual Laboratory Virtual Oscilloscope Virtual
+function generator Simulation of systems using VI Development of Control system
+Industrial Communication Image acquisition and processing Motion control
+Development of Virtual Instrument using GUI Realtime systems Embedded
+Controller OPC HMI  SCADA software Active X programming
+REFERENCES
+1 Robert HBishop LabVIEW 2009 Student Edition Pearson College Division
+2009
+2 NMathivanan PCbased Instrumentation Concepts and Practice Eastern
+Economy Edition PHI Learning private ltd 2007
+41
+3 Kevin James PC Interfacing and Data Acquisition Techniques for Measurement
+Instrumentation and Control Newnes 2000
+4 Jovitha Jerome Virtual Instrumentation Using LabVIEW Eastern Economy
+Edition PHI Learning private ltd 2010
+5 Franco Davoli Norbert Meyer Remote Instrumentation and Virtual Laboratories
+Service Architecture and Networking  Kindle Edition 2010
+6 Kevin James PC Interfacing and Data Acquisition Techniques for Measurement
+Instrumentation and Control Newnes 2000
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Develop software program in VI
+2 Experiment with plugin DAQ interfaces for prototype measurement systems
+3 Implement basis concepts incorporating various VI Toolsets based on the
+application in Virtual Instruments
+4 Get the knowledge of Smart Sensors
+5 Get knowledge about VI for real time systems embedded controller
+HMISCADA software and Active X programming
+CO1
+CO2
+CO3
+CO4
+PO1
+3
+3
+3
+3
+CO5
+3
+PO2
+3
+3
+3
+2
+PO3
+3
+3
+2
+2
+PO4
+3
+3
+3
+2
+PO5
+3
+3
+3
+2
+2
+2
+3
+PO6
+PO7
+PO8
+2
+2
+1
+1
+2
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+2
+3
+2
+1
+2
+3
+2
+2
+2
+3
+2
+1
+1
+2
+2
+2
+1
+1
+3
+2
+3
+42
+23EIPCPEXX
+AUTOMOTIVE INSTRUMENTATION
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To make the students to understand the role of electronics and software related
+to current trends in automobiles
+ To provide fundamental knowledge of sensors and other technologies used in
+modern automobiles
+ To provide a strong knowledge on control system to improve safety measures and
+also to increase comforts of users
+ To impart knowledge on automotive standards and protocols
+INTRODUCTION OF AUTOMOBILE SYSTEM
+Current trends in automobiles with emphasis on increasing role of electronics
+and software overview of generic automotive control ECU functioning overview of
+typical automotive subsystems and components AUTOSAR
+ENGINE MANAGEMENT SYSTEMS
+Basic sensor arrangement types of sensors such as oxygen sensors crank angle
+position sensors Fuel metering vehicle speed sensors flow sensor temperature air
+mass flow sensors throttle position sensor solenoids etc algorithms for engine
+control including open loop and closed loop control system electronic ignition EGR
+for exhaust emission control
+VEHICLE POWER TRAIN AND MOTION CONTROL
+Electronic transmission control adaptive power Steering adaptive cruise control
+safety and comfort systems antilock braking traction control and electronic
+stability active suspension control
+ACTIVE AND PASSIVE SAFETY SYSTEM
+Body electronics including lighting control remote keyless entry immobilizers
+etc electronic instrument clusters and dashboard electronics aspects of hardware
+design for automotive including electromagnetic interference suppression
+electromagnetic compatibility etc ABS antilock braking system ESP electronic
+stability
+AUTOMOTIVE STANDARDS PROTOCOLS AND ENERGY MANAGEMENT
+Automotive standards like CAN protocol LIN protocol flex ray OBDII CAN FD
+automotive Ethernet etc Automotive standards like MISRA functional safety
+standards ISO 26262
+BMS Battery Management System FCM Fuel Control Moduleprinciples of
+system design assembly process of automotives and instrumentation systems
+43
+REFERENCES
+1 Understanding Automotive Electronics William B Ribbens Butterworth
+Heinemann Woburn 6th editiom 2003
+2 Sensors Applications Sensors for Automotive Technology by Jiri Marek Hans
+Peter Trah Wiley 1st Edition 2003
+3 UKiencke and L Nielson Automotive Control Systems Springer Verlag Berlin
+2000
+4 Automotive computers and control system by Tom Weather Jr  Cland C
+Hunter Prentice Hall Inc New Jersey 1984
+5 Understanding Automotive Electronic by Bechhold SAE 1998
+6 Automotive Hand Book by Robert Boshe Bentely Publishers 5th edition
+Germany 2005
+COURSE OUTCOMES
+After learning this course the students should be able to
+1 Evaluate the sensor and measuring system of automobile
+2 Design the basic modeling and control scheme for automotive systems
+3 Acquire knowledge of various automotive standards and Protocols
+4 Understand the current trend in the role of electronics and soft wares in
+automobiles
+5 Apply electronics for body dashboard and AntiLock Braking systems
+CO1
+CO2
+CO3
+CO4
+PO1
+3
+3
+3
+3
+PO2
+3
+3
+3
+3
+PO3
+3
+3
+3
+3
+PO4
+2
+2
+2
+2
+PO5
+3
+3
+3
+3
+CO5
+3
+3
+3
+2
+3
+PO6
+PO7
+PO8
+PO9 PO10 PO11 PSO1 PSO2 PSO3
+1
+3
+2
+1
+1
+3
+3
+1
+1
+3
+2
+1
+1
+3
+2
+1
+1
+3
+3
+1
+44
+23EIPCPEXX
+ADVANCED PROCESS CONTROL
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+1 To review the processes with special characteristics
+2 To make the students learn to formulate optimal control schemes
+3 To study the fundamental design and implementation of MPC
+4 To understand and design controllers for MIMO process
+5 To introduce FDI Techniques such as Principal component Analysis state
+observer to detect and diagnose faults in sensors and actuators
+Introduction to Process Control
+Review of first order and higher order systems self and non selfregulatory
+processes inverse response processes nonminimum phase processes and open loop
+unstable processes Response to step impulse and sinusoidal disturbances Review
+of design and implementation of PID controller
+Optimal Control and Filtering
+Introduction  Performance Measure for optimal control problem  Dynamic
+Programming  Computational Procedure for solving Control Problem  LQR 
+Introduction to Optimal Filtering State Estimation  Introduction to Kalman
+Filtering
+Model based Predictive Control
+MPC strategy  MPC elements  prediction models  objective function  obtaining
+the control law  review of some MPC algorithms  Introduction to Nonlinear
+predictive control Design of Controllers for MIMO Processes
+Multivariable control
+Introduction to Multivariable process control  selection of controlled outputs
+manipulation and measurements  RGA for square and nonsquare plants  control
+configuration elements  centralized and decentralized feedback control  Tradeoffs
+in MIMO feedback design
+Fault Diagnosis and FaultTolerant Control
+Process Monitoring  Introduction  Statistical Process Control  Fault Detection
+with Principal Component Analysis  Fault Detection with State Observers  Fault
+Detection with signal models Fault Detection of Control Loops Sensor and
+Actuator FaultTolerant Control Design
+REFERENCES
+1 George Stephanopoulos Chemical Process Control An Introduction to Theory
+and Practice First edition Prentice Hall of India 2008
+2 Donald EKirk Optimal Control Theory  An Introduction Dover Publications
+Inc Mineola New York 2012
+45
+3 DESeborg T FEdgar DA Mellichamp Process Dynamics and Control Wiley
+2003
+4 Graham C Goodwin Stefan F Graebe Mario E Salgado Control System Design
+Prentice Hall 2000
+5 Sigurd Skogestad Ian Postlethwaite Multivariable Feedback Control John
+wiley sons Second Edition 2000
+6 EFCamacho and Bordom Model Predictive Control Second edition Springer 
+Verlog London limited 2000
+7 R Isermann FaultDiagnosis Systems An Introduction from Fault Detection to
+Fault Tolerance Springer 2006
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Able to analyze system behavior
+2 Able to Identify formulate and solve optimal controller
+3 Able to design and implement Model predictive controller
+4 Able to understand and design a MultiInput MultiOutput system
+5 Able to use the FDI Techniques and detect and diagnose faults in
+sensors and actuators
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+2
+3
+1
+1
+2
+PO2
+3
+1
+1
+1
+1
+PO3
+1
+3
+1
+1
+2
+PO4
+1
+3
+3
+3
+2
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PSO1
+3
+3
+2
+2
+2
+PSO2
+2
+1
+2
+2
+3
+PSO3
+46
+23EIPCPEXX
+ADAPTIVE CONTROL
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To impart knowledge on how to recursively estimate the parameters of discrete
+input  output models ARXARMAX etc using recursive parameter estimation
+methods
+To make the student understand the principles of STR MRAC and Gain
+scheduling
+To craft the student design simple adaptive controllers for linear systems using
+above methods
+INTRODUCTION
+Introduction to System Identification  Adaptive Control Vs Conventional
+feedback control  adaptive control schemes
+GAIN SCHEDULING AND MODEL REFERENCE ADAPTIVE SYSTEM
+The principle  Design of gain scheduling controllers Nonlinear transformations
+ application of gain scheduling  Autotuning techniques Methods based on Relay
+feedback Introduction to selfoscillating adaptive system Introduction MIT rule 
+Determination of adaptation gain  Lyapunov theory Design of MRAS using
+Lyapunov theory  Bounded input bounded output stability  output feedback 
+Relations between MRAS and STR NonLinear systems
+DETERMINISTIC SELFTUNING REGULATORS
+Pole Placement design  Indirect Selftuning regulators  direct selftuning
+regulators  Disturbances with known characteristics Direct adaptive control
+Introduction  Adaptive tracking and regulation with independent objectives  Basic
+design  Extensions of the design  Adaptive tracking and regulation with weighted
+input  Adaptive minimum variance tracking and regulation  The Basic Algorithms
+ Asymptotic convergence analysis  Martingale convergence analysis  Adaptive
+generalized minimum variance control
+STOCHASTIC SELFTUNING REGULATORS
+Design of minimum variance controller  Design of moving average controller stochastic selftuning regulators Indirect adaptive control Introduction  Adaptive
+pole placement  The basic algorithm  Analysis of the indirect adaptive pole
+placement  The Singularity problem  Adding external excitation Adaptive
+generalized predictive control  Adaptive linear quadratic control  Iterative
+identification in closed loop and controller redesign
+47
+ROBUST SELFTUNING REGULATORS PRACTICAL ASPECTS AND CASE
+STUDIES
+Robust direct adaptive control  The problem  Direct adaptive control with
+bounded disturbances  Direct adaptive control with unmodeled dynamics  an
+example Robust indirect adaptive control  Standard robust adaptive pole placement
+ Modified robust adaptive pole placementPractical aspects of Adaptive Control
+system
+Temperature control in a distillation column chemical reactor control pulp dryer
+control  control of a rolling mill
+REFERENCES
+1 IDLandau RLozano and MMSaad Adaptive Control second Edition Springer
+ Verlog London limited 2011
+2 Karl JAstron Bjorn Wittenmark Adaptive Control second edition Dover Edition
+2008
+3 Shankar Sastry Adaptive Control Stability Convergence and Robustness Dover
+Books on Electrical Engineering 2011
+4 PetrosIoannou and Jing Sun  Robust Adaptive Control First Edition Dover
+Publication 2012
+5 Kumpati S Narendra Author Anuradha M Annaswam Stable Adaptive
+Systems Dover Books on Electrical Engineering 2005
+6 Gang Tao Adaptive Control Design and Analysis 1stEdition Wiley Interscience
+2003
+COURSE OUTCOMES
+At the end of the course the student will able to
+1 Design gain scheduling and the model reference adaptive systems
+2 Design different types of deterministic selftuning regulator
+3 Design different types of stochastic selftuning regulator
+4 Design robust selftuning regulator
+5 Understand practical aspects of adaptive control schemes for industrial
+processes
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+2
+3
+1
+1
+2
+PO2
+3
+1
+1
+1
+1
+PO3
+1
+3
+1
+1
+2
+PO4
+1
+3
+3
+3
+2
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PSO1
+3
+3
+2
+2
+2
+PSO2
+2
+2
+2
+2
+2
+PSO3
+2
+48
+23EIPCPEXX
+OPTIMAL CONTROL
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To study the statement of optimal control problem formulation of optimal control
+problem and selection of performance measure
+ To understand the fundamental concepts of calculus of variation and variational
+approach to optimal control problems
+ To derive the expression for continuous and discrete linear optimal regulator
+problem
+ To study the concepts of dynamic programming and its application
+ To understand the concept of numerical solution of two point boundary value
+problem
+OPTIMAL CONTROL PROBLEMS AND PERFORMANCE MEASURES
+Statement of optimal control problem  problem formulation and forms of optimal
+control  selection of performance measures
+CALCULUS OF VARIATION
+Fundamental concepts  extremum functionals involving single and several
+independent functions  final time and final state are fixed  final time is fixed and
+final state is free  final time is free and final state is fixed  both final time and final
+state are free Piecewise smooth extremals  constrained extrema
+VARIATIONAL APPROACH TO OPTIMAL PROBLEMS
+Necessary conditions for optimal control  Pontriyagins minimum principle minimum time problem  minimum control effort problems
+LQ CONTROL PROBLEM
+Linear optimal regulator problem  Matrix Riccati equation and solution method
+ choice of weighting matrices  steady state properties of optimal regulators  linear
+tracking problem
+DYNAMIC PROGRAMMING
+Principle of optimality  recurrence relation of dynamic programming for optimal
+control problem  computational procedure for solving optimal control problems Hamilton Jacobi Bellman equation Numerical Techniques Numerical solution of
+twopoint boundary value problem  steepest decent and Fletcher Powell methods
+49
+REFERENCES
+1 DEKirk Optimal Control TheoryAn Introduction Dover Publications New York
+2012
+2 MGopal Modern Control Systems Theory Third Edition New Age International
+Publishers 2015
+3 Katruhiko Ogata Modern Control Engineering Prentice Hall of India Ltd Fifth
+Edition 2010
+4 Michael Athans and Peter L Falb Optimal Control An Introduction to the Theory
+and Its Applications Dover Publications New York 2007
+5 D Subaramnaidu Optimal Control Systems CRC Press Newyork 2003
+6 Frank L Lewis DragunaVrabie Vassilis L Symos Optimal Control 3 rd Edition
+Wiley Publication 2012
+COURSE OUTCOMES
+After completion of this paper the student will
+1 Understand the optimal control problem formulation and its selection of
+performance measures
+2 Recognize and recall the fundamentals of calculus of variation
+3 Implement optimal control concept for minimum time and minimum control
+effort problems
+4 Apply Matrix Ricatti Equation for real world problem
+5 Understand the concepts of dynamic programming and to find numerical
+solution of twopoint boundary value problem
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+3
+2
+3
+3
+3
+PO2
+3
+3
+3
+2
+2
+PO3
+2
+2
+3
+3
+3
+PO4
+PO5
+PO6
+PO7
+PO8
+3
+3
+2
+3
+3
+2
+3
+3
+2
+3
+3
+2
+2
+3
+PO9
+PO10
+2
+PO11
+PSO1
+2
+2
+2
+PSO2
+PSO3
+3
+2
+3
+3
+3
+50
+23EIPCPEXX
+ROBUST CONTROL
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To understand the need for robustness in process control
+ To study the fundamentals required for robust control of a process
+ To study the stability analysis of LTI system
+ To design and analyse stabilizing controllers
+ To study some of the methods robust optimal problems
+ To give complete treatment of optimal and robust controller
+MODEL UNCERTAINTY AND ROBUSTNESS
+Norms for signals and systems  IP OP relationship  Power analysis model
+uncertainty  Small gain theorem  Robust stability  Stability under unstructured
+uncertainties  Robust performance  Deficiencies of classical control for MIMO
+systems
+LYAPUNOV THEORY FOR LTI SYSTEMS
+Descriptions of linear dynamical systems  Controllability and observability 
+Kalman canonical decomposition  pole placement and canonical forms  observers
+and observer based controllers  operations on systems  state space realization for
+transfer matrices  lyapunov equations  balanced realization  hidden models and
+polezero cancelation  multivariable system poles and zeros
+STABILIZING CONTROLLERS
+Optimal robust stability  Conformal mapping  Gain margin optimization  Phase
+margin optimization  Robust performance more generally  Existence of stabilizing
+controllers Duality and special problems  Parameterization of all stabilizing
+controllers  Structure of controller parameterization  Cart pendulum example for
+stabilizing controller
+LQR AND LQG PROBLEMS
+Algebraic Riccati equations All solutions of a Riccati equations  Stabilizing
+solution and Riccati operator  Extreme solutios and matrix inequalities  Spectral
+factorization  Positive real functions  Inner outer factorization  Normalized co
+prime factorization  Standard LQR problem Guaranteed stability margin of LQR 
+Solution through LMI
+H CONTROLAND  SYNTHESIS
+Problem formulation  Output feedback H control  General H solutions 
+Loop shifting  H2 and H integral control  H filtering  LMI for robust control
+51
+REFERENCES
+1 L Fortuna and MFrascaEds Optimal and Robust Control CRC press 2012
+2 KZhou JC Doyle and Glover Robust and Optimal control Prentice Hall 1996
+3 JC Doyle BA Francis and AR Tannenbaum Feedback Control Theory
+Macmillan1992
+4 U Mackenroth Robust Control Systems Theory and Case Studies Springer
+International edition 2010
+5 J B Burl Linear optimal control H2 and Hinfinity methods Addison W Wesley
+1998
+6 D Xue YQ Chen D P Atherton Linear Feedback Control Analysis and Design
+with MATLAB Advances In Design and Control Society for Industrial and Applied
+Mathematics 2007
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Understand the fundamentals of robustness
+2 Understand the application of robust control in MIMO system
+3 Analyze the stability of robust system
+4 Design and analyze robust control system
+5 Understand the concepts of H control and  synthesis
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+2
+2
+3
+3
+2
+PO2
+2
+2
+3
+3
+2
+PO3
+2
+2
+2
+2
+2
+PO4
+1
+1
+1
+PO5
+1
+1
+1
+1
+1
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PSO1
+3
+3
+3
+3
+3
+PSO2
+2
+2
+2
+2
+2
+PSO3
+2
+2
+2
+2
+2
+52
+23EIPCPEXX
+NON LINEAR SYSTEM THEORY
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To introduce the nature of nonlinearities found in control systems both in the
+forward path and in the feedback path
+ To give exposure to analysis methods of nonlinear systems
+ To understand the describing function analysis
+ To study about stability analysis
+ To study about nonlinear control system design
+NON LINEAR SYSTEMS
+Nonlinear Systems  Behavior of nonlinear systems jump resonance
+subharmonic oscillation  Nonlinearities in control system Nonlinear models and
+nonlinear PhenomenaExamples second order systems qualitative behavior of linear
+systems Multiple Equilibria qualitative behavior near equilibrium points
+PHASE PLANE ANALYSIS
+Concept of phase plane analysis Singular points  construction of phase portraits
+using isoclines delta method Lienards method and Pells method  limit cyclesexistence of limit cycles
+DESCRIBING FUNCTION ANALYSIS
+Describing Function Analysis Describing Function Fundamentals Applications
+of Describing FunctionsBasic Assumptions and definitions Describing Functions
+for common nonlinearities Describing Function Analysis of Nonlinear Systems
+STABILITY ANALYSIS
+Stability analysis Stability in the sense of Lyapunovs  second method of
+Lyapunovs  Lyapunovs stability analysis of linear time invariant systems and
+nonlinear system Krasovskiis theorem variable gradient method of generating
+Lyapunovs functions
+NONLINEAR CONTROL SYSTEM DESIGN
+Models for Nonlinear systems  Hammerstein and Wiener models  Input signal
+design for Identification Realtime parameter estimation for nonlinear systems 
+Nonlinear PID controller  Gain scheduling control  case studies
+Feedback Linearization feedback linearization and the canonical form Inputstate and Inputoutput linearization Inputstate linearization of SISO systems and
+Inputoutput linearization of SISO systems
+53
+REFERENCES
+1 Hassan K Khalil Nonlinear systems third edition Prentice Hall 2002
+2 IJ Nagarath and MGopal Control Systems Engineering Fourth Edition New
+Age International P Ltd Publishers 2005
+3 HenkNimeijer Nonlinear Dynamical Control Systems Springer VerlagNewYork
+1990
+4 Alberto Isidori Nonlinear Control Systems 3rd edition Springer Verlag 1995
+5 JeanJacques Slotine and Weiping Li Applied Nonlinear Control Prentice Hall
+New jersey 1991
+6 KMHangosJBokor and GSzederkrnyi Analysis and control of Nonlinear
+Process systems Springer
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Understand the basics of nonlinear systems
+2 Construct the phase plane of systems
+3 Derive the describing function
+4 Understand the stability analysis of nonlinear systems
+5 Implement modelling of nonlinear systems and feedback linearization design
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+PO10
+PO11
+PSO1
+PSO2
+CO1
+2
+2
+2
+1
+3
+2
+CO2
+3
+2
+2
+1
+3
+2
+CO3
+2
+2
+1
+2
+2
+2
+CO4
+2
+2
+1
+2
+2
+2
+CO5
+3
+2
+2
+2
+2
+2
+PSO3
+54
+23EIPCPEXX
+STATISTICAL PROCESS CONTROL
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To make the students understand the purpose and uses of SPC
+ To use the most common types of control charts and carry out process capability
+studies
+ To import knowledge about various SPC tools data collection and construct basic
+control charts
+ To make the students understand concept of control charts for variables and
+attributes and how to interpret control chart results
+ To impart knowledge of other statistical process monitoring and control
+techniques
+QUALITY IMPROVEMENT IN THE MODERN BUSINESS ENVIRONMENT
+The meaning of quality and quality improvement dimensions of quality quality
+engineering terminology a brief history of quality control and improvement
+statistical methods for quality control and improvement univariate process
+monitoring and control
+METHODS AND PHILOSOPHY OF STATISTICAL PROCESS CONTROL
+Introduction chance and assignable causes of quality variation statistical basis
+of the control chart basic principles choice of control limits sample size and
+sampling frequency rational subgroups analysis of patterns on control charts
+discussion of sensitizing rules for control charts control charts application the rest
+of the magnificent seven implementing spc in a quality improvement program an
+application of spc applications of statistical process control and quality improvement
+tools in transactional and service businesses
+CONTROL CHARTS FOR VARIABLES
+Control charts for x and r statistical basis of the charts development and use of
+x and r charts charts based on standard values interpretation of x and r charts the
+effect of non normality on x and r charts the operating characteristic function the
+average run length for the x chart control charts for x and s construction and
+operation of x and s charts the x and s control charts with variable sample size
+summary of procedures for x and r and s charts applications of variables control
+charts
+CONTROL CHARTS FOR ATTRIBUTES
+The control chart for fraction nonconforming development and operation of the
+control chart variable sample size applications in transactional and service business
+the operating characteristic function and average run calculations control charts for
+nonconformities defects
+55
+OTHER STATISTICAL PROCESS MONITORING AND CONTROL TECHNIQUE
+The cumulative sum control chart basic principles the cusum control chart for
+monitoring the process mean the tabular or algorithmic cusum for monitoring the
+process mean recommendations for cusum design Exponential Weighted Moving
+Average EWMA EWMA for monitoring the process mean design of EWMA
+combining EPCEngineering process control and SPC MINITAB software
+REFERENCES
+1 Donald J Wheeler Understanding Variation The Key to Managing Chaos 2 SPC
+Press Revised Edition 2000
+2 Paul Keller Statistical Process Control Demystified McGraw Hill Education 1st
+Edition2011
+3 Douglas Montgomery Introduction to Statistical Process Control Wiley
+publications 7th Edition 2013
+4 Eslie M Licinski Statistical process control Artech House Publication2000
+5 PeihuaQiu Introduction to Statistical Process Control CRC Press second Edition
+2013
+6 John S Oakland Statistical process control Butterworth Heinmann sixth
+edition 2008
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1
+2
+3
+4
+5
+Analyse quality control in industries
+Understand SPC and its design tools
+Construct control charts
+Understand the concept of variable and attribute charts
+Understand process monitoring and control techniques
+PO1
+PO2
+PO3
+PO4
+CO1
+3
+3
+2
+CO2
+3
+2
+2
+CO3
+2
+2
+CO4
+2
+CO5
+2
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PSO1
+PSO2
+1
+3
+2
+1
+3
+2
+1
+2
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2
+2
+2
+PSO3
+56
+23EIPCPEXX
+ADVANCED DIGITAL SIGNAL PROCESSING
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To review the mathematical basis of discrete time signal analysis
+To discuss the estimation theory and predictors
+To design and implement adaptive filters
+To study the techniques of modern signal processing applications using multirate
+transforms
+DISCRETE RANDOM SIGNAL PROCESSING
+Discrete Random Processes Expectations variance Covariance scalar product
+energy of discrete signals Parsevals theorem Wiener Khintchine relation power
+spectral density Periodogram sample autocorrelationsum decomposition theorem
+spectral factorization theorem discrete random signal processing by linear systemssimulations of white noiselow pass filtering of white noise
+SPECTRUM ESTIMATION
+Nonparametric methodscorrelation method covariance estimator  performance
+analysis of estimatorsunbiased consistent estimators Periodogram EstimatorBarlett spectrum estimationWelch estimation Model based approach ARMA and
+ARMA Signal Modeling Parameter estimation using Yule  Walker method
+LINEAR ESTIMATION AND PREDICTION
+Maximum likelihood criterion efficiency of estimator  least mean square error
+criterionWiener filter discrete Wiener Hoff equationsRecursive estimators  Kalman
+filter linear prediction prediction error whitening filter inverse filterLevin son
+recursion Lattice recursion Lattice realization
+ADAPTIVE FILTERS
+FIR adaptive filters  Newtons steepest decent method  adaptive filter based on
+steepest descent method WindowHoff LMS adaptive algorithm  Adaptive channel
+equalization Adaptive echo cancellor adaptive noise cancellation RLS adaptive
+filtersExponentially weighted RLS sliding window RLSsimplified IIR LMS adaptive
+filter
+MULTIRATE AND WAVELET TRANSFORM
+Review of Decimation and Interpolation Process Sub band filter theory  PR condition
+ Cosine modulated filters  Paraunitary filters Application of wavelet transform
+with Sub band filter theory Wavelet transform as a correlator Multiresolution theory
+ Heisenberg uncertainty principle  Twodimensional wavelet transform
+57
+REFERENCES
+1 Manson HHayes Statistical Digital Signal Processing and Modelling John Wiley
+and sons Inc New York 1996
+2 John G Proakis Dimitris G Manolakis Digital Signal processing prentice Hall
+of India 1995
+3 Sopocles J Orfanidis Optimum Signal Processing McGraw Hill 1990
+4 N J Fliege Multirate Digital Signal Processing John Wiley  Sons 1999
+5 Soman K P Ramachandran K I Insight into Wavelets From Theory To Practice
+Prentice Hall of India 2004
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Analysethe functions and characteristics of different opamps
+2 Familiarize with various estimation techniques
+3 Able to realize systems using different realization algorithms
+4 Able to analyze and implement different types of adaptive filters
+5 Familiarize with multirate wavelet transform and its implementation
+PO1
+PO2
+PO3
+PO4 PO5
+CO1
+3
+3
+2
+CO2
+3
+2
+2
+CO3
+3
+2
+CO4
+3
+2
+CO5
+3
+2
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PSO1
+PSO2
+2
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+PSO3
+58
+23EIPCPEXX
+MACHINE LEARNING TECHNIQUES
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To understand the machine learning theory
+ To train linear and nonlinear learning models
+ To build tree and ensemble based models
+ To implement clustering  dimensionality reduction techniques
+ To apply reinforcement learning techniques
+FOUNDATIONS OF LEARNING
+Components of learning  learning models  geometric models  probabilistic
+models  logicmodels  grouping and grading  learning versus design  types of
+learning  supervised unsupervised  reinforcement  theory of learning  feasibility
+of learning  error and noise training versus testing  theory of generalization 
+generalization bound  approximation generalization tradeoff  bias and variance 
+learning curve  nearest neighbor models
+LINEAR MODELS
+Univariate linear regression  multivariate linear regression  generalization and
+overfittingvalidationregularized regression  going beyond linearity locally
+weighted regression  logistic regression  perceptrons  multilayer neural networks
+ learning neural networks structures  support vector machines  soft margin SVM
+TREE AND ENSEMBLE MODELS
+Decision trees  learning decision trees  pruning  ranking and probability
+estimation treesregression trees kd treesensemble learning bagging and random
+forests  boosting  meta learning
+UNSUPERVISED LEARNING
+Kmeans  clustering around medoids  silhouttes  hierarchical clustering
+Mixture of Gaussians  EM algorithm  principal component analysis locality
+sensitive hashing  partial least squares chemometrics applications
+REINFORCEMENT LEARNING
+Passive reinforcement learning  direct utility estimation  adaptive dynamic
+programming temporaldifference learning  active reinforcement learning 
+exploration  learning an actionutility function  generalization in reinforcement
+learning  policy search  applications in gameplaying  applications in robot control
+REFERENCES
+1 C M Bishop Pattern Recognition and Machine Learning Springer 2007
+2 T M Mitchell Machine Learning McGraw Hill 1997
+3 Y S AbuMostafa M MagdonIsmail and HT Lin Learning from Data
+AMLBook Publishers 2012
+59
+4 Stanfod CS229 Course httpcs229stanfordedu
+5 P Flach Machine Learning The art and science of algorithms that make sense
+of data Cambridge University Press 2012
+6 K P Murphy Machine Learning A probabilistic perspective MIT Press 2012
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Demonstrate the underpinning knowledge on machine learning
+2 Apply various linear models for different class of predictions
+3 Formulate machine learning problems using tree and ensemble models
+4 Apply unsupervised learning algorithm for a typical problem
+5 Develop reinforcement learning model for process control applications
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+PO10
+PO11
+PSO1
+PSO2
+CO1
+3
+3
+2
+1
+2
+1
+3
+2
+CO2
+3
+2
+2
+1
+2
+1
+3
+2
+CO3
+2
+2
+1
+2
+3
+1
+2
+2
+CO4
+2
+2
+1
+2
+3
+1
+2
+2
+CO5
+2
+2
+2
+2
+3
+1
+2
+2
+PSO3
+60
+23EIPCPEXX
+ROBOTICS AND AUTOMATION
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To study the various parts of robots and fields of robotics
+ To study the various kinematics and inverse kinematics of robots
+ To study the trajectory planning for robot
+ To study the control of robots for some specific applications
+BASIC CONCEPTS AND POWER SOURCES AND SENSORS
+Definition and origin of robotics different types of robotics Various generations
+of robots degrees of freedom Asimovs laws of robotics Static and dynamic
+performance dynamic stabilization of robots Hydraulic pneumatic and electric
+drives Determination of HP of motor and gearing ratio variable speed arrangements
+Path determination micro machines in robotics Tactile Proximity and Range
+Sensors laser acoustic magnetic fiber optic sensors and Machine vision system
+MANIPULATORS ACTUATORS AND GRIPPERS
+Construction of manipulators manipulator dynamics and force control
+Electronic and pneumatic manipulator control circuits 
+End Effectors TypesMechanical grippersMagnetic grippers Vacuum cups
+Adhesive gripper Hooks and Scoops Tools as end effectors  Robot Endeffectors
+interface Consideration in Gripper selection and Design
+PATH PLANNING
+Jacobian work envelop hill climbing techniques Methods of Programming Lead
+through Methods Capabilities and limitations of Lead through Methods Robot
+program as a path in space Motion interpolation Robot Programming structure
+Motion End effectors and Sensor commands Program control communication
+Monitor mode commands and Robot programming languages
+APPLICATION AND AUTOMATION
+Factory Automation Fixed Automation Flexible Automation and Programmable
+Automation Intelligent Industrial Automation Industrial Networking Bus
+Standards Automatic Feeders Automatic Storage and Retrieval Systems ASRS
+Transfer Lines Automatic Inspection Systems
+APPLICATIONS OF ROBOTS
+Manufacturing and non manufacturing applications robot cell design selection
+of robot Factors influencing the selection of Robots Introduction to Mobile Robots
+Legged Robots and Remote Controlled Robots Automated Guided Robots Micro
+Robots  Control and Safety Issues
+61
+Robot Control Linear methods Nonlinear methods Control of Industrial Robots
+Using PLCs
+REFERENCES
+1 Groover MP Weiss M Nagel RN Odrey NG Industrial Robots Technology
+Programming and Applications McGrawHill Book Company 2012
+2 Mittal R K Nagrath I J Robotics and control Tata McGraw Hill 2010
+3 Groover MP Automation Production Systems and ComputerIntegrated
+Manufacturing PrenticeHall of India Private Limited New Delhi 2007
+4 Saeed B Niku An Introduction to Robotics Analysis Systems Applications
+Second Edition John Wiley  Sons Inc 2010
+5 K S Fu  Ralph Gonzalez CSG Lee Robotics McGraw Hill 2017
+6 Mikell Groover Industrial Robotics  SIE Technology  Programming and
+Applications Special Indian Edition 2017
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Expertise in fundamentals Classification and issues related to end effectors
+and sensors of Robotics
+2 Program Propose and synthesize control law for a given application
+3 acquire knowledge about different types of automation
+4 Have knowledge about different types of robots safety issues and their
+applications of robots
+5 Have knowledge about various control methods of robots
+PSO1
+PSO2
+CO1
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+3
+3
+3
+2
+2
+PO10
+PO11
+3
+2
+CO2
+3
+3
+3
+2
+2
+3
+2
+CO3
+3
+3
+3
+2
+2
+2
+2
+CO4
+3
+3
+3
+2
+2
+2
+2
+CO5
+3
+3
+3
+2
+2
+2
+2
+PSO3
+62
+23EIPCPEXX
+ARTIFICIAL INTELLIGENCE FOR PROCESS CONTROL
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To expose the students to the concepts of neural networks fuzzy logic genetic
+algorithm and particle swam optimization
+To provide adequate knowledge of applications of neuro controller fuzzy logic
+controller and hybrid controllers for real time applications
+To expose the ideas of GA in optimization and control
+ARTIFICIAL NEURAL NETWORKS
+Biological neural networks  Artificial neural networks  Activation functions 
+ANN architectures  Learning methods  Back propagation network  Kohonenself
+Organsing Maps  Adaptive Resonance Theory
+NEURAL NETWORKS FOR CONTROL
+Neuro controller  Functional block diagram  Inverse dynamics  System
+identification Case studies Neuro controller for temperature flow and level
+processes
+FUZZY LOGIC SYSTEM
+Introduction to fuzzy logic  Fuzzy sets and Fuzzy relations operations and
+properties Fuzzification  Types of membership functions  Fuzzy rule base 
+Canonical rule formation  Decomposition methods
+Fuzzy Logic for control Design of fuzzy logic controller for temperature and
+level processes
+GENETIC ALGORITHM
+Evolutionary programs  Genetic algorithms genetic programming and
+evolutionary programming  Genetic algorithm versus conventional optimization
+techniques  Genetic representations and selection mechanisms Genetic operators
+ Different types of crossover and mutation operators  Optimization problems using
+GA  Discrete and continuous Single and multi Objective problems
+HYBRID CONTROL SCHEMES
+Fuzzification and rule base using ANN  Neurofuzzysystems  Introduction to
+particle swarm optimization techniques  Optimization of membership function and
+rule base using Genetic algorithm and particle swarm optimization techniques Hybrid control schemes for temperature and level control systems
+63
+REFERENCES
+1 Laurene Fausett Fundamentals of Neural Networks Prentice Hall New Jersey
+3rd edition 2008
+2 Timothy J Ross Fuzzy logic with Engineering applications McGraw Hill New
+York 3rd edition 2010
+3 ValluruBRao HayagrivaRao Neural Networks  Fuzzy Logic BPB Publications
+New Delhi 2003
+4 DDriankov H Helleneloorn MReinframe An Introduction To Fuzzy Control
+Narosa Publishing Co New Delhi 1996
+5 Jacek M zurada Introduction to Artificial Neural Systems Jaico Publishing
+House New Delhi 1997
+6 RajasekaranS Vijayalakshmi PaiGA Neural Networks Fuzzy logic and Genetic
+Algorithms PrenticeHall of India private limited New Delhi2003
+COURSE OUTCOMES
+1
+2
+3
+4
+5
+At the end of the course the students will be able to 
+Understand the basics of ANN and derive different algorithms
+Understand the concept of neuro controller and its application to process control
+Understand the concept of fuzzy logic control and its application to process
+control
+Understand the concept of GA to optimization problem
+Understand the concept of hybrid control schemes and its application to process
+control
+PSO1
+PSO2
+PSO3
+CO1
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+3
+3
+2
+2
+2
+PO10
+PO11
+3
+2
+1
+CO2
+CO3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+1
+1
+CO4
+3
+3
+2
+2
+2
+2
+2
+1
+CO5
+3
+3
+2
+2
+2
+2
+2
+1
+64
+23EIPCPEXX
+REAL TIME EMBEDDED SYSTEM
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To introduce the Building blocks of Real Time Embedded System
+ To familiarize the embedded hardware components  its interface
+ To impart knowledge on embedded software development process
+ To make the students understand the Real Time Operating Systems
+ To give exposure to the Case studies in various fields
+INTRODUCTION TO REAL TIME SYSTEMS
+Fundamentals of systems and RTS  Definitions classification CharacteristicsBasic model of Real Time Systems  Timing constraints  Safety and ReliabilityTypical applications of RTS
+EMBEDDED SYSTEM COMPONENTS AND ITS INTERFACE
+Embedded system definition architecture and standards with examples Embedded hardware processorsmemory devicesInterface and Peripherals ARM
+processor based embedded boards  Power and its Management
+EMBEDDED SYSTEM SOFTWARE DEVELOPMENT
+Software embedded in a system  IDE  Assembler Compiler linker simulator
+debugger In  circuit EmulatorICE Target hardware debugging  Program modeling
+ Program models Data flow model State machine programming models UML
+models  High level language descriptions in embedded system Java based embedded
+system design
+RTOS BASED EMBEDDED SYSTEM DESIGN
+Introduction to basic concepts of RTOS Task Process and Threads Interrupt
+routines in RTOS Multiprocessing  Multitasking Preemptive and nonPreemptive
+scheduling Task communication  shared memory Inter Process communication 
+synchronization between processes  semaphores mail box pipes priority Inversion
+priority Inheritance comparison of Real time operating systems Vxworks COS II
+CASE STUDIES
+Case studies of Embedded System Design and Coding in application areas of
+digital consumer electronics automotives and networkingcommunication
+REFERENCES
+1 TNoergaard Embedded Systems Architecture  A Comprehensive Guide for
+Engineers and Programmers Elsevier Publications 2012
+2 ASBerger Embedded System Design  An Introduction to Process Tools and
+Techniques CMP Books 2008
+3 DDGajski FVahid SNarayan Specification and Design of Embedded Systems
+PTR Prentice Hall 2007
+65
+4 DESimon An Embedded Software Primer Addison Wesley 2000
+5 Kai Qian David Den haring Li Cao Embedded Software Development with C
+Springer 2009
+COURSE OUTCOMES
+At the end of the course the students will be able to 
+1 Understand the fundamental of RTS and its application areas
+2 Understand the embedded system concepts for RTS
+3 Understand the software development environment for specific application
+4 Design RTOS with embedded system
+5 Understand the concept behind the applications as case studies
+PSO1
+PSO2
+PSO3
+CO1
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+3
+2
+2
+2
+2
+PO10
+PO11
+3
+2
+1
+CO2
+3
+2
+2
+2
+2
+3
+2
+1
+CO3
+3
+2
+2
+2
+2
+3
+2
+1
+CO4
+3
+2
+2
+2
+2
+3
+2
+1
+CO5
+3
+2
+2
+2
+2
+3
+2
+1
+66
+OE  OPEN ELECTIVES
+23EIPCOEXX
+INDUSTRIAL DRIVES AND CONTROL
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To learn about electric drives  its types
+ To acquire knowledge about the circuit model of electric motors
+ To implement the power converters for the drives by efficient control algorithms
+ To understand the need for the digital controllers
+ To study about the generation of control pulses for power electronic converters
+and their applications
+INTRODUCTION TO ELECTRIC DRIVES
+Classification characteristics and advantages of electric drives  Speed torque
+characteristics of various types of loads and drive motors  Joint speed torque
+characteristics  Selection of power rating for drive motor based on thermal limits 
+Overload capacity  Starting braking and reversing methods for various types of
+motors
+MODELING OF DC AND AC MACHINES
+Circuit model of Electric Machines  Transfer function and State space models of
+series and separately excited DC motor
+ AC Machines  Dynamic modeling 
+linear transformations  equations in stator rotor and synchronously rotating
+reference frames  flux linkage equations  Dynamic state space model modeling of
+Synchronous motor
+CONTROL OF DC DRIVES
+Analysis of series and separately excited DC motor with single phase converters
+operating in different modes and configurations  Analysis of series and separately
+excited DC motor fed from different choppers  two quadrant and four quadrant
+operation  Closed loop control of dc drives  Design and analysis of controllers for
+load changes
+CONTROL OF AC DRIVES
+Induction motor drives  stator voltage control of induction motor  torque  slip
+characteristics  operation with different types of loads  operation with unbalanced
+source voltages and single phasing  analysis of induction motor fed from non 
+sinusoidal voltage supply  stator frequency control  variable frequency operation 
+VF control controlled current and controlled slip operation Synchronous motor
+drives  Principles of Synchronous motor control  adjustable frequency operation of
+synchronous motors  voltage source inverter drive with open loop control static rotor
+resistance control and slip power recovery scheme
+67
+DIGITAL TECHNIQUES IN SPEED CONTROL
+Advantages and limitations  Microprocessor microcontroller and PLC based
+control of drives  Selection of drives and Control schemes for paper mills cement
+mills sugar mills
+REFERENCES
+1 Vedam Subrahmaniam Electric drives  Concepts and applications Tata
+McGraw Hill Publishing House Chennai 1994
+2 GK Dubey Fundamental of electrical drives Narosa Publishing House Chennai
+1995
+3 GKDubey Power Semiconductor Controlled Drives Prentice Hall International
+New Jersey 1989
+4 Paul CKrause Oleg wasynczuk and Scott DSudhoff Analysis of Electric
+Machinery and Drive Systems 2ndedition  WileyIEEE Press 2013
+5 Bimal K Bose Modern Power electronics and AC Drives Pearson education Asia
+2002
+6 RKrishnan Electrical Motor Drives Modeling Analysis and Control Prentice
+Hall of India Pvt Ltd 2nd Edition 2003
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Get a thorough understanding of motorload system dynamics and stability
+modern drive system objectives and fundamentals of DC and AC motors
+2 Model both DC and AC motors in various conventional methods
+3 Design and analyze both converter and chopper driven DC drives
+4 Understand conventional control techniques of AC drives and will have the
+ability to design and analyze such system
+5 Get a detailed knowledge on advanced high performance control strategies for
+AC drives and emerging technologies in electric drives
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+PO10
+PO11
+PSO1
+PSO2
+CO1
+3
+2
+2
+2
+2
+3
+1
+CO2
+CO3
+3
+3
+2
+3
+2
+3
+2
+2
+2
+2
+3
+3
+1
+1
+CO4
+3
+2
+2
+2
+3
+3
+2
+CO5
+3
+2
+2
+2
+2
+3
+1
+PSO3
+68
+23EIPCPEXX
+DIGITAL CONTROL
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To introduce the components of digital control system
+ To provide knowledge on pulse transfer functions and their analysis
+ To Introduce Stability Concepts In Discrete Domain
+ To Educate On Tuning Of PID Controllers In Discrete Domain
+ To Introduce State Variable Analysis In Discrete Domain
+INTRODUCTION
+Advantages of Digital control systems  Practical aspects of the choice of sampling
+rate and multirate sampling  Basic discrete time signals  Quantization  Sampling
+theorem  Data conversion and Quantization  Sampling process  Mathematical
+modeling  Data reconstruction and filtering of sampled signals 
+Z  TRANSFORM AND INVERSE Z TRANSFORM
+Relationship between s  plane and z  plane  Difference equation  Solution by
+recursion and z  transform  pulse transfer functions of the zero  order hold and
+relationship between Gs and Gz Bilinear transformation 
+DIGITAL CONTROL SYSTEMS
+Pulse transfer function  z transform analysis of open loop closed loop systems Modified z Transform  Root loci  Frequency domain analysis  Bode plots  Gain
+margin and phase margin  Design of Digital control systems based on Root Locus
+Technique
+State equations of discrete data systems solution of discrete state equations
+State transition Matrix z  transform method Relation between state equations and
+transfer functions
+CONTROLLABILITY AND OBSERVABILITY
+Concepts on Controllability and Observability  Digital state observer Design of
+the full order and reduced order state observer  Pole placement design by state feed
+back
+STABILITY ANALYSIS
+Stability analysis of linear digital control systems  Stability tests Stability
+analysis of discrete time systems based on Lyapunov approach
+REFERENCES
+1 MGopal Digital Control And State Variable Methods Tata McGraw Hill 3rd
+Edition 2009
+2 BCKuo Digital Control System 2nd Edition Oxford University Press 2010
+3 VIGeorge and CPKurien Digital Control System Cengage Learning 2012
+69
+4 MSami Fadali Antonio Visioli Digital Control Engineering Analysis and Design
+Academic Press 2013
+5 CM Houpis GBLamount Digital Control Systems Theory Hardware
+Software International Student Edition McGraw Hill Book Co 1985
+6 KannanM Moddgalya Digital Control Wiley India 2007
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Analyse digital systems in time domain
+2 Analyse digital systems in frequency domain
+3 Model and analyse digital systems in state space representation
+4 Design controllers for digital systems in state space representation
+5 Understand the concept of stability in discrete domain
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+PO10
+PO11
+PSO1
+PSO2
+PSO3
+CO1
+3
+2
+2
+2
+2
+3
+1
+CO2
+CO3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+1
+2
+2
+CO4
+3
+2
+2
+2
+2
+3
+3
+2
+CO5
+3
+2
+2
+2
+2
+3
+2
+1
+70
+23EIPCOEXX
+WIRELESS SENSOR NETWORKS
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To introduce the technologies and applications for the emerging domain of
+wireless sensor networks
+ To impart knowledge on the design and development of the various layers
+in the WSN protocol stack
+ To elaborate the various issues related to WSN implementations
+ To familiarize the students with the hardware and software platforms used
+in the design of WSN
+INTRODUCTION
+Challenges for wireless sensor networks Comparison of sensor network with ad
+hoc network Single node architecture  Hardware components energy consumption
+of sensor nodes Network architecture  Sensor network scenarios types of sources
+and sinks single hop versus multihop networks multiple sinks and sources design
+principles Development of wireless sensor networks
+PHYSICAL LAYER
+Wireless channel and communication fundamentals  frequency allocation
+modulation and demodulation wave propagation effects and noise channels models
+spread spectrum communication packet transmission and synchronization quality
+of wireless channels and measures for improvement physical layer and transceiver
+design consideration in wireless sensor networks energy usage profile choice of
+modulation power management
+DATA LINK LAYER
+MAC protocols fundamentals of wireless MAC protocols low duty cycle protocols
+and wakeup concepts contentionbased protocols Schedulebased protocols Link
+Layer protocols  fundamentals task and requirements error control framing link
+management
+NETWORK LAYER
+Gossiping and agentbased unicast forwarding Energyefficient unicast
+Broadcast and multicast geographic routing mobile nodes Data centric and
+contentbased networking  Data centric routing Data aggregation Datacentric
+storage Higher layer design issue
+APPLICATIONS OF WSN
+WSN Applications  Home Control  Building Automation  Industrial Automation
+ Medical Applications  Reconfigurable Sensor Networks  Highway Monitoring Military Applications  Civil and Environmental Engineering Applications  Wildfire
+71
+Instrumentation  Habitat Monitoring  Nanoscopic Sensor Applications  Case
+Study IEEE 802154 LRWPANs Standard  ZigBee  Target detection and tracking
+REFERENCES
+1 Feng Zhao and Leonidas J Guibas Wireless Sensor Networks An Information
+Processing Approach Elsevier 2004
+2 Holger Karl and Andreas Willig Protocols and Architectures for Wireless Sensor
+Networks John Wiley 2007
+3 Ivan Stojmenovic Handbook of Sensor Networks Algorithms and Architectures
+Wiley2005
+4 KazemSohraby Daniel Minoli and TaiebZnati Wireless Sensor Networks
+Technology Protocols and Applications John Wiley 2007
+5 Bhaskar Krishnamachari Networking Wireless Sensors Cambridge University
+Press 2011
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Understand the challenges in wireless sensor networks and various components
+involved in it
+2 Analyze WSN with respect to various performance parameters in the protocol
+stack
+3 Understand MAC algorithms and Network protocols used for specific WSN
+applications
+4 Understand the concept of network layer design issues related to higher layers
+5 Design and develop a WSN for a given application
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+PO10
+PO11
+PSO1
+PSO2
+PSO3
+CO1
+3
+2
+2
+2
+2
+3
+1
+1
+CO2
+CO3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+3
+3
+1
+2
+2
+1
+CO4
+3
+2
+2
+2
+2
+3
+3
+1
+CO5
+3
+3
+2
+2
+3
+3
+2
+2
+72
+23EIPCOEXX
+DIGITAL IMAGE PROCESSING
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To study the basics of image processing and its applications
+ To familiarize with image enhancement and image compression techniques
+ To learn about image restoration techniques and implementation of projection
+algorithms
+DIGITAL IMAGE PROCESSING
+Origin components  examples of fields that use DIP
+Digital Image Fundamentals Elements of visual perception light and the EM
+spectrum a simple image formation model image sampling and quantization some
+basic relationships between pixels Image transforms  Two dimensional orthogonal
+and unitary transforms  properties of unitary transform
+IMAGE ENHANCEMENT
+Point operations  contrast stretching  clipping and thresholding  digital negative
+intensity level slicing  bit extraction Histogram modelling  equalization modification Spatial operations smoothing techniques  magnification and
+interpolation Transform operations
+IMAGE COMPRESSION AND SEGMENTATION
+Compression models  elements of information theory  error free compression run length coding  loss less and lossy predictive coding  image compression
+standards Image Segmentation  Detection of discontinuities point line and edge
+detections gradient operators Laplacian edge linking and boundary detection
+thresholding region based segmentation
+IMAGE FILTERING AND RESTORATION
+Inverse and weiner filters  filtering using image transforms Splines and
+interpolation Maximum entropy restoration Bayesian methods Image analysisspatial feature extraction  transform features Edge detection  boundary extraction
+shape features image segmentation
+IMAGE RECONSTRUCTION FROM PROJECTIONS
+Radon transforminverse radon transform back projection operatorconvolution
+back projection parallel beam geometryFan beam geometry MRI Fourier
+reconstruction
+REFERENCES
+1 Rafael C Gonzalez and Richard E Woods Digital Image Processing 2nd Edition
+Pearson Education 2003
+2 Jain Anil K Fundamentals of Digital Image Processing Prentice Hall of India
+New Delhi 1995
+73
+3 Rosenfield Azriel and KakAvinash C Digital Picture Processing Academic Press
+Inc NY1991
+4 Pratt William K Digital Image Processing John Wiley and Sons 2001
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Analyze the basics of image processing
+2 Familiarize with image enhancement techniques
+3 Compress an image using various compression techniques
+4 Restore an image from its degraded version
+5 Construct projections using transforms
+PSO1
+PSO2
+CO1
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+3
+2
+2
+3
+2
+PO10
+PO11
+2
+3
+CO2
+CO3
+3
+3
+3
+2
+2
+2
+3
+3
+2
+2
+2
+2
+3
+3
+CO4
+3
+2
+2
+3
+2
+2
+3
+CO5
+3
+3
+2
+3
+3
+2
+2
+PSO3
+74
+23EIPCOEXX
+MULTI SENSOR DATA FUSION
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To learn the concepts and techniques used in sensor data fusion
+ To understand the role of Mathematical tools used
+ To elaborate the concept of Kalman filter to data fusion problems
+ To impart knowledge on advanced filtering techniques
+MULTI SENSOR DATA FUSION
+Introduction sensors and sensor data Limitations of single sensor Use of
+multiple sensors Fusion applications The inference hierarchy output data Data
+fusion model Architectural concepts and issues Benefits of data fusion
+MATHEMATICAL TOOLS USED
+Algorithms Taxonomy of algorithms for multisensor data fusion coordinate
+transformations rigid body motion Dependability and Markov chains Meta 
+heuristics Data association Identity declaration
+ESTIMATION
+Kalman filtering practical aspects of Kalman filtering Extended Kalman filters
+Partical filter Decision level identify fusion Knowledge based approaches
+ADVANCED FILTERING
+Data information filter extended information filter Decentralized and scalable
+decentralized estimation Sensor fusion and approximate agreement Optimal sensor
+fusion using range trees recursively Distributed dynamic sensor fusion
+HIGH PERFORMANCE DATA STRUCTURES
+Tessellated trees graphs and function Representing ranges and uncertainty in
+data structures Designing optimal sensor systems with in dependability bounds
+Implementing data fusion system Application of multisensor data fusion for mobile
+robot mapping and Navigation
+REFERENCES
+1 David L Hall Mathematical techniques in Multisensor data fusion Artech House
+Boston 2004
+2 RR Brooks and SSIyengar Multisensor Fusion Fundamentals and
+Applications with Software Prentice Hall Inc New Jersey 1998
+3 MitchellHB MultiSensor Data FusionAn Introduction SpringerVerlag 2012
+4 Martin Liggins IIJames Llinas David LHall Handbook of Multisensor Data
+Fusion CRC Press 2008
+5 Arthur Gelb Applied Optimal Estimation MIT Press 1982
+75
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Understand the importance of using data fusion in multisensor systems
+2 Understand simple approaches to data fusion for enhancing sensor reliability
+3 Derive and apply the kalman filter to data fusion problems
+4 Understand the importance of sensor management and data association
+5 Apply advanced filtering schemes for optimal sensor fusion
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+PSO2
+PSO3
+3
+1
+3
+3
+3
+3
+1
+2
+1
+3
+3
+1
+2
+3
+2
+2
+CO1
+3
+2
+2
+3
+2
+2
+2
+CO2
+CO3
+3
+3
+2
+2
+2
+2
+3
+3
+2
+2
+2
+2
+1
+2
+CO4
+3
+2
+2
+3
+2
+2
+CO5
+3
+2
+2
+3
+3
+3
+PO10
+PO11
+PSO1
+3
+76
+AUDIT COURSES
+23EIPCACXX
+L T P C
+ENGLISH FOR RESEARCH PAPER WRITING
+2 0 0 0
+COURSE OBJECTIVES
+Students will be able to
+Understand that how to improve your writing skills and level of readability
+Learn about what to write in each section
+Understand the skills needed when writing a Title Ensure the good quality of
+paper at very firsttime submission syllabus
+Structuring Paragraphs and Sentences Being
+Redundancy Avoiding Ambiguity and Vagueness
+Concise
+and
+Removing
+Clarifying Who Did What Highlighting Your Findings Hedging and Criticizing
+Paraphrasing and Plagiarism Sections of a Paper Abstracts Introduction
+Review of the Literature Methods Results Discussion Conclusions The Final
+Check
+Key skills are needed when writing a Title Key skills are needed when writing an
+Abstract Key skills are needed when writing an Introduction skills needed when
+writing a Review of the Literature
+Skills are needed when writing the Methods skills needed when writing the
+Results skills are needed when writing the Discussion skills are needed when
+writing the conclusion
+Useful phrases how to ensure paper is as good as it could possibly be the firsttime submission
+REFERENCES
+1 Goldbort R 2006 Writing for Science Yale University Press available on Google
+Books
+2 Model Curriculum of Engineering  Technology PG Courses VolumeI  41
+3 Day R 2006 How to Write and Publish a Scientific Paper Cambridge University
+Press 3
+4 Highman N 1998 Handbook of Writing for the Mathematical Sciences SIAM
+Highmans book
+5 Adrian Wallwork English
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Participate actively in writing activities individually and in collaboration that
+model effective scientific and technical communication in the workplace
+2 Practice the unique qualities of professional writing style including sentence
+conciseness readability clarity accuracy honesty avoiding wordiness or
+ambiguity previewing using direct order organization objectivity unbiased
+analyzing summarizing coherence and transitional devices
+77
+3 Collect analyze document and report research clearly concisely logically
+and ethically understand the standards for legitimate interpretations of
+research data within scientific and technical communities
+4 Revise and edit effectively in all assignments including informal media such
+as email to the instructor
+5 Develop professional work habits including those necessary for effective
+collaboration and cooperation with other students instructors and Service
+78
+23EIPCACXX
+DISASTER MANAGEMENT
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+Students will be able to
+ Learn to demonstrate a critical understanding of key concepts in disaster risk
+reduction and humanitarian response
+ Critically evaluate disaster risk reduction and humanitarian response policy
+and practice from multiple perspectives
+ Develop an understanding of standards of humanitarian response and
+practical relevance in specific types of disasters and conflict situations
+ Critically understand the strengths and weaknesses of disaster management
+approaches planning and programming
+INTRODUCTION DISASTER
+Definition Factors and Significance Difference Between Hazard and Disaster
+Natural and Manmade Disasters Difference Nature Types and Magnitude
+REPERCUSSIONS OF DISASTERS AND HAZARDS
+Economic Damage Loss of Human and Animal Life Destruction of Ecosystem
+Natural Disasters Earthquakes Volcanisms Cyclones Tsunamis Floods Droughts
+and Famines Landslides and Avalanches Manmade disaster Nuclear Reactor
+Meltdown Industrial Accidents Oil Slicks and Spills Outbreaks of Disease and
+Epidemics War and Conflicts
+DISASTER PRONE AREAS IN INDIA
+Study of Seismic Zones Areas Prone to Floods and Droughts Landslides and
+Avalanches Areas Prone to Cyclonic and Coastal Hazards with Special Reference to
+Tsunami PostDisaster Diseases and Epidemics
+DISASTER PREPAREDNESS AND MANAGEMENT
+Preparedness Monitoring Of Phenomena Triggering A Disaster Or Hazard
+Evaluation Of Risk Application Of Remote Sensing Data From Meteorological And
+Other Agencies Media Reports Governmental And Community Preparedness
+RISK ASSESSMENT
+Disaster Risk Concept And Elements Disaster Risk Reduction Global and
+National Disaster Risk Situation Techniques Of Risk Assessment Global CoOperation in Risk Assessment and Warning Peoples Participation in Risk
+Assessment Strategies for Survival
+DISASTER MITIGATION MEANING
+Concept And Strategies of Disaster Mitigation Emerging Trends in Mitigation
+Structural Mitigation and NonStructural Mitigation Programs of Disaster Mitigation
+in India
+79
+REFERENCES
+1 R Nishith Singh AK Disaster Management in India Perspectives issues and
+strategies New Royal book Company
+2 Sahni Pardeep etal Eds Disaster Mitigation Experiences and Reflections
+Prentice Hall of India New Delhi 3 Goel S L Disaster Administration and
+Management Text and Case Studies Deep  Deep Publication Pvt Ltd New
+Delhi
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Compare hazards disasters and associated natural phenomena and their
+interrelationships causes and their effects
+2 Develop humanitarian assistance before and after disaster
+3 Compare anthropogenic hazards disasters and associated activities and their
+interrelationships of the subsystems
+4 Apply knowledge about existing global frameworks and existing agreements
+and role of community in successful Disaster Risk Reduction
+5 Evaluate DM study including data search analysis and presentation as a case
+study
+80
+23EIPCACXX
+SANSKRIT FOR TECHNICAL KNOWLEDGE
+L T P C
+2 0 0
+0
+COURSE OBJECTIVES
+ To get a working knowledge in illustrious Sanskrit the scientific language in the
+world
+ Learning of Sanskrit to improve brain functioning
+ Learning of Sanskrit to develop the logic in mathematics science  other subjects
+ Enhancing the memory power
+ The engineering Scholars equipped with the Sanskrit will be able to explode the
+huge knowledge from ancient literature
+Alphabets in Sanskrit past present future tense simple sentences
+Order introduction of roots technical information about Sanskrit literature
+Technical concepts of Engineering  electrical mechanical architecture
+mathematics
+REFERENCES
+1 Abhyaspustakam  DrVishwas SamskritaBharti Publication New Delhi
+2 Teach Yourself Sanskrit Prathama DeekshaVempati Kutumbshastri Rashtriya
+Sanskrit Sansthanam New Delhi Publication
+3 Indias Glorious Scientific Tradition Suresh Soni Ocean books P Ltd New
+Delhi
+COURSE OUTCOMES
+Students will be able to
+1 Understanding basic Sanskrit language
+2 Understand ancient Sanskrit literature about science  technology
+3 Being a global language will help to develop logic in students
+4 Able to acquire the professional skills and develop a deep understanding of rich
+heritage of India through various texts
+5 Able to learn to analyze a text through critical perspective and to assess the text
+through social economic and political scenarios and perspectives
+81
+23EIPCACXX
+VALUE EDUCATION
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+ Understand value of education and self development
+ Imbibe good values in students
+ Let the should know about the importance of character
+Values and selfdevelopment Social values and individual attitude and work
+ethics Indian vision of humanism Moral and non moral valuation Standards and
+principles Value judgements
+Importance of cultivation of values Sense of duty Devotion Selfreliance
+Confidence Concentration Truthfulness Cleanliness
+Honesty Humanity Power of faith National Unity Patriotism Love for nature
+Discipline
+Personality and Behavior Development  Soul and Scientific attitude Positive
+Thinking Integrity and discipline Punctuality Love and Kindness Avoid fault
+Thinking Free from anger Dignity of labour Universal brotherhood and religious
+tolerance True friendship Happiness Vs suffering love for truth Aware of selfdestructive habits Association and Cooperation Doing best for saving nature
+Character and Competence Holy books vs Blind faith Selfmanagement and
+Good health Science of reincarnation Equality Nonviolence Humility Role of
+Women All religions and same message Mind your Mind Selfcontrol Honesty
+Studying effectively
+REFERENCE
+1 Chakroborty SK Values and Ethics for organizations Theory and practice
+Oxford University Press New Delhi
+COURSE OUTCOMES
+Students will be able to
+1 Get the knowledge of selfdevelopment
+2 Learn the importance of Human values
+3 Develop the overall personality
+82
+23EIPCACXX
+CONSTITUTION OF INDIA
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+ Understand the premises informing the twin themes of liberty and freedom from
+a civil rights perspective
+ To address the growth of Indian opinion regarding modern Indian intellectuals
+constitutional role and entitlement to civil and economic rights as well as the
+emergence of nationhood in the early years of Indian nationalism
+ To address the role of socialism in India after the commencement of the Bolshevik
+Revolution in 1917 and its impact on the initial drafting of the Indian
+Constitution
+HISTORY OF MAKING OF THE INDIAN CONSTITUTION
+History Drafting Committee Composition Working
+PHILOSOPHY OF THE INDIAN CONSTITUTION
+Preamble Salient Features
+CONTOURS OF CONSTITUTIONAL RIGHTS  DUTIES
+Fundamental Rights Right to Equality Right to Freedom Right against
+Exploitation Right to Freedom of Religion Cultural and Educational Rights Right to
+Constitutional Remedies Directive Principles of State Policy Fundamental Duties
+ORGANS OF GOVERNANCE
+Parliament Composition Qualifications and Disqualifications Powers and
+Functions Executive President Governor Council of Ministers Judiciary
+Appointment and Transfer of Judges Qualifications Powers and Functions
+LOCAL ADMINISTRATION
+Districts Administration head Role and Importance Municipalities
+Introduction Mayor and role of Elected Representative CEO of Municipal
+Corporation
+Pachayati raj Introduction PRI Zila Pachayat Elected officials and their roles
+CEO Zila Pachayat Position and role Block level Organizational Hierarchy Different
+departments
+Village level Role of Elected and Appointed officials Importance of grass root
+democracy
+83
+ELECTION COMMISSION
+Election Commission Role and Functioning Chief Election Commissioner and
+Election Commissioners State Election Commission Role and Functioning Institute
+and Bodies for the welfare of SCSTOBC and women
+REFERENCES
+1 The Constitution of India 1950 Bare Act Government Publication
+2 Dr S N Busi Dr B R Ambedkar framing of Indian Constitution 1st Edition
+2015
+3 M P Jain Indian Constitution Law 7th Edn Lexis Nexis 2014
+4 DD Basu Introduction to the Constitution of India Lexis Nexis 2015
+COURSE OUTCOMES
+Students will be able to
+1 Discuss the growth of the demand for civil rights in India for the bulk of
+Indians before the arrival of Gandhi in Indian politics
+2 Discuss the intellectual origins of the framework of argument that informed
+the conceptualization of social reforms leading to revolution in India
+3 Discuss the circumstances surrounding the foundation of the Congress
+Socialist Party CSPunder the leadership of Jawaharlal Nehru and the
+eventual failure of the proposal of direct
+4 Elections through adult suffrage in the Indian Constitution
+5 Discuss the passage of the Hindu Code Bill of 1956
+84
+23EIPCACXX
+PEDAGOGY STUDIES
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+ Review existing evidence on the review topic to inform programme design and
+policy
+ making undertaken by the DfID other agencies and researchers
+ Identify critical evidence gaps to guide the development
+INTRODUCTION AND METHODOLOGY
+Aims and rationale Policy background Conceptual framework and terminology
+Theories of learning Curriculum Teacher education Conceptual framework
+Research questions Overview of methodology and searching
+THEMATIC OVERVIEW
+Pedagogical practices are being used by teachers in formal and informal
+classrooms in developing countries Curriculum Teacher education
+EVIDENCE ON THE EFFECTIVENESS OF PEDAGOGICAL PRACTICES
+Methodology for the indepth stage quality assessment of included studies How
+can teacher education curriculum and practicum and the school curriculum and
+guidance materials best support effective pedagogy Theory of change Strength and
+nature of the body of evidence for effective pedagogical practices Pedagogic theory and
+pedagogical approaches Teachers attitudes and beliefs and Pedagogic strategies
+Professional development alignment with classroom practices and followup
+support Peer support Support from the head teacher and the community Curriculum
+and assessment Barriers to learning limited resources and large class sizes
+RESEARCH GAPS AND FUTURE DIRECTIONS
+Research design Contexts Pedagogy Teacher education Curriculum and
+assessment Dissemination and research impact
+REFERENCES
+1 Ackers J Hardman F 2001 Classroom interaction in Kenyan primary schools
+Compare 31 2 245261
+2 Agrawal M 2004 Curricular reform in schools The importance of evaluation
+Journal of Curriculum Studies 36 3 361379
+3 Akyeampong K 2003 Teacher training in Ghana  does it count Multisite
+teacher Education research project MUSTER country report 1 London DFID
+4 Akyeampong K Lussier K Pryor J Westbrook J 2013 Improving teaching and
+learning of basic maths and reading in Africa Does teacher preparation count
+International Journal Educational Development 33 3 272282
+85
+5 Alexander RJ 2001 Culture and pedagogy International comparisons in primary
+Education Oxford and Boston Blackwell
+6 Chavan M 2003 Read India A mass scale rapid learning to read campaign
+7 wwwprathamorgimagesresource20working20paper202pdf
+COURSE OUTCOMES
+Students will be able to understand
+1 What pedagogical practices are being used by teachers in formal and informal
+classrooms in developing countries
+2 What is the evidence on the effectiveness of these pedagogical practices in
+what conditions and with what population of learners
+3 How can teacher education curriculum and practicum and the school
+curriculum and guidance materials best support effective pedagogy
+86
+23EIPCACXX
+STRESS MANAGEMENT BY YOGA
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+ To achieve overall health of body and mind
+ To overcome stress
+Definitions of Eight parts of yog Ashtanga 
+Yam and Niyam
+Dos and Donts in life
+i Ahinsa satya astheya bramhacharya and aparigraha
+ii Shaucha santosh tapa swadhyay ishwarpranidhan
+Asan and Pranayam
+i Various yog poses and their benefits for mind  body
+iiRegularization of breathing techniques and its effectsTypes of Pranayam
+REFERENCES
+1 Yogic Asanas for Group TariningPartI Janardan Swami Yogabhyasi Mandal
+Nagpur
+2 Rajayoga or conquering the Internal Nature by Swami Vivekananda Advaita
+Ashrama Publication Department Kolkata
+COURSE OUTCOMES
+Students will be able to
+1 Develop healthy mind in a healthy body thus improving social health also
+2 Improve efficiency
+87
+23EIPCACXX
+PERSONALITY DEVELOPMENT THROUGH LIFE ENLIGHTENMENT SKILLS
+L T P C
+2 0 0 0
+COURSE OBJECTIVES
+ To learn to achieve the highest goal happily
+ To become a person with stable mind pleasing personality and determination
+ To awaken wisdom in students
+NeetisatakamHolistic development of personality
+ Verses 19202122 wisdom
+ Verses 293132 pride  heroism
+ Verses 26286365 virtue
+ Verses 525359 donts
+ Verses 71737578 dos
+Approach to daytoday work and duties
+Shrimad Bhagwad Geeta
+ Chapter 2Verses 41 4748
+ Chapter 3Verses 13 21 27 35
+ Chapter 6Verses 51317 23 35
+ Chapter 18Verses 45 46 48
+Statements of basic knowledge
+Shrimad Bhagwad Geeta
+ Chapter2Verses 56 62 68
+ Chapter 12 Verses 13 14 15 1617 18
+Personality of Role model Shrimad Bhagwad Geeta
+Chapter2Verses 17 Chapter 3Verses 363742
+Chapter 4Verses 18 3839
+Chapter18  Verses 373863
+REFERENCES
+1 Srimad Bhagavad Gita by Swami Swarupananda Advaita Ashram Publication
+2 Department Kolkata
+3 Bhartriharis Three Satakam Nitisringarvairagya by PGopinath
+4 Rashtriya Sanskrit Sansthanam New Delhi
+COURSE OUTCOMES
+Students will be able to
+1 Study of ShrimadBhagwadGeeta will help the student in developing his
+personality and achieve the highest goal in life
+2 The person who has studied Geeta will lead the nation and mankind to peace and
+prosperity
+3 Study of Neetishatakam will help in developing versatile personality of students
+4 Learn the importance of Human values
+5 Develop the overall personality
+88
+ME PC  I  C 35
+ANNAMALAI UNIVERSITY PRESS  2023  2024

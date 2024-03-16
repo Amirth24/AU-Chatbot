@@ -1,0 +1,4370 @@
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608 002
+Accredited with A Grade by NAAC
+REGULATIONS FOR
+DOCTOR OF PHILOSOPHY
+R2020
+DIRECTORATE OF ACADEMIC RESEARCH
+Annamalainagar 608 002
+CONTENTS
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+Particulars
+Chapter I Act Provisions
+Chapter II Regulations for Doctor of Philosophy  2020
+10 Preamble
+20 General Eligibility
+30 Faculties  Departments offering PhD Programmes
+40 Educational Qualification
+50 PhD Programme
+60 Mode of Selection
+66 Department Research Committee
+70 Admission
+80 Tuition Fees  Other Fees
+90 Supervisor Recognition
+100 Number of Scholars
+110 Duration of the Programme
+120 Extension of Duration
+130 Research Advisory Committee RAC
+140 Programme Structure Course Work
+150 Research Outside the University
+160 Monitoring the Progress of the Scholars
+170 Submission of Synopsis
+180 Submission of Thesis
+190 Thesis Evaluation
+200 Public VivaVoce Examination
+210 Award of PhD Degree
+220 Cancellation of Registration
+230 Publication of the Thesis
+240 The Act of Plagiarism
+250 Repository of the Thesis
+260 Ethical  Legal Requirements
+270 Research Ethics
+280 Research Misconduct
+290 Investigation of Research Misconduct
+Chapter III Transitory Provisions
+300 Amendments to the Ordinance
+310 Interpretation of the Ordinance
+Annexures 1 to 35
+Guidelines for the Preparation of the Synopsis and Thesis
+Page No
+01
+01
+02
+02
+03
+04
+05
+09
+09
+10
+11
+11
+13
+13
+14
+14
+16
+18
+19
+19
+21
+23
+25
+26
+27
+28
+28
+29
+29
+31
+33
+34
+35
+35
+35
+3781
+82104
+ANNAMALAI
+UNIVERSITY
+Accredited with A Grade by NAAC
+Annamalainagar  608 002
+CHAPTER I
+ACT PROVISIONS
+In accordance with the provisions of Section 31b of the Annamalai
+University Act 2013 the following Annamalai University Ordinance
+Governing the Award of the Degree of Doctor of Philosophy is prepared
+with the approval of the Syndicate
+CHAPTERII
+REGULATIONS FOR DOCTOR OF PHILOSOPHY  2020
+DEFINITIONS AND NOMENCLATURE
+In the Regulations unless the context otherwise requires
+i University means Annamalai University Annamalainagar 608002
+ii Departmental Research Committee means the Committee duly
+constituted by the ViceChancellor of the University for Effective
+Coordination of the research activities of the department
+iii Programme means Doctoral Programme leading to the award of
+PhD degree in Arts  ScienceMarine Sciences  Indian Languages
+ Engineering  Technology  Education  Fine Arts Agriculture
+Medicine including Nursing  Dentistry
+iv Supervisor means any faculty member of the University who has
+been recognized by the University to guide the research scholars
+v Cosupervisor means a recognized supervisor to guide the
+scholars in interdisciplinary research that requires more than one
+expert to guide the research scholars and to guide parttime
+external candidates who are working in institutions where PGUG
+departments are not available
+vi Head of the Department means Head of the Department of the
+supervisor
+vii Place of Research for the scholars shall be the Department where
+the supervisor is working
+viii Research Advisory Committee means a committee constituted by
+the ViceChancellor for each Scholar to monitor the progress of
+hisher research work
+1
+ix Research scholar means any candidate admitted by the University
+either under Full time Part time Internal and Part Time External
+category pursuing research for the award of PhD degree of the
+University
+x Course Work means theory coursessubjectspractical
+coursetheory cum practical course that isare prescribed by the
+Research Advisory Committee for the scholar to undergo as a part
+of the programme requirement
+xi Grade Point means the total marks in percentage divided by ten
+and rounded off to two decimal points
+xii Credit Point means the grade point multiplied by the
+corresponding credit hours
+xiii Grade Point average GPA means the total credit points secured
+in a semester divided by the total credit hours registered in a
+semester
+xiv Cumulative Grade Point Average CGPA or Overall Grade Point
+Average OGPA means the total credit points secured by a
+research scholar for all the semesters divided by the total credit
+hours of the courses registered and rounded off to two decimals
+xv Publication means full length research articles reporting new
+research findings in respective fields which comprise presentations
+on new concepts the development of innovative methods that
+include figures tables and references the results of which have a
+general impact and contribute to the advancement of the particular
+field and are always peer reviewed
+10 PREAMBLE
+Doctor of Philosophy PhD is the Highest Academic Degree which
+requires indepth study and extensive intellectual effort The Doctor
+of Philosophy PhD Degree is awarded to a candidate who as per
+these regulations has submitted a thesis on the basis of original
+research either in any particular subjectdiscipline or involving
+more than one disciplineinterdisciplinary that makes a
+contribution to the advancement of knowledge which is approved
+by Board of Examiners as required The PhD Regulations2020 of
+Annamalai University from the admission to the award of Degree of
+Doctor of Philosophy is based on the UGC Minimum Standards
+and Procedure for award of PhD Degree Regulations dated 5th
+May 2016 and subsequent amendments made during 2018
+20 GENERAL ELIGIBILITY
+21 Masters Degree from UGC recognized University or any other
+qualification recognized as equivalent thereto in the fields of study
+notified from time to time by the University Specific educational
+qualifications are given in Clause 4
+2
+22
+A minimum of 55 marks or CGPA 550 on a 10 point scale in the
+qualifying examination for Faculties of Arts Science Marine
+Sciences Indian Languages Engineering  Technology Education
+Fine Arts and Nursing Food  Nutrition Faculty of Medicine In
+the case of SCSTOBC Noncreamy layerDifferentlyabled
+candidates 50 marks or CGPA of 50 on a 10 point scale in the
+Masters degree
+23 A minimum of 50 of marks in the qualifying examination for
+Faculties of Medicine and Dentistry MDMSMDSMPT
+24 A minimum of OGPA or CGPA 700 on a 10 point scale in the
+qualifying examination for Faculty of Agriculture
+25 Candidates who have passed Masters Degree through Open
+University system are not eligible However candidates who have
+secured their Masters Degree under11132 or 10232 or
+10242 or 10332or 11142or 1025 pattern of
+programmes of study are eligible
+30 FACULTIESDEPARTMENTS OFFERING PhD PROGRAMMES
+The following faculties offer research programmes leading to the award of
+PhD Degree
+Faculty
+PhD Programmes
+Arts
+English History Political Science Public Administration
+Economics
+Sociology
+Social
+Work
+Commerce
+Population Studies Business Administration Rural
+Development Library  Information Science Philosophy
+Law
+Science
+Mathematics Statistics Physics Chemistry Botany
+Plant Biology  Plant Biotechnology Zoology
+Environmental
+Biotechnology
+Bioinformatics
+Microbiology Geology Applied Geology Geoinformatics
+Biochemistry
+Biotechnology
+Computer
+Science
+Computer Applications Sports Biochemistry Sports
+Biomechanics Exercise Physiology Sports Nutrition
+Sports Psychology Strength  Conditioning
+Marine
+Sciences
+Marine Biotechnology Marine Microbiology Marine Food
+Technology Marine Biology  Oceanography Coastal
+Aquaculture Ocean Science  Technology
+Indian
+Languages
+Tamil Hindi Linguistics
+Engineering 
+Technology
+Chemical Chemical Engineering  Biotechnology
+Chemical Engineering  Food Technology Chemical
+3
+Faculty
+PhD Programmes
+Engineering  Industrial Safety Civil Civil  Structural
+Computer Science  Engineering Electrical 
+Electronics Electronics  Communication Electronics 
+Instrumentation Information Technology Mechanical
+Manufacturing Pharmacy
+Education
+Education Psychology Physical Education Yoga
+Fine Arts
+Music
+Agriculture
+Agronomy Agricultural Entomology Plant Pathology
+Agricultural Microbiology Soil Science  Agricultural
+Chemistry Genetics  Plant Breeding Seed Science 
+Technology
+Agricultural
+Molecular
+Biology
+Horticulture Agricultural Economics Agricultural
+Business Management Agricultural Extension Animal
+Husbandry
+Medicine
+Physiology Biochemistry Pharmacology Pathology
+Microbiology Community Medicine General Medicine
+Paediatrics DVL Psychiatry General Surgery ENT
+Ophthalmology Obstetrics  Gynaecology Orthopaedics
+RadioDiagnosis Physical Medicine  Rehabilitation
+Anaesthesiology Cardiology Nursing Food Nutrition
+Dentistry
+Oral and Maxillofacial Pathology and Oral Microbiology
+Oral  Maxillofacial Surgery Periodontology Paediatric
+Dentistry Orthodontics and Dentofacial Orthopaedics
+Prosthodontics and Crown  Bridge Conservative
+Dentistry  Endodontics Oral Medicine and Radiology
+40
+EDUCATIONAL QUALIFICATION
+SNo
+1
+Programme
+PhD Degree in Arts
+PhDDegree in
+Management
+Qualification for Admission
+MAMCom in the relevant branch
+of Arts
+MBAPG Diploma in Business
+Management or Administration
+awarded by Indian Institute of
+ManagementIIM
+4
+2
+PhD Degree in Science
+MScMCA in the relevant branch
+of Science
+3
+PhD Degree in Marine
+Sciences
+MSc in the relevant branch of
+Marine SciencesScience
+4
+PhD Degree in Indian
+Languages
+MA in the relevant branch of
+languages
+5
+PhD Degree in
+Engineering and
+Technology
+MEMTech in the relevant branch
+of Engineering and Technology
+6
+PhD Degree in
+Education
+PG degree with MEd in the relevant
+branch of Education  MPESor
+MPEdMSc PsyMSc Yoga
+7
+PhD Degree in Fine
+Arts
+MAMFAMPA in Music  Dance
+8
+PhD Degree in
+AgricultureHorticulture
+MSc in the relevant branch of
+Agriculture  Horticulture
+9
+PhD Degree in
+Medicine
+MDMSMSc NursingFood
+NutritionMPT in the relevant
+branch of Medicine
+10
+PhD Degree in
+Dentistry
+MDS in the relevant branch of
+Dentistry
+50
+PhD PROGRAMME
+PhD Programme is available in the following three categories
+a Fulltime
+b Parttime  Internal
+c Parttime  External
+Candidates who satisfy the eligibility criteria as in Clauses 2040 are
+eligible to apply for PhD Programme
+5
+51 FullTime PhD Programme
+511 Candidates under Fulltime mode shall do research work in the
+University campus only The Fulltime PhD scholars shall report
+daily in the department at least during the office hours of the
+University and they should sign every day in the attendance register
+at the respective place of research
+512 Project stafffellow working in a sponsored project which has at
+least threetwo years tenure from Govt of India IndustriesGovt
+of Tamil Nadu can also register under full time mode
+513 Candidates in employment who want to pursue Fulltime study
+should be sponsored by their employer and should avail leave for
+the minimum duration of the programme and should be formally
+relieved from their duty to join the research programme
+514 Candidates who are selected under the National level Fellowship
+programmes or by any recognized bodies and who satisfy the
+eligibility conditions as per the regulations shall apply for Fulltime
+category in the respective discipline
+515 Admission of Foreign Students to PhD Programme
+Foreign students who are selected under various scholarship
+schemes either by the Ministry of Education and Culture or by the
+Ministry of External Affairs will be given admission as Fulltime
+scholar on the recommendationsponsorship of the respective
+Ministry of Government of India The other foreign students who
+seek admission for Fulltime should possess a Research VISA
+issued by the Indian Embassies abroad and produce a No
+Objection Certificate from the Ministry of Education Government
+of India after clearance from the Ministry of External Affairs They
+should also show proof for financial capability for stayingpursuing
+PhD Programme for 3 years
+52
+PartTimeInternal
+521 Research Scholars under this category are those who are presently
+employed on regular basis in this University at the time of applying
+for the PhD programme
+522 Those who have joined as Assistant Professors with
+MPhilMEMTechMPharmMScAgri MSc Hort 
+MD MS MDS MPT MSc Nursing MSc Food 
+Nutrition are permitted to register for PhD Programme after one
+year from the date of joining in the post
+6
+523 Faculty members who do not have an MPhil Degree shall be allowed
+to register for the PhD Programme after two years from the date of
+joining in the post provided they fulfil the eligibility conditions as
+given in clause 20 for registration as Parttime candidates
+524 The Regular NonTeaching Staff shall be allowed to register for
+PhD Programme after five years from the date of joining in the
+post provided they fulfil the eligibility conditions for registration as
+Parttime candidates
+525 The normal work of teaching nonteaching staff shall not be
+affected at any cost if they are selected for the PhD programme
+Their selection for the PhD Programme is subject to the final
+discretion of the ViceChancellor Further those who acquired PhD
+teaching  nonteaching cannot claim promotion change of
+designationchange of cadre
+526 The inservice candidates who register for PhD programme onparttime basis in the Faculties of Medicine and Dentistry shall execute a
+bond to serve in the University for a minimum period of three years
+after the award of the PhD Degree
+527 Staff members of Annamalai University who apply for PhD
+programme should submit no objection certificate from the employer
+along with application form
+53
+PartTime External
+531 The University reserves full rights for admitting candidates under
+parttime external category
+532 The parttime candidate shall register under a research supervisor
+who is a full time teaching faculty of this University
+533 The Parttime candidate should be employed as Assistant
+ProfessorAssociate
+ProfessorProfessor
+in
+a
+recognized
+CollegeUniversity where facilities for carrying out research work
+are available Further such candidates should possess minimum
+qualifications for applying for PhD programme The Institution
+where the candidate is employed should have postgraduate
+Department in Science Marine Sciences Engineering 
+Technology MedicalNursing PhysiotherapyDental subjects and
+Undergraduate Departments for Arts Fine Arts Education and
+Indian Languages The Faculty of Agriculture is not offering Parttime External PhD Progamme
+7
+534 Librarians and Physical Directors working in CollegesUniversities
+who fulfil the eligibility condition scan apply for PhD programme
+with a suitable supervisor in Annamalai University and they do not
+require a cosupervisor The candidates shall undergo the regular
+procedure for admission to PhD programme
+535 Research Scientists or similar cadre in private or Government
+InstitutionsIndustrial Units with Research and Development
+facilities are also eligible to apply for parttime PhD programme
+with a supervisor from Annamalai University
+536 All eligible candidates as in 533 but not having PGUG
+departments shall have a recognized cosupervisor The
+cosupervisor may be from a CollegeInstitution located from the
+same or nearby town of the candidate
+537 The cosupervisor should apply for supervisor recognition provided
+they possess eligible qualifications Generally facilities for research
+should be made available at the place of work of the external
+candidate In case where such facilities do not exist the research
+facility at the place of work of cosupervisor should be made
+available to the candidate Otherwise the facilities available in
+Annamalai University in the respective Faculties shall be extended
+to the candidates
+538 Parttime external scholars should sign in the attendance register
+at least one month per academic year a spell of at least five days
+minimum in the respective department of Annamalai University
+539 The following certificates should be attached along with the
+application for PhD admission
+i No Objection Certificate from the employer Annexure1
+ii Acceptance letter from the cosupervisor Annexure2 if
+applicable
+54
+Change of Category
+Provision exists for change of category from fulltime to parttime and
+viceversa provided the residency and attendance requirements are
+satisfied The change of category shall be approved by the
+ViceChancellor only once during the tenure subject to written request
+letter along with submission of necessary documents with the
+recommendation of the supervisor Head of the department Dean of the
+concerned faculty and the scholar Change of category more than once
+may be considered only under extraordinary circumstances if deemed fit
+Change of category is permitted only for the scholars who had completed
+the confirmation of provisional registration In case of change from fulltime to parttime or viceversa minimum period shall be accounted as
+whichever is high If the request is approved official communication shall
+be issued to the effect Annexure3
+8
+60
+MODE OF SELECTION
+61
+University shall issue notification for PhD admission twice every
+year one in the month of June and another in the month of
+December
+62
+The candidates desirous of registering for PhD Programme under
+any one of the above categories shall apply by filling all the relevant
+details mentioned in the online application form posted in the
+University website and submit the completed application online and
+send the hard copy of the application along with all enclosures to
+the Director DARE before the due date as indicated in the
+notification issued from time to time
+63
+Incomplete applications and applications with false information in
+any respect shall be summarily rejected without any intimation to
+the candidate
+64
+The Directorate of Academic Research DARE shall screen the
+applications as per the eligibility norms and the Directorate shall
+conduct the written test only for eligible candidates Candidates
+appearing for the written test should obtain minimum marks as
+specified by the University to qualify for the interview process
+65
+The admission of PhD students shall be based on the following
+criteria besides General Eligibility
+66
+i
+An entrance test at PostGraduate level for 70 marks 70
+multiple choice questions MCQs each question carrying one
+mark and the duration of the test is 90 minutes followed by
+an interview that will have a weightage of 30 marks
+ii
+The candidates who secure 50 marks in entrance test and
+interview put together are eligible for admission
+iii
+A relaxation of 5 marks from 50 to 45 shall be allowed
+for the candidates belonging to SCSTOBC NonCreamy
+layerDifferently abled category
+iv
+Candidates with MPhil Degree from an approved University
+UGCJRFNETSLETGATECSIRICHRICPRICSSR
+qualified candidates and teacher fellowship holders are
+exempted from the Entrance test but they have to appear for
+the interview
+Departmental Research Committee
+The following is the constitution of the Departmental Research
+Committee hereafter referred to as DRC The members other than
+Head of the department and the coordinator of DDE shall serve only
+for one academic year
+9
+Designation
+Members
+The Head of the Department
+Convener
+The respective Coordinator of DDE if exists
+Member
+Two ProfessorsSenior Faculty members nominated
+Members
+by the ViceChancellor in rotation
+67
+One Associate Professor in rotation
+Member
+One Assistant Professor in rotation
+Member
+The DRC has the following functions
+ Selection of candidates for admission to the PhD programme
+ Allotment of Research Supervisors to students enrolled for the
+PhD programme
+ Facilitating research facilities in the department
+ Framing the syllabus for course work
+ Maintenance of research quality and quality of publications
+ Sorting out any other research related issue of the department
+68
+If there is any dispute either in the constitution or functioning of
+the DRC it shall be brought to the notice of the DirectorDARE and
+the decision of the ViceChancellor shall be final
+69
+The minutes of the DRC together with the list of candidates and
+their research supervisors along with recommendations of the Dean
+of
+the
+respective
+faculty
+will
+be
+placed
+before
+the
+ViceChancellor for approval
+70
+71
+ADMISSION
+The selected candidates shall be issued admission cards and they
+will be admitted to PhD programme in the respective department
+based on hisher PG qualification The candidates should join
+before the last date mentioned in the selection order by paying the
+prescribed fees failing which they will forfeit the seats
+The provisional registration order Annexure4 for PhD shall be
+issued either in January or July of the year in which the candidate
+is admitted
+The scholar supervisor cosupervisor Research Advisory
+Committee RAC members and examiners shall not be relatives to
+one another
+72
+73
+10
+80
+81
+82
+83
+84
+90
+91
+92
+93
+94
+95
+TUITION FEES  OTHER FEES
+The selected candidates shall pay the prescribed fees before the last
+date mentioned in the selection order failing which they will forfeit
+the seats
+The yearly fees shall be paid by the scholars within the prescribed
+date till the scholars submit the thesis Late payment of fees will
+attract fine as per the university norms The supervisors should
+monitor the regular payment of yearly fees by those scholars who
+are working under them
+The registration is liable for cancellation if the research scholar has
+not paid the yearly fees within the stipulated time
+Nonpayment of yearly fees is a serious lapse on the part of
+scholars Explanation for nonpayment of yearly fees shall be called
+for from the supervisors Annexure5
+SUPERVISOR RECOGNITION
+The applicant for supervisor recognition should possess PhD
+degree from UGC recognized university in the relevant area of
+research in which heshe has carried out research
+The applicant should have published a minimum of FIVE
+publications in SCISSCIUGC listed journals which is mandatory
+for supervisor recognition
+The eligible candidates can apply in the prescribed application
+Annexure6 for supervisor recognition
+The regular fulltime teaching faculty members after completing one
+year of service in the University are eligible to apply for
+supervisorship
+The supervisorship will be awarded in the same faculty in which
+hisher PhD Degree was awarded
+96
+Faculty of Medicine MDMS qualified faculties who have
+minimum of 10 years of postgraduate teaching experience and
+published 6 research articles in an indexed journal PubMedWeb
+of Science at the NationalInternational level as first author or
+coauthor are eligible to apply for supervisor recognition
+97
+Faculty of Dentistry
+i Faculty members possessing PhD qualification having minimum
+of 5 years of postgraduate teaching experience and published 3
+research articles in an indexed journal PubMedWeb of Science
+at the NationalInternational level as first author or coauthor
+are eligible to apply for supervisor recognition
+ii Faculty members possessing MDS qualification having a
+minimum of 10 years of postgraduate teaching experience and
+11
+published 6 research articles in an indexed journal
+PubMedWeb of Science at the NationalInternational level as
+first author or coauthor are eligible to apply for supervisor
+recognition
+98 Supervisor recognition orders Annexure7 shall be issued officially
+only to eligible applicants as mentioned above
+99 A research supervisor will be permitted to register candidates till
+two years prior to hisher retirement Research scholars will be
+permitted to continue to work and submit their thesis under the
+guidance of a retired person only for a maximum period of one year
+from the date of retirement If the candidate is unable to submit
+his her thesis within this time the Head of the department
+concerned will suggest a research supervisor in consultation with
+the Research Advisory Committee and Dean
+910 A research supervisor is normally eligible to guide only in hisher
+basic subjectdiscipline However heshe may be permitted to
+guide in a related subject in which heshe has at least two
+publications in professionally recognized nationalinternational
+journals or authored a book after getting approval of the expert in
+the concerned discipline nominated by the ViceChancellor If there
+is any dispute in this regard the decision of the ViceChancellor
+shall be final
+911 A research supervisor shall not be allowed to register a candidate
+for PhD if the candidate is a blood relative to the supervisor
+912 A faculty member who accepts an administrative position such as
+Controller of Examinations Registrar or ViceChancellor shall not
+function as a research supervisor However heshe may be
+allowed to complete the theses of candidates registered with
+himher and after that heshe cannot register fresh candidates
+913
+The ViceChancellor shall be empowered to summarily withdraw
+the research supervisorship on the following grounds
+914
+Moral turpitudeSexual harassment
+Plagiarism
+Fraudulent academic claims
+Any act prejudicial to the reputation of the University without
+assigning any reason thereof
+Change of Supervisor
+Change of research supervisor shall not be permitted as a routine
+In exceptional cases such change may be permitted if valid
+reasons are provided by the candidate The committee headed by
+the ViceChancellor shall look into the request of the petitioner if
+12
+there is any conflict between the scholar and the research
+supervisor The research supervisor under whom the scholar has
+originally registered shall give a No Objection Certificate and the
+new proposed research supervisor should give a Certificate of
+Willingness to guide the candidate However the ViceChancellor
+on the recommendation of the Department Research Committee
+has the right to assign a new research supervisor to the research
+scholar and change of supervisor order Annexure8 shall be
+issued officially by Director DARE
+9141 When the change of research supervisor is approved the candidate
+shall work for a minimum of one year with the new research
+supervisor before submitting the synopsis provided heshe fulfils
+the attendance requirements However based on the merit of the
+request of the scholar the decision of the ViceChancellor is final
+9142 The research supervisor who wishes to avail leaveliendeputation
+beyond a period of SIX MONTHS shall propose a cosupervisor in
+the concerned subject for the candidates registered with himher
+and the fact may be intimated to the University well in advance
+The final approval of the proposal rests with the ViceChancellor
+100 NUMBER OF SCHOLARS
+101 A Professor who is a recognized supervisor shall guide only a
+maximum of 8 PhD scholars as supervisorcosupervisor at any
+time An Associate Professor who is a recognized supervisor shall
+guide only a maximum of 6 PhD scholars as supervisorcosupervisor and an Assistant Professor who is a recognized
+supervisor shall guide only a maximum of 4 PhD scholars as
+supervisorcosupervisor at any time
+110 DURATION OF THE PROGRAMME
+111 The duration of the programme and the time for submission of
+thesis are counted from the date of provisional registration
+112 The minimum duration of the programme is three years for those
+who join after completing Masters degree and two years for those
+with MPhil degree for Fulltime scholars For parttime scholars
+the minimum duration is four years for those who join after
+completing Masters degree and three years for those with
+MPhilDegree
+113 The minimum duration of the programme is three years for fulltime
+and
+four
+years
+for
+parttime
+for
+MEMTechMScAgriMScHortMDMSMDS 
+MScNursing  MSc Food  Nutrition PGDegree for other
+allied medical sciences candidates
+13
+114 The Director DARE shall permit if deemed fit for reasons break of
+study for the scholar under extraordinary circumstances such as
+medical grounds and other compelling reasons which warrant
+hisher absence from the programme However the break of study
+period shall not be counted for the minimum duration of the
+programme
+115 Break of study shall be granted upto a maximum period of one
+year Such request shall be made in writing by the scholar with the
+recommendation of the supervisor Head of the Department and
+Dean of the Faculty and it should reach the Director DARE prior
+to availing the break of study The orders for break of study shall be
+issued by the Director after assessing the need Annexure9 If
+prior permission is not sought and obtained it will be considered as
+a case of discontinuation and action will be taken to cancel the
+registration of such scholars Break of study period will be counted
+for the maximum duration of the programmeClause 106 The
+scholar should remit the yearly fees during the break of study
+period also
+116 The maximum duration of the programme shall be six years for
+fulltime and parttime scholars of all the Faculties
+117 Women candidates who availed maternity leave and persons with
+disability more than 40 disability are allowed a relaxation of two
+years Thus the maximum duration for such scholars shall be eight
+years
+120 EXTENSION OF DURATION
+121 Scholars who do not submit the thesis within the maximum
+duration of the programmesix years shall apply for extension of
+time three months prior to the completion of six years in the
+prescribed format Annexure10 with the recommendation of
+Supervisor Head of the Department and Dean of the Faculty In
+such cases a maximum grace period of one year beyond the normal
+maximum period of six years shall be granted by the Director
+DARE with the approval of ViceChancellor Annexure11
+122 If the scholar fails to submit the thesis within seven years from the
+date of joining the programme the registration shall be cancelled
+without any further notice
+130 RESEARCH ADVISORY COMMITTEE RAC
+131 There shall be a Research Advisory Committee RAC for every
+scholar to monitor the progress of research work
+14
+132 The Research Advisory Committee RAC shall consist of the Head of
+the Department as Chairperson the research supervisor as the
+convener cosupervisor if applicable and two experts in the field of
+research of the scholars
+133 For the selection of two experts for RAC the research supervisor
+should suggest three names within the department and another
+three names from other departments who have some expertise in
+the area of research of the scholar The ViceChancellor will select
+one expert from the department of the scholar and the other expert
+from any other department
+134 The Research Advisory Committee will meet once in six months
+135 The first RAC meeting shall be convened within two months from
+the receipt of provisional registration orders The research topic and
+the courses to be undertaken by the scholar shall be decided in the
+meeting and the minutes of the first RAC meeting in the prescribed
+formatAnnexure12 should be forwarded to the Director DARE
+136 The other RAC meetings shall be convened periodically during the
+second week of July and December every year to review the
+research
+progress
+of
+the
+Scholars
+and
+to
+offer
+suggestionsmodifications
+137 The Research
+functions
+Advisory
+Committee
+shall
+have
+the
+following
+i Advice and recommend on all matters connected with the
+candidates research from admission till the submission of the
+thesis
+ii Approve the topic of research
+iii Scrutinize the research proposal submitted by the candidate
+iv Recommend the courses that the candidate has to undergo
+v Assess and approve the progress reports of PhD scholars in
+the prescribed format and report on the fitness or otherwise of
+the candidate to proceed with hisher research work
+vi If necessary recommend and approve change of title of thesis
+change of supervisor and change of status of researcher full
+time to part time and viceversa
+vii Review and endorse the research progress of the candidate
+periodically
+viii Supervise the presentation by the candidate of the final draft
+of hisher proposed thesis for approval before the submission
+of synopsis of the thesis to the Director DARE and sign a
+certificate to this effect to be submitted along with the
+synopsis
+ix Assess the conductvalidity of experimentsfield work peruse
+laboratory observation notebooks data recording and analysis
+and publications
+15
+x Assess the quality and
+submission of synopsis
+quantum
+of
+research
+work
+for
+xi Verify the two mandatory publications in SCI SSCIUGC listed
+journals to permit the scholar to submit the synopsis
+xii Approve the synopsis of the thesis
+xiii Approve the panel of Foreign and Indian Examiners
+xiv Finalize and approve the title of the thesis
+xv Monitor the corrections carried out if any pointed out by the
+thesis evaluation examiners
+138 The convener will convene the Research Advisory Committee
+meetings with intimation to the Director Directorate of Academic
+Research DARE
+140 PROGRAMME STRUCTURE Course Work
+141 All research scholars fulltime and parttime shall undergo a
+minimum of threefour courses of six credits each as stipulated by
+the UGC The course work shall include a course on research
+methodology which is mandatory The other courses may involve
+advanced topics latest developments in the chosen field of research
+and courses related to the research problem
+142 While the minimum number of courses is threefour there can be a
+great degree of flexibility in the number of courses that a research
+scholar can undertake based on the discipline and the area of
+research
+143 Scholars who opted for interdisciplinary research can take an
+additional course work relevant to the topic as prescribed by the
+RAC
+144 Candidates already holding MPhil Degree and admitted to the
+PhD programme in the same area of MPhil research may be
+exempted from PhD course work All other MPhil candidates
+admitted to the PhD programme shall undergo PhD course work
+as prescribed by the RACPhD regulation
+145 A course on Research and Publication Ethics RPE is compulsory
+for all PhD scholars besides other courses as prescribed by RAC
+146 The total marks for each course in the final examination will be 100
+The candidate shall secure minimum 50 in the course work
+examination failing which heshe has to reappear for the same
+course work examination in the next semester If a candidate does
+not pass the course work examination in three appearances hisher
+registration will be cancelled
+16
+147 The research scholars shall be required to complete the course work
+within a period of eighteen months from the date of provisional
+registration in order to pursue further with their research work For
+those who fail to complete the course work within the stipulated
+time the RAC may recommend an extension of six months if the
+RAC is convinced of their performance If not the RAC may
+recommend the cancellation of PhD registration
+148
+A scholar is deemed to have cleared the courses only if heshe
+has more than 80 attendance appeared for the examination
+and secured a minimum of 50 marks in the courses
+149
+The performance of a scholar in each course is evaluated in terms
+of percentage of marks with a provision for conversion to Grade
+Point GP The sum total performance in each semester will be
+rated by Grade Point Average GPA while the continuous
+performance will be rated by CumulativeOverall Grade Point
+Average CGPAOGPA
+1410 Faculty of Agriculture
+As per Indian Council of Agricultural Research ICAR norms
+14101 A student enrolled for Doctoral program in the departments of
+Faculty of Agriculture shall be eligible for the degree provided
+heshe has completed 75 credits including 45 credits of research
+as detailed below
+Details
+Credit Hours
+I
+Major Courses
+15
+II
+Minor Courses
+8
+III
+Supporting Courses
+5
+IV
+Seminar
+2
+V
+Research
+45
+Total
+75
+14102 A full time PhD scholar can register for a maximum of 15
+credits excluding research in a semester However the research
+credits registered should not exceed 12 per semester Semester
+wise distribution of credits is given in the respective PhD
+programme The total research credits for Parttime Internal
+should be distributed in all the eight semesters The PhD
+scholars fulltimeparttime Internal should complete their
+course work within two semesters in the first year
+14103 Requirements for PhD programme shall also include successful
+completion of research in the major field of study and submission
+of thesis thereon
+17
+1411
+1412
+Confirmation of provisional registration
+After the successful completion of course works and
+comprehensive examination the RAC meeting shall be convened
+to verify the course work completion and assess the progress of
+research work Upon satisfaction with the performance the RAC
+recommends the confirmation of provisional registration in the
+prescribed format Annexure13 as minutes of RAC along with
+check list for confirmation of PhD scholar registration
+Annexure14
+The scholar shall be issued confirmation of provisional
+registration Annexure15 by the Director DARE upon
+completion of all the courses prescribed by RAC in its first
+meeting and satisfactory progress in research The provisional
+registration shall be cancelled Annexure16 for those scholars
+who do not fulfil the requirements within two years from the date
+of provisional registration
+150
+RESEARCH OUTSIDE THE UNIVERSITY
+151
+The research scholar shall be permitted to carry out hisher
+research in an institution or National Laboratory or RD centre
+outside the university for a maximum period of one year only
+after the confirmation of the provisional registration Such
+request from the scholar shall be approved by the Director
+DARE only if the request of the scholar has been recommended
+by the supervisor and forwarded by the Head of the Department
+and Dean of the Faculty of the supervisor
+152
+The scholars who carried out research outside the university
+shall submit the synopsis only after a minimum period of two
+months on hisher return The papers published during such
+period of outside assignment should be relevant to the area of
+research and should carry the scholars supervisor name as one
+of the authors
+153
+The scholars who obtain permission to work outside the
+University for a specific period as in Clause 151 on return to the
+University should submit a certificate from the Organization
+stating the period of work and a brief research report
+154 If the scholar continues to stay outside the university beyond the
+approved period without prior permission the registration of the
+scholar shall stand cancelled automatically
+18
+160 MONITORING THE PROGRESS OF THE SCHOLAR
+161 The research scholars both fulltime and parttime shall submit
+Research Progress Reports in the prescribed format Annexure17
+duly endorsed by the Research Advisory Committee once in six
+months to the Director DARE until they submit their synopsis
+162 Failure to submit the progress reports periodically shall result in
+the automatic cancellation of registration
+163 The minutes of the meeting of the Research Advisory Committee
+along with enclosures will be sent to the Director DARE
+164 The RAC meeting may also be conducted through video
+conferencing or internet chat if the candidate or the Research
+Supervisor is in a foreign country
+165 The presynopsis presentation before the RAC is a mandatory
+requirement to assess the quality and quantum of research in
+addition to the incorporation of the suggestions offered by RAC
+members
+166 The presentation shall be arranged before the submission of the
+synopsis in the presence of RAC faculty members research
+scholars MPhil and PG students
+167 The participants may suggest new ideasreferencessuggestions to
+improve the work and so on
+168 A report on this event along with an attendance sheet
+shall be forwarded by the research supervisor with the endorsement
+of the RAC and HOD to the Director DARE during the submission
+of synopsis
+170 SUBMISSION OF SYNOPSIS
+171 The scholar shall be permitted to submit the synopsis 3 months
+before the completion of minimum duration of the programme as
+per
+Clauses112
+and
+113provided
+the
+scholar
+has
+publishedaccepted for publications two research articles in SCI
+SCIE SSCIUGC listed journals and recommended by RAC
+172 A certificate in the prescribed format Annexure19 signed by the
+supervisor cosupervisor if applicable and Head of the Department
+stating that the scholar has completed the minimum duration of
+the programme
+173 The PhD scholars other than from the departments of Tamil Hindi
+and Music have to publish two research articles in ScopusWeb of
+Science indexed Journals either published or accepted for
+19
+publication which are mandatory prior to the submission of their
+synopsis otherwise the synopsis shall not be accepted for
+submission
+174 The PhD scholars in the Departments of Tamil Hindi and Music
+have to publish two research articles in the UGCCARE listed
+Journals either published or accepted for publication which are
+mandatory prior to the submission of their synopsis otherwise the
+synopsis shall not be accepted for submission
+175 The research scholar shall submit three copies of the synopsis
+approved by the Research Advisory Committee along with a soft
+copy to the Director DARE through the research supervisor HOD
+and Dean of the respective Faculty The guidelines for the
+preparation of synopsis are given in Appendix I
+176 The RAC meeting should be conducted just before the submission
+of synopsis to assess the quality and quantum of research contents
+of synopsis verify the two publications and approve the panel of
+Indian and foreign examiners All these shall be presented as
+minutes of RAC meeting while submitting the synopsis Annexure18
+along with certificate for submission of synopsis Annexure19
+attendance certificate for presynopsis presentation Annexure20
+proforma for submission of synopsis Annuxure21 and checklist
+Annexures22
+177 The research supervisor shall mandatorily submit the panel of
+examiners Indian and Foreign duly approved by RAC along with
+the synopsis through proper channel to the Director DARE in the
+prescribed format Annexures23 24 A panel of ten examiners
+five from foreign countries and five from India shall be provided by
+the supervisor The examiners shall be from reputed
+UniversitiesInstitutesOrganizations
+178 For Indian Languages such as Tamil Linguistics Tamil version
+Hindi and Fine Arts the panel shall consist of five members within
+Tamil Nadu and five members outside Tamil Nadu
+179
+The proposed Indian Examiners should hold a PhD Degree with
+not less than 10 years experience at the postgraduate level with
+publications at nationalinternational level journals in the same
+or related research area of the thesis to their credit
+20
+1710 If the research scholar has carried out part of hisher work in
+another institution the panel should not include the names of the
+ScientistsProfessors with whom heshe has worked for a short
+duration
+1711 If the ViceChancellor observes that the panel of examiners is not
+from reputed Institutions heshe shall call for fresh panel or
+suggest examiners both Indian and Foreign of hisher choice
+1712 The ViceChancellor will select one Indian and one overseas
+examiner from the panel and will also indicate the order of priority
+of examiners from 1 to 5 from the panel of Indian and foreign
+examiners submitted
+1713 Once the ViceChancellor has approved the panel of examiners
+and assigned the priority order of preference the Director DARE
+shall forwarddispatch the synopsis to the first examiner in both
+the panels and seek their acceptance for evaluation of the thesis
+1714 Once an examiner accepts the invitation and agrees to evaluate
+the thesis the Director DARE shall arrange to send the thesis for
+evaluation along with the associated formats guidelines and
+procedure for assessment The covering letter of the Director
+DARE to examiners shall insist on the confidentiality of the
+appointment and request the examiners not to reveal the
+appointment to the supervisorscholaranybody
+1715 If any examiner declines to accept the invitation to evaluate the
+thesis the synopsis shall be sent to the next examiner in the list
+1716 If there is no response from the examiner three weeks after
+dispatching the synopsis the Director DARE shall send the
+synopsis to the next examiner in the same order of priority in the
+respective panel
+1717 If the acceptance to evaluate the thesis is not received from the
+first panel of examiners the Director CARE shall call for a fresh
+panel from the research supervisor
+180 SUBMISSION OF THESIS
+181 The thesis shall report in an organised and scholarly fashion an
+account of original research work of the scholar leading to the
+discovery of new facts or techniques or correlation of facts already
+known analytical experimental hardware oriented etc and
+demonstrate a quality contribution to the advancement of
+21
+knowledge as well as the scholars ability to undertake sustained
+research
+182 The thesis shall be prepared in accordance with the prescribed
+format and specification as given in Appendix II Five hardcopies
+of the thesis with soft copy in CD PDF format in each copy of
+the thesis along with proforma for submission of thesis Annexure25 and checklist Annexure26 shall be submitted after the
+completion of the stipulated period to the Director DARE
+183 The thesis shall include a declaration from the scholar and a
+certificate from the supervisor and co supervisor if applicable as
+prescribed to the effect that the thesis is a record of original
+research work carried out by the scholar and the work reported in
+the thesis is not copied from other sourcesnot submitted
+elsewhere for a degree or diploma
+184 The research papers shall be attached to the PhD thesis
+185 The RAC shall certify the quality and authenticity of the
+publications and ensure that both the candidate and the research
+supervisor are listed as first and corresponding authors respectively
+in the articles with the correct affiliations
+186 Fees shall be paid by the scholars every year during the notified
+period till the submission of the thesis
+Any other fees as
+applicable shall be paid as notified from time to time In case any
+scholar has not paid the tuition fees and other notified fees then
+the processing of synopsis and thesis shall not be processed until
+all the fees are paid No dues certificate Annexure27 should be
+submitted while submitting the thesis
+187 The thesis shall comply with the following conditions to merit the
+award of PhD degree
+i It should be a piece of research work characterized either by
+finding of new facts or by a fresh approach towards
+interpretation of facts and theories
+ii It should reflect the candidates capacity for critical
+examination and judgment
+iii It should be satisfactory in terms of presentation and adhering
+to proper methodology of thesis writing
+188 The thesis shall not exceed 300 pages excluding the bibliography
+Appendices etc If it exceeds the specified number of pages the
+research supervisor should write to the Director DARE with the
+reasons and get prior approval from the Director DARE The
+thesis should be in A4 size The specifications for the preparation
+of the thesis and a model cover page of the thesis are given in
+Appendix II
+22
+189
+The thesis shall be typed on both sides of the page in order to save
+paper and postage
+1810 The thesis shall contain a certificate from the supervisor specifying
+that the thesis submitted is a record of research work done by the
+candidate during the period of study under himher and that the
+thesis has not previously formed the basis for the award of any
+Degree Diploma Associateship Fellowship or similar title A
+statement from the supervisor indicating the extent to which the
+thesis represents independent work on the part of the candidate
+should also be made including free from plagiarism
+1811 The thesis shall also contain a declaration by the candidate that the
+work reported in the thesis has been carried out by the candidate
+himselfherself and that the material from other sources if any is
+duly acknowledged and no part of the thesis is plagiarised
+1812 The PhD thesis in the field of Tamil Linguistics History and Fine
+Arts may be submitted in Tamil Language and for other language
+subjects the thesis must be in the respective language
+190 THESIS EVALUATION
+191 The thesis shall be referred to two examiners one from India and
+another from abroad nominated by the ViceChancellor from the
+panel of examiners recommended by the RAC The ViceChancellor
+if deems it necessary may also nominate examiners from outside
+the panel
+192 The examiners appointed shall evaluate the thesis and report on
+the merit of the thesis for the award of the PhD degree Each
+examiner is expected to give a detailed report on the thesis apart
+from a duly filled in proforma for evaluation sent by the Director
+DARE
+193 The examiners shall be requested to send hisher report within 45
+days from the date of receipt of the thesis to the Director DARE
+The reports sent by email shall be accepted provided the email ID
+is the official email ID of the examiners
+194 If an examiner fails to send the report within the stipulated time
+the Director DARE shall send a reminder to himher immediately
+after the expiry of the deadline and request himher to send the
+report within the next thirty days If the concerned examiner does
+not comply even after the extended period the Director DARE
+shall cancel the appointment forthwith and invite the next
+examiner from the approved panel to evaluate the thesis
+195 In the event of a request from the examiners for more time for
+evaluation or receipt of the report after the appointment has been
+cancelled or postal delay or loss of report etcappropriate decision
+23
+will be taken based on the facts in consultation with the
+ViceChancellor
+196
+The two examiners shall send the individual detailed reports along
+with the duly filled in proforma to the Director DARE The Director
+will forward the reports to the research supervisor of the scholar
+197
+The supervisor convener shall prepare a consolidated report
+bringing out the salient points made in the individual reports of
+the examiners and place the consolidated report and the
+examiners reports before the RAC After approval of the RAC
+members the minutes shall be forwarded to the Director DARE
+198
+If both examiners unanimously recommend the award of the
+degree the candidate will be asked to appear for a public Vivavoce
+examination
+199
+If both examiners give definite recommendation against the award
+of the degree the thesis will be rejected
+1910 If one of the examiners recommends the thesis for the award of the
+degree and the other examiner rejects the thesis the thesis shall
+be referred to a third examiner belonging to the same category
+ie Indian or foreign for evaluation
+1911 The third examiner will not be provided with the report of the
+other two examiners If the third examiner recommends the award
+of the degree the candidate will be asked to appear for a public
+Vivavoce examination If the third examiner also does not
+recommend the award of the degree the thesis will be rejected
+1912 If the examiners recommends suggestions corrections
+modificationsalterations and does not insist on resubmission
+asking the candidate to carry out the correctionsmodifications in
+the thesis then the candidate will be informed accordingly
+through the research supervisor The candidate shall carry out the
+corrections suggested by the examiners The supervisor shall
+furnish a certificate Annexure28 stating that all corrections have
+been carried out which shall be endorsed by the RAC HOD and
+the Dean The corrected thesis along with the certificate shall be
+sent to the Director DARE before the Vivavoce examination
+1913 If the examiners recommends revision and resubmission by one
+or both the points of revision shall be indicated clearly in the
+reports The necessary corrections shall be carried out by the
+scholar and the revised version shall be submitted along with the
+Minutes of RAC meeting for resubmission of thesis Annexure29
+to the Director DARE who will in turn send the corrected thesis
+24
+to the concerned examiners If the examiners isare still not
+satisfied with the revised version the thesis will be sent to another
+examiner If the revision is accepted by the examiners the Vivavoce examination will be conducted
+200 PUBLIC VIVAVOCE EXAMINATION
+201 The reports of the examiners shall be made available to the
+convener research supervisor of the Vivavoce board and the
+coresearch supervisorif any The reports shall be placed in the
+RAC and obtain the approval for the conduct of Vivavoce
+examination
+202 The Vivavoce Board Annexure30 shall consist of the research
+supervisor cosupervisor if applicable the Indian examiner
+External Examiner who evaluated the thesis and the Head of the
+Department Internal Member The research supervisor shall be
+the convener of the Vivavoce Board The research supervisor shall
+consolidate the results of the Vivavoce Examination and
+communicate to the Director DARE
+203 If the Indian External Examiner who evaluated the thesis is
+unableunavailable to conduct the Vivavoce examination one of
+the examiners from the panel of Indian examiners submitted shall
+be appointed by the ViceChancellor to conduct the Vivavoce
+examination
+204 The Vivavoce examination shall be conducted within two months
+from the date of receipt of the reports by the examiner The
+Vivavoce should not be conducted on Saturday Sunday and public
+holidays The date of Vivavoce examination shall be finalized in
+consultation with the external examiner and Head of the Department
+at least 15 days prior to Vivavoce date and the same shall be
+communicated to the Director DARE The circulars for vivavoceAnnexure31shall be communicated to the Director DARE
+other departments other Institutions faculty members and research
+scholars at least two weeks prior to the vivavoce examinations A
+minimum of 25 members excluding the vivavoce board members
+shall be present for the Vivavoce examination
+205 If the Head of the Department happens to be the research
+supervisor one of the senior faculty members in the department
+shall be recommended by the Head of the Department as an
+Internal Examiner and the same has to be forwarded to the Director
+DARE for approval
+206 A copy of the thesis will be kept in the Department Library for
+perusal by those interested in the thesis for at least 15 days
+preceding the conduct of the public Vivavoce examination
+25
+207 The purpose of the Vivavoce examination is to test the
+understanding of the scholar on the subject matter of the thesis
+and the competence in the general field of study The scholar shall
+be asked to make a brief presentation before the audience and
+answer the questions raised by the examiners and the audience
+208 The Vivavoce examination shall be held in all seriousness befitting
+the solemnity of an examination and no attempt shall be made to
+treat it as a mere formality The candidate and the supervisor shall
+not indulge in any action that may be perceived as influencing the
+external examiner
+209 The minutes of Vivavoce shall contain a comprehensive report
+including the performance of the candidate the answers furnished by
+the candidate to the questions raised by the Indian and Foreign
+examiners in their reports the Vivavoce board of examiners as well
+as by the audience The proceedings of Vivavoce Annexure32
+along with a list of participants with their signature designation and
+address Annexure33 and checklist Annexure34 should be
+submitted to the Director DARE immediately after the Vivavoce
+examination on the same day
+2010 A candidate who is successful in the public Vivavoce Examination
+shall be recommended for the award of the PhD degree by the
+Vivavoce Board of examiners
+2011 If a candidate fails to defend hisher thesis satisfactorily in the
+Vivavoce examination the candidate may be permitted to
+reappear for the Vivavoce after a period of three months
+2012 The Vivavoce board shall recommend one of the following
+i that the degree be awarded
+ii that
+the
+candidate
+be
+reexamined
+in
+a
+second
+Vivavoce examination This will be done after a period of 3
+months
+iii that the degree be not awarded and the thesis be rejected
+2013 The consolidated recommendation will be placed before the
+Syndicate for its approval from the date of Vivavoce examination
+and the Degree for the approved candidates will be awarded in the
+convocation in person or in absentia
+210 AWARD OF PhD DEGREE
+211
+After the thesis is approved by the Syndicate prior to the actual
+award of the degree in the Convocation a certificate of completion
+of Vivavoce Annexure35 and Provisional Certificate shall be
+issued on written request from the scholar to the effect that the
+Degree has been awarded in accordance to the provisions of UGC
+Regulations 2016
+26
+212
+The PhD Degree Certificate shall contain the name of the scholar
+photo of the scholar and also the title of the thesis along with the
+names of the FacultyFaculties and disciplinesFurther the
+degree certificate shall also contain the statement The degree is
+awarded in compliance with the University Grants Commission
+Regulations 2016
+213
+In the case of the award of the PhD Degree for interdisciplinary
+research the Degree Certificate shall bear the subject of the
+candidates postgraduate degree and the discipline of the
+departments in which the candidate has conducted hisher
+doctoral research mentioning them as interdisciplinary
+220 CANCELLATION OF REGISTRATION
+221 The registration of a scholar who has not submitted hisher thesis
+before the end of the maximum duration including the extension
+period for the programme as in Clauses 111 and 112 shall stand
+cancelled automatically
+222 The registration is liable for cancellation if
+i The scholar has not paid the yearly fees within the stipulated
+time
+ii Two successive progress reports are not submitted or not
+satisfactory
+iii If the scholar fails to complete the confirmation of provisional
+registration within two years from the date of registration for
+the PhD programme
+iv Prior permission not obtained for break of study from the
+Director DARE
+v Does not complete the course works within the stipulated
+time
+vi If the scholar misbehaves in the University campus and acts
+against the rules and regulations of the University
+vii The scholar wishes to withdraw from the programme and
+requests to cancel hisher registration
+viii Extension of time beyond six years not obtained as in clause
+112
+ix Submission of thesis beyond three months from the date of
+approval of synopsis by the RAC without prior permission
+27
+x Submission of revised thesis incorporating the suggestions of
+any examiner beyond six months
+xi The act of plagiarism involved in the research article
+synopsisthesis
+xii Communicating with the thesis examiners in any form by the
+scholar supervisor cosupervisor if applicableanybody
+xiii Any violation of the rules and regulations of PhD programme
+230 PUBLICATION OF THE THESIS
+231 The thesis once submitted becomes the property of the University
+232 In case the research comes under the classified category it shall
+not be published without prior approval of the Syndicate
+233 The Syndicate may grant permission for publishing the
+resultsfindings based on a written request from the candidate
+through the research supervisor
+234 In case the thesis does not fall under the classified category the
+research scholar may publish hisher thesis results after obtaining
+necessary permission from the ViceChancellor
+235 Two copies of the thesis in its published form must be submitted to
+the office of the Director DARE
+240 THE ACT OF PLAGIARISM
+241 In the case of scholars who have committed the act of plagiarism in
+the SynopsisThesisJournal Publication heshe shall be called for
+enquiry at the DARE and shall be advised to rectify the plagiarism
+and resubmit the documents with appropriate penalty If the
+scholar fails to rectify the plagiarism in the documents the
+ThesisDegree shall be forfeited and hisher research registration
+shall be cancelled and also heshe shall be debarred to register for
+any other programme in the University
+242 For the abetment of the above such action the recognition of
+hisher supervisor shall be withdrawn for a period of five years and
+heshe shall be debarred from guiding the scholars for any
+research programme in the University till the end of the period
+243 If any scholar has committed an act of selfplagiarism in the
+publications and ascertained by the committee constituted by the
+ViceChancellor such work shall not be allowed in hisher thesis
+and the scholar shall be fined upto Rs 50000 with a warning to
+28
+the supervisor The SynopsisThesis of such scholar shall be
+accepted only based on a new publication in a refereed Journal as
+applicable If plagiarism is detected in the PublicationThesis of
+any other scholar under the same supervisor the recognition of
+hisher Supervisorship shall be withdrawn for a period of five years
+and heshe shall be debarred from guiding the scholars for any
+research programme in the University till the period is over
+244 If a plagiarism is observed in the later stage at any point of time
+the PhD Degree awarded to the scholar shall be withdrawn
+250 REPOSITORY OF THE THESIS
+251
+Following the successful completion of the evaluation process and
+before the announcement of the award of the PhD Degree the
+Institution concerned shall upload the electronic version of PhD
+thesis to the Shodhganga  INFLIBNET so as to make it accessible
+to all InstitutionsColleges and one copy of the thesis should be
+submitted to the department library and another copy of the
+thesis should be submitted to the University General library
+260 ETHICAL  LEGAL REQUIREMENTS
+261
+All research involving use of all data and material relating
+tohuman subjects as well as laboratory animals must be approved
+by the appropriate Ethical Committee constituted by the
+University In practice this means that no research in this line can
+be undertaken until all the required approvals and authorisations
+have been given from the Appropriate Ethical committees
+262
+It is the responsibility of the research supervisor and the research
+scholar to obtain approval from the relevant committee before
+initiating the research work
+263
+The research supervisors and scholars shall follow the regulations
+stipulated by appropriate bodies for undertaking research
+Annamalai University has constituted Institutional Committees to
+scrutinize and approve research proposals
+2631 Institutional Psychology Research Ethics Committee IPREC for
+research in Psychology and Institutional Humanities and Social
+Sciences Research Committee IHSSRC for research in Arts
+Humanities and Social Sciences or cognate areas shall scrutinize
+research proposals to ensure that the dignity human rights
+health safety and privacy of research participants are protected
+that valid consent has been obtained and that the information
+gained by the research is not outweighed by any costs to the
+29
+subject in time effort discomfort or potential risk These
+Committees will also explore potential ethical issues that may
+arise as a result of the proposed research work
+2632 Institutional Technology Ethics Committee ITEC will address
+ethical issues specific to new and emerging technologies in terms
+of impact on the environment and human wellbeing
+264 Regulations for Studies on Plants All research works carried out on
+transgenic plants shall follow the guidelines laid down by the
+Department of Biotechnologyhttpdbtindianicinguidelines98 pdf
+265 Regulations for Field work Permission for field work shall be
+obtained from the Departments of Forests Fisheries National
+Biodiversity Authority Wildlife etc as appropriate
+266 Regulations for Studies on Laboratory Animals The Institutional
+Animal Ethics Committee IAEC shall examine proposals involving
+research on laboratory animals
+a The proposals shall be submitted to the IAEC for evaluation and
+approval in the prescribed format httpenvfornicin
+divisioncommitteepurposecontrolandsupervisionexperimentsanimalscpcsea1RF
+b The conduct of animal studies shall follow the rules for Good
+Laboratory Practice established by the Committee for the Purpose
+of Control and Supervision on Experiments on Animals CPCSEA
+under the guidance of an authorized Veterinarian
+c Research scholars engaged in scientific experiments on animals
+shall act in conformation with the provisions of the Prevention of
+Cruelty to Animals Act 1960 and breeding of and experiments on
+animals Control and Supervision Rules 1998 Act amended
+These provisions are enforced by the CPCSEA
+267 Regulations for Biosafety Biosafety rules encompass manufacture
+import export and storage of microorganisms Genetically Modified
+Organisms GMOs and Genetechnology products as supplemented
+by the Biotechnology Safety Guidelines issued by the Department of
+Biotechnology DBT
+268 Regulations for Human Sampling The Institutional Human Ethics
+Committee IHEC will scrutinize the use of human volunteers and
+clinical samples for research Sampling of human tissue and
+biological fluids shall conform to the Ethical guidelines for biomedical
+research on human participants issued by the Indian Council of
+Medical Research New Delhi httpwwwicmrnicinethicalpdf
+2006
+30
+With the burgeoning biomedical and pharmaceutical industry there
+is a growing interest in obtaining human tissues for research
+validation and commercial purposes Researchers must be aware of
+the ethical and legal issues involved in using human tissues and
+comply with the Human Tissue Act 2004 and consent must be
+obtained
+269 Where research is conducted in collaboration with another
+institution outside the University the ethics policies of those
+institutions should be appended to any proposal to be considered
+by the Research Ethics Committee of the University provided the
+experiments are carried out in this University If the experiments
+are carried out in the collaborating institution the procedure may
+be reversed
+270 RESEARCH ETHICS
+Annamalai University is committed to undertake research with
+impeccable scientific integrity and in conformity with the accepted code
+of conduct on Good Research Practices GRP GRP is concerned with
+the organizational process and the conditions under which academic
+research is planned performed monitored recorded archived and
+reported This requires appropriate training and supervision to ensure
+the highest achievable standards for conducting research All Research
+Scholars and Supervisors shall follow these guidelines while planning
+and executing research
+271 Scientific Integrity
+All researchers shall maintain a very high degree of integrity with
+respect to all aspects of research including application for funding
+designing
+and
+conducting
+experiments
+analysing
+data
+interpretation of results and publication of results
+272 Ethical and Legal Requirements
+All researchers must be aware and comply with the ethical and
+legal requirements relating to human participants animals
+disclosures of personal information biological material transfer and
+testing and biodiversity protection before undertaking research All
+researchers are expected to follow the standard procedures for
+conducting research laid down by relevant scientific and
+professional bodies
+273 Conflict of Interest
+A conflicting interest exists when professional judgement
+concerning a primary interest such as scientific knowledge may be
+influenced by a secondary interest such as financial gain personal
+advancement or personal rivalry Conflicts of interests may
+influence interpretation of results Examples of potential conflicts of
+31
+interest include employment consultancies stock ownership
+honoraria paid expert testimony patent applicationsregistrations
+and grants or other funding All conflicts of interest perceived
+potential or actual must be declared
+274 Safety
+A researcher must be aware of the safety precautions and
+potential hazards of materials and equipment use storage and
+disposal of chemicals how to deal with spills and accidents and
+requirement for vaccinations when dealing with biological
+samples Equipment used to generate data should be calibrated
+and serviced regularly to ensure optimal and reproducible
+performance A Standard Operating Procedure SOP and easily
+accessible instructions for safe shutdown in case of emergency
+should be maintained for each equipment
+275 Economy
+All researchers shall exercise the principle of economy in the use
+of resources including infrastructure facilities equipment and
+consumables Regular review meetings shall be conducted by the
+Research Advisory Committee to assess the progress of research
+and to decide stop further experiments
+276 Documentation of Data
+2761 All data must be recorded promptly accurately legibly
+indestructibly and signed and dated by the Research Scholar and
+countersigned by the Supervisor Confidentiality is important for
+data publication and protecting intellectual property
+2762 All raw data documents protocols specimens and reports shall
+be retained and archived by the research supervisor Data must be
+retained intact for a period of at least 7 years from the date of any
+publication Proper documentation of data will help in establishing
+ownership rights and provide proof against charges of cheating or
+falsification
+277 Publication
+Annamalai University encourages researchers to publish research
+data while emphasizing the paramount importance of quality over
+quantity All researchers shall refrain from fudging and fabricating
+data If an error is detected after publication the corresponding
+author shall request the journal to publish an erratum If there
+are concerns and serious doubts about the authenticity of the
+data the authors shall retract the paper from the journal Any
+deviation from GRP and indulgence in research misconduct will be
+dealt with severely as detailed in the ensuing section
+32
+278 Dissemination
+Results that are published may be disseminated provided there is
+no infringement on any Intellectual Property Rights IPR
+However researchers must exercise utmost caution in discussing
+work that is incomplete unpublished or pending patent
+application
+280 RESEARCH MISCONDUCT
+281 Annamalai University policy on defining and dealing with research
+misconduct adheres to national and international conventions on
+the issue and the policy statement issued by the Govt of India on
+addressing situations related to national integrity which is the
+foundation of research
+282 Research or scientific misconduct is defined as fabrication
+falsification and plagiarism selfplagiarism or deception in
+proposing carrying out or reporting research results However
+honest error or differences of opinion cannot be classified as
+research misconduct
+2821 Fabrication involves making up results and publishing themA
+minor form of fabrication is where references are included to give
+arguments the appearance of widespread acceptance but are
+actually fake andor do not support the argument
+2822 Falsification refers to manipulation of research materials
+equipment or processes or changing or omitting data or results
+such that the research is not accurately represented in the
+research record
+2823 Plagiarism involves the appropriation of another persons ideas
+processes results or words without giving appropriate credit
+Plagiarism also includes deliberate failure to appropriately credit
+prior work by others thereby giving a false impression of priority
+citation plagiarism Selfplagiarism is also considered as
+scientific misconduct
+2824 Ghostwriting the practice of commissioning an anonymous writer
+is also regarded as a form of plagiarism because it undermines the
+integrity of scientific publication system
+2825 Unacceptable Authorship
+Guest authorship refers to granting authorship out of respect for
+an individual or because it will increase the likelihood of
+publication credibility or status of the work
+Gift authorship is credit offered from a sense of obligation or
+anticipated benefit to an individual who has not contributed to the
+work Ghost authorship is denying authorship to an individual
+33
+who has made substantial contributions to the research or writing
+of a manuscript
+2826 Violation of ethical standards in human and animal experiments
+2827 Suppression or failure to publish findings adverse to the researchers
+interests
+2828 Failure to follow established protocols if this failure results in
+unreasonable risk or harm to humans or the environment and
+facilitating of misconduct in research by collusion in or
+concealment of such actions by others
+2829 Intentional unauthorized use disclosure or removal of or damage
+to researchrelated property of another including apparatus
+materials writings data hardware or software or any other
+substancesor devices used in or produced by the conduct of
+research
+290 INVESTIGATION OF RESEARCH MISCONDUCT
+291
+A committee duly constituted by the University will investigate the
+complaints of alleged research misconduct by the research scholars
+andor supervisors
+292
+The following is the composition of the committee to investigate the
+complaints of alleged research misconduct by the research scholars
+andor supervisors
+Designation
+Members
+The Director DARE
+Convener
+The Dean of the concerned Faculty
+Member
+Head of the Department or a senior Professor in the
+Department
+Member
+Head of the Department from the concerned faculty
+other than the scholar department nominated by
+the ViceChancellor
+Member
+One Lady Faculty member nominated by the
+Vicechancellor
+Member
+293 Confidentiality will be maintained during the investigation including
+the identity of the individual registering the complaint
+complainant
+294 If the misconduct is unintended due to an error in interpretation
+or the charges are baseless the complaint will be dismissed
+However a report will be filed in the office
+34
+295 If the complaint is credible the committee after informing the
+PhD scholar and research supervisor against whom the complaint
+has been made the subjects will assess the authenticity of the
+charge and the nature of the misconduct based on the material
+evidence available
+296 The person scholarsupervisor will be allowed to defend
+himselfherself However heshe shall provide the Committee
+access to reports raw data electronic records manuscripts and
+any other material relevant to the investigation
+297 The committee shall complete its investigation and submit its report
+on the recommended course of action within a period of thirty days
+298 Annamalai University regards research misconduct as a serious
+offence and any member of staffstudents may raise bonafide
+concerns confidentially and without fear of suffering a detriment
+However if the allegations prove to be made frivolously or with
+malicious intent formal action against the complainant will be
+initiated
+299 If the charges of misconduct are proved the subjects will be
+notified and disciplinary action initiated
+CHAPTER III
+TRANSITORY PROVISIONS
+300 AMENDMENTS TO THE ORDINANCE
+This ordinance is subject to modifications or amendments as and
+when situation warrants from time to time by the Syndicate based
+on the recommendations of the Academic council
+310 INTERPRETATION OF THE ORDINANCE
+If any dispute arises in the interpretation of the ordinance the
+decision of the Syndicate shall be final
+35
+ANNEXURES
+36
+Annexure  1
+NO OBJECTION CERTIFICATE
+Date
+From
+To
+The Registrar
+Annamalai University
+Annamalai Nagar
+Sir
+Sub No Objection Certificate from the employer to register
+for PhD Programme under Parttime mode at
+Annamalai University  Reg
+This is to certify that Mr  Ms 
+is working as on regular basis from
+in our Organization  Institution  Industry and
+heshe is interested in pursuing PhD Degree Programme at Annamalai
+University under Parttime mode
+We do not have any objection to himher pursuing PhD Degree
+Programme under Parttime mode at Annamalai University The
+Organization is willing to depute the employee to Annamalai University as
+and when heshe undertakes course work and other related research
+work
+Signature and Seal of the
+Concerned Authority
+37
+Annexure  2
+ANNAMALAIUNIVERSITY
+To be filled by cosupervisor applicable for Parttime and
+Interdisciplinary research
+1
+2
+3
+4
+5
+Name of the Applicant
+Name of the cosupervisor
+Date of Birth  Age
+Designation Place of Work
+Contact Address with
+PhoneMobile
+email
+6 Qualifications
+Specialization
+Name of Degree
+major
+College and
+University
+Month  Year of
+Passing  Class
+7 Title of the PhD thesis
+8 No of research papers published in accredited
+indexed journals enclose full list
+9 No of books published  invited chapters
+contributed enclose list
+10 Total research experience enclose details
+Years
+11 Positions held
+Name of Institution
+From
+Months
+To
+12 Subject  Discipline in which propose to
+guide PhD Scholars
+13 Whether already recognized as PhD guide by any
+other institution if so give details
+14 Total No of candidates registered at present under
+you as cosupervisor at Annamalai University
+Signature of CoSupervisor
+Signature of the Head of Institution
+38
+Annexure  3
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Lr No
+Date
+To
+MrCChandran through the Research Supervisor
+Research Scholar
+Department of Mechanical Engineering
+Annamalai University
+Annamalainagar  608 002
+Sub PhD Programme  Mr C Chandran Research Scholar
+ Change of Category Orders issued
+Ref
+1 This office LrNo
+2019 dated 26072019
+2Letter Dt 05062020 from Dr CChandran research
+scholar through supervisor and HoD of the department
+With reference to the letter 2nd cited Mr C Chandran Research Scholar
+registered under the supervision of Dr KSivasankar Associate Professor
+Department of Mechnical Engineering is permitted to continue his PhD
+Programme from PartTime to FullTime Fulltime to Parttime Category
+with effect from 06052020
+DIRECTOR
+Copy to
+1 Dean Faculty of Engineering  Technology
+2 The Head Department of Mechanical Engineering
+3 Dr KSivasankar Associate Professor
+Department of Mechanical Engineering
+39
+Annexure  4
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Lr No
+Date
+To
+Dr S Murugan
+Assistant Professor
+Department of Management Studies
+Annamalai University
+Annamalainagar  608 002
+Sir  Madam
+Sub PhD Programme  Provisional Registration  Orders issued
+Ref ViceChancellor approval dated 25092020
+I am to inform that Ms Suba S is permitted to register provisionally for
+PhD Programme as PartTime scholar in the Department of Business
+Administration of Annamalai University during 2020 session under your
+guidance
+Topic of Research QUALITY OF WORKLIFE OF SCHOOL TECHERS IN
+DINDIGUL DISTRICT
+The Research Scholar may be instructed to submit the Enrolment
+Form within a period of 15 days from the date of issue of this order The
+research scholar should submit the Semester Progress Report and
+Registration Renewal Form in the prescribed format at the time of payment of
+regular semester fee
+The
+Registration
+Number
+of
+the
+research
+scholar
+is
+PhD191XXYY001
+In all future correspondence quote PhD191XXYY001  for
+reference The research scholar will be governed by the Regulations 2019
+for PhD Programme of this University and any amendments made to the
+Regulations from time to time
+DIRECTOR
+Copy to
+1 Ms Suba S Research Scholar Department of Business Administration
+2 Dean of the Faculty
+3 The Head of the Department
+4 The Head of the Institution of the Scholar
+40
+Annexure  5
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Lr No
+Date
+To
+Dr S Elangovan
+Professor
+Department of Civil Engineering
+Annamalai University
+Annamalainagar  608 002
+Sir  Madam
+Sub PhD  Nonpayment of yearly fees  Explanation called for  Reg
+Ref
+This office LrNoCRPhDAdmnJAN2016 dt 26122015
+I wish to bring to your attention that the research scholar
+Mr Sivakumar registered for PhD under your supervision has not paid the
+yearly fees for 201920
+Clause 83 of PhD regulation reads the registration is liable for
+cancellation if the research scholar has not paid the yearly fees within the
+stipulated time
+I therefore request you to instruct the scholar to pay the fees online in
+any case on or before 10062020 in order to enable himher to continue
+hisher research If the fees is not paid before the above said period the
+registration of the scholar will be cancelled automatically without any further
+intimation and the scholar cannot claim for continuation of hisher PhD
+Programme
+Yours faithfully
+DIRECTOR
+Copy to
+1 The Dean Faculty of Engineering and Technology
+2 The Head Department of Civil Engineering
+3 Mr Sivakumar Research Scholar
+5086 Ellai Amman Koil Street Sivamalai Enclave Pudukottai
+41
+Annexure  6
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Reference No
+Application for Supervisor recognition for PhD
+1 Name  Contact Details
+Mobile
+Landline
+Email
+Date of Birth
+2Qualification Details
+SlNo
+Degree
+1
+PhD
+2
+MPhil
+3
+PG
+4
+UG
+Sl
+No
+Year of
+Passing
+University
+3 Experience Details
+UnivRDOrg
+InduColleges
+Dr Velmurugan P
+Assistant Professor of Psychology
+Annamalai University
+Annamalainagar  608 002
+Branch 
+Specialization
+Class 
+CGPA
+Obtained
+Designation
+From
+To
+1
+2
+3
+4
+5
+6
+7
+Total
+42
+Total
+Years
+4 Faculty
+5 Department
+6 Areas of Specialization
+7 List of Publications
+i
+ii
+iii
+iv
+v
+8 Attach at least two best publications Photo copy
+9 Any other details
+Signature of the Applicant
+Recommended  Forwarded
+Signature of
+Head of the Department
+Name with Seal
+Signature of
+Dean of the Faculty
+Date 
+Place 
+43
+Annexure  7
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Lr No
+Date
+To
+Dr P Periasamy
+Associate Professor
+Department of Mechanical Engineering
+Annamalai University
+Annamalainagar  608 002
+Sir  Madam
+Sub PhD Programme  Supervisor Recognition  Orders issued
+Ref Your application for Supervisor Recognition
+I am by direction to inform that you are recognized as a Supervisor for
+guiding PhD scholars of this University under the faculty of Mechanical
+Engineering
+Area of Specialization  Heat Transfer Nanofluids Energy IC Engines
+I request you to adhere strictly to the regulations when you start
+guiding scholars
+In all future correspondence quote 320001 for reference
+DIRECTOR
+Copy to
+1 Dean Faculty of Engineering  Technology
+2 The Head Department of Mechanical Engineering
+44
+Annexure  8
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Lr No
+Date
+To
+Dr M Sivapragash
+Associate Professor
+Department of Economics
+Annamalai University
+Annamalainagar  608 002
+Sir  Madam
+Sub PhD Programme  Mr A Ramesh Research Scholar 
+Change of Supervisor Orders issued
+Ref 1 This Office Proceedings of even number dated 09072019
+2 Letter dated 05052020 from the Research Scholar
+through the Supervisor  HOD
+Under the circumstances stated in the reference 2nd cited
+Dr M Sivapragash Associate Professor Department of Economics has
+been nominated as Supervisor in the place of Dr T Sasikumar in respect
+of the Research Scholar Mr A Ramesh
+Clause 9141 of PhD Regulation reads
+If change of Supervisor is approved the scholar has to work
+for a minimum of one year with the new Supervisor
+DIRECTOR
+Copy to
+1 Dean Faculty of Arts
+2 The Head Department of Economics
+3 Dr T Sasikumar Assistant Professor Department of Economics
+4 Mr A Ramesh Research Scholar through
+the Research Supervisor Dr M Sivapragash
+45
+Annexure  9
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Lr No
+Date
+To
+Dr A Anbarasu
+Assistant Professor Department of Physics
+Annamalai University
+Sir  Madam
+Sub 
+PhD Programme  Mr A Krishnan Research Scholar Break
+of Study  Orders issued  Reg
+Ref
+1 LrNo CRPhDAdminJUL2020 Dt 15042020
+2 Letter Dt 05032020 MrA Krishnan Research Scholar
+forwarded by Supervisor and Head of the Department
+Under the circumstances explained in the reference 2nd cited I am to
+inform you that Mr A Krishnan PhD Research Scholar FullTime has been
+granted
+break
+of
+study
+for
+a
+period
+of
+6
+months
+from
+01112019 to 30042020 with the following conditions
+i He should pay the programme fees applicable periodically onthe due date
+during the above period of break of study If fees is not paid within the
+stipulated time registration shall be cancelled automatically without any
+further intimation
+ii The above period will also be reckoned for the calculation of the maximum
+duration of the programme After the break of study the scholarhasto
+continue the PhD Programme to complete the minimum period excluding the
+break of study period
+iii He shall forward the joining report through the Supervisor and HoD of the
+Supervisor to this office after availing the break of study
+Yours faithfully
+DIRECTOR
+Copy to
+1 The Dean Faculty of Science
+2 The Head Department of Physics
+3 Mr A Krishnan Research Scholar through the Supervisor Dr A Anbarasu
+46
+Annexure  10
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+REQUEST FOR EXTENSION OF TIME
+Name of the Scholar
+Roll No
+Programme
+PhD
+Category of Registration
+FullTime  PartTime
+Faculty
+Mobile No
+Email id
+Date of Registration of the Programme
+Supervisor Name  Address
+CoSupervisor Name  Address
+if applicable
+Reason for Extension of time
+Synopsis Submitted
+Yes  No
+Extension of time 
+1 year  months from  to 
+Date 
+Place 
+Signature of the Scholar
+Signature of the CoSupervisor
+Name with Seal
+Signature of the Supervisor
+Name with Seal
+Signature of
+Head of the Department
+Name with Seal
+Signature of the Dean
+Name with Seal
+47
+48
+Annexure  11
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Lr No
+Date
+To
+Dr K Padma
+Associate Professor
+Department of Entomology
+Annamalai University
+SirMadam
+Sub PhD Programme  Mr S Venkatesh Research
+Scholar  Submission of Synopsis and Thesis Extension
+ Orders issued  Reg
+Ref Letter dated 17082020 from Mr S Venkatesh
+Research Scholar Duly forwarded by the Supervisor
+and HOD
+I am to inform that the research scholar Mr S Venkatesh has been
+granted extension up to 31122021 7 years beyond the maximum
+period completed on 31122020 Hence the scholar shall be instructed
+to pay the prescribed fees for the extended period along with the half
+yearly progress report duly signed by the supervisor and RAC members
+The scholars registration shall be cancelled automatically without
+any further intimation beyond the maximum extension period of one year
+DIRECTOR
+Copy to
+1 Mr S Venkatesh Research Scholar
+through the Supervisor Dr K Padma
+2 The Dean Faculty of Agriculture
+3 The Head Department of Entomology
+49
+Annexure  12
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+MINUTES OF THE FIRST RESEARCH ADVISORY COMMITTEE MEETING
+The
+Research
+Advisory
+Committee
+MrMs
+at 11 amin the Department of Botany
+Meeting
+of
+Roll No
+the
+PhD
+Scholar
+ was held on
+The following members were present
+1
+Supervisor  Convener
+2
+CoSupervisor if applicable
+3
+Head of the Department
+4
+Member
+5
+Member
+MrMs
+has presented an overview of the proposed research work The
+Research
+Advisory
+Committee
+has
+approved
+the
+research
+topic
+as
+ The Committee has recommended the
+scholar to undertake the following course works based on the qualification of the
+candidate and the proposed research area
+Course
+Code
+Course Title
+Credits
+Core Course Elective
+Special Elective
+Number of course works as applicable to the scholars
+Member
+Signature with Name and Date
+Member
+Signature with Name and Date
+CoSupervisor
+Signature with Name Date and Seal
+Supervisor
+Signature with Name Date and Seal
+Signature of Head of the Department
+Name with Seal
+50
+Annexure  13
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+MINUTES OF THE RESEARCH ADVISORY COMMITTEE MEETING
+FOR CONFIRMATION OF PROVISIONAL REGISTRATION
+The Research Advisory Committee Meeting of the PhD Scholar
+MrMs Janani A RollNo PhD191XXYY001PartTime was held
+on at ampm in the Department of History The following members
+were present
+Dr Baskaran R
+Supervisor  Convener
+Dr Kandasamy K
+CoSupervisor if applicable
+Dr Abirami S
+Member
+Dr Dhavachelvan P
+Member
+Dr Jagadeesan R
+Head of the Department
+MrMs Janani A has successfully completed the following course
+works recommended by the Research Advisory Committee HeShe has
+obtained the following grades in the course work
+Sl
+No
+Course
+Code
+Course Title
+Credits
+Category
+1
+Core
+2
+Core
+3
+Elective
+Grade 
+Marks
+4
+5
+6
+7
+8
+CGPA
+Comprehensive Examination
+Pass  Fail 
+CoE signed result sheet of the course works duly attested by the
+Supervisor with seal should be enclosed along with this
+The scholar completed the first seminar presentation on to
+the faculty members and research scholars The attendees list is enclosed
+herewith The committee also evaluated the research work carried out by
+the scholar and satisfiednot satisfied with the performance of the
+51
+scholar Hence the Committee recommendsdoes not recommend the
+confirmation of provisional registration of the scholar in the Faculty of
+Science Department of Zoology and permitsdoes not permit the scholar
+to proceed with hisher research work
+Member
+Signature with Name and Date
+Member
+Signature with Name and Date
+CoSupervisor
+Signature with Name Date and Seal
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+Strike off whichever is not applicable
+52
+Annexure  14
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+CHECK LIST FOR THE CONFIRMATION OF PhD REGISTRATION
+1
+Research Advisory Committee meeting Minutes and
+Research Performance Assessment signed by all the
+RAC members
+YESNO
+2
+No of Courses attended not applicable for MPhil
+scholars
+YESNO
+3
+Photo Copy of mark sheets of the course works signed by
+COE attested by the Supervisor
+YESNO
+4
+Original copy of the circular for the seminar presentation
+YESNO
+5
+Attendance particulars for the seminar presentation
+Applicable to all scholars irrespective of year
+registration
+YESNO
+of
+6
+Comprehensive examination result mentioned in the RAC
+minutes
+YESNO
+7
+Approval of Research Advisory Committee members for
+change of course work course codecourse title
+YESNO
+8
+For scholars with MPhil qualification attested copy of
+MPhil degree certificate
+Mode of completion of MPhil degree FulltimeParttimeDistance mode
+YESNO
+9
+Faculty for confirmation is same as that of Provisional
+Registration
+YESNO
+Checked and found Correct
+CoSupervisor
+Signature with Name Date and Seal
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+53
+Annexure  15
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Lr No
+Date
+To
+Dr K Vijayan
+Assistant Professor
+Department of Physics
+Annamalai University
+Annamalainagar  608 002
+Sir  Madam
+Sub PhD Programme  MrMs S Venkatesh Research
+Scholar  Confirmation Orders issued
+Ref
+1 This office LrNo
+Dt 1507 2019
+2 Letter Dt 20072020 from Dr K Vijayan Associate
+Professor
+Department
+of
+Physics
+Annamalai
+University
+The Provisional registration granted to MrMs S Venkatesh to
+pursue PhD Programme in this University vide Ref 1st cited is
+confirmed The research scholar is permitted to proceed further with the
+research work as recommended by the Research Advisory Committee
+constituted for the research scholar under the Faculty of Science
+Department of Physics
+DIRECTOR
+Copy to
+1 Dean Faculty of Science
+2 The Head Department of Physics
+3 Mr S Venkatesh Research Scholar through
+the Supervisor Dr K Vijayan
+54
+Annexure  16
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Lr No
+Date
+To
+Dr K Abraham
+Associate Professor Department of History
+Annamalai University Annamalainagar  608 002
+Sir  Madam
+Sub PhD Programme  Mr R Pugalenthi Provisional
+Registration Cancellation  Orders issued  Regarding
+Ref 1 This office LrNo PhDAdmnJAN2018 dt
+23122017
+2 Letter dated 02012019 from the Research Scholar
+Mr R Pugalenthi forwarded through the Supervisor
+and Head of the Department
+Under the circumstances stated in the letter 2nd cited I am to
+inform you that the provisional registration granted to the Research
+Scholar Mr R Pugalenthi for pursuing PhD Programme in the
+Department of History Faculty of Arts in this University in the reference
+1st cited stands cancelled The candidate cannot claim the continuation
+of registration in the future
+Yours faithfully
+DIRECTOR
+Copy to
+1 The Dean Faculty of Arts
+2 The Head Department of History
+3 MrMs R Pugalenthi Research Scholar
+10A South Mada Street 1st Moorthy Samy ColonyCuddalore
+55
+Annexure  17
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Research Progress Report
+To be submitted every six months from date of Registration
+1
+2
+Name and Roll No of the
+Scholar
+Programme
+ PhD
+3
+Title of research work
+4
+Date of previous RAC meeting
+5
+Brief report of the research work carried out between previous and present
+RAC meetings Mention the objectives completed
+6
+List research paper publishedaccepted for publicationcommunicated for
+publication  patents National International filed  approved
+7
+National  International ConferenceSymposia attended Give details such
+as Name of the Conference venue title period
+8
+Overall assessment and comments about the progress of the research
+scholar
+FTPT Internal External
+Member
+Signature with Name and Date
+Member
+Signature with Name and Date
+CoSupervisor
+Signature with Name Date and Seal
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+Note Research Performance Assessment restricted to maximum 2 pages should
+be submitted along with the minutes of RAC meeting duly signed by RAC
+members
+56
+Annexure  18
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+MINUTES OF THE RESEARCH ADVISORY COMMITTEE MEETING
+FOR SUBMISSION OF SYNOPSIS
+The Research Advisory Committee Meeting of the PhD Scholar
+MrMs
+Roll No
+ was held on
+at
+ampm
+in the Department of  The following members were present
+1
+Supervisor  Convener
+2
+CoSupervisor if applicable
+3
+Head of the Department
+4
+Member
+5
+Member
+The Research Advisory Committee critically reviewed the research work
+entitled 
+carried out by
+MrMs
+and the contents of the draft Synopsis The scholar
+completed the presynopsis presentation on 
+to the faculty members
+and research scholars The attendees list is enclosed herewith The scholar
+has  publications in the journals SCIUGC listed from hisher research
+work
+The scholar has the following publications in the listed journals
+1
+ AcceptedPublished
+2
+ AcceptedPublished
+It is also certified that the PaperPapers mentioned above are within the
+scope of the Journal and the paperpapers isare relevant to the PhD work
+carried out by the scholar
+The Committee is satisfied with the research performance of the scholar the
+quality and quantum research work and approves the Synopsis submission
+The Committee also recommends the panel of Indian and Foreign Examiners
+for the evaluation of the Thesis
+Member
+Signature with Name and Date
+Member
+Signature with Name and Date
+CoSupervisor
+Signature with Name Date and Seal
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+Annexure  19
+57
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+CERTIFICATE FOR SUBMISSION OF SYNOPSIS
+AFTER COMPLETION OF MINIMUM DURATION
+1
+Name of the Research Scholar
+2
+Roll No
+3
+Date
+of
+Provisional
+Confirmation
+4
+Faculty  Department
+5
+Category of Registration
+6
+Date of RAC
+submission
+7
+Break of study availed if any mention
+the period
+8
+Duration of research period from the
+date
+of
+submission
+of
+synopsis
+excluding the break of study period
+Year
+Synopsis
+submitted
+minimum duration
+Yes  No
+Yes  No
+9
+meeting
+Registration
+for
+synopsis
+within
+the
+If Yes whether the scholar has two
+10 publications as per the Annamalai
+University norms
+CoSupervisor
+Signature with Name Date and Seal
+FullTime  PartTime
+Month
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+58
+Annexure  20
+List of attendees for the PreSynopsis seminar Presentation of
+Mr K RATNAVELU Department of Computer Science 
+Engineering held on 15072020 at 1000 am in the Seminar Hall
+Department of Electronics and Communication Engineering
+Annamalai University Annamalainagar  608 002
+SlNo
+Name
+Designation  Address
+1
+Dr P Aruna
+RAC Member
+Professor and Head
+Department of CSE
+2
+Dr S Pasupathy
+Supervisor
+Associate Professor
+Department of CSE
+3
+Dr M Balasubramanian
+RAC Member
+Associate Professor
+Department of CSE
+4
+Dr V Srinivasan
+RAC Member
+Professor
+Department of
+Information Technology
+Signature
+5
+24
+25
+Member
+Signature with Name and Date
+Member
+Signature with Name and Date
+CoSupervisor
+Signature with Name Date and Seal
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+59
+Annexure  21
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+PROFORMA FOR SUBMISSION OF SYNOPSIS
+I
+Registration Details
+Name of the Scholar
+Contact No
+Email ID
+Roll No
+Name of the Supervisor
+Contact No
+Email ID
+Name of the CoSupervisor
+Contact No
+Email ID
+Category at the time of
+Registration
+Change of Category if
+any
+Month and Year of
+Registration
+Period of break of study
+granted if any
+Date of Confirmation
+Date of Completion of
+minimum period
+Faculty and Department as per the
+Provisional Registration Order
+Date
+of
+completion
+maximum period
+of
+Extension
+of
+period
+approved mention date
+Date of Research Advisory
+Committee
+meeting
+for
+approval of Synopsis
+II
+Date of submission
+Synopsis
+upto
+of
+Semester Fee Payment Details
+Month and Year
+Amount Paid
+III Course Work Details
+Course
+Code
+Course Title
+Credits
+Core
+CourseElectiveSpecial
+Elective
+GradeMarks
+CGPA
+Comprehensive Examination
+60
+PassFail
+IV Progress Report
+Period
+JanJun
+JulDec
+JanJun
+JulDec
+JanJun
+JulDec
+JanJun
+JulDec
+Date of
+Submission
+V
+Proof for Confirmation  Change of Category if any
+VI Proof for the Seminar Presentations attach the Circular copies
+VII Publication Details
+Journal
+Published
+National
+International
+Enclose photo copy of the papers published
+VIII Details of Synopsis Fee
+Amount Rs
+DD No
+DD Date
+Name of the Bank
+Branch
+IX Whether Synopsis submitted within the maximum duration
+If No copy of the Extension order should be enclosed
+YESNO
+Certify that the information furnished above is true and correct to the best of my
+knowledge
+Signature of the
+Research Scholar
+Signature of the CoSupervisor
+Signature of the Supervisor
+Signature of the
+Head of the Department
+Name with Seal
+if applicable
+Name with Seal
+Name and Seal
+for Office use only Checked and Accepted
+Dealing Hand
+61
+Annexure  22
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+CHECK LIST WHILE SUBMITTING PhD SYNOPSIS
+1
+Proforma for submission of Synopsis
+YESNO
+2
+Whether change of Supervisor is approved
+a if yes attach a copy of the letter
+b Whether the scholar has completed a minimum of one year with the
+new Supervisor
+YESNO
+3
+Five copies of the Synopsis with soft copy as per Annamalai University
+Regulations
+YESNO
+4
+Original Minutes of the Research Advisory Committee signed by all the
+members
+YESNO
+5
+Panel of Examiners both Indian and Foreign with complete and
+correct postal address including Phone No Mobile No Fax No and
+correct Official Email ID typed onlyin a closed cover
+YESNO
+6
+Recent publications list of all Foreign and Indian examiners in the last
+5 years in a closed cover
+YESNO
+7
+The panel of Foreign Examiners should not be of Indian origin
+YESNO
+8
+Photo Copy of the Provisional Registration Confirmation order
+YESNO
+9
+Photo copies of UG and PG Degree Certificates attested by HOD
+YESNO
+10
+Synopsis fee of Rs
+ in the form of DD any nationalized bank
+drawn in favour of Register Annamalai UniversityAnnamalainagar608002 with filled challan
+YESNO
+11
+Photo copy of the Journal publications
+YESNO
+12
+Photo Copy of the fee challan for all the yearly till the submission of Synopsis
+YESNO
+13
+Certificate for submission of synopsis after the completion of minimum
+duration
+YESNO
+14
+a Whether the Synopsis is submitted within the maximum duration
+b If No enclosed copy of the Extension order
+YESNO
+15
+Photo Copy of the circular for the presynopsis presentation
+YESNO
+16
+Attendance particulars for the presynopsis presentation
+Applicable to all scholars irrespective of year of registration
+YESNO
+17
+Report from URKUND Software attached for all Published  accepted
+Papers listed in Synopsis
+YESNO
+Signature of the
+CoSupervisor
+Checked and found Correct
+Signature of the Supervisor
+62
+Signature of the
+Head of the Department
+Annexure  23
+PANEL OF INDIAN EXAMINERS FOR PhD THESIS EVALUATION
+Name and Roll No of the Scholar
+Programme
+Title of the Thesis
+Faculty Dept as per PG Qualification
+Name of the Supervisor
+Name of the CoSupervisor if applicable
+Sl
+No
+PhD
+FTPT Internal  External
+Name with full and correct postal address with pin code
+Area of specialization
+PANEL OF INDIAN EXAMINERS
+Preferably from IITs NITs Universities and Government Institutions
+Not less than Associate Professor
+1
+2
+3
+4
+5
+Name
+Designation 
+Department 
+Address
+Mobile 
+Name
+Designation 
+Department 
+Address
+Mobile 
+Name
+Designation 
+Department 
+Address
+Mobile 
+Name
+Designation 
+Department 
+Address
+Mobile 
+Name
+Designation 
+Department 
+Address
+Mobile 
+Area of specialization
+Official Email
+No of Publications
+Area of specialization
+Official Email
+No of Publications
+Area of specialization
+Official Email
+No of Publications
+Area of specialization
+Official Email
+No of Publications
+Area of specialization
+Official Email
+No of Publications
+Note For each expert the list of publications in reputed Journals indexed with ScopusWeb of
+ScienceThomson ReutersISI with impact factor during the last five years to be enclosed
+Member
+Signature with Name and Date
+Member
+Signature with Name and Date
+CoSupervisor
+Signature with Name Date and Seal
+if applicable
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+Dean
+Signature with Name Date and Seal
+63
+Annexure  24
+PANEL OF FOREIGN EXAMINERS FOR PhD THESIS EVALUATION
+Name and Roll No of the Scholar
+Programme
+Title of the Thesis
+Faculty Dept as per PG Qualification
+Name of the Supervisor
+Name of the CoSupervisor if applicable
+Sl
+No
+PhD
+FTPT Internal  External
+Name with full and correct postal address with zip code
+Area of specialization
+PANEL OF FOREIGN EXAMINERS
+1
+2
+3
+4
+5
+Name
+Designation 
+Department 
+Address
+Mobile 
+Name
+Designation 
+Department 
+Address
+Mobile 
+Name
+Designation 
+Department 
+Address
+Mobile 
+Name
+Designation 
+Department 
+Address
+Mobile 
+Name
+Designation 
+Department 
+Address
+Mobile 
+Area of specialization
+Official Email
+No of Publications
+Area of specialization
+Official Email
+No of Publications
+Area of specialization
+Official Email
+No of Publications
+Area of specialization
+Official Email
+No of Publications
+Area of specialization
+Official Email
+No of Publications
+Note For each expert the list of publications in reputed Journals indexed with ScopusWeb of
+ScienceThomson ReutersISI with impact factor during the last five years to be enclosed
+Member
+Signature with Name and Date
+Member
+Signature with Name and Date
+CoSupervisor
+Signature with Name Date and Seal
+if applicable
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+Dean
+Signature with Name Date and Seal
+64
+Annexure  25
+PROFORMA FOR SUBMISSION OF PhD THESIS
+I Registration Details
+Name of the Scholar
+Contact No
+Email ID
+Roll No
+Name of the Supervisor
+Contact No 
+Email ID 
+Name of the CoSupervisor
+Contact No 
+Email ID 
+Category at
+Registration
+the
+time
+of
+Change of category if any
+Month and Year of Registration
+Period of break of study
+granted if any
+Date of confirmation
+Date of completion of
+minimum period
+Date of completion of
+Maximum period
+Extension of period
+approved mention date
+Date of RAC meeting for
+Approval of synopsis
+Date of submission of
+thesis
+upto
+II Extension of time for thesis submission beyond 3 months after the
+submission of synopsisif any
+Late fee details
+Amount Rs
+DD No
+DD Date
+Name of the bank
+Branch
+III Whether No Dues Certificate is enclosed 
+Certified that the information furnished above is true and correct to the best of
+my knowledge
+Signature of the Scholar
+CoSupervisor
+Signature with Name Date and Seal
+if applicable
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+For Office use only Checked and Accepted
+Dealing Hand
+65
+Annexure  26
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+CHECK LIST WHILE SUBMITTING PhD THESIS
+1
+Five Copies of the Thesis with soft copy of the Thesis in PDF
+format with each copy prepared as per the guidelines of
+Annamalai University
+YESNO
+2
+a Whether the thesis is submitted within the maximum
+duration
+YESNO
+b if no enclose copy of the extension order
+YESNO
+3
+Whether the thesis is submitted within three months from the
+synopsis meeting
+YESNO
+4
+Proforma for submission of thesis
+YESNO
+5
+No dues certificate original
+YESNO
+6
+Checked for language and grammar
+YESNO
+7
+Report from URKUND software attached
+YESNO
+Synopsis and Thesis titles are the same
+Checked and found correct
+CoSupervisor
+Signature with Name Date and Seal
+if applicable
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+66
+Annexure  27
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+NO DUES CERTIFICATE
+To be submitted along with Thesis to
+the Director DARE Annamalai University Annamalainagar
+Name of the Scholar
+Programme
+ PhD FTPT Internal  External
+Roll No
+Department and Faculty
+Month  Year of Submission of Thesis
+Sl
+No
+1
+University Library
+2
+Department Library
+3
+D1 Section
+4
+5
+Department of the
+Supervisor and Scholar
+Department Store
+6
+Hostel Office
+7
+Project Section GCRD
+8
+Scholarship Section H
+9
+Details
+No Dues Certificate
+Signature
+Name with Seal
+Director DARE
+For Office use Only
+Strike off whichever is not applicable
+Declaration
+I hereby declare that in the event of any due from me found at a later
+date I shall pay the same to the Institution
+Signature of the Scholar
+CoSupervisor
+Signature with Name Date and Seal
+if applicable
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+67
+Annexure  28
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+CERTIFICATE
+a This is to certify that the Vivavoce examination may be conducted for
+the candidate MrMs  for the
+award of Doctor of Philosophy in  since
+both the examiners have recommended for the award of Degree
+OR
+b This is to certify that all corrections and suggestions pointed out by
+the Indian  foreign examiners are incorporated in the thesis titled
+ submittedby MrMs
+So
+the
+Vivavoce
+examination may be conducted for the award of Doctor of Philosophy
+in 
+Place
+Date
+Member
+Research Advisory Committee
+Member
+Research Advisory Committee
+CoSupervisor
+Signature with Name Date and Seal
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+Dean
+Signature with Name Date and Seal
+68
+Annexure  29
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+MINUTES OF THE RESEARCH ADVISORY COMMITTEE MEETING
+FOR RESUBMISSION OF THESIS
+The Research Advisory Committee Meeting of the PhD Scholar MrMs
+Roll No
+ was held on
+at
+ampm in the Department
+of
+ The following members were present
+1
+Supervisor  Convener
+2
+CoSupervisor if applicable
+3
+Head of the Department
+4
+Member
+5
+Member
+The Comments given by the examiners have been reviewed by the
+Research Advisory Committee and the committee certifies that the
+corrections were carried out by the scholar as suggested by the
+examiners
+HeShe is permitted to resubmit the thesis
+Title of the Thesis 
+Member
+Research Advisory Committee
+Member
+Research Advisory Committee
+CoSupervisor
+Signature with Name Date and Seal
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+69
+Annexure  30
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+DIRECTOR
+Emailcareau2018gmailcom
+Proceedings No 2011174172PhDAR6
+Sub
+Date
+PhD Programme  Constitution of VivaVoceExamination Board 
+Conduct of Vivavoce in respect of Mr M Kandan  Orders issued 
+Regarding
+The ViceChancellor is pleased to constitute a Vivavoce Examination Board consisting of the
+following experts to conduct the Vivavoce Examination in respect of the Research Scholar
+Mr M Kandan
+1 Dr K Srinivasan
+Supervisor and Convener
+Associate Professor
+Department of Computer Science
+Engineering
+Annamalai University Annamalainagar
+2 Professor and Head
+Internal Examiner  Member
+Department of Computer Science
+Engineering
+Annamalai University Annamalainagar
+3 Dr B Ramadoss
+Indian Examiner  Member
+Professor Department of Computer Science Engineering
+National Institute of Technology
+Tiruchirappalli  620 015
+The Convener of the Vivavoce Examination Board is requested to conduct the Vivavoce
+Examination on a convenient date except Saturday Sunday and Public holidays The Vivavoce
+Examination for the above scholar shall be conducted as an Open Defense Type The Outside
+member is eligible for TADA as per Annamalai University norms The date of Vivavoce
+examination may be fixed by the Convener in consultation with Indian Examiner and the Head of
+the Department and the same may be communicated to the Director DARE 15 days in advance
+The convener shall conduct the Vivavoce Examination after a minimum of one week from
+the date of Vivavoce notification signed by the HOD The Vivavoce notification shall be
+necessarily communicated to other InstitutionsUniversity HoDs for which evidence to be
+produced along with minutes of the VivaVoce examination A minimum of twenty five members
+excluding the examiners should participate in the Vivavoce examination for which the list of
+participants shall be sent along with minutes of Vivavoce
+A copy of the VivaVoce notification and the minutes of the Vivavoce Examination Board
+shall be sent to the undersigned as per the format specified soon after theVivavoce is over for
+taking appropriate action
+The receipt of the proceedings may please be acknowledged
+DIRECTOR
+To
+Convener  Members
+Annexure  31
+70
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+CIRCULAR
+PhD Public VivaVoce Examination
+Name of the Scholar
+Roll Number
+Category of Registration
+ FulltimeParttime InternalExternal
+Faculty  Department
+Title of the Thesis
+Date and Time of Vivavoce Examination
+Venue
+Name and address of the Supervisor
+Name and address of the Indian Examiner 
+All are cordially invited
+Head of the Department
+Signature with Name Date and Seal
+Supervisor
+Signature with Name Date and Seal
+Copy to
+1 The Controller of Examinations
+2 The Deans of Faculties
+3 The Heads of Departments with request to display in the Department Notice
+Board
+4 The Director DIRECTORATE OF ACADEMIC RESEARCH DARE
+5 The Director Academic Affairs
+6 The Director Research and Development Centre
+7 The University Librarian
+8 The Heads of Departments of other UniversitiesCollegesIITNITIIM with
+request to display in their Department Notice Board
+9 PS to Vicechancellor
+10 PA to Registrar
+71
+Annexure  32
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Proceedings of the PhD Vivavoce Examination of Mr Saravanakumar R held at
+1030 AM on 20052020 at the Department of English AnnamalaiUniversity
+Annamalainagar
+The PhD Vivavoce Examination of Mr Saravanakumar R Roll No
+ on
+hisher PhD Thesis Entitled 
+ was conducted on 20052020 at 1030 AM in
+the Department of English Annamalai University Annamalainagar
+The following members of the Vivavoce Examination Board were present
+1
+Dr P Dhanavel Professor of English
+Indian Institute of Technology
+Chennai  600 032
+IndianExaminer
+2
+Professor and Head
+Department of English
+Annamalai University
+Annamalainagar  608 002
+Internal Examiner
+3
+Dr K Rajaraman Professor of English
+Annamalai University
+Annamalainagar  608 002
+Supervisor Convener
+The Research scholar Mr SaravanakumarR presented the salient features of hisher
+PhD work This was followed by questions from the vivavoce examination members
+The questions raised by the Foreign and Indian Examiners were also put to the scholar
+The scholar answered the questions to the full satisfaction of the board members
+The corrections suggested by the IndianForeign examiner have been carried out and
+incorporated in the Thesis before the vivavoce examination
+Based on the scholars research work hisher presentation and also the clarifications
+and answers by the scholar to the questions the viva voce board recommends that
+Mr Saravanakumar R be awarded PhD Degree in the Faculty of Arts Department of
+English
+Indian Examiner
+Internal Examiner
+Supervisor  Convener
+Annexure  33
+72
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+List of Participants who attended the Public Vivavoce Examination in
+respect of Ms R ANURADHA Department of Sociology on 10072020 at
+1100am in the Seminar Hall Department of Sociology Annamalai University
+Annamalainagar
+Sl
+No
+1
+Name
+Designation 
+Address
+Prof P Kandasamy
+Signature
+Professor and Head
+Department of Sociology
+Madurai Kamaraj
+University Madurai
+Indian Examiner
+2
+ProfRaviramachandra Rao
+Internal Examiner
+Professor and Head
+Department of Sociology
+Annamalai University
+3
+Dr Veerappan
+Supervisor Convener
+Associate Professor
+Department of Sociology
+Annamalai University
+4
+5
+10
+Indian Examiner
+Internal Examiner
+Supervisor  Convener
+73
+Annexure  34
+DEPARTMENT OF 
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+CHECK LIST WHILE SUBMITTING THE PROCEEDINGS OF THE
+VIVAVOCE EXAMINATION
+1 Original Proceedings of the Vivavoce Examination signed by all YESNO
+the members of the Vivavoce Board
+2 AttendanceParticipants list Original
+YESNO
+3 Photo copy of PGMPhil Degree Certificate Attested by HoD
+YESNO
+4 Photo copy of PhD Vivavoce Notification
+YESNO
+Checked and found Correct
+Supervisor
+Signature with Name Date and Seal
+Head of the Department
+Signature with Name Date and Seal
+Note For Provisional Certificate
+The candidate has to send a request letter addressed to
+the Director DARE through proper channel with the PhD Vivavoce
+Completion Certificate and requisite payment
+74
+Annexure  35
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+Emailcareau2018gmailcom
+DIRECTOR
+Ref No
+Date
+TO WHOMSOEVER IT MAY CONCERN
+This is to certify that Mr M Kandan PhD Research Scholar in the
+Faculty of Engineering and Technology Department of Civil  Structural
+Engineering Annamalai University Annamalainagar  608002 has
+successfully
+completed
+his
+Vivavoce
+Examination
+held
+on
+15072020
+The Vivavoce Examination Board has recommended the
+award of PhD Degree to Mr M Kandan
+The title of the thesis 
+The PhD Degree is in compliance with the UGC Regulations 2016
+DIRECTOR
+Directorate of Academic Research
+75
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+DIRECTOR
+Emailcareau2018gmailcom
+LrNo
+Date
+To
+Dear Professor
+Sub
+Evaluation of PhD Thesis  Consent  Requested  Reg
+I am pleased to inform that the ViceChancellor has nominated you based on
+your experience and expertise to evaluate the PhD thesis entitled
+Determinants of Employees WellBeing in the Textile Industry in Karur
+District submitted by Mr S Thirumal PhD Scholar from the Department of
+Business Administration The softhard copy of the synopsis is attached along
+with this letter for your reference
+I request you to send your consent within 15 days from the date of receipt of this
+letter through above email address
+After your consent the hard copy of the thesis will be sent to you through post I
+therefore request you to write your complete postal address In case if you wish
+to have the soft copy of the thesis for evaluation I will arrange to send the soft
+copy to your official email id
+The remuneration for valuing the thesis is Rs 90000 for Indian Examiner and
+125 US  for Foreign Examiner
+The appointment as examiner for evaluation of the thesis is strictly confidential
+You can decline the offer if the scholar is your relative or known to you
+personally All your queries can be clarified from the Director DARE through
+email
+With Best Regards
+Yours sincerely
+DIRECTOR
+Encl
+Copy of the Synopsis and Form of Acceptance
+76
+FORM OF ACCEPTANCE FOR EVALUATION OF PhD THESIS
+From
+To
+The Director
+Directorate of Academic Research DARE
+Annamalai University
+Annamalainagar  608002
+Tamil Nadu India
+Sir  Madam
+Ref Your Letter No  Mail  dated  
+I
+accept
+the
+offer
+of
+evaluation
+of
+thesis
+entitled
+s
+ubmitted by  for the award of PhD Degree in
+Please fill up the following particulars
+1
+Name of the Examiner
+2
+Educational Qualification
+3
+Experience
+Teaching
+Research 
+4
+Field of specialization
+5
+Address OfficialResidential
+Phone No  Mobile No
+Email ID
+Vacation Address
+6
+Station
+PG 
+Years
+UG 
+Years
+Years
+Signature
+Date
+77
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Dr 
+DIRECTOR
+Emailcareau2018gmailcom
+LrNo
+Date
+Dear Dr
+Sub
+Annamalai University  PhD Thesis of Mr   Evaluation Report 
+Requested  Reg
+Ref
+Your acceptance letter Email Dated 
+I gratefully acknowledge your letter cited above and thank you for accepting to evaluate
+the PhD Thesis of Mr entitled 
+I enclose the thesis with a request to evaluate it and forward your assessment in the
+prescribed Evaluation Report Form In addition you are also requested to give a detailed
+report indicating your specific comments on the thesis and questions if any to be
+answered by the candidate at the time of Vivavoce Examination If the thesis requires
+any revision I request you to suggest the specific nature of revision so that it will help
+the scholar to revise suitably
+I once again request you to send your Evaluation Report along with a detailed report and
+claim bill at an early date in any case not exceeding 45 days Kindly quote the
+Reference No  in all future correspondence
+Since evaluation of PhD thesis is highly confidential I request you to contact only the
+Director DARE for clarifications such as acceptance evaluation report etc No
+correspondence should be made to the supervisor or with scholar or with any other
+person in this matter
+With Best Regards
+Yours sincerely
+DIRECTOR
+Encl
+1
+2
+3
+Thesis
+Evaluation Report Form
+Remuneration Claim Form
+To
+78
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+PhD Thesis Examiners Evaluation Report
+1
+Name of the Candidate
+2
+Reference No
+3
+Title of the Thesis
+4
+Overall Assessment
+ Place the thesis in ANY ONE of the following
+categories by a tick  mark
+Strikeout the statements which are not applicable
+a
+I recommend the acceptance of the thesis in the present
+form and further based on the standard attained I classify
+the work as HIGHLY COMMENDEDCOMMENDED
+or
+b
+I recommend the acceptance of the thesis However the
+Scholar shall incorporate the corrections indicated in my
+detailed report and place the corrected copy to the Oral
+Examination Board but the corrected thesis need not be
+sent to me
+or
+c
+I defer my recommendation at this stage and the Scholar
+shall incorporate the suggested modifications in the thesis
+and the corrected thesis along with the Scholars
+clarifications shall be sent to me
+or
+d
+I reject the thesis for the reasons set out in my detailed
+report
+Note
+Date
+In addition to placing the thesis in ANY ONE of the above categories a
+detailed report in about 300 words or longer if necessary on the
+strength and weakness of the thesis shall be enclosed Also enclose a list
+of questions clarifications if any to be asked during the public VivaVoce Examination
+Signature of the Examiner 
+not to be typed
+Place
+Name in BLOCK Letters
+Address
+79
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Claim for the work done in connection with the evaluation of PhD Thesis
+in
+respect of the PhD Research Scholar Mr Roll No
+Ref No 
+From
+Dr 
+Remuneration Claimed for Evaluation
+of PhD Thesis
+PhD Thesis Evaluation
+Evaluation of PhD Thesis in respect
+Rs 
+of Mr 
+Place 
+Date 
+Signature of the Indian Examiner
+For Office Use Only
+Passed for payment of Rs  Rupees 
+Director CARE
+80
+DIRECTORATE OF ACADEMIC RESEARCH DARE
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR  608002
+Remuneration Claim Form
+Received US  in connection with the evaluation of PhD Thesis in
+respect of the PhD Research Scholar Mr
+IMPORTANT Please type the following details in CAPITAL LETTERS to remit the
+remuneration of US   directly into your Bank Account through SWIFT
+transfer
+1
+Name of the Examiner
+2
+Full Postal Address
+3
+Your Bank Account No
+4
+Name of the Bank and Branch with
+full address
+5
+Your Banks SWIFT Code No
+6
+Your Banks IBAN Code No
+7
+Your Banks Branch Code No
+8
+9
+Your Banks State Branch Code No
+for Australian Bank
+Your Email id
+Place 
+Date 
+Signature of the Foreign Examiner
+For Office Use Only
+Examined and found to be correct
+Passed for payment of US   US Dollars  only
+on
+DirectorDARE
+81
+GUIDELINES FOR THE
+PREPARATION OF
+SYNOPSIS AND THESIS
+82
+Appendix I
+GUIDELINES FOR THE PREPARATION OF SYNOPSIS
+Synopsis should outline the research problem the methodology used for
+tackling it and the summary and conclusion of the findings The size of
+the Synopsis should not exceed 15 pages of typed matter reckoned from
+the first page to the last page including the list of references and list of
+publications of the scholar The sequence in which the synopsis should
+be arranged is as follows with references and list of publications in
+separate pages
+1
+2
+3
+4
+Cover page and title page as shown in the Annexure I
+Text divided into suitable headings numbered consecutively
+References not more than 12
+List of publications those publishedaccepted for publications
+Mention the impact factor of the journal only Web of science or
+Scopus impact factor
+Standard A4 size 297 mm x 210 mm bond paper may be used for
+preparing the synopsis The synopsis should have the following page
+margins
+Top edge
+30 to 35 mm
+Bottom edge
+25 to 30 mm
+Left side
+35 to 40 mm
+Right side
+20 to 25 mm
+The synopsis should be prepared using good quality white paper
+preferably not lower than 80GSM One and half line spacing should be
+used for typing the general text The general text shall be typed in Font
+Style Times New Roman and Font Size 13 One or two tablesfigures may
+be included at appropriate places in the text of the synopsis and they
+should conform to the margin specification All page numbers Arabic
+numbers should be typed without punctuation on the upper right hand
+corner 20 mm from top with the last digit in line with the right hand
+margin Synopsis should be soft bound with black calico cloth and using
+flexible cover of thick white art paper The cover should be printed in
+black letters and the text for printing should be identical to what has
+been prescribed for the title page The references such as journals books
+Ebooks conference proceedings patents etc should be typed following
+the International standard
+A typical Specimen of Cover page and Title Page
+Font style Time New Roman
+83
+SELECTIVE CATALYTIC REDUCTION OF NO
+x
+ON NEW CATALYTIC SYSTEMS
+Font Size 1815 line spacing
+A SYNOPSIS Font Size14
+Submitted by Font Size 14Italic
+GOVINDARAJAN K R Font Size 16
+in partial fulfillment of the requirements for the award of
+the degree of
+Font Size 14Italic15 line spacing
+DOCTOR OF PHILOSOPHY Font size 16
+DEPARTMENT OF CHEMICAL ENGINEERING
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR 608 002 Font Size 1615 line
+spacing
+APRIL 2020 Font Size 14
+84
+SELECTIVE CATALYTIC REDUCTION OF NO
+x
+ON NEW CATALYTIC SYSTEMS
+A SYNOPSIS
+Submitted by
+GOVINDARAJAN K R
+in partial fulfillment of the requirements for the award
+of the degree of
+DOCTOR OF PHILOSOPHY
+DEPARTMENT OF CHEMICAL ENGINEERING
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR 608 002
+APRIL 2020
+85
+Appendix II
+GUIDELINES FOR THE PREPARATION OF THESIS
+The scholars are expected to read carefully the guidelines and
+meticulously follow them in the preparation of the thesis
+Noncompliance with any of these instructions may lead to the rejection of
+the thesis submitted
+1 GENERAL
+This Manual is intended to provide general guidelines to the research
+scholars in the preparation of the thesis In general the thesis shall
+report in an organized and scholarly fashion an account of original
+research work of the research scholar leading to the discovery of new
+facts or techniques or correlation of facts already known analytical
+experimental hardware oriented etc Thesis shall demonstrate quality
+as to make a definite contribution to the advancement of knowledge
+and the research scholars ability to undertake sustained research and
+present the findings in an appropriate manner with actual
+accomplishments of the work
+2 SIZE OF THE THESIS
+The size of the thesis shall be normally between 100 and 300 pages of
+typed matter reckoned from the title page to the last page of thesis
+including the reference section
+3 ARRANGEMENT OF THE CONTENTS OF THE THESIS
+The sequence in which the thesis material should be arranged and
+bound as follows
+1 Cover page and Title page as shown in Annexure I
+2 Certificate as shown in Annexure II
+3 Declaration by the Scholar Annexure III
+4 Abstract
+5 Acknowledgement one page only
+6 Table of contents Annexure IV
+7 List of Tables Annexure V
+8 List of Figures Annexure VI
+9 List of Abbreviations and Symbols Annexure VII
+10 Chapters
+11 Appendices if applicable
+12 References
+13 List of Publications
+The Tables and Figures should be included subsequently after
+referring to them in the text of the thesis The thesis starting from
+chapters should be printed on both sides
+86
+4
+QUALITY OF PAPER AND MARGIN SPECIFICATIONS
+The thesis should be prepared using good quality white paper
+preferably not lower than 80 GSM Standard A4 size bond paper
+may be used for preparing the thesis The dimensions of the final
+bound thesis 5 copies should be 290 mm x 205 mm
+The following page margins should be followed while preparing the
+thesis
+Top edge
+30 to 35 mm
+Bottom edge
+25 to 30 mm
+Left side
+35 to 40 mm
+Right side
+20 to 25 mm
+The Tables and figures should also conform to the margin
+specifications Large size figures should be photographically or
+otherwise reduced to the appropriate size
+5
+MANUSCRIPT PREPARATION
+While preparing the thesis manuscript attention should be paid to
+ensure that all textual matter is typewritten in the same format to
+the extent possible Hence some of the information required for the
+final typing of the thesis is presented in this section The headings
+of all items from 2 to 12 listed in section 3 should be typed in upper
+case letters without punctuation and centered 50 mm below the top
+of the page The text should start 4 spaces below the heading The
+page numbering from 1 to 8 should be done using lower case
+Roman numerals and the pages from 9 to 12 should be numbered
+using Arabic numerals
+51 Cover Page and title Page
+A specimen copy of the cover page and title page for the thesis is
+given in Annexure II
+52 Certificate
+The certificate shall be typed in double line spacing using font style
+Times New Roman and Font size 12 as per the format shown in
+Annexure III The certificate shall be signed by the Supervisor and
+shall be followed by the supervisors name academic designation
+department and full address of the institution where the supervisor
+has guided the scholar Signature of the cosupervisor with details
+should be included wherever applicable
+53
+Abstract
+Abstract should be an essay type of description not exceeding four
+pages outlining the research problem methodology used and
+summary of the findings This shall be typed in one and a half line
+spacing using Font style Times New Roman and Font size 12
+87
+54
+Acknowledgement
+It should be very brief and restricted to one page only when typed in
+one and a half line spacing The scholars signature shall be affixed
+at the bottom right end above the scholars name typed in capitals
+55
+Table of contents
+The title page certificate and acknowledgement will not find a place
+among the items listed in the Table of Contents but the page
+numbers of which are in lower case Roman letters One and a half
+line spacing should be adopted for typing the matter under this
+head A specimen copy of the table of contents for the thesis is
+given in Annexure IV
+56
+List of Tables
+The list should use exactly the same captions as they are written
+above the tables in the text One and a half line spacing should be
+used for typing under this heading
+57
+List of Figures
+The list should use exactly the same captions as they appear below
+the figures in the text One and a half line spacing should be used
+for typing under this heading
+58
+List of symbols and abbreviations
+One and a half line spacing shall be used for typing the matter
+under this heading Standard symbols abbreviations etc shall be
+used
+59
+Chapters
+The chapters may be broadly classified into three parts i
+introduction ii the main theme of the thesis and iii results
+discussion summary and conclusion The main chapters may be
+divided into several sections divisions and subdivisions Each
+chapter should be given appropriate title Titles and figures in a
+chapter should be placed in the immediate vicinity of the reference
+where they are cited
+510 Appendices
+Appendices are provided to give supplementary information which
+if included in the main text may serve as a distraction and spoil the
+central theme of the thesis Appendices shall be numbered using
+Arabic numerals eg Appendix 1 Appendix 2 etc Tables and
+references in appendices should be numbered and referred at
+appropriate places just as in the case of chapters Appendices shall
+carry the title of the work reported and the same title shall be
+included in the table of contents
+88
+511 List of References
+Any works of other researchers if used either directly or indirectly
+the origin of the material thus referred to should be indicated at
+appropriate places in the thesis Such references in the form of
+research articles monographs books review articles patents and
+proceedings shall be cited in the thesis following the international
+standard A citation should be placed wherever appropriate
+preferably at the end of a sentence All the citations shall be in the
+same font as the main text The list of references should be typed 4
+spaces below the heading REFERENCES in single line spacing
+using Font style Times New Roman and Font size 13
+512 List of Publications
+The list of publications those already publishedaccepted for
+publication
+in
+journals
+and
+papers
+presented
+in
+conferencessymposia made by the research scholar during the
+period of research shall be reported in the table of contents
+513 Tables and Figures
+Table means tabulated data in the body of the thesis as well as in
+the appendices Others such as charts graphs maps photographs
+and diagrams may be designated as figures The table or figure
+including caption should be accommodated within the prescribed
+margin limits and should appear on the following page where their
+first reference is made All tables and figures should be typed on
+the same quality paper used for the preparation of the text of the
+thesis Two or more small tables or figures may be grouped and
+typed in a single page if necessary Wherever possible the
+photographs shall be reproduced on a full sheet of photographic
+paper or standard A4 size paper
+6
+TYPING INSTRUCTIONS
+61
+General The impressions on the typedprinted copies should be
+black in colour One and a half line spacing should be used for
+typing the general text The general text shall be typed in Font style
+Times New Roman and Font size 13 Long tables long quotations
+foot notes multiline captions and references should be typed in
+single line spacing
+89
+62
+Chapters The format for typing headings division headings and
+subdivision headings are as follows
+Chapter heading
+ CHAPTER 1
+INTRODUCTION
+Division heading
+ 11
+Subdivision heading
+ 111 Literature Review
+1111 Romanian views on archeology
+OUTLINE OF THESIS
+The word CHAPTER without punctuation should be centered 50
+mm down from the top of the page Two spaces below the title of
+the chapter should be typed centrally in capital letters The text
+should commence 4 spaces below this title the first letter of the
+text starting 20 mm inside from the left hand margin
+The division and subdivision captions along with their numbering
+should be left justified The typed material directly below division or
+subdivision heading should commence 2 spaces below it and
+should start typing 20 mm from the left hand margin Within
+division or subdivision paragraphs are permitted and they should
+also commence 3 spaces below the last line of the preceding
+paragraph with offset from the left hand margin by 20 mm
+7
+NUMBERING INSTRUCTIONS
+71
+Page numbering
+All page numbers whether it be in Roman or Arabic numbers
+should be typed without punctuation on the upper right hand
+corner 20 mm from the top with the last digit in line with the right
+hand margin The preliminary pages such as title page
+acknowledgement table of contentsetc should be numbered in
+lower case Roman numerals Pages of the main text starting with
+Chapter 1 should be consecutively numbered using Arabic
+numerals till the end of the thesis
+72
+Numbering of Chapters divisions and SubDivisions
+The numbering of chapters divisions and subdivisions should be
+done using Arabic numerals only and further decimal notation
+should be used for numbering the divisions and subdivisions
+within a chapter For example subdivision 2 under division 4
+belonging to chapter 3 should be numbered as 324 The caption
+for the subdivision should immediately follow the number assigned
+to it Appendices if any should also be numbered in an identical
+manner starting with appendix 1
+90
+73
+Numbering of tables and figures
+Tables and figures appearing anywhere in the thesis should have
+appropriate numbers For example if a Figure in Chapter 4
+happens to be fifth then assign 45 to that figure Similar rules
+apply for tables For example if a table in chapter 3 happens to be
+second then assign 32 to that table If Figures or Tables appear in
+Appendices then Table 3 in Appendix 1 will be designated as Table
+A13 Similarly for Figures
+74
+Numbering of Equations
+Equations appearing in each chapter or appendix should be
+numbered serially the numbering should commence afresh for
+each chapter or appendix Thus for example an equation appearing
+in chapter 3 if it happens to be the fourth equation in that chapter
+should be numbered as 34 thus
+y  at y  bt
+34
+While referring to this equation in the body of the thesis it should
+be referred to as equation 34
+8
+BINDING SPECIFICATIONS
+Thesis side pinningstitching covered with wrapper printed on
+300 gsm white art card and outer side gloss laminated adhesive
+binding The cover should be printed in black letters and the text
+for printing should be identical to what has been prescribed for the
+title page
+91
+Annexure I
+A typical Specimen of Cover page and Title Page
+Font style Time New Roman
+SELECTIVE CATALYTIC REDUCTION OF NOx ON
+NEW CATALYTIC SYSTEMS
+Font Size 1815 line spacing
+A THESIS Font Size14
+Submitted by Font Size 14Italic
+GOVINDARAJAN K R Font Size 16
+in partial fulfillment of the requirements for the award of the degree of
+Font Size 14Italic15 line spacing
+DOCTOR OF PHILOSOPHY Font size 16
+DEPARTMENT OF CHEMICAL ENGINEERING
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR608 002 Font Size 1615 line spacing
+APRIL 2020 Font Size 14
+92
+SELECTIVE CATALYTIC REDUCTION OF NOx ON
+NEW CATALYTIC SYSTEMS
+A THESIS
+Submitted by
+GOVINDARAJAN K R
+in partial fulfillment of the requirements for the award of the degree of
+DOCTOR OF PHILOSOPHY
+DEPARTMENT OF CHEMICAL ENGINEERING
+ANNAMALAI UNIVERSITY
+ANNAMALAINAGAR608 002
+APRIL 2020
+93
+Annexure II
+UNIVERSITY
+ANNAMALAI
+Dr V VENKATESALU
+Professor
+Department of Botany
+Annamalainagar 608 002
+Tamil Nadu INDIA
+Mobile  919842998740
+Email venkatesaluyahoocom
+CERTIFICATE
+This
+is
+to
+certify
+that
+the
+thesis
+entitled
+ISOLATION
+ANDCHARACTERIZATION OF MOSQUITO LARVICIDAL COMPOUNDS
+FROM SOME MEDICINAL PLANTS AGAINST Aedes aegypti Anopheles
+stephensi and Culex quinquefasciatus is a bonafide record of research
+work done by Mr SOFI IMTIYAZ ALIRoll No 1519030011 Research
+Scholar Department of Botany Annamalai University Annamalainagar
+under my guidance during the period20152018and that this thesis has
+not previously formed the basis for the award of any degree diploma
+associateship fellowship or other similar title to this candidate or any
+other candidate
+This is also to certify that the thesis represents the independent
+work of the candidate
+Place 
+Date 
+V VENKATESALU
+Research Supervisor
+Annexure III
+94
+DECLARATION
+ISOFI IMTIYAZ ALI Research Scholar in the Department of Botany
+declare that the work embodied in this PhD thesis entitled ISOLATION
+ANDCHARACTERIZATION OF MOSQUITO LARVICIDAL COMPOUNDS
+FROM SOME MEDICINAL PLANTS AGAINST Aedes aegypti Anopheles
+stephensi andCulex quinquefasciatusis the result of my own bonafide work
+carried out with my personal effort and submitted by me under the
+supervision of Dr V VENKATESALU Professor Department of Botany
+Annamalai University Annamalainagar The contents of this thesis have
+not
+formed
+the
+basis
+for
+the
+award
+of
+any
+DegreeDiploma
+FellowshipTitles in this University or any other University or similar
+Institutions of higher learning
+I declare that I have faithfully acknowledged and given credit and
+referred to the researchers wherever their works have been cited in the
+body of the thesis I further declare that I have not willfully copied others
+dataworkresults etc reported in the journals magazines books reports
+dissertations theses Internet etc and claimed as my own work
+Date
+Signature of the Research Scholar
+Roll No 1519030011
+95
+Annexure IV
+TABLE OF CONTENTS
+Chapter
+No
+Title
+ABSTRACT
+LIST OF TABLES
+LIST OF FIGURES
+LIST OF ABBREVIATIONS AND SYMBOLS
+1
+INTRODUCTION
+11
+POLLUTION
+12
+TYPES OF POLLUTION
+13
+14
+121
+Water Pollution
+122
+Soil Pollution
+123
+Noise Pollution
+SOURCES OF AIR POLLUTION
+131
+Natural Sources
+132
+Anthropogenic Sources
+EFFECTS OF AIR POLLUTION
+141
+Green Houses Gases
+142
+Indoor Air Quality
+143
+Accidents due to Air Pollutants
+144
+Health Effects
+1441 Effects on respiratory and
+cystic fibrosis
+1442 Effects on children
+15
+AIR POLLUTANTS SOURCES AND EFFECTS
+151
+Sources of NOX
+1511 Thermal NOX
+1512 Fuel NOX
+152
+Sources of Sulfur Dioxide
+96
+Page
+No
+1521 Effects of sulfur dioxide
+emissions
+16
+AUTOMOBILE EXHAUST AND THEIR
+EFFECTS
+161
+CI Engine and Emission Control
+Techniques
+162
+Basic Operation Principles of CI
+Engine
+163
+Various Methods to Reduce
+Automobile Pollutants
+1631 Exhaust gas recirculation
+and deNOXsystem
+1632 Diesel particulate
+filterscatalysts
+1633 Humid air motor system
+17
+DEFINITION AND CHEMISTRY OF NOX
+18
+OVERVIEW OF THE EMISSION NORMS IN
+INDIA
+181
+Control of Emissions
+1811 Cleaning up the
+emissions
+19
+CATALYTIC CONVERTERS
+191
+Twoway Catalytic Converters
+192
+Threeway Catalytic Converters
+1921 Oxygen storage in threeway converters
+110 COMPONENTS OF A CATALYTIC
+CONVERTER
+1101 Core or Substrate
+1102 Wash Coat
+111 SCOPE AND OBJECTIVES OF THE
+PRESENT INVESTIGATION
+2
+EXPERIMENTAL METHODS
+21
+MATERIALS AND METHODS
+211
+Materials
+97
+212
+22
+23
+3
+32
+5
+CHARACTERIZATION OF THE PREPARED
+CATALYSTS
+221
+XRay Diffraction Study
+222
+Nitrogen Adsorption and
+Desorption Study
+223
+Electron Paramagnetic Resonance
+Spectoscopy
+CATALYTIC STUDIES
+231
+Catalytic Reduction of NO with
+Acetone
+232
+Catalytic Reduction of NO with
+Methane Vapour
+COPPER CONTAINING MICROPOROUS HZSM5
+ZEOLITE FOR THE REDUCTION OF NOX IN THE
+EXHAUST FLUE GAS
+31
+4
+Synthesis of Mesoporous MCM41
+CHARACTERIZATION OF THE PREPARED
+CATALYSTS
+311
+XRay Diffraction
+312
+Nitrogen Adsorption and
+Desorption Study
+CATALYTIC REDUCTION OF NOX USING
+ACETONE VAPOUR AS THE REDUCING
+AGENT
+COPPER CONTAINING MESOPOROUS MCM41
+MATERIALS FOR THE REDUCTION OF NOX IN
+THE EXHAUST FLUE GAS
+41
+IMPORTANCE OF MESOPOROUS CuMCM41 CATALYSTS
+42
+CHARACTERIZATION OF MESOPOROUS
+CATALYSTS
+421
+XRay Diffraction
+422
+Nitrogen Adsorption and
+Desorption Study
+SUPPORTED CeO2ZrO2 CATALYSTS FOR THE
+SELECTIVE CATALYTIC REDUCTION OF NOX
+51
+INTRODUCTION
+98
+52
+6
+CATALYSTS CHARACTERIZATION
+521
+XRay Diffraction
+522
+Nitrogen Adsorption and
+Desorption Study
+SUMMARY AND CONCLUSION
+REFERENCES
+LIST OF PUBLICATIONS
+99
+Annexure V
+LIST OF TABLES
+Table
+No
+Title
+11
+Indian emission standards for 4wheel vehicles
+31
+Physicochemical characteristics of the prepared
+materials
+41
+Physicochemical characteristics of nano and
+composite materials
+51
+BET surface area and crystallite size of the
+catalysts
+100
+Page
+No
+Annexure VI
+LIST OF FIGURES
+Figure
+Title
+No
+11
+Operating cycle for a fourstroke CI engine
+12
+General composition and typical diesel particle
+13
+Typical diesel particle size and distribution
+21
+Schematic representation of the experimental setup
+for the reduction of NOX with acetone vapour
+22
+Schematic representation of the experimental setup
+for the reduction of NOX with methane vapour
+31
+XRD patterns of HZSM5
+32
+XRD patterns of CuZSM5
+33
+N2 adsorptiondesorption isotherm of HZSM5
+41
+XRD patterns of MCM41
+42
+XRD patterns of AlMCM41 50
+43
+XRD patterns of CuMCM41 50
+51
+XRD patterns of a CeO2 b ZrO2 c CeO2ZrO2 d
+CeO2ZrO2SiO2 e CeO2ZrO2Al2O3 and f CuO
+CeO2ZrO2
+52
+Raman Spectra of a CeO2ZrO2SiO2and b CeO2ZrO2Al2O3
+53
+TGA and derivative curve of CeO2ZrO2Al2O3
+101
+Page
+No
+Annexure VII
+LIST OF ABBREVIATIONS AND SYMBOLS
+ABBREVIATIONS
+AES
+Atomic Emission Spectroscopy
+AIR
+Air Injection Reactor
+BET
+BrunauerEmmetTeller
+CFC
+Choloroflurocarbon
+cm3min
+Cubic Centimetre per minute
+cm3g
+Cubic Centimetre per gram
+CNG
+Compressed Natural Gas
+DRS UVVis 
+Diffuse Reflectance Ultraviolet Visible
+EDX
+Energy Dispersive XRay
+EPR
+Electron Paramagnetic Resonance
+FTIR
+Fourier Transform InfraRed
+GC
+Gas Chromatograph
+IUPAC
+International Union of Pure and Applied Chemistry
+KHz
+Kilo Hertz
+LPG
+Liquid Petroleum Gas
+m
+Micrometre
+102
+nm
+Nanometre
+C
+Degree Celsius
+RT
+Retention Time
+RH
+Relative Humidity
+PCR
+Polymerase Chain Reaction
+UNDP
+United Nations Development Programme
+WTO
+World Trade Organisation
+FRBM
+Fiscal Responsibility and Budget Management
+BE
+Budget Estimate
+RE
+Revised Estimate
+103
+SYMBOLS
+Absolute frequency
+Density of the fluid
+Direction of wave propagation
+Frequency of the waves
+Potential function
+Alpha
+Angstrom
+Beta
+Percentage
+Surface tension
+Theta
+Wavelength
+Psi
+104
