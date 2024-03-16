@@ -1,0 +1,4576 @@
+DEPARTMENT OF MECHANICAL ENGINEERING
+Curriculum for M.E. Energy Engineering and Management (Full Time)
+First Semester
+Sl.
+No.
+
+Category
+
+Course
+Code
+
+Course
+
+L
+
+1
+
+PC-I
+
+EEMC101
+
+Advanced Numerical Methods
+
+2
+
+PC-II
+
+EEMC102
+
+Advanced Thermodynamics
+
+3
+
+PC-III
+
+EEMC103
+
+4
+
+PC-IV
+
+EEMC104
+
+5
+
+PE-I
+
+EEME105
+
+6
+
+PE-II
+
+7
+
+PC Lab-I
+
+T
+
+CA
+
+FE
+
+Total Credits
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+Professional Elective - I
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEME106
+
+Professional Elective – II
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEMP107
+
+Energy Laboratory - I
+
+3
+
+-
+
+40
+
+60
+
+100
+
+2
+
+24
+
+3
+
+-
+
+190
+
+510
+
+700
+
+20
+
+L
+
+P
+
+T
+
+CA
+
+FE
+
+Total Credits
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+Fluid Mechanics and Heat
+Transfer
+Waste Management and Energy
+Generation Techniques
+
+Total
+
+P
+
+Second Semester
+Sl.
+Category
+No.
+
+Course
+Code
+
+Course
+Energy Conservation and
+Management
+Energy Modeling, Economics
+and Project Management
+Environmental Engineering
+and Pollution control
+Co-Generation and Waste Heat
+Recovery Systems
+
+1
+
+PC-V
+
+EEMC201
+
+2
+
+PC-VI
+
+EEMC202
+
+3
+
+PC-VII
+
+EEMC203
+
+4
+
+PC-VIII
+
+EEMC204
+
+5
+
+PE-III
+
+EEME205
+
+Professional Elective – III
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+6
+
+PE-IV
+
+EEME206
+
+Professional Elective – IV
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+7
+
+PC LabII
+
+EEMP207
+
+Energy Laboratory - II
+
+3
+
+-
+
+40
+
+60
+
+100
+
+2
+
+8
+
+Semin
+
+EEMS208
+
+Seminar
+
+2
+
+-
+
+100
+
+-
+
+100
+
+1
+
+5
+
+-
+
+290
+
+510
+
+800
+
+21
+
+24
+
+Total
+
+12
+
+Third Semester
+Sl.
+No.
+
+Course
+Code
+
+Category
+
+1
+
+OE-I
+
+EEME301
+
+2
+
+OE-II
+
+3
+4
+
+Course
+
+L
+
+P
+
+T
+
+CA
+
+FE
+
+Total Credits
+
+Open Elective I
+
+4
+
+-
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEME302
+
+Open Elective II
+
+4
+
+-
+
+-
+
+25
+
+75
+
+100
+
+3
+
+Thesis
+
+EEMT303
+
+Thesis Phase I
+and Viva Voce
+
+-
+
+4
+
+40
+
+60
+
+100
+
+4
+
+Ind.
+Train
+
+EEMI304
+
+Industrial Training
+
+-
+
+*
+
+100
+
+-
+
+100
+
+2
+
+4
+
+190
+
+210
+
+400
+
+12
+
+8
+
+Total
+
+nd
+
+Note: * - Four weeks during the summer vacation at the end of II Semester.
+
+Fourth Semester
+Sl.
+No.
+
+Course
+Category
+Code
+
+1
+
+Thesis
+
+EEMT401
+
+Course
+
+L
+
+P
+
+T
+
+CA
+
+FE
+
+Total Credits
+
+Thesis Phase II
+and Viva Voce
+
+-
+
+-
+
+8
+
+40
+
+60
+
+100
+
+12
+
+Total
+
+-
+
+-
+
+8
+
+40
+
+60
+
+100
+
+12
+
+L- Lecture ; P- Practical; T- Thesis; CA- Continuous Assessment; FE- Final Examination
+
+13
+
+DEPARTMENT OF MECHANICAL ENGINEERING
+Curriculum for M.E. Energy Engineering and Management (Part Time)
+First Semester
+Sl.
+No.
+
+Category
+
+Course
+Code
+
+1
+
+PC-I
+
+PEEMC101
+
+2
+
+PC-II
+
+PEEMC102
+
+3
+
+PC-III
+
+PEEMC103
+
+Course
+
+L
+
+Advanced
+Numerical Methods
+Advanced
+Thermodynamics
+Fluid Mechanics and
+Heat Transfer
+
+P T CA FE Total Credits
+
+Equivalent
+Code
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEMC101
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEMC102
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEMC103
+
+225
+
+300
+
+9
+
+Total
+
+12
+
+75
+
+Course
+
+L
+
+P T CA
+
+4
+
+-
+
+Second Semester
+Sl.
+No.
+
+Category
+
+Course
+Code
+
+FE Total Credits
+
+Equivalent
+Code
+
+25
+
+75
+
+100
+
+3
+
+EEMC104
+
+1
+
+PC-IV
+
+Waste Management
+and Energy
+PEEMC201
+Generation
+Techniques
+
+2
+
+PC-V
+
+PEEMC202
+
+Energy Conservation
+and Management
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEMC201
+
+3
+
+PC-VI
+
+Energy Modeling,
+PEEMC203 Economics and
+Project Management
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEMC202
+
+75
+
+225
+
+300
+
+9
+
+Total
+
+12
+
+Third Semester
+T
+
+CA
+
+FE
+
+Total
+
+Credits
+
+Equivalent
+Code
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEMC203
+
+Professional
+Elective - I
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEME105
+
+PEEME302
+
+Professional
+Elective – II
+
+4
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEME106
+
+PEEMP304
+
+Energy
+Laboratory - I
+
+3
+
+-
+
+40
+
+60
+
+100
+
+2
+
+EEMP107
+
+3
+
+-
+
+115 285
+
+400
+
+11
+
+Sl.
+No.
+
+Category
+
+Course
+Code
+
+1
+
+PC-VII
+
+Environmental
+PEEMC301 Engineering and
+Pollution control
+
+2
+
+PE-I
+
+PEEME302
+
+3
+
+PE-II
+
+4
+
+PC
+Lab-I
+
+Course
+
+Total
+
+L
+
+12
+
+14
+
+P
+
+Fourth Semester:
+Sl.
+Category
+No.
+
+Course
+Code
+
+1
+
+PC-VIII
+
+PEEMC401
+
+2
+
+PE-III
+
+PEEME402
+
+3
+
+PE-IV
+
+PEEME403
+
+4
+
+PC
+Lab-II
+
+PEEMP404
+
+5
+
+Semin
+
+PEEMS405
+
+Course
+Co-Generation and
+Waste Heat Recovery
+Systems
+Professional
+Elective – III
+Professional
+Elective – IV
+Energy Laboratory II
+
+FE Total Credits
+
+Equivalent
+Code
+
+25
+
+75
+
+100
+
+3
+
+EEMC204
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEME205
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEME206
+
+3
+
+-
+
+40
+
+60
+
+100
+
+2
+
+EEMP207
+
+-
+
+2
+
+100
+
+100
+
+1
+
+EEMS208
+
+3
+
+-
+
+215
+
+500
+
+12
+
+L
+
+P T CA
+
+4
+
+-
+
+4
+4
+
+Seminar
+Total
+
+12
+
+Course
+
+L P T CA
+
+FE Total Credits
+
+Equivalent
+Code
+
+Open Elective I
+
+4
+
+-
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEME 301
+
+4
+
+-
+
+-
+
+25
+
+75
+
+100
+
+3
+
+EEME302
+
+60
+
+100
+
+4
+
+EEMT303
+
+100
+
+2
+
+EEMI304
+
+400
+
+12
+
+285
+
+Fifth Semester
+Sl.
+Category
+No.
+
+Course
+Code
+PEEME
+501
+
+1
+
+OE-I
+
+2
+
+OE-II
+
+PEEME502
+
+Open Elective II
+
+3
+
+Thesis
+
+PEEMT503
+
+Thesis Phase I and
+Viva Voce
+
+-
+
+4
+
+40
+
+4
+
+Ind.
+Train
+
+PEEMI504
+
+Industrial Training
+
+*
+
+-
+
+100
+
+-
+
+4
+
+190
+
+8
+
+Total
+
+210
+
+Note: * - Four weeks during the summer vacation at the end of IVth Semester.
+Sixth Semester:
+Sl.
+Course
+Category
+No.
+Code
+1
+
+Thesis
+
+PEEMT601
+
+Course
+Thesis Phase II and
+Viva Voce
+Total
+
+L P T CA FE Total Credits
+
+Equivalent
+Code
+
+-
+
+-
+
+8
+
+40
+
+60
+
+100
+
+12
+
+EEMT401
+
+-
+
+-
+
+8
+
+40
+
+60
+
+100
+
+12
+
+L- Lecture ; P- Practical; T- Thesis; CA- Continuous Assessment; FE- Final Examination
+
+15
+
+LIST OF ELECTIVES
+PROFESSIONAL ELECTIVES
+1. Measurements and Controls in Thermal Engineering
+2. Energy Conversion Techniques
+3. Solar Energy and Wind Energy
+4. Bio Energy Conversion Technologies
+5. Boiler Technology
+6. Fluidized Bed Systems
+7. Design of Heat Exchangers
+8. Computational Heat Transfer
+9. Energy Storage Technologies
+10. Renewable Energy Systems
+11. Biomass Energy- Conversion and Conservation Techniques
+12. Biomass Gasification -Technology and Utilization
+OPEN ELECTIVES
+1. Nuclear Engineering
+2. Fuels And Combustion
+3. Hydropower Systems
+4. I.T In Energy Management
+5. Computational Fluid Dynamics
+6. Numerical Analysis In Engineering
+7. Biocomposite Materials
+8. Nano Materials Technology
+9. Applied Probability and Statistical Inferences
+10. Neural Networks and Fuzzy Systems
+11. Energy Management In Buildings
+
+16
+
+EEMC101
+
+ADVANCED NUMERICAL METHODS
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES:
+
+
+To impart knowledge on numerical methods that will come in handy to solve numerically
+the problems that arise in engineering and technology. This will also serve as a precursor for
+future research.
+
+Algebraic Equations
+Systems of linear equations: Gauss Elimination method, pivoting techniques, Thomas
+algorithm for tridiagonal system–Jacobi, Gauss Seidel, SOR iteration methods - Systems of
+nonlinear equations: Fixed point iterations, Newton Method, Eigen value problems: power method,
+inverse power method, Faddeev–Leverrier Method.
+Ordinary Differential Equations
+Runge Kutta Methods for system of IVPs, numerical stability, Adams-Bashforth multistep
+method, solution of stiff ODEs, shooting method, BVP: Finite difference method, orthogonal
+collocation method, orthogonal collocation with finite element method, Galerkin finite element
+method.
+Finite Difference Method for Time Dependent Partial Differential Equation
+Parabolic equations: explicit and implicit finite difference methods, weighted average
+approximation - Dirichlet and Neumann conditions – Two dimensional parabolic equations – ADI
+method; First order hyperbolic equations – method of characteristics, different explicit and implicit
+methods; numerical stability analysis, method of lines – Wave equation: Explicit scheme- Stability
+of above schemes.
+Finite Difference Methods for Elliptic Equations
+Laplace and Poisson’s equations in a rectangular region: Five point finite difference
+schemes, Leibmann’s iterative methods, Dirichlet and Neumann conditions – Laplace equation in
+polar coordinates: finite difference schemes – approximation of derivatives near a curved boundary
+while using a square mesh.
+Finite Element Method
+Partial differential equations – Finite element method - orthogonal collocation method,
+orthogonal collocation with finite element method, Galerkin finite element method.
+REFERENCES
+1. Saumyen Guha and Rajesh Srivastava, “Numerical methods for Engineering and Science”,
+Oxford Higher Education, New Delhi, 2010.
+2. Gupta S.K., “Numerical Methods for Engineers”, New Age Publishers, 1995
+3. Burden, R.L., and Faires, J.D., “Numerical Analysis – Theory and Applications”, Cengage
+17
+
+Learning, India Edition, New Delhi, 2009.
+4. Jain M. K., Iyengar S. R., Kanchi M. B., Jain , “Computational Methods for Partial
+Differential Equations”, New Age Publishers,1993.
+5. Morton K.W. and Mayers D.F., “Numerical solution of partial differential equations”,
+Cambridge University press, Cambridge, 2002.
+COURSE OUTCOMES
+Upon completion of this course, the students will be able to
+1. Solve engineering problems numerically.
+
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+PO2
+
+PO3
+
+PO4
+
+
+
+
+
+
+
+CO1
+EEMC102
+
+PO5
+
+PO6
+
+PO7
+
+PO8
+
+PO9
+
+PO10
+
+
+
+ADVANCED THERMODYNAMICS
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+To achieve an understanding of basic principle and scope of thermodynamics.
+To predict the availability and irreversibility associated with the thermodynamic processes.
+To analyse the properties of ideal and real gas mixtures. Also to achieve an understanding of
+Statistical thermodynamics and Irreversible thermodynamics.
+
+Availability Analysis and Thermodynamic Property Relations
+Reversible work, Availability, Irreversibility and Second-Law Efficiency for a closed
+System and Steady-State
+Control
+Volume.
+Availability Analysis of Simple Cycles.
+Thermodynamic Potentials, Maxwell relations, Generalised relations for changes in Entropy,
+Internal Energy and Enthalpy, Generalised Relations for Cp and Cv, Clausius Clayperon Equation,
+Joule-Thomson Coefficient, Bridgman Tables for Thermodynamic relations.
+Real Gas Behaviour and Multi-Component Systems
+Different Equations of State, Fugacity, Compressibility, Principle of Corresponding States,
+Use of generlaised charts for enthalpy and entropy departure, fugacity co efficiency, LeeKesler generalized three parameter tables.
+Fundamental property relations for systems of variable composition, partial molar
+properties, Real gas mixtures, Ideal solution of real gases and liquids, Activity, Equilibrium in
+multi phase systems, Gibbs phase rule for non-reactive components.
+Statistical Thermodynamics
+Microstates and Macrostates, Thermodynamic probability, Degeneracy of energy levels, MaxwellBoltzman, Fermin-Dirac and Bose-Einstein Statistics, Microscopic Interpretation of heat and
+
+18
+
+work,
+Evaluation of entropy, Partion function, Calculation of the Macroscopic properties
+from partition functions, Equilibrium constant statistical thermodynamics approach.
+Irreversible Thermodynamics
+Conjugate Fluxes and Forces, Entropy Production Onsager’s Reciprocity relations,
+Thermo-electric phenomena, formulations, Power Generation, Refrigeration.
+REFERENCES
+1.
+2.
+3.
+4.
+
+Kenneth Wark Jr., Advanced Thermodynamics for Engineers, McGraw-Hill Inc.,1995.
+Bejan, A., Advanced Engineering Thermodynamics, John Wiley and Sons, 1988.
+Holman,J.P., Thermodynamics, Fourth Edition, McGraw-Hill Inc., 1988.
+Smith,
+J.M. and Van Ness., H.C.,
+Introduction
+to
+Chemical Engineering
+Thermodynamics, Fourth Edition, McGraw-Hill Inc., 1987.
+5. Sonntag, R.E., and Van Wylen, G, Introduction to Thermodynamics, Classical and
+Statistical, Third Edition, John Wiley and Sons, 1991.
+6. Sears, F.W. and Salinger G.I., Thermodynamics, Kinetic Theory and Statistical
+Thermodynamics, Third Edition, Narosa Publishing House, New Delhi, 1993.
+7. DeHotf, R.T., Thermodynamics in Materials Science, McGraw- Hill Inc., 1993.
+COURSE OUTCOMES
+On successful completion of this course the student will be able to
+1. Apply the law of thermodynamics to thermal systems.
+2. Calculate the availability of the systems and cycles
+3. Analyse the engineering systems to improve and optimize its performance
+Mapping with Programme Outcomes
+Cos
+
+PO1
+
+PO2
+
+CO1
+
+
+
+
+
+CO2
+
+
+
+
+
+CO3
+
+PO3
+
+
+
+PO4
+
+PO5
+
+
+
+19
+
+PO6
+
+PO7
+
+PO8
+
+PO9
+
+PO10
+
+
+
+
+
+
+
+EEMC103
+
+FLUID MECHANICS AND HEAT TRANSFER
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+To develop the skills to correlate the Physics with applications.
+To understand the laws of fluid flow and Heat transfer.
+
+Basic Equation, Potential Flow Theory and Boundary Layer Concept
+Three dimensional continuity equation – differential and integral forms – equations of mass,
+momentum and Energy and their engineering applications. Rotational and irrotational flows –
+circulation – vorticity – stream and potential functions. Boundary Layer - displacement and
+momentum thickness – laminar and turbulent boundary layers in flat plates – circular pipes.
+Incompressible and Compressible Flows
+Laminar and turbulent flow between parallel plates – flow through circular pipe – friction
+factor – smooth and rough pipes – Moody diagram – losses during flow through pipes. Pipes in
+series and parallel – transmission of power through pipes. One dimensional compressible fluid flow
+– flow through variable area passage – nozzles and diffusers
+Conduction and Radiation Heat Transfer
+Governing Equation and Boundary conditions, Extended surface Heat Transfer, Transient
+conduction – Use of Heisler’s charts, Conduction with moving boundaries, Radiation Heat Transfer,
+Gas Radiation
+Turbulent Forced Convective Heat Transfer
+Turbulence theory – mixing length concept – turbulence model – k Є model – analogy
+between heat and momentum transfer – Reynolds, Colburn, Prandtl turbulent flow in a tube – high
+speed flows.
+Phase Change Heat Transfer and Heat Exchanger
+Condensation on bank of tubes – boiling – pool and flow boiling, Heat exchanger – Є –
+NTU approach and design procedure – compact heat exchangers
+REFERENCES
+1. Anderson, J.D., Fundamentals of Aerodynamics, McGraw Hill, Boston, 2001.
+2. Ozisik. M.N., Heat Transfer – A Basic Approach, McGraw-Hill Co., 1985.
+3. Streeter, V.L., Wylie, E.B., and Bedford, K.W., Fluid Mechanics, WCB McGraw Hill,
+Boston, 1998.
+4. Bansal,R.K., Fluid Mechanics, Saurabh and Co., New Delhi, 1985.
+5. Holman.J.P., Heat Transfer, Tata Mc Graw Hill, 2002.
+6. Ghoshdastidar.P.S., Heat Transfer, Oxford University Press, 2004
+
+20
+
+COURSE OUTCOMES
+1. Student will be able to use the concepts of Heat Transfer and fluid flow in the field of
+energy applications.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+CO1
+
+
+
+EEMC104
+
+PO2
+
+PO3
+
+PO4
+
+PO5
+
+PO6
+
+PO7
+
+
+
+PO8
+
+PO9
+
+PO10
+
+
+
+WASTE MANAGEMENT AND ENERGY GENERATION
+TECHNIQUES
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+
+To familiarize students with recent energy generation techniques.
+To provide information on various methods of waste management.
+To detail on the recent technologies of waste disposal and
+To make student realize on the importance of healthy environment.
+
+Solid Waste
+Definitions - Sources, Types, Compositions, Properties of Solid Waste - Municipal Solid
+Waste - Physical, Chemical and Biological
+Property - Collection - Transfer Stations - Waste
+Minimization and Recycling of Municipal Waste
+Waste Treatment
+Size Reduction - Aerobic Composting - Incineration - Furnace Type
+& Design,
+Medical / Pharmaceutical Waste Incineration Environmental Impacts - Measures to
+Mitigate Environmental Effects due to Incineration.
+Waste Disposal
+Land Fill Method of Solid Waste Disposal - Land Fill Classification, Types, Methods
+& Siting Consideration - Layout &
+Preliminary Design of Land Fills - Composition,
+Characteristics,
+generation, Movement and Control of Landfill Leachate & Gases Environmental Monitoring System for Land Fill Gases.
+Hazardous Waste Management
+Definition & Identification of Hazardous Waste - Sources and
+Nature of Hazardous
+Waste - Impact on Environment - Hazardous Waste Control - Minimization and Recycling Assessment of Hazardous Waste Sites - Disposal of Hazardous Waste, Underground Storage
+Tanks Construction, Installation & Closure Energy Generation from Waste: Types - Biochemical
+Conversion - Sources of Energy Generation - Industrial Waste, Agro Residues - Anaerobic
+Digestion - Biogas Production - Types of Biogas Plant.
+
+21
+
+Thermochemical Conversion
+- Sources of Energy Generation - Gasification - Types of Gasifiers - Briquetting Industrial
+Applications of Gasifiers - Utilization and Advantages of
+Briquetting Environmental Benefits of Biochemical and Thermochemical Conversion
+REFERENCES
+1. Parker, Colin, & Roberts, Energy from Waste - An Evaluation of Conversion Technologies,
+Elsevier Applied Science, London, 1985.
+2. Shah, Kanti L., Basics of Solid & Hazardous Waste Management Technology, Prentice
+Hall, 2000.
+3. Manoj Datta, Waste Disposal in Engineered Landfills, Narosa Publishing House, 1997.
+4. Rich, Gerald et.al., Hazardous Waste Management Technology, Podvan Publishers, 1987.
+5. Bhide AD., Sundaresan BB, Solid Waste Management in Developing Countries,
+INSDOC New Delhi, 1983.
+COURSE OUTCOMES
+Upon completion of the course, the students will be able to
+1. Understand the waste characterization, segregation and disposal.
+2. Familiarize the technologies that are available for effective waste disposal.
+3. Understand the problem in a sensible and realistic manner.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+CO1
+
+
+
+PO2
+
+PO3
+
+PO4
+
+PO5
+
+
+
+CO2
+
+
+
+CO3
+
+
+
+EEMP107
+
+PO6
+
+PO7
+
+PO8
+
+
+
+
+PO9
+
+PO10
+
+
+
+
+
+
+ENERGY LABORATORY - I
+
+
+
+
+
+L
+0
+
+T
+0
+
+P
+3
+
+COURSE OBJECTIVES
+
+
+
+
+To conduct the load test, speed test and Heat Balance Test of a single and double cylinder
+diesel engine.
+To evaluate the performance of steam boiler, turbine and condenser.
+To make the students understand the working principle of various types of governors,
+balancing systems, Cam analyzer, Torsional vibration of single rotor system, whirling speed
+concept, action of forces in gyroscope.
+
+List of Experiments
+1. Study and Performance test on Kaeser air compressor test rig.
+2. Heat balance test and air fuel determination on a Diesel Engine
+3. Effect of injection pressure on the performance and emission of Diesel Engine.
+4. Determination of damping coefficient in damping torsional oscillation.
+5. Experimentation of pressure processes station by PID control.
+22
+
+6. Demonstrate the gyroscopic effects and determination of gyroscopic couple.
+7. Performance evaluation of loco type boiler.
+8. Performance evaluation of Greenbat turbine with condenser.
+9. Performance evaluation of reader vertical steam engine.
+COURSE OUTCOMES
+Upon completing this course, students should be able to:
+1. Gain knowledge about the combustion principles.
+2. Analyze the performance of steam boiler, turbine and condenser.
+3. Supplement the principles learnt in kinematics and Dynamics of Machinery.
+
+COs
+CO1
+CO2
+CO3
+
+PO1
+
+
+
+
+EEMC201
+
+PO2
+
+
+
+
+PO3
+
+
+Mapping with Programme Outcomes
+PO4
+PO5
+PO6
+PO7
+PO8
+
+
+
+
+ENERGY CONSERVATION AND MANAGEMENT
+
+PO9
+
+PO10
+
+
+
+
+
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+Familiarizing with management, especially with management in energy sector engineering.
+Fundamentals of product strategy management. Studying methods of energy accounting and
+energy auditing in energy sector, industry and final consumption.
+Finding opportunities to increase the rational use of energy.
+
+Introduction
+Energy Scenario - Principles and Imperatives of Energy
+Conservation - Energy
+Consumption Pattern - Resource Availability
+- Role of Energy Managers in Industries
+Thermal Energy Auditing: Energy Audit - Purpose, Methodology with respect to Process
+Industries - Power Plants, Boilers etc. - Characteristic Method Employed in Certain Energy
+Intensive Industries - Various Energy Conservation Measures in Steam System - Losses in
+Boiler, Methodology of Upgrading Boiler Performance.
+Energy Conservation in Pumps, Fans & Compressors, Air conditioning and
+systems, Steam Traps - Types, Function, Necessity.
+
+refrigeration
+
+Role of Instrumentation in Energy Conservation
+Total Energy Systems - Concept of Total Energy - Advantages & Limitations - Total Energy
+System & Application - Various Possible Schemes Employing Steam Turbines Movers Used in
+Total Energy Systems - Potential & Economics of Total Energy Systems.
+
+23
+
+Electrical Energy Auditing
+Potential areas for Electrical Energy Conservation in Various Industries
+- Energy
+Management Opportunities in Electrical Heating, Lighting System, Cable Selection - Energy
+Efficient Motors - Factors Involved in Determination of Motor Efficiency- Adjustable AC
+Drives, Application & its use Variable Speed Drives Belt Drives.
+Energy Management
+Importance of Energy Management, Energy Economics - Discount Rate, Payback Period,
+Internal Rate of Return, Life Cycle Costing.
+REFERENCES
+1. CB Smith, Energy Management Principles, Pergamon Press, New York, 1981
+2. Hamies, Energy Auditing and Conservation ; Methods, Measurements, Management
+& Case Study, Hemisphere, Washington, 1980.
+3. Trivedi, PR, Jolka KR, Energy Management, Commonwealth Publication, New Delhi,
+1997.
+4. Witte, Larry C, Industrial Energy Management & Utilization, Hemisphere Publishers,
+Washington, 1988.
+5. Diamant, RME, Total Energy, Pergamon, Oxford, 1970
+COURSE OUTCOMES
+The theory should be taught in such a manner that students are able to acquire different
+learning out comes in cognitive, psychomotor and affective domain to demonstrate following
+course outcomes.
+1. Identify the demand supply gap of energy in Indian scenario.
+2. Carry out energy audit of an industry/Organization.
+3. Draw the energy flow diagram of an industry and identify the energy wasted or a waste
+stream.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+PO2
+
+CO1
+
+
+
+CO2
+
+
+
+CO3
+
+
+
+EEMC202
+
+PO3
+
+PO4
+
+PO5
+
+PO6
+
+PO7
+
+PO8
+
+PO9
+
+PO10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENERGY MODELLING, ECONOMICS AND PROJECT
+MANAGEMENT
+
+L
+4
+
+T
+0
+
+COURSE OBJECTIVES
+
+
+
+
+To impart greater understanding of energy modeling in renewable energy technology.
+To throw light on the economic aspects involved in renewable energy technology.
+To enlighten the students on the various techniques involved in project management.
+24
+
+P
+0
+
+Models and Modeling Approaches
+Macroeconomic Concepts - Measurement of National Output - Investment Planning and
+Pricing - Economics of Energy Sources - Reserves and Cost Estimation.
+Input-Output Analysis
+Multiplier Analysis - Energy and Environmental Input / Output Analysis - Energy
+Aggregation –Econometric Energy Demand Modeling - Overview of Econometric Methods.
+Energy Demand Analysis and Forecasting
+Methodology of Energy Demand Analysis - Methodology for Energy Technology
+Forecasting -Methodology for Energy Forecasting - Sectoral Energy Demand Forecasting.
+Economics of Stand-alone Power Systems
+Solar Energy - Biomass Energy - Wind Energy and other Renewable Sources of Energy Economics of Waste Heat Recovery and Cogeneration - Energy Conservation Economics.
+Project Management – Financial Accounting
+Cost Analysis - Budgetary Control - Financial Management - Techniques for Project
+Evaluation.
+REFERENCES
+1. Munasinghe M., Meier P., “Energy Policy Analysis and Modeling”, Cambridge
+University Press, New York, 2008.
+2. Spyros Makridakis, Steven C. Wheelwright, Rob J. Hyndman, “Forecasting Methods and
+Applications”, Wiley, Singapore, 2008.
+3. James Stock, Mark Watson, “Introduction to Econometrics”, 2nd ed., Pearson
+Education, New Delhi, 2006.
+4. Kurt Campbell, Jonathon Price, “The Global Politics of Energy”, The Aspen
+University, Washington, 2008.
+5. Bob Shivley, John Ferrare, “Understanding Today's Electricity Business”,
+Enerdynamics, Laporte, 2010.
+6. S.Makridakis, “ Forecasting method and applications”, Wiley,1983
+COURSE OUTCOMES
+At the end of this course, the students will be able to
+1. Gain clear perspective on energy economy.
+2. Forecast the energy demand and plan wisely.
+3. Become excellent managers of the energy resources.
+
+25
+
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+PO2
+
+CO1
+
+
+
+
+
+
+CO2
+
+PO3
+
+EEMC203
+
+PO5
+
+PO6
+
+PO7
+
+PO8
+
+
+
+
+
+CO3
+
+PO4
+
+PO9
+
+PO10
+
+
+
+
+
+
+
+
+
+
+ENVIRONMENTAL ENGINEERING AND POLLUTION
+CONTROL
+
+
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+To provide the engineering graduates with technical expertise in Environmental Engineering which
+enable to have a career and professional accomplishment in the public or private sector to
+
+
+
+
+
+
+Address the complexities of real life environmental engineering problems related to water
+supply, sewerage, sewage treatment, waste management, environmental impact assessment,
+industrial pollution prevention and control.
+Identify, formulate, analyze, and develop processes and technologies to meet desired
+environmental protection needs of society and formulate solutions that are technically
+sound, economically feasible, and socially acceptable.
+To impart knowledge on the principles and design of control of indoor/particulate/gaseous
+air pollutant and its emerging trends and also application of Industrial pollution prevention,
+cleaner technologies, industrial wastewater treatment and residue management.
+
+Air Pollution
+Sources and Effect - Acid Rain - Air Sampling and Measurement Analysis of Air
+Pollutants -Air Pollution Control Methods and Equipments - Issues in Air Pollution Control.
+Solid Waste Management
+Sources and Classification - Characteristics of Solid Waste Potential Methods of Solid
+Waste Disposal - Process and Equipments for Energy Recovery from Municipal Solid Waste and
+Industrial Solid Waste.
+
+26
+
+Water Pollution
+Sources and Classification of Water Pollutants - Characteristics - Waste Water Sampling
+Analysis - Waste Water Treatment - Monitoring Compliance with Standards - Treatment,
+Utilization and Disposal of Sludge.
+Other Types of Pollution
+Noise Pollution and its Impact - Oil Pollution - Pesticides Prevention and Control.
+
+Radioactivity Pollution -
+
+Pollution from Thermal Power Plants and Control Methods
+Instrumentation for Pollution Control - Water Pollution from Tanneries and Other Industries
+and their Control.
+REFERENCES
+1. Environmental Considerations in Energy Development, Asian Development Bank (ADB),
+Manila (1991)
+2. G.Masters (2003): Introduction to Environmental Engineering and Science Prentice Hall of
+India Pvt Ltd, New Delhi.
+3. H.S.Peavy, D.R.Rowe, G.Tchobanoglous (1985): Environmental Engineering-McGrawHill Book Company, New York.
+4. H.Ludwig, W.Evans (1991): Manual of Environmental Technology in Developing
+Countries, .International Book Company, Absecon Highlands, N.J.
+COURSE OUTCOMES
+By the time of their graduation, the students are expected to be able to:
+1. Have basic knowledge about environmental protection and operation of pollution control
+devices – design and conduct experiments, as well as interpreted data and communicate
+effectively.
+2. Identify, formulate, and solve environmental engineering problems using the techniques,
+skills, and modern engineering tools necessary for environmental engineering practice.
+3. Design systems, processes, and equipment for the control and remediation of water, air, and
+soil quality environment within realistic constraints of economic affordability and social
+acceptability.
+Mapping with Programme Outcomes
+COs
+CO1
+CO2
+CO3
+
+PO1
+
+
+PO2
+
+
+PO3
+
+
+PO4
+
+PO5
+
+PO6
+
+PO7
+
+PO8
+
+PO10
+
+
+
+
+
+27
+
+PO9
+
+
+
+
+
+EEME204
+
+COGENERATION AND WASTE HEAT
+RECOVERY SYSTEMS
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+To gain fundamental knowledge in energy generation, heat transfer in thermal engineering.
+To reduce the impact global warming for betterment of living things to serve healthy life.
+
+Cogeneration
+Introduction - Principles of Thermodynamics - Combined Cycles - Organic Rankine Cycles - Advantages of Cogeneration Technology
+
+Topping - Bottoming
+
+Application & Techno Economics of Cogeneration
+Cogeneration Application in various Industries like Cement, Sugar Mill, Paper Mill etc.
+Sizing of Waste Heat Boilers - Performance Calculations - Part Load Characteristics. Selection of
+Cogeneration Technologies - Financial Considerations-Operating and Investments - Costs of
+Cogeneration.
+Waste Heat Recovery
+Introduction - Principles of Thermodynamics and Second Law Heat Recovery - Diesel Engines and Power Plant etc.
+
+Sources of Waste
+
+Waste Heat Recovery Systems, Applications & Techno Economics
+Recuperators - Regenerators - Economizers - Plate Heat Exchangers - Waste Heat Boilers Classification, Location, Service Conditions, Design Considerations, Unfired Combined
+Cycle - Supplementary Fired Combined Cycle - Fired Combined Cycle.Applications in Industries
+- Fluidized Bed Heat Exchangers - Heat Pipe Exchangers - Heat Pumps - Thermic Fluid Heaters
+Selection of Waste Heat Recovery Technologies - Financial Considerations - Operations and
+Investment Costs of Waste Heat Recovery.
+Environmental Considerations
+Environmental considerations for Cogeneration and Waste Heat Recovery - Pollution
+REFERENCES
+1. Charles H Butler, Cogeneration, McGraw Hill Book Co., 1984.
+2. Horlock JH, Cogeneration - Heat and Power, Thermodynamics and Economics, Oxford,
+1987.
+3. Institute of Fuel, London, Waste Heat Recovery, Chapman &
+Hall Publishers, London,
+1963.
+4. Sengupta Subrata, Lee SS EDS, Waste Heat Utilization and Management, Hemisphere,
+Washington, 1983.
+5. De Nevers, Noel., Air Pollution Control Engineering, Mcgraw Hill, New York, 1995.
+
+28
+
+COURSE OUTCOMES
+1. The students will acquire fundamental knowledge in energy generation, heat transfer in
+thermal engineering.
+2. Students will get the ability solve problems using mathematical concepts and to use modern
+engineering tools, software and equipment to analyze and solve complex engineering
+problems.
+3. The students will be able to solve real world problems and reduce the impact global
+warming for betterment of living things to serve healthy life.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+CO1
+
+
+
+PO2
+
+PO4
+
+PO5
+
+PO6
+
+PO7
+
+
+
+
+
+
+
+CO2
+CO3
+
+PO3
+
+
+
+
+EEMP207
+
+
+
+PO8
+
+PO9
+
+PO10
+
+
+
+ENERGY LABORATORY - II
+
+L
+0
+
+T
+0
+
+P
+3
+
+COURSE OBJECTIVES
+
+
+
+
+To make the students understand the modes of heat transfer and to conduct the trails on
+various experiments to analyze the heat transfer parameters.
+To understand the working of refrigeration trainer and air conditioners.
+To study the basics of solar energy.
+
+List of Experiments
+1. Natural convection from vertical cylinder
+2. Experiments on finned tube heat exchanger
+3. Experiments on unsteady state heat transfer apparatus.
+4. Determination of thermal conductivity of metal rod.
+5. Experiments on composite wall apparatus
+6. Performance test on central A/C plant
+7. Performance test on vapor absorption refrigeration system
+8. Performance test on Solar still
+9. Performance test on Solar concentrator test rig.
+10. Performance test on Solar cooker.
+COURSE OUTCOMES
+Upon completing this course, students should be able to:
+1. Understand the behavior of a system at different operating conditions
+2. Understand the usage of different refrigeration tools.
+3. Learn the basics of solar energy, how to determine solar intensity, and how to estimate daily
+and annual solar energy potential at each location.
+29
+
+COs
+CO1
+CO2
+CO3
+
+PO1
+
+
+
+
+PO2
+
+
+
+EEMT303
+
+Mapping with Programme Outcomes
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+
+
+
+
+
+PO9
+
+PO10
+
+
+
+
+
+
+L
+0
+
+THESIS PHASE I AND VIVA VOCE
+
+T
+4
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+To enhance the research and development activities of the students
+
+COURSE OUTCOMES
+1. The students would apply the knowledge gained from theoretical and practical courses in
+solving problems, so as to give confidence to be creative, well planned, organized,
+coordinated in their project work phase – II.
+
+COs
+CO1
+
+PO1
+
+
+EEMI304
+
+PO2
+
+
+Mapping with Programme Outcomes
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+
+
+
+
+
+INDUSTRIAL TRAINING
+
+L
+0
+
+PO9
+
+
+PO10
+
+
+T
+*
+
+P
+0
+
+COURSE OBJECTIVES:
+ To train the students in the field work related the Mechanical Engineering and to have a
+practical knowledge in carrying out Structural field related works.
+ To train and develop skills in solving problems during execution of certain works related to
+Manufacturing Engineering.
+The students individually undergo a training program in reputed concerns in the field of
+Manufacturing Engineering during the summer vacation (at the end of second semester for full –
+time / fourth semester for part – time) for a minimum stipulated period of four weeks. At the end of
+the training, the student has to submit a detailed report on the training he had, within ten days from
+the commencement of the third semester for Full-time / fifth semester for part-time. The students
+will be evaluated by a team of staff members nominated by head of the department through a vivavoce examination.
+COURSE OUTCOMES:
+1. The students can face the challenges in the practice with confidence.
+
+30
+
+2. The student will be benefited by the training with managing the situation arises during the
+execution of works related to Manufacturing Engineering.
+
+EEMT401
+
+THESIS PHASE II AND VIVA VOCE
+
+L
+0
+
+T
+8
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+To improve the student research and development activities.
+To improve presentation and report preparation skills.
+
+COURSE OUTCOMES:
+1. The students would apply the knowledge in solving problems, so as to give confidence to be
+creative, well planned, organized, coordinated project outcome of the aimed work.
+
+COs
+CO1
+
+PO1
+
+
+PO2
+
+
+PO3
+
+
+Mapping with Programme Outcomes
+PO4
+PO5
+PO6
+PO7
+PO8
+
+
+
+
+31
+
+PO9
+
+
+PO10
+
+
+PROFESSIONAL ELECTIVES
+
+EEMEX0X
+
+MEASUREMENTS AND CONTROLS IN
+THERMAL ENGINEERING
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+
+To equip the students with necessary foundation for effectively analyzing and solving the
+problems associated in thermal engineering field.
+To deliver comprehensive education in thermal Engineering to ensure that the students have
+core competency to be successful in industry/ research laboratory and motivate them to
+pursue higher studies and research in interrelated areas.
+To encourage the students to take up real life and/or research related problems and to create
+innovative solutions of these problems through comprehensive analysis and designing.
+
+Measurement Characteristics
+Measuring instruments-static and dynamic characteristics - experimental error analysissystematic and random errors- statistical analysis – Uncertainty- experimental planning and
+selection of measuring instruments.
+Concepts of Instrumentation
+Basic instruments for the measurement of temperature- torque-strain gauges- pressurevelocity-current-flow and level.
+Measurements of Surface Temperature
+Measurements of conductivity remote sensing of temperature- coefficient of conductioninsulating materials –convection and radiation - measurements of conduction in porus insulating
+material- measurement of pH value- Oxygen Concentration.
+Gas Analysis
+Measurements of Co2 , No2 , Co and hydrocarbons and So2 , Use of gas Chromatography fuel analysis- Measurements of Smoke- Dust and Moisture.
+Microprocessor Based Instrumentation and Data Logging System
+Controllers and displays in power plants- pneumatic and electronic controls- typical control
+system in power plant control- loop interaction- nuclear reactor control systems.
+REFERENCES
+1. C.S.Rangan, G.R.Sharma, V.S.V.Mani, Instrumentation Devices and systems, Tata
+McGraw-Hill, New Delhi (1983).
+2. J.P.Holman - Experimental methods for Engineers, McGraw-Hill (1988).
+3. Doeblin, Measurment System Application and Design-McGraw-Hill(1978)
+4. Barnery, Intelligent Instrumentation, Prentice Hall of India (1988)
+5. http://www.eets.com
+6. http://www.thermomax.com
+32
+
+COURSE OUTCOMES
+1. Ability to acquire, apply and share in-depth knowledge in the area of thermal engineering.
+2. Graduates will demonstrate skills to use modern engineering tools, software and equipment
+to analyze and solve complex engineering problems.
+3. Graduate will acquire knowledge about current issues/advances in engineering practices.
+Mapping with Programme Outcomes
+COs
+CO1
+
+PO1
+
+
+PO2
+
+
+PO3
+
+PO4
+
+PO5
+
+PO6
+
+
+PO7
+
+PO9
+
+PO10
+
+
+
+
+CO2
+CO3
+
+PO8
+
+
+
+EEMEX0X
+
+
+
+
+
+ENERGY CONVERSION TECHNIQUES
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+To analyze the pros and cons of conventional energy and direct energy conversion
+techniques for converting one form of energy to another.
+To study the various forms of energy conversion techniques and production of electrical
+energy.
+To understand the necessity of energy storage systems and the thermodynamic and kinetic
+principles of fuel cells.
+
+Introduction
+Energy - Classification – Sources – Utilization – Principle of energy conversion – Biomass
+- Solar energy.
+Production of Thermal Energy and Mechanical Energy
+Conversion of mechanical, electrical, electromagnetic and
+of thermal energy – turbines – Electromechanical conversion.
+
+chemical
+
+energy-conversion
+
+Production of Electrical Energy
+Conversion of Thermal energy into electricity - Chemical energy into
+Electromagnetic energy into Electricity – Mechanical energy into Electricity.
+
+Electricity –
+
+Energy Storage Systems
+Introduction - Storage of Mechanical energy, Electrical energy, Chemical energy, Thermal
+energy.
+Fuel Cells: Thermodynamic and kinetics of fuel cell processes – Fuel cell
+performance – Types of fuel cells – Advantages – Fuel cell applications.
+
+33
+
+Thermal Biomass Conversion
+Combustion, pyrolysis, Gasification and Liquefaction-Biological Conversion-Methanol,
+Ethanol Production -Fermentation-Anaerobic Digestion Biodegradation and Biodegradability of
+Substrate.
+REFERENCES
+1. Archie.W.Culp, Principles of Energy Conversion, McGraw-Hill Inc., New York, (1991).
+2. Kordesch. K and Simader. G,
+Fuel Cell and Their Applications, Wiley-Vch., Germany
+(1996).
+3. Kettari. M.A, Direct Energy Conversion, Addison-Wesley Pub. Co, (1997).
+4. Hart. A.B and Womack G.J, Fuel Cells: Theory and Application, Prentice Hall New York
+Ltd., London (1989).
+5. http ://www.ovonic.com
+6. http ://www.iiec.org
+7. www.alternativepower.com
+COURSE OUTCOMES
+1. Awareness on the existence of various mechanisms for conversion of energy from one form
+to another and their merits, constraints.
+2. Understand the production of electrical energy from different conversion methods.
+3. Understand the working of various fuel cells, their relative advantages/disadvantages.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+CO1
+
+
+
+PO2
+
+PO3
+
+PO5
+
+
+
+PO7
+
+PO8
+
+PO9
+
+PO10
+
+
+
+
+
+EEMEX0X
+
+PO6
+
+
+
+CO2
+CO3
+
+PO4
+
+
+
+
+SOLAR ENERGY AND WIND ENERGY
+
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES:
+
+
+To understand and analyze the present and future energy demand of world and nation and
+techniques to exploit the available renewable energy resources such as solar, bio-fuels, wind
+power, tidal and geothermal effectively
+
+Solar Radiation
+Availability - Measurement and Estimation - Isotropic and an
+Isotropic Models Introduction to Solar Collectors (Liquid Flat - Plate Collector, Air Heater and Concentrating
+Collector) and Thermal Storage - Steady State and Transient Analysis - Solar Pond - Solar
+Refrigeration.
+
+34
+
+Modeling of Solar Thermal Systems and Simulations in Process Design
+Design of Active Systems by f-chart and Utilizability Methods - Water Heating Systems
+- Active and Passive - Passive Heating and Cooling of Buildings - Solar Distillation - Solar
+Drying.
+Photovoltaic Solar Cell
+P:N Junction - Metal - Schottky Junction, Electrolyte - Semiconductor Junction, Types of
+Solar Cells - their Applications - Experimental Techniques to determine the Characteristics of
+Solar Cells - Photovoltaic Hybrid Systems Photovoltaic Thermal Systems - Storage Battery Solar Array and their Characteristics Evaluation - Solar Chargeable Battery.
+Wind
+Structure - Statistics - Measurements and Data Presentation - Wind Turbine Aerodynamics Momentum Theories - Basic Aerodynamics - Airfoils and their Characteristics - HAWT-Blade
+Element Theory - Prandtl's Lifting Line Theory (prescribed wake analysis) - VAWT
+Aerodynamics - Wind Turbine Loads - Aerodynamic Loads in Steady Operation - Wind
+Turbulence - Yawed Operation and Tower Shadow.
+Wind Energy Conversion System (WECS)
+Siting - Rotor Selection - Annual Energy Output - Horizontal Axis Wind Turbine
+(HAWT) - Vertical Axis Wind Turbine - Rotor Design
+Considerations - Number of Blades Blade Profile - 2/3 Blades and Teetering - Coning - Upwind/Downwind - Power Regulation Yaw System - Tower - Synchronous and Asynchronous Generators and Loads - Integration of
+Wind Energy Converters to Electrical Networks - Inverters - Testing of WECS - WECS Control
+System - Requirements and Strategies - Miscellaneous Topics - Noise etc - Other
+Applications.
+REFERENCES
+1. L.L.Freris, Wind Energy Conversion Systems, Prentice Hall, 1990.
+2. D.A.Spera, Wind Turbine Technology: Fundanental concepts
+of
+Wind Turbine
+Engineering, ASME Press.
+3. S.P.Sukhatme-Solar Energy: principles of Thermal Collection and Storage, Tata McGrawHill (1984).
+4. J.A.Duffie and W.A.Beckman-Solar Engineering of Thermal Processes-John Wiley
+(1991).
+5. J.F.Kreider and F.Kreith-Solar Energy Handbook McGraw-Hill (1981).
+6. http ://www.ises.ors
+7. http :/www.windpower-monthly.com
+8. www.solarpv.com
+COURSE OUTCOMES
+Upon completion of the course, the students will be able to
+1. Know about the exploration of nonconventional energy resources and their effective tapping
+technologies.
+35
+
+2. Effective utilization of available renewable energy resources.
+3. To acquire the knowledge of modern energy conversion technologies.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+PO2
+
+CO1
+
+
+
+
+
+PO4
+
+PO5
+
+PO6
+
+
+
+
+
+
+
+CO2
+CO3
+
+PO3
+
+PO8
+
+
+
+
+
+PO9
+
+PO10
+
+
+
+
+
+
+
+EEMEX0X
+
+PO7
+
+
+
+
+
+
+BIO ENERGY CONVERSION TECHNOLOGIES
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+To pursue the various technologies for utilizing the bio-energy and its availability and
+conversion of bio-energy in the useful forms.
+Analyze elaborately the technologies available for conversion of biomass to energy in the
+technical update.
+Analyze the bio-energy conversion with respect to economical aspect and also in the
+environmental aspect.
+
+Introduction of Biomass
+Availability merits and demerits-Indian scenario-conversion mechanismphoto synthesis comparison with other energy.
+
+utilization of
+
+Thermal Biomass Conversion
+Combustion, pyrolysis, Gasification and Liquefaction-Biological Conversion-Methanol,
+Ethanol Production -Fermentation-Anaerobic Digestion Biodegradation and Biodegradability of
+Substrate.
+Combustion
+Perfect, complete and incomplete combustion-stoichiometric air requirement for biofuels equivalence ratio-fixed bed and fluid Bed combustion-fuel and ash handling systems-steam cost
+comparison with conventional fuels.
+Power Generation Techniques
+Through Fermentation and Gasification-Biomass Production from different Organic
+Wastes-Effect of Additives on Biogas Yield-Biogas production from Dry Dung Cakes-Industrial
+Application-Viability of Energy Production-Wood Gasifier System, Operation of Spark Ignition
+and Compression Ignition with Wood Gas Operation and Wood Gas Operation and Maintenance.
+
+36
+
+Economics and Environmental Aspects
+Energy Effectives and Cost Effectiveness-History of Energy Consumption and Cost –
+Environmental Aspects of Bio-energy Conversion.
+REFERENCES
+1. David Boyles, Bio Energy Technologies Thermodynamics and Costs, Ellis
+Hoknood,Chichester,1984.
+2. Khandelwal KC, Mahdi SS, Biogas Technology-A Practical Handbook, Tata McGraw
+Hil,1986.
+3. R.C. Maheswari, Bio Energy for Rural Energisation ,Concept Publication,1987.
+4. Anthony San Pietro, Biochemical and Photosynthetic aspects of Energy Production,
+Academic Press, New York,1980.
+5. EL-Halwagi MM, Biogas Technology: Transfer & Diffusion, Elsevier Applied SC, London
+1986.
+6. Tom B Reed ,Biomass Gasification-Principles and Technology, Noyce Data
+Corporation,1981.
+7. Iyer PVR et al, Thermochemical Characterization of Biomass, M N E S.
+COURSE OUTCOMES
+Upon completion of the course, the students will be able to
+1. Gain vast idea of the various form of biomass availability in the earth.
+2. Get complete understanding of the various biomass energy conversion technologies, and its
+importance of these energies in the economical and environmental aspect towards and
+environmental aspect towards the present energy crisis.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+CO1
+
+
+
+PO2
+
+CO2
+
+EEMEX0X
+
+PO3
+
+PO4
+
+PO5
+
+
+
+PO6
+
+PO7
+
+PO8
+
+PO9
+
+PO10
+
+
+
+
+
+
+
+BOILER TECHNOLOGY
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+The course content should be taught with the aim to develop different types of skills so that students
+are able to acquire following competency:
+ To apply basic concepts, laws and principles of Boiler design.
+ To impart greater understanding of heat balance in Boiler for modern power plant.
+ To throw light on the heat transfer aspects involved in boiler technology.
+ To enlighten the students on the various techniques involved in the boiler code.
+
+37
+
+Introduction
+Parameter of a Steam Generator - Thermal Calculations of a Modern
+Steam Generator Tube Metal Temperature Calculation and Choice of
+Materials - Steam Purity Calculations and
+Water Treatment Heat balance: Heat transfer in Furnace - Furnace Heat Balance - Calculation of
+Heating Surfaces - Features of Firing Systems for Solid - Liquid and Gaseous Fuels - Design of
+Burners
+Boiler Design
+Design of Boiler Drum - Steam Generator Configurations for
+Recovery Boilers - Pressure Loss and Circulation in Boilers
+
+Industrial Power and
+
+Design of Accessories
+Design of Air Preheaters - Economisers and Superheater for High
+Pressure Steam
+Generators - Design Features of Fuel Firing Systems and Ash Removing Systems
+Emission Aspects
+Emission Control – Low NOx Burners– Boiler Blow Down - Control & Disposal : Feed
+Water Deaeration & Deoxygenation – Reverse Osmosis - Ash Handling Systems Design – Ash
+Disposal– Chimney Design to meet Pollution std – Cooling Water Treatment & Disposal
+Boiler code
+IBR and International Regulations - ISI Code's Testing and Inspection of Steam
+Generator - Safety Methods in Boilers - Factor of Safety in the Design of Boiler Drums and
+Pressure Parts - Safety of Fuel Storage and Handling - Safety Methods for Automatic Operation
+of Steam Boilers
+REFERENCES
+1. Prabir Basu, Cen Kefa and Louis Jestin, Boilers and Burners: Design and Theory, Springer,
+2000.
+2. Ganapathy, V., Industrial Boilers and Heat Recovery Steam Generators, Marcel Dekker Ink,
+2003.
+3. David Gunn and Robert Horton, Industrial Boilers, Longman Scientific and Technical
+Publication, 1986.
+4. Carl Schields, Boilers: Type, Characteristics and Functions, McGraw Hill Publishers, 1982
+5. Howard, J.R., Fluidized Bed Technology: Principles and Applications, Adam Hilger,
+NewYork, 1983.
+6. Richard Dolezal, Large Boiler Furnaces, Elsevier Publishing Company, 1980 .
+7. Power Plant Familiarization NPTI Manual, Govt. of India New Delhi.
+COURSE OUTCOMES
+At the end of this course, the students will be able to
+1. Gain the ability of engineering design calculations in boiler technology.
+
+38
+
+2. Attain knowledge of modern technology in boiler accessories design and heat balance
+calculation.
+3. Become excellent managers of the boiler code.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+PO2
+
+CO1
+
+
+
+
+
+CO2
+
+
+
+CO3
+
+
+
+PO3
+
+PO4
+
+PO5
+
+PO6
+
+PO7
+
+
+
+PO8
+
+PO9
+
+
+
+
+
+
+EEMEX0X
+
+
+
+PO10
+
+
+
+
+
+
+
+L
+4
+
+FLUIDIZED BED SYSTEMS
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+To understand the design principles and applications of fluidized bed systems.
+To introduce the concepts of fluidization and heat transfer in fluidized beds.
+
+Fluidized Bed Behaviour
+Fluidization Phenomena - Regimes of Fluidized Bed Behaviour - Characterization of
+Fluidized Particles - Two Phase and Well Mixed Theory of Fluidization - Solids Mixing - Particle
+Entrainment and Carryover.
+Heat Transfer
+Different Modes of Heat Transfer in Fluidized Bed - Use of Immersed Tubes - Finned
+Tubes - Heat Recovery Systems.
+Combustion and Gasification
+Fluidized Bed Combustion and Gasification, Pressurized Systems, Sizing of Combustion
+and Gasification Systems, Start-up Methods, Fast Fluidized Beds, Different Modes of Heat Transfer
+in Fluidized Beds.
+System Design
+Design of Distributors, Fluidized Bed Furnaces
+Fluidized Bed Heat Recovery Systems, Fluid Bed Dryers.
+
+for
+
+Fossil and Agricultural Fuels,
+
+Industrial Applications
+Sulpher Retention - Nitrogen Emission Control - Furnaces,
+Pollution Control and Environmental Effects - Cost Analysis
+
+39
+
+Dryers, Heat Treatment, etc.
+
+REFERENCES
+1. Howard, J.R., Fluidized Bed Technology: Principles and Applications, Adam Hilger,
+New York, 1983.
+2. Geldart, D, Gas Fluidization Technology, John Wiley & Sons, New York, 1986.
+3. Howard, J.R. (Ed), Fluidized Beds : Combustion and Applications, Applied Science
+Publishers, New York 1983.
+4. Yates, J.G. Fundamentals of Fluidized bed Chemical Processes, Butterworths, 1983.
+5. Reed, T.B., Biomass Gasification : Principles and Technology, Noyes Data Corporation,
+New Jersey, 1981.
+COURSE OUTCOMES
+Upon completion of the course, the students will be able to
+1. Understand the working principles, merits and limitations of fluidized bed systems.
+2. Apply fluidized bed systems for a specific engineering application.
+3. Analyze the fluidized bed system to improve and optimize its performance.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+PO2
+
+CO1
+
+
+
+
+
+PO4
+
+PO5
+
+
+
+EEMEX0X
+
+PO6
+
+PO7
+
+PO8
+
+PO9
+
+PO10
+
+
+
+
+
+CO2
+CO3
+
+PO3
+
+
+
+
+
+
+DESIGN OF HEAT EXCHANGERS
+
+
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+To expose the student to perform the energy transfer analysis on the all types of heat
+exchangers.
+To impart the knowledge about phase changes-Special application to Condensers and
+Evaporators.
+To understand and solve the real life industrial problems for heat exchanger design and
+optimization.
+
+Constructional Details and Heat Transfer
+Types - Shell and Tube Heat Exchangers - Regenerators and Recuperators - Industrial
+Applications Temperature Distribution and its Implications - LMTD - Effectiveness
+Flow Distribution and Stress Analysis
+Effect of Turbulence - Friction Factor - Pressure Loss - Channel Divergence Stresses in
+Tubes - Heater Sheets and Pressure Vessels - Thermal Stresses - Shear Stresses - Types of Failures
+
+40
+
+Design Aspects
+Heat Transfer and Pressure Loss - Flow Configuration - Effect of Baffles - Effect of
+Deviations from Ideality - Design of Typical Liquid - Gas-Gas-Liquid Heat Exchangers
+Condensors and Evaporators Design
+Design of Surface and Evaporative Condensors - Design of Shell and Tube - Plate Type
+Evaporators
+Cooling Towers
+Packings - Spray Design - Selection of Pumps - Fans and Pipes Experimental Methods
+
+Testing and Maintenance -
+
+REFERENCES
+1. T. Taborek, G.F. Hewitt and N.Afgan, Heat Exchangers, Theory and Practice, McGraw Hill
+Book Co., 1980.
+2. Walker, Industrial Heat Exchangers - A Basic Guide, McGraw Hill Book Co., 1980.
+3. Nicholas Cheremisioff, Cooling Tower, Ann Arbor Science Pub 1981.
+4. Arthur P.Fraas, Heat Exchanger Design, John Wiley & Sons, 1988
+5. Donald Q Kern, Process Heat Transfer, Tata McGraw Hill, 2008.
+6. http ://www.thermomax.com
+7. http ://www.tata.com
+8. http ://www.altalevel.com
+COURSE OUTCOMES
+1. The student will be able to perform the energy transfer in the all types of heat exchangers.
+2. The student with engineering equation solver and its use in heat exchanger design.
+3. The student to do energy transfer analysis for research and develop energy effective
+systems.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+CO1
+
+
+
+PO2
+
+PO3
+
+PO4
+
+PO5
+
+PO7
+
+PO8
+
+
+
+
+CO2
+
+
+CO3
+EEMEX0X
+
+PO6
+
+PO9
+
+PO10
+
+
+
+
+
+
+
+COMPUTATIONAL HEAT TRANSFER
+
+
+
+
+L
+4
+
+T
+0
+
+COURSE OBJECTIVES:
+
+
+
+
+To impart fundamental mathematical concepts related to computational heat transfer.
+To impart fundamental mathematical concepts about fluid flow and heat transfer.
+To train students in the usage of computational codes and develop new ones.
+41
+
+P
+0
+
+Mathematical Description of Physical Phenomena
+Governing Differential Equation - Energy Equation - Momentum Equation - Nature of
+Co-ordinates - Discretization Methods
+Finite Difference Methods in Partial Differential Equations
+Parabolic Equations - Explicit, Implicit and Crank Nicholson Methods. Finite
+Differences in Cartesian and Polar Co-ordinates.
+Local Truncation Error - Consistency
+Convergence - Stability - ADI
+Methods. Elliptic Equations - Laplace's Equation. Laplace's
+Equation in a Square - Non-rectangular Regions - Mixed Boundary Condition - Jacobi - Gausssiedel and SOR Methods. Necessary and Sufficient Conditions for Iterative Methods Finite
+Difference
+Applications in Heat Condition and Convection
+Control Volume Approach - Steady and Unsteady One Dimensional Conduction - Two
+and Three Dimensional Situations - Solution Methodology. Convection and Diffusion: Upwind
+Scheme - Exponential Scheme. Hybrid Scheme - Power Law Scheme : Calculation of the Flow
+Field - Simpler Algorithm.
+Finite Element Method Concept
+General Applicability of the Method using one dimensional heat transfer equation - Approximate
+Analytical Solution - Raleigh’s Method. Galerikin Method, Solution Methods
+Finite Element Method Packages
+General Procedure - Discretisation of the domain - Interpolation Polynomials - Formulation of
+Element Characteristic Matrices and Vectors - Direct, Variational and Weighted - Residual
+Approach - Higher Order Isoparametric Element Formulations Conduction and Diffusion
+Equations - Heat Transfer Packages - Heat 2, HEATAX, RADIAT, ANSYS
+REFERENCES
+1. Suhas V.Patnakar, Numerical Heat Transfer and Fluid Flow, Hemisphere Publishing
+Corporation, 1980.
+2. Jaluria and Torrance, Computational Heat Transfer - Faluria and Torrance, Hemisphere
+Publishing Corporation, 1986.
+3. A.R.Mitchell and D.F.Grifths, Finite Difference Method in Partial Differential Equations,
+John Wiley & Sons, 1980
+4. S.S.Rao, The Finite Element Methode in Engineering, Pergamon Press - 1989
+5. O.C. Zienkiewicz & R.L.Taylor, The Finite Element Method IV Edition - Vol. I & II,
+McGraw Hill International Edition, 1991
+6. www.fluent.com
+7. http ://chtol.mech.unsw.edu.au
+
+42
+
+COURSE OUTCOMES
+1. The students will acquire fundamental knowledge in mathematical related to computational
+heat transfer in thermal engineering.
+2. Students will get the ability solve problems using mathematical concepts.
+3. The students will be able to solve real world problems using numerical methods.
+
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+CO1
+
+
+
+PO2
+
+PO4
+
+PO5
+
+
+
+EEMEX0X
+
+PO6
+
+PO7
+
+PO8
+
+PO9
+
+PO10
+
+
+
+
+
+CO2
+CO3
+
+PO3
+
+
+
+
+
+
+
+ENERGY STORAGE TECHNOLOGIES
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+Student will be able to demonstrate and apply in depth technical knowledge of engineering
+in design and operation of various thermal systems.
+Develop the students to enrich their wise through their cognitive skill.
+Student will be able to understand the need for, and an ability to engage in life-long learning
+and continual updating of professional skills.
+
+Energy Storage Need of energy storage
+Different modes of Energy Storage. Potential energy: Pumped hydro storage; KE and
+Compressed gas system: Flywheel storage, compressed air energy storage; Electrical and magnetic
+energy storage: Capacitors, electromagnets; Chemical Energy storage: Thermo-chemical, photochemical, bio-chemical, electro-chemical, fossil fuels and synthetic fuels. Hydrogen for energy
+storage.
+Electrochemical Energy Storage Systems Batteries
+Primary, Secondary, Lithium, Solid-state and molten solvent batteries; Lead Lead acid
+batteries; Nickel Cadmium Batteries; Advanced Batteries. Role of carbon nano-tubes in electrodes.
+Magnetic and Electric Energy Storage Systems
+Superconducting Magnet Energy Storage(SMES) systems; Capacitor and Batteries:
+Comparison and application; Super capacitor: Electrochemical Double Layer Capacitor (EDLC),
+principle of working, structure, performance and application, role of activated carbon and carbon
+nano-tube.
+
+43
+
+Sensible Heat Storage
+SHS mediums; Stratified storage systems; Rock-bed storage systems; Thermal storage in
+buildings; Earth storage; Energy storage in aquifers; Heat storage in SHS systems; Aquifers storage.
+Solar Ponds for energy storage. Green house heating.
+Latent Heat Thermal Energy Storage
+Phase Change Materials (PCMs); Selection criteria of PCMs; Stefan problem; Solar thermal
+LHTES systems; Energy conservation through LHTES systems; LHTES systems in central airconditioning systems; Energy Storage Food preservation; Waste heat recovery; Solar energy
+storage;
+REFERENCES
+1. H.P.Garg et al, D Reidel (1885) “Solar Thermal Energy Storage”, Publishing Co.
+2. V Alexiades & A.D.Solomon(1993) “Mathematical Modeling of Melting and Freezing
+Proces” , Hemisphere Publishing Corporation,
+3. WashingtonNarayan R, Viswanath B(1998), Chemical and Electro Chemical Energy
+System, Universities Press
+4. A.Ter-Gazarian(1994), “Energy Storage for Power Systems”, Peter Peregrinus Ltd.London
+5. B.Kilkis and S.Kakac (1989),”Energy Storage Systems”,(Ed),KAP,London,1989
+6. http ://www.arcon.dk
+7. http ://www.tata.com
+COURSE OUTCOMES
+1. Able to understanding of principles and technologies for thermal storage system, application
+and utilization.
+2. Able to identify, formulate and solve simple to complex troubles of thermal storage systems,
+conversion and storage.
+3. Able to identify and understand components and their function.
+
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+CO1
+
+
+
+PO3
+
+
+
+PO4
+
+PO5
+
+PO6
+
+PO7
+
+
+
+
+CO2
+CO3
+
+PO2
+
+
+
+
+44
+
+PO9
+
+PO10
+
+
+
+
+
+
+PO8
+
+
+
+
+EEMEX0X
+
+RENEWABLE ENERGY SYSTEMS
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+To acquire knowledge of technical competency combined with research to generate
+innovative solutions in Energy engineering.
+To be acquainted with a variety of options in energy sources.
+To prepare the students to exhibit a high level of professionalism, integrity, environmental
+and social responsibility, and life-long independent learning ability.
+
+Introduction
+World energy use-reserves of energy resources-energy cycle of the earth-environmental aspects
+of energy utilisation-renewable energy resources and their importance.
+
+Solar Energy
+Introduction -extraterrestrial solar radiation -radiation at ground level-collectors-solar cellsapplications of solar
+energyBiomass Energy-Introduction-Biomass Conversion-Biogas
+Production- Ethanol Production-Pyrolysis and Gasification-Direct CombustionApplications
+Wind, Geo thermal and Hydro Energy Sources: Introduction-basic theory-types of turbinesapplications-Geothermal Energy-Introduction-geothermal resource types-resource
+baseapplications for heating and electricity generation- Hydropower-introduction-basic conceptssite selection-types of turbines-small scale hydropower.
+Tidal Energy
+Introduction-origin of tides-power generation schemes-Wave Energy-Introduction-basic theorywave power devices.
+Other Renewable Energy Sources: Introduction-Open
+and Closed
+biophotolysis-Ocean
+Currents-Salinity Gradient Devices-Environmental
+impacts of harnessing the different renewable energy resources.
+
+OTEC
+cyclesAspects-Potential
+
+REFERENCES
+1. A. Duffie and W.A. Beckmann, Solar Engineering of Thermal Processes-John Wiley
+(1980).
+2. F.Kreith and J.F. Kreider, Principles of Solar Engineering, McGraw-Hill (1978).
+3. T.N.Veziroglu, Alternative Energy Sources,Vol 5 and 6,McGraw- Hil (1978).
+4. http ://www.solstice.crest.orgl
+5. http ://www.res-.ltd-com
+6. www.mnes.mic.in
+7. www.ireada.org
+8. http://sundancepower.com
+45
+
+COURSE OUTCOMES
+1.
+
+An ability to acquire, apply and share in depth knowledge in the area of Energy
+Engineering and Management.
+2. An ability to conduct independent research and generate knowledge for the benefit of
+mankind.
+3. An ability to apply engineering and scientific principles for the effective management of
+energy systems.
+Mapping with Programme Outcomes
+COs
+
+PO1
+
+PO2
+
+PO3
+
+CO1
+
+
+
+CO2
+
+
+
+
+
+CO3
+
+
+
+EEMEX0X
+
+PO4
+
+PO5
+
+
+PO6
+
+PO7
+
+
+
+
+PO8
+
+PO9
+
+
+PO10
+
+
+
+
+
+
+
+BIOMASS ENERGY- CONVERSION AND
+CONSERVATION TECHNIQUES
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+To learn the present biomass energy scenario and the importance of energy conversion.
+To learn the biomass, biomethanation, gasification, pyrolysis and carbonization.
+To analysis different routes of biomass conversion and methods of characterization.
+
+Origin of Biomass
+Generation and utilization- Properties of biomass-Agriculture Crop & Forestry residues
+used as fuels. Biomass: Types – Advantages and drawbacks, Biochemical, ThermochemicalConversion- Combustion and Gasification. Biomass gasifiers and types. Applications of
+Gasifiers to thermal power and Engines.Biomass as a decentralized power generation source for
+villages Concept of Bio-energy. Characterization of biomass (Proximate analysis and Ultimate
+analysis) - Indian scenario – Characteristics – Carbon neutrality – Conversion mechanisms – Fuel
+assessment studies.
+Biomass Production and Conversion
+Biomass Production: Introduction- Wastelands- Classification and their use through energy
+plantation- Selection of species-Methods of field preparation and transplanting. Harvesting of
+biomass. Biomass Conversion: Different routes of conversion of biomass such as Physical: cuttingSizing, drying and storage of wood- Twigs and other biomass. Biochemical-Conversion of biomassSugar- starch and cellulose into alcohol- Biodiesel. Thermo chemical- Direct combustion- improved
+cookstoves- Briquetting of biomass- pyrolysis- gasification. Biomass Characterizations: Physiochemical characteristics of biomass- Calorific values of solid- Liquid and Gaseous fuels.
+Biomethanation and Combustion
+Bio-Chemical Conversion: Aerobic and Anaerobic conversion phases in biomass
+production- Fermentation etc. Bio-fuels: Importance- Production and applications. Bio-fuels: Types
+46
+
+of Bio-fuels, Production processes and technologies - Bio fuel applications- Ethanol as a fuel for
+I.C. engines. Combustion : Perfect- Complete and incomplete – Equivalence ratio – Fixed Bed,
+Fluid Bed – Fuel and Ash handling – Steam cost comparison with conventional fuels. Briquetting:
+Types of Briquetting – Merits and demerits – Feed requirements and preprocessing – Advantages –
+Drawbacks.
+Gasification
+Types – Comparison – Application – Performance evaluation – Economics – Dual fuel
+engines –100 % Gas Engines – Engine characteristics on gas mode – Gas cooling and cleaning
+train. Gas producer – Types - Operating principle. Gasifier fuels- Properties-preparationConditioning of producer gas. Application-Shaft power generation- Thermal applicationeconomics.
+Pyrolysis and Carbonization
+Plant operation- Product recovery- Incineration and Plant lay out. Types – Process
+governing parameters – Thermo gravimetric analysis – Differential thermal analysis – Differential
+scanning calorimetry – Typical yield rates.
+REFERENCES
+1. Biomass Renewable Energy – D.O.hall and R.P. Overeed (John Wiley and Sons, New york,
+1987).
+2. Biomass Gasification Principles and Technology, Energy technology review No. 67, - T.B.
+Read (Noyes Data Corp. 1981).
+3. G.D. Rai. Non-Conventional Energy Sources, Kh Publishers, New Delhi.
+4. Rathore N. S., Panwar N. L, Kothari S., Biomass Production and Utilization Technology.
+Himanshu Production, 2007.
+5. Vimal, O. P. and Bhatt, M.S., Wood Energy System, Agricole, Pub. New Delhi.
+6. Best Practises Manual for Biomass Briquetting, I R E D A, 1997.
+7. David Boyles, Bio Energy Technology Thermodynamics and costs, Ellis Hoknood
+Chichester, 1984. Khandelwal KC, Mahdi SS, Biogas Technology – A Practical Handbook,
+Tata McGraw Hill, 1986.
+COURSE OUTCOMES
+After successful completion of this course, the students should be able to
+1. To understand the generation and utilization of various biomass.
+2. To gain knowledge in the concept of biomass – proximate and ultimate analysis.
+3. To study the various biomass conversion - biomethanation, gasification and pyrolysis.
+
+COs
+CO1
+CO2
+CO3
+
+PO1
+
+
+
+
+PO2
+
+
+Mapping with Programme Outcomes
+PO3
+PO4
+PO5
+PO6
+PO7
+
+
+
+
+
+
+47
+
+PO8
+
+
+PO9
+
+PO10
+
+
+
+
+
+
+EEMEX0X
+
+BIOMASS GASIFICATION -TECHNOLOGY AND
+UTILIZATION
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+
+To learn about the different types biomass technology.
+To study the origin and developments of gasification system.
+To learn the various types of gasifier, purification, cooling system and impact on
+environment.
+To learn the properties of gaseous fuel from woody biomass and application as engine fuel.
+
+Introduction
+Overview of gasification technology-Biomass as gasification fuel- Gasification for energy
+supply- Gasification history and development- Gasification process-Producer gas and its
+constituents-Hazards with producer gas. Suitability of Bio mass fuels: Charcoal-Wood-SawdustPeat-Agricultural residues.
+Biomass Technology
+Biological Conversion- Bioconversion mechanism, sources of wastes undergoing
+biotreatment, biogas. Energetics and rate processes of major biological significance. Bioconversion
+of substrates into alcohols, organic acids, solvents, amino acids, antibiotics etc. Thermochemical
+Conversion: - Conversion to solid, liquid and gaseous fuels. Pyrolysis, gasification, energy balance
+and the economics.
+Gasifiers, Gas Cleaning and Cooling
+Gasifiers- Up draught Gasifiers -Down draught Gasifiers -Twin-fire Gasifiers - Cross draft
+Gasifiers -Fluidized bed gasifiers & Other Gasifiers. Theory of Gasification: Prediction of the gas
+composition, Gasifier Efficiency. Gas Cleaning and Cooling: Cleaning dust from the gas- Gas
+cooling. Health and Environmental hazards associated with the use of producer gas: Toxic hazardsFire hazards- Explosion hazards- Environmental hazards.
+Impact of Fuel Properties on Gasification and Drive Engines
+Gasification fuels-Need for selection of the right gasifier for each fuel-Energy content of the
+fuel- Moisture content of the fuel- Voltaile matter content of the fuel-ash content and ash chemical
+composition-Reactivity of the fuel-Particle size and distribution-Bulk density of the fuel- Charring
+properties of the fuel- Assessment of the suitability of various types of biomass as gasifier fuel.
+Producer gas drive engines- Performance of gasifier- engine system- Operational difference
+between diesel and gasoline engine- Conversion of gasoline engine to produce gas-Conversion of
+diesel engine to producer gas- Conditions of producer gas- Engine power output using producer
+gas- Gas quality requirements for trouble free operation.
+Technologies for Biomass Utilisation
+Biomass utilisation strategy - Applications to be serviced - Biomass classification and properties Gasification- Combustion vs Gasification - Woody biomass gasifier (thermal and
+48
+
+electric)-Pulverised fuel gasifier (thermal and electric) - Engine operation - Technologies availableProduction of fuel gas-production of mechanical or Electrical power in stationary installations.Mobile applications.
+REFERENCES
+1. P.F. Stan Bury and A. Witalker, 'Principles of Fermentation Technology, Pergamo
+Press,1984.
+2. H. D. Kumar Biotechnology, 1991.
+3. Tom B Reed, Biomass Gasification – Principles and Technology, Noyce Data Corporation,
+1981.
+4. D.O. Hall, G.N. Barnard, and P.A. Moss, Biomass for Energy in the Developing Countries,
+Current Roles, Potential, Problems, Prospects, Pergamon, Press Ltd. 1990
+5. L.P. White, L.G. Claskett, Biomass as Fuel, Academic Press, 1981
+6. T.B. Real, Biomass Gasification Principles and Technology, Energy Technology
+Review,No.67, Hoyes Data Corporation, U.S.A.1981.
+7. Microbial Technology, Fermentation Technology, Edited by Peppler and Perlman, Vol. I
+and II, Academic Press.
+COURSE OUTCOMES
+Upon completion of the course, students will be able to
+1. Understand biomass gasification technology.
+2. Learn different types of gasifier and purification systems.
+3. Gain knowledge on different fuel properties and their impact on gasification.
+
+COs
+CO1
+CO2
+CO3
+
+PO1
+
+
+PO2
+
+
+
+
+Mapping with Programme Outcomes
+PO3
+PO4
+PO5
+PO6
+PO7
+
+
+
+
+
+
+49
+
+PO8
+
+PO9
+
+
+PO10
+
+
+
+
+
+OPEN ELECTIVES
+EEMEX0X
+
+NUCLEAR ENGINEERING
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+To acquire knowledge of technical competency combined with research to generate
+innovative solutions in Energy engineering
+To be acquainted with a variety of options in energy sources.
+To prepare the students to exhibit a high level of professionalism, integrity,
+environmental and social responsibility, and life-long independent learning ability
+
+Review of nuclear physics
+Nuclear equations – Energy from nuclear reactions and fission – Thermal neutrons –
+Nuclear cross-sections. Nuclear Reactions: Mechanism of Nuclear Fission and Fusion - Nuclides –
+Radioactivity - Decay chains-Neutron flux distribution is cores – slowing down – Neutron life
+cycle.
+Reactor Materials
+Nuclear Fuel cycles - Characteristics of Nuclear Fuels - Uranium -Production and
+Purification of Uranium - Conversion to UF4 and UF6 - Other Fuels like Zirconium, Thorium Berylium- Reactor heat generation and removal – Heat flow in and out of solid fuel elements –
+Axial temperature distribution of coolant and fuel element – Hot spot factors – Absorption of core
+radiation. Heat removal in slabs subjected to radiation – Thermal shields – Quality and void
+fractions in non-flow and flow systems – Boiling reactor hydraulics.
+Boiling water reactor
+Controlled Recirculation fluidized bed reactor – Gas cooled reactors – Radioactivity of gas
+coolants – Analysis of gas – steam cycle – simple and dual pressure cycle – Pebble bed reactors.
+Liquid metal cooled reactors
+Compatibility with materials – Types of Fast Breeding Reactors - Design and
+Construction of Nuclear reactors – Fluid fueled reactors – types – corrosion and erosion
+characteristics – Safety aspects. Separation of Reactor Products - Nuclear reprocessing – PUREXUREX – TRUEX – FLOUREX .
+Waste Disposal and Radiation Protection
+Types of Nuclear Wastes - Safety Control and Pollution Control
+REFERENCES
+1. El-Wakil M.M., Nuclear Power Engineering, McGraw-Hill Book Co., New York, 1985.
+2. Loftness, Nuclear Power Plants.
+3. P.K.Nag, Power Plant Engineering, Tata McGraw Hill Book Co., New Delhi, 2001.
+
+50
+
+4. S. Glasstone and A. Sesonske, Nuclear Reactor Engineering (3rd Edition), Von Nostrand,
+1981.
+5. J.R. Lamarsh, Introduction to Nuclear Reactor Theory, Wesley, 1966
+COURSE OUTCOMES
+1.
+
+Able to acquire, apply and share in depth knowledge in the area of Nuclear physics and
+reactor materials.
+2. Gain knowledge about different types of reactors and ore materials of uranium and thorium.
+3. An ability to apply knowledge about nuclear reprocessing, Waste Disposal and Radiation
+Protection methods.
+EEMEX0X
+
+FUELS AND COMBUSTION
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+To learn different type of conventional and non conventional fuel with their properties,
+methods to analysis of fuel, Energy conversion techniques in detail.
+To learn the combustion process of conventional and non conventional fuels, able to
+calculate the necessary air requirement for combustion process.
+To acquire knowledge in the areas of ignition, Flame study and details of burners to develop
+combustion process.
+
+Introduction
+General, Conventional Energy Sources, Solar Energy, Nuclear Power, Energy from Biomass,
+Wind Power, Tidal Power, Geothermal Energy, Energy Survey of India, Rocket Fuels,
+Solid & Liquid Fuels
+General, Family of Coal, Origin of Coal, Gasification of Coal, Analysis and Properties of
+Coal, Classification of Coal, Oxidation of Coal, Hydrogenation of Coal, Efficient use of Solid
+Fuel. Renewable Solid (biomass) Fuel, Solid Fuel Handling and Storage. Origin and
+Classification of Petroleum, Refining and Other Conversion Processes, Composition of
+Petroleum with respect to Combustion, Property & Testing of Petroleum Products, Various
+Petroleum Products, Liquid Fuels from Other Sources, Storage and Handling of Liquid Fuels,
+Liquid Fuels Combustion Equipment
+Gaseous Fuels
+Types of Gaseous Fuels, Natural Gases, Methane from Coal Mines, Manufactured Gases,
+Producer Gas, Water Gas, Carburetted Water Gas, Blast Furnace Gas, Biogas, Refinery Gas,
+LPG, Cleaning and Purification of Gaseous Fuels.
+Theory of Combustion Process and Stoichiometry
+Combustion Thermodynamics, Stoichiometry Relations, Rapid Methods of Combustion
+Stoichiometry, Theoretical Air Required for Complete Combustion, Mass Basis and Volume Basis
+51
+
+Calculation of Minimum Amount of Air Required for a Fuel of known Composition, Calculation
+of Dry Flue Gases if Fuel Composition is Known, Calculation of the Composition of Fuel,
+Excess Air Supplied and Amount of Exhaust gases.
+Burner Design
+Ignition, Concept of Ignition, Auto Ignition, Ignition Temperature, Flame, Flame Propagation,
+Flame Front, Various Methods of Flame Stabilization, Concepts of Burner, Basic Features and
+Types of Solid, Liquid and Gaseous Fuel Burners - Different Types of Coal - Oil and Gas
+Burners, Recuperative & Regenerative Burners.
+REFERENCES
+1.
+2.
+3.
+4.
+5.
+
+Samir Sarkar, Fuels & Combustion, 2nd Edition, Orient Longman, 1990
+Bhatt ,vora Stoichiometry, 2nd Edition, Tata Mcgraw Hill, 1984
+Blokh AG, Heat Transfer in Steam Boiler Furnace, Hemisphere Publishing Corpn, 1988
+Civil Davies, Calculations in Furnace Technology, Pergamon Press, Oxford, 1966
+Sharma SP, Mohan Chander, Fuels & Combustion, Tata Mcgraw Hill, 1984 EIA
+
+COURSE OUTCOMES
+Upon completion of the course, students will be able to
+1. Evaluate the properties of conventional and non conventional fuel, and to describe, compare,
+cost, availability, various advantages and disadvantages for further continued usage of each
+fuel.
+2. Understand the complete combustion process of each fuel, ability to calculate the
+stoichiometry, theoretical and actual air requirement for the combustion process.
+3. Understand the concepts of ignition characteristics, Flame, Flame propagation and Flame
+front in detail.
+EEMEX0X
+
+HYDROPOWER SYSTEMS
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+
+
+To learn and understand the various hydropower systems and its concepts.
+To Prepare energy audit and cost analysis of hydropower systems and to Design, Develop
+and construction of hydropower systems.
+Maintenance of power station and its reservoirs.
+Development of Software for Hydropower System Analysis.
+
+Overview of Hydropower Systems - List of Major Hydro Power Stations in India and
+other countries-Preliminary Investigation - Determination of Requirements - Basic Factors Project Feasibility - Load Prediction and Planned Development -Preparation of hydropower
+energy audit reports- Cost analysis of Hydroelectric Power.
+Layout of Hydroelectric Power Plants- Essential components of the power houseDevelopment of Prototype Systems: Advances in Planning, Design and Construction of Hydro
+Electric Power Stations.
+
+52
+
+Trends in Development of Generating Plant and Machinery - Plant Equipment for Pumped
+Storage Schemes - Some aspects of Management and Operation –uprating and refurbishing of
+turbines
+Power Station Operation and Maintenance: Governing of Water Turbines - Function of
+Turbine Governor - Condition for Governor Stability - Surge Tank Oscillation and
+Speed
+Regulative Problem of Turbine Governing in Future.
+Reservoir maintenance-Civil Engineering works - Mechanical maintenance of reservoirsMaintenance of Electrical and instrumentation Works.
+Development of Software: Computer Aided Hydropower System Analysis - Design - Execution Testing - Operation and Control and Monitoring of Hydropower Services.
+REFERENCES
+1.
+2.
+3.
+4.
+5.
+6.
+
+L.Monition, M.Lenir and J.Roux, Micro Hydro Electric Power Station (1984).
+AlenR.Inversin, Micro Hydro Power Source Book (1986)
+Tyler G.Hicks (1988), Power Plant Evaluation and Design.
+www.tva.gov/power
+indianpowersector.com/power-station/hydro-power-plant
+mnre.gov.in/schemes/grid-connected/small-hydro
+
+COURSE OUTCOMES
+The students graduates will
+1. Acquire the knowledge of various hydropower systems and its concepts.
+2. Enable to prepare energy audit reports and cost analysis of hydropower systems.
+3. Able to Design, Develop and construction of hydropower systems.
+4. Basic knowledge of maintenance in power station and its reservoirs.
+5. Attain motivation to develop new software for hydropower system analysis.
+EEMEX0X
+
+I.T IN ENERGY MANAGEMENT
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+To introduce various programming languages.
+To learn the principle of data base management system.
+
+Introduction to Computer Application
+Programming languages-Introduction to Visual C++, C-Programming Design-Computer
+Organization.
+Introduction to Computer Based Information System
+Types of CBIS-Relationship among CBIS systems concepts and CBIS- general systems
+theory-Energy Management concepts and CBIS.
+
+53
+
+Data Base Management System
+Intelligence based systems - energy data bases-networking -time sharing concepts.
+Software Engineering
+The need for and scope of software engineering -survey of software
+life cycle modelsTransform theory of software performance-network model of structured programs.
+Computer based Monitoring and Online Control Systems
+Data acquisition systems-expert based systems for energy management-Parallel
+Processing Concepts-Typical applications in energy management area.
+REFERENCES
+1. Herbert Schildt-C/C++ Programmer's reference (2000), McGraw- Hill, New York.
+2. David McMahon, Rapid Application Development With Visual C++(1999), McGrawHill, New York.
+3. Gerrit Blaauw, Frederick Brooks, (1997), Computer Architecture: Concepts and
+Evolution, Addison Wesley.
+4. Ian Sommerville, Software Engineering, 5/e, University of Lancaster, England (1996),
+Addison Wesley.
+5. Peter Jackson, Introduction to Expert Systems, 3/e, Addison Wesley (1998).
+6. Peter Rob, Databases: Design, Development and Deployment with student CD (Pkg),
+McGraw-Hill, New York (1999).
+7. http://www.emd.dk
+8. http://www.esd.uk
+9. www.energymanagementsys.com
+COURSE OUTCOMES:
+Upon completion of this course, the students will be able to:
+1. Acquire the knowledge of need and scope of software engineering.
+2. Understand the programming languages.
+3. Learn the principle of data base management system.
+
+EEMEX0X
+
+COMPUTATIONAL FLUID DYNAMICS
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+Graduates are able to:
+ Learn the physical significance of computational fluid dynamics as a design and research
+tool through derivation of governing equations.
+ Understand to linearization of given mathematical behavior of flow field by finite difference
+method and obtain solution by numerical methods.
+ Learn the implementation of FDM and numerical techniques in simple field behavior
+problems.
+54
+
+Philosophy of computational fluid dynamics
+CFD as a research tool, CFD as a design tool, applications. Governing equations, their
+derivation, physical meaning and presentation of forms suitable to CFD.
+Models of flow, continuity, momentum and energy equations, Navier- Stokes equation,
+Euler equation, physical boundary conditions. Mathematical behavior of partial differential
+equations, discrimination, finite differences, explicit and implicit approaches.
+Grids with appropriate transformation
+Transformation of equations, stretched grids, adaptive grids, mesh generation.
+Simple CFD techniques
+The Lax-Wendroff Technique, MacCormack's technique, relaxation technique, the
+alternating direction implicit technique, pressure correction method Leap frog and Crank Nicolsan
+method, upwind schemes
+Some applications
+Numerical solution of Quasi one-dimensional nozzle flows, incompressible coutte flow.
+REFERENCE BOOKS
+1. Computational Fluid Dynamics, J.D.Anderson, Jr., McGraw-Hill, International Edition,
+1995.
+2. Numerical method for Scientific & Engineering, Joe D HoffMan, McGraw-Hill 2001.
+3. Numerical method for Scientific & Engineering, Peter A.Stark, McGraw-Hill 1992.
+4. Muralidhar, K., and Sundararajan, T., “Computational Fluid Flow and Heat Transfer”,
+Narosa Publishing House, New Delhi, 1995.
+5. Ghoshdasdidar, P.S., “Computer Simulation of flow and heat transfer” Tata McGraw Hill
+Publishing Company Ltd., 1998.
+6. Bose, T.X., “Numerical Fluid Dynamics” Narosa Publishing House, 1997.
+COURSE OUTCOMES
+At the end of course, the graduates have ability to:
+1. Describe the signification of flow field in energy engineering which imparts the knowledge
+of design and research as tool.
+2. Formulate the linear equation of complex field behavior of mathematical governing
+equations through finite difference method solved by numerical techniques.
+3. Handle multidisciplinary task of work and used as modern engineering tools by the
+application of software which continues the updating of professional skills.
+
+55
+
+EEMEX0X
+
+NUMERICAL ANALYSIS IN ENGINEERING
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+To understand the significance of numerical analysis in solving engineering problems.
+To understand the basic concepts of mathematical modeling.
+
+Functional Approximation
+Interpolation - divided difference, finite difference, Lagrangian, Chebychev, Hermite,
+Spline interpolations. Least squares methods - Orthogonal polynomial approximations,
+fourier approximations, fast fourier transforms. Types of errors - introduction to error analysis.
+Numerical Calculus
+Numerical differentiation. Numerical integration - Newton Cote's formulas, Gaussian
+quadrature formulas, adaptive quadrature. Solution of a system of linear equations - Gaussian
+elimination, Crout's method, Cholesky's method, Potter's, iterative methods.
+Eigen value problems
+Power and inverse power methods, Householder
+method, Lanczo's method.
+
+method, simultaneous iteration
+
+Solution of Differential Equations
+Initial Value problems - Euler's method, Runge-Kutta methods, Variable step methods.
+Boundary value problems - shooting method.
+Unconstrained optimisation
+Single variable minimization, multivariate minimization - direct search methods,
+gradient Introduction to constrained optimisation.
+REFERENCES
+1.
+2.
+3.
+4.
+5.
+6.
+
+Ralston and Rabinouitz.P, "A first course in Numerical Analysis", McGraw Hill, 1978.
+Hildebrand F.B., "Introduction to Numerical Analysis", Tata McGraw Hill, 1974.
+Mathews, "Numerical Methods in Engineering and Science", PHI, 1995.
+Rao S.S., "Optimization Techniques", Wiley Eastern 1984.
+Buchanan & Turner, "Numerical Methods and Analysis", McGraw Hill, 1992.
+Ramamurthy. V., "Computer Aided Mechanical Design and Analysis", Tata McGraw Hill,
+1992.
+
+56
+
+COURSE OUTCOMES
+Upon completion of the course, the students will be able to
+1. Understand the common numerical methods used in engineering analysis
+2. Estimate the amount of error inherent in different numerical methods.
+3. Assess the efficiency of a selected numerical method when more than one option is available
+to solve a certain class of problem.
+
+EEMEX0X
+
+BIO C O MPO SITE M AT ER IA LS
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+To impart an in-depth knowledge on Biocomposite materials, types, production processing
+and the structural development in Biocomposite materials.
+
+Introduction to Composite Materials – Definition – Types of composites - Conventional
+materials and their limitations – Strong fibres – Types – Styles of reinforcement – Scope for
+reinforcement of conventional materials – Applications of composites.
+Fibers – Types – Glass fibers, Carbon fibers, Aramid fibers, Extended chain polyethylene fibers,
+Natural fibers, Boron fibers, Ceramic fibers. Matrix – Types – Polymer matrix, Thermoplastic and
+Thermoset polymers – Selection of matrix – Metal matrix – Ceramic matrix. Thermoset matrix –
+Epoxy, Polyester, Vinyl Ester, Bismaleimides, Polyimides, Cyanate ester. Thermoplastic matrix –
+Polyether ether ketone, Polyphenylene sulfide, Polysulfone, Thermoplastic polyimide’s. Fiber
+surface treatments – Fillers and other additives. Incorporation of fibers into matrix – Fiber content,
+density and void content - Fiber architecture.
+Manufacturing of fiber reinforced composites – fundamentals – Bag molding process,
+Compression molding, Pultrusion, Liquid composite molding processes and other manufacturing
+processes. Manufacturing processes for thermoplastic matrix composites – Cured composite part.
+Mechanical properties of composites – Basic mechanical properties – Effect of damage on the
+mechanical properties – Brittle vs Ductile materials – Strengthening. Durability and Degradation of
+Materials – Corrosion resistance – Elevated temperature resistance – Fatigue resistance –
+Mechanical fatigue and thermal fatigue – Durability.
+Thermal Properties of Composites – Thermal expansion – Specific heat – Phase transformations
+– Thermal conductivity – Thermal conductance of an Interface – Evaluating the thermal conduction
+– Uses.
+REFERENCES
+1. Engineering Composite Materials, Bryan Harris, The Institute of Materials, London, 1999.
+2. Fiber Reinforced Composites Materials, Manufacturing and Design, P.K. Mallick, CRC Press,
+Taylor & Francis Group, Boca Raton, FL, Third Edition, 2008.
+3. Composite Materials Science and Applications, Deborah D. L. Chung, Springer-Verlag
+London Limited, Second Edition, 2010.
+
+57
+
+4. Principles of the Manufacturing of Composite Materials, Suong V. Hoa, DEStech Publications,
+Inc. U.S.A. 2009.
+5. Composites, Volume 21 of ASM Handbook, ASM International, 2001.
+COURSE OUTCOMES
+Upon completion of the course, the student will be able to
+1. Gain knowledge about Bio-composites.
+2. Understand the various methods of producing bio composites.
+3. Able to engage in lifelong learning.
+
+COs
+CO1
+CO2
+CO3
+
+PO1
+
+
+
+PO2
+
+
+Mapping with Programme Outcomes
+PO3
+PO4
+PO5
+PO6
+PO7
+
+
+
+
+EEMEX0X
+
+NANO MATERIALS TECHNOLOGY
+
+PO8
+
+PO9
+
+
+
+
+
+L
+4
+
+PO10
+
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+This course has been designed in such a way that to provide in depth knowledge on nano
+materials fabrication methods, characterization techniques and application of nano
+materials.
+
+Introduction to nano technology
+Scientific revolutions - Types of nanotechnology and nanomachines - The periodic table Atomic structure - Molecules and phases - Energy - Molecular and Atomic Size, Surfaces and
+Dimensional space - Atoms by inference - Scanning probe microscopy: atomic force microscope Scanning tunneling microscope – Nanomanipulator, Nanotweezers - Atom Manipulation Nanodots - Self assembly - Dip pen nanolithography.
+Nanopowders and Nanomaterials
+Classification of nano materials - Properties of nano materials - characteristics of nano
+particulate materials; Production Methods: Top down approach - mechanical milling, Chemical
+Etching, Electro explosion, Sputtering, Laser ablation; Bottom up approach Plasma spraying,
+Chemical vapour deposition, Sol Gels, Laser pyrolosis, Atomic or molecular condensation.
+Characterisation and Detection Techniques
+Atomic structure and chemical composition: spectroscopic methods, vibrational
+spectroscopies, Nuclear magnetic resonance, X-ray and UV spectroscopies, X-ray and neutron
+diffraction. Determination of size, shape and surface area: Electron microscopes, BET and
+pycnometry, Ephiphaniometer, Laser granulometries and Zeta potential, Elliptically polarised light
+scattering; Determination of nanoparticles in aerosols and in biological tissues
+
+58
+
+Applications of Nanomaterials
+New forms of carbon - Types of Nanotubes - Formation of Nanotubes - Assemblies
+Purification of carbon nanotubes - Properties of Nanotubes - Uses of Nanotubes : electronics,
+hydrogen storage, materials, mechanical machines - Space elevators. Application of Nanomaterials
+: insulation materials, machine tools, batteries, high power magnets, motor vehicles and aircraft,
+medical implants and other medical uses, Nanocomposites and Nanowires.
+Applications of Nanotechnology
+Nanotechnology in industries - Nanotechnology in computing: quantum computing and
+molecular computation - Nanotechnology in electronics: computational nanotechnology and
+optoelectronics, mechanical nanocomputers, super computing systems Nanotechnology in health
+and life sciences: drug delivery, drug encapsulation, tissue repair and implantation, biorestorable
+materials - Nanotechnology in smart materials: sensors and smart instruments, ageless materials,
+nanoparticle coatings.
+REFERENCES
+1. Nanotechnology: Basic Science and Emerging Technologies, Michael Wilson and Geoff Smith,
+Chapman and Hall, London, 2002.
+2. Industrial application of nanomaterials - chances and risks, Wulfgang Luther, Future
+Technologies Division, Germany, 2004.
+3. Nanotechnology: Applications and Trends, J.Schulte, John Wiley and Sons, 2005.
+4. Nanotechnology, G.L.Timp, Springer-Verlog, New York, 1999.
+5. Handbook of Nanotechnology, Editor: B.Bhushan,Springer Verlog, New York, 2004.
+COURSE OUTCOMES
+Upon completion of the course, the student will be able to
+1. Gain knowledge about Nano Materials`
+2. Understand the various methods of fabricating Nano Materials
+3. Able to engage in lifelong learning.
+
+COs
+CO1
+CO2
+CO3
+
+PO1
+
+
+
+PO2
+
+
+Mapping with Programme Outcomes
+PO3
+PO4
+PO5
+PO6
+PO7
+
+
+
+
+PO8
+
+
+
+59
+
+PO9
+
+
+
+PO10
+
+
+
+APPLIED PROBABILITY AND STATISTICAL
+INFERENCES
+
+EEMEX0X
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+To introduce the different techniques in applied probability and statistics,
+engineering and technological applications.
+
+that have
+
+Introduction to probability theory – Random variable – Probability density and distribution
+functions – Standard distributions: Geometric, Hypergeometric, Binomial, Poisson, Normal, LogNormal, Exponential, Gamma, Beta and Weibull distributions – Applications – Baye’s Theorem –
+Chebysev's Theorem.
+Sampling distributions of statistical parameters – Standard error – central limit theorem – t,
+F and Chi-square distributions - Estimation – Point estimation - Interval estimation for population
+means, standard deviation, proportion, difference in mean, ratio of standard deviations, proportions
+- Maximum likelihood estimation, least square estimation and bayesian estimation.
+Testing of Hypothesis - Parametric test – small samples – Tests concerning proportion,
+means, standard deviations – Test based on Chi-square, goodness of fit and test of independence.
+Non-parametric test – run test, sign test, U-test, H-test and kolmogorov-Smirnov (k-s) test –
+spearman rank correlation coefficient test.
+Experimental designs – completely randomised blocks– Latin square – Analysis of variance
+– Methods for one, two factor models, concepts of factorial design, fractional factorial design,
+response surface methods and central composite designs.
+REFERENCES
+1. Probability and Statistics for Engineers, Irwin Miller & John Freund. E, PHI, 1987.
+2. Applied Statistics and Probability for Engineers, Montgomery D.C & Runger G.C.,
+John Wiley and Sons, USA, 1994.
+3. Engineering Statistics, Bowker and Libermann, PHI, 1990.
+4. Statistics for Management, Richard Levin.I. PHI, 1988.
+5. Introduction to Statistics, Ronald E. Walpole, Macmillan Inc., New York, 1982.
+6. Introduction to Probability and Statistics for Engineers and Scientists, Walter
+Rosenkorantz. A, McGraw Hill, 1997.
+COURSE OUTCOMES
+1. Acquire basic knowledge in statistics.
+2. The student will able to acquire the basic concepts of Probability and Statistical techniques for
+solving real life problems and Engineering problems.
+
+COs
+CO1
+CO2
+
+PO1
+
+
+PO2
+
+
+
+Mapping with Programme Outcomes
+PO3
+PO4
+PO5
+PO6
+PO7
+
+
+
+60
+
+PO8
+
+PO9
+
+
+PO10
+
+
+EEMEX0X
+
+NEURAL NETWORKS AND FUZZY SYSTEMS
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+The objective is to increase machine IQ by overlapping the dynamic system, adaptive
+control, Statistics with probability and mathematical logic.
+
+Introduction to Fuzzy Logic Principles
+Basic concepts of Fuzzy Set theory - Operations of Fuzzy sets - Properties of Fuzzy sets Crisp relations - Fuzzy relational equations - operations on Fuzzy Relations Fuzzy systems Propositional Logic - Inference Predicate Logic - Inference in Predicate Logic - Fuzzy Logic
+Principles - Fuzzy Quantifiers - Fuzzy Inference – Fuzzy rule based systems – Fuzzification and
+Defuzzification – types.
+Advanced Fuzzy Logic Applications
+Fuzzy Logic Controllers - principles - Review of Control systems theory -Various industrial
+applications of FLC - Adaptive Fuzzy systems - Fuzzy Decision making Multi objective Decision
+making - Fuzzy Classification – c Means Clustering -Fuzzy pattern Recognition - Image processing
+applications - Syntactic Recognition - Fuzzy optimization - Various Fuzzy measures.
+Introduction to Artificial Neural Networks
+Fundamentals of Neural Networks - Model of an Artificial Neuron - Neural network
+Architectures – Learning methods - Taxonomy of Neural network Architectures Standard Back
+propagation Algorithms - Selection of various-parameters - Variations - Applications of Back
+Propagation Algorithms.
+Other JANN Architectures
+Associative Memory - Exponential BAM - Associative Memory for Real Coded Pattern
+Pairs - Applications Adaptive Resonance Theory - Introduction - ART 1 - ART2 - Applications Neural Networks based on Competition - Kohenen Self Organizing Maps - Learning vector
+Quantization - Counter Propagation Networks Industrial Applications.
+Recent Advances
+Fundamentals of Genetic Algorithms - Genetic Modeling - Hybrid systems - Integration of
+Fuzzy Logic, Neural Networks and Genetic Algorithms - Non Traditional Optimization Techniques
+like Ant Colony Optimization, Particle -Swam Optimization and Artificial, Immune Systems Applications in Design and Manufacturing.
+REFERENCES
+1. S. Rajasekaran, G.A. Vijayalakshimi, “ Pai Neural Networks, Fuzzy Logic and Genetic
+Algorithms", Prentice Hall of India Private limited, 2003.
+2. Klir.G, Yuan.B.B, "Fuzzy sets and Fuzzy Logic", Prentice Hall of India Private limited, 1997.
+3. Timothy J.Ross,"Fuzzy Logic with Engineering Applications". McGraw Hill, 1995.
+61
+
+4. ZuradaJ .M, "Introduction to Artificial of Neural Systems", Jaico Publishing House, 1994.
+5. Laurence Fausett, "Fundamentals of Neural Networks", Prentice Hall. 1992.
+6. Gen, M. and R.Cheng," Genetic Algorithm and I I Engineering Design", John Wiley, 1997.
+COURSE OUTCOMES
+Upon completion of the course, the student will be able to
+1. Comprehend the concepts of feed forward neural networks.
+2. Analyze the various feedback networks.
+3. Understand the concept of fuzziness involved in various systems and fuzzy set theory.
+
+COs
+CO1
+CO2
+CO3
+
+PO1
+
+
+Mapping with Programme Outcomes
+PO3
+PO4
+PO5
+PO6
+PO7
+
+
+PO2
+
+PO8
+
+PO9
+
+
+PO10
+
+
+
+
+
+
+
+
+
+
+EEMEX0X
+
+ENERGY MANAGEMENT IN BUILDINGS
+
+L
+4
+
+T
+0
+
+P
+0
+
+COURSE OBJECTIVES
+
+
+
+To learn the green buildings concepts applicable to modern buildings.
+Acquaint students with the principle theories materials, construction techniques and to create
+energy efficient buildings.
+
+Introduction
+Conventional versus Energy Efficient buildings – Historical perspective - Water – Energy – IAQ
+requirement analysis – Future building design aspects – Criticality of resources and needs of
+modern living
+
+Landscape and Building Envelopes
+Energy efficient Landscape design - Micro-climates – various methods – Shading, water bodiesBuilding envelope: Building materials, Envelope heat loss and heat gain and its evaluation, paints,
+Insulation, Design methods and tools.
+Heat Transmission in Buildings
+Surface co-efficient- air cavity, internal and external surfaces, overall thermal transmittance, wall
+and windows; Heat transfer due to ventilation/infiltration, internal heat transfer; Solar temperature;
+Decrement factor; Phase lag. Design of daylighting; Estimation of building loads: Steady state
+method, network method, numerical method, correlations; Computer packages for carrying out
+thermal design of buildings and predicting performance.
+
+62
+
+Passive Cooling
+Passive cooling concepts- Evaporative cooling, radiative cooling; Application of wind, water and
+earth for cooling; Shading, paints and cavity walls for cooling; Roof radiation traps; Earth airtunnel.
+Hybrid methods.
+Renewable Energy in Buildings
+Introduction of renewable sources in buildings, Solar water heating, small wind turbines, standalone PV systems, Hybrid system – Economics.
+REFERENCES
+1. Krieder, J and Rabi, A., Heating and Cooling of buildings : Design for Efficiency, Mc Graw
+Hill, 1994.
+2. Ursala Eicker, “Solar Technologies for buildings”, Wiley publications, 2003.
+3. Guide book for National Certification Examination for Energy Managers and Energy
+Auditors
+4. Smith, CB Energy Management Principles, Pergamon Press, NewYork, 1981.
+COURSE OUTCOMES
+Upon completion of the course, the student will be able to
+1. Perform energy audit in any type for buildings and suggest the conservation measures.
+2. Provide the renewable energy systems for the buildings
+
+COs
+CO1
+CO2
+
+PO1
+
+PO2
+
+
+Mapping with Programme Outcomes
+PO3
+PO4
+PO5
+PO6
+PO7
+
+
+
+
+
+
+63
+
+PO8
+
+PO9
+
+
+PO10
+
+
+

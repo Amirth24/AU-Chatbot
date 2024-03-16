@@ -1,0 +1,6548 @@
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+FACULTY OF ENGINEERING AND TECHNOLOGY
+VISION
+Providing world class quality education with strong ethical values to nurture and develop
+outstanding professionals fit for globally competitive environment.
+MISSION
+•
+•
+•
+
+•
+
+Provide quality technical education with a sound footing on basic engineering principles,
+technical and managerial skills, and innovative research capabilities.
+Transform the students into outstanding professionals and technocrats with strong ethical
+values capable of creating, developing and managing global engineering enterprises.
+Develop a Global Knowledge Hub, striving continuously in pursuit of excellence in
+Education, Research, Entrepreneurship and Technological services to the Industry and
+Society.
+Inculcate the importance and methodology of life-long learning to move forward with
+updated knowledge to face the challenges of tomorrow.
+DEPARTMENT OF ELECTRICAL ENGINEERING
+VISION
+
+To develop the Department into a “Centre of Excellence” with a perspective to provide quality
+education and skill-based training with state of the art technologies to the students, thereby
+enabling them to become achievers and contributors to the industry, society and nation together
+with a sense of commitment to the profession.
+MISSION
+M1: To impart quality education in tune with emerging technological developments in the field
+of Electrical and Electronics Engineering.
+M2: To provide practical hands-on-training with a view to understand the theoretical concepts
+and latest technological developments.
+M3: To produce employable and self-employable graduates.
+M4: To nurture the personality traits among the students in different dimensions emphasizing the
+ethical values and to address the diversified societal needs of the Nation
+M5: To create futuristic ambiance with the state of the art facilities for pursuing research.
+
+ANNAMALAI UNIVERSITY
+
+10
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+PROGRAM EDUCATIONAL OBJECTIVES (PEO)
+The core objectives of the M.E. Program in Power Systems are intended
+PEO-1: To develop professional knowledge in power systems domain so as to have successful
+career in industries, research and academia.
+PEO-2: To enhance analytical skills to solve challenging complex problems in power and
+energy sectors using modern tools and technologies.
+PEO-3: To inculcate research attitude and lifelong learning among the students.
+PEO-4: To demonstrate professional and ethical behavior in chosen career.
+PEO-5: To engage actively in executing projects in multidisciplinary environment for the
+benefit of society.
+PROGRAM OUTCOMES (POs)
+After the successful completion of M.E (Power System Engineering) Program the
+students will be able to:
+PO1: Scholarship of Knowledge
+Acquire in-depth knowledge of specific discipline or professional area, including wider
+and global perspective, with an ability to discriminate, evaluate, analyse and synthesise existing
+and new knowledge, and integration of the same for enhancement of knowledge.
+PO2: Critical Thinking
+Analyse complex engineering problems critically, apply independent judgement for
+synthesising information to make intellectual and/or creative advances for conducting research in
+a wider theoretical, practical and policy context.
+PO3: Problem Solving
+Think laterally and originally, conceptualise and solve engineering problems, evaluate a
+wide range of potential solutions for those problems and arrive at feasible, optimal solutions after
+considering public health and safety, cultural, societal and environmental factors in the core
+areas of expertise.
+PO4: Research Skill
+Extract information pertinent to unfamiliar problems through literature survey and
+experiments, apply appropriate research methodologies, techniques and tools, design, conduct
+experiments, analyse and interpret data, demonstrate higher order skill and view things in a
+broader perspective, contribute individually/in group(s) to the development of
+scientific/technological knowledge in one or more domains of engineering.
+
+ANNAMALAI UNIVERSITY
+
+11
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+PO5: Usage of modern tools
+Create, select, learn and apply appropriate techniques, resources, and modern
+engineering and IT tools, including prediction and modelling, to complex engineering activities
+with an understanding of the limitations.
+PO6: Collaborative and Multidisciplinary work
+Possess knowledge and understanding of group dynamics, recognise opportunities and
+contribute positively to collaborative-multidisciplinary scientific research, demonstrate a
+capacity for self-management and teamwork, decision-making based on open-mindedness,
+objectivity and rational analysis in order to achieve common goals and further the learning of
+themselves as well as others.
+PO7: Project Management and Finance
+Demonstrate knowledge and understanding of engineering and management principles
+and apply the same to one’s own work, as a member and leader in a team, manage projects
+efficiently in respective disciplines and multidisciplinary environments after consideration of
+economical and financial factors.
+PO8: Communication
+Communicate with the engineering community, and with society at large, regarding
+complex engineering activities confidently and effectively, such as, being able to comprehend
+and write effective reports and design documentation by adhering to appropriate standards, make
+effective presentations, and give and receive clear instructions.
+PO9: Life-long Learning
+Recognise the need for, and have the preparation and ability to engage in life-long
+learning independently, with a high level of enthusiasm and commitment to improve knowledge
+and competence continuously.
+PO10: Ethical Practices and Social Responsibility
+Acquire professional and intellectual integrity, professional code of conduct, ethics of
+research and scholarship, consideration of the impact of research outcomes on professional
+practices and an understanding of responsibility to contribute to the community for sustainable
+development of society
+PO11: Independent and Reflective Learning
+Observe and examine critically the outcomes of one’s actions and make corrective
+measures subsequently, and learn from mistakes without depending on external feedback.
+
+ANNAMALAI UNIVERSITY
+
+12
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+PROGRAM SPECIFIC OUTCOMES (PSOs)
+PSO1:
+Enable the student to acquire knowledge in Power System Engineering and imbibe the
+artifacts of related simulation tools.
+PSO2:
+Able to carry out research / investigate and to develop innovative methodologies
+independently to solve Power System problems.
+PSO3:
+Ensure a degree of mastery over the area of Power System Engineering with the exposure
+to the state of the art practices in the domain of Electric Power System Engineering and
+exhibit Professional intellectual integrity.
+
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+PEO 1
+
+3
+
+3
+
+3
+
+3
+
+2
+
+PEO 2
+
+3
+
+3
+
+3
+
+3
+
+3
+
+PEO 3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+PEO 4
+PEO 5
+
+ANNAMALAI UNIVERSITY
+
+2
+
+2
+1
+3
+
+2
+
+2
+
+3
+
+1
+
+2
+
+3
+
+2
+
+2
+
+2
+
+3
+
+2
+
+3
+
+13
+
+2
+
+1
+
+2
+
+3
+
+2
+
+3
+
+3
+
+2
+1
+3
+
+2
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+CURRICULUM – 2023
+M.E (POWER SYSTEMS ENGINEERING)
+
+SEMESTER I
+Course Code
+
+Category
+
+23EEPSPC11
+
+PC
+
+23EEPSPC12
+
+PC
+
+23EEPSPE13
+23EEPSPE14
+
+PE
+PE
+
+23EEPSMC15
+
+MC
+
+23EEPSCP16
+
+CP
+
+23EEPSCP17
+
+CP
+
+23EEPSAC18
+
+AC
+
+Course
+Digital Simulation of Power
+Systems
+Power System Operation and
+Control
+Program Elective – I
+Program Elective – II
+Research Methodology and
+IPR
+Advanced Power System
+Analysis Lab
+Advanced Renewable Energy
+Lab
+Audit Course – I
+
+L
+
+T
+
+P
+
+CA
+
+FE
+
+Total
+
+Credits
+
+3
+
+-
+
+-
+
+25
+
+75
+
+100
+
+3
+
+3
+
+-
+
+-
+
+25
+
+75
+
+100
+
+3
+
+3
+3
+
+-
+
+-
+
+25
+25
+
+75
+75
+
+100
+100
+
+3
+3
+
+2
+
+-
+
+-
+
+25
+
+75
+
+100
+
+2
+
+-
+
+-
+
+4
+
+40
+
+60
+
+100
+
+2
+
+-
+
+-
+
+4
+
+40
+
+60
+
+100
+
+2
+
+2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+0
+
+Total
+
+205
+
+495
+
+700
+
+18
+
+L
+3
+3
+3
+3
+3
+
+T
+-
+
+P
+-
+
+CA
+25
+25
+25
+25
+40
+
+FE
+75
+75
+75
+75
+60
+
+Total
+100
+100
+100
+100
+100
+
+Credits
+3
+3
+3
+3
+3
+
+-
+
+-
+
+4
+
+40
+
+60
+
+100
+
+2
+
+Tr
+2
+-
+
+S
+2
+-
+
+40
+
+60
+
+100
+
+2
+
+-
+
+-
+
+-
+
+0
+
+205
+
+495
+
+700
+
+19
+
+SEMESTER II
+Course Code Category
+23EEPSPC21
+PC
+23EEPSPC22
+PC
+23EEPSPE23
+PE
+23EEPSPE24
+PE
+23YYZZOE25
+OE
+CP
+23EEPSCP26
+23EEPSTS27
+23EEPSAC28
+
+TS
+AC
+
+Course
+Power System Stability
+Power System Protection
+Program Elective - III
+Program Elective - IV
+Open Elective - I
+Power System Protection
+Lab
+Industrial Training and
+Seminar / Mini project *
+Audit Course - II
+
+2
+
+Total
+
+ANNAMALAI UNIVERSITY
+
+14
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+SEMESTER III
+Course Code Category
+23EEPSPE31
+PE
+23YYZZOE32
+OE
+TH - I
+23EEPSTH33
+23EEPSMC34
+
+MC
+
+Course
+Program Elective - V
+Open Elective - II
+Thesis Phase - I and Viva voce
+
+L
+3
+3
+
+Mandatory Course
+
+3
+
+T
+Pr
+
+P
+S
+
+CA
+25
+25
+
+FE
+75
+75
+
+Total
+100
+100
+
+Credits
+3
+3
+
+16
+
+4
+
+40
+
+60
+
+100
+
+10
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total
+
+90
+
+210
+
+300
+
+16
+
+T
+Pr
+
+P
+S
+6
+
+CA
+
+FE
+
+Total
+
+Credits
+
+40
+
+60
+
+100
+
+15
+
+Total
+
+40
+
+60
+
+100
+
+15
+
+SEMESTER IV
+Course Code Category
+23EEPSTH41 TH-II
+
+Course
+Thesis Phase-II and Viva- voce
+
+L
+-
+
+24
+
+Note: * - Four weeks during the summer vacation at the end of II Semester.
+L: Lecture, P: Practical, T: Thesis, CA: Continuous Assessment; FE: Final Examination
+
+ANNAMALAI UNIVERSITY
+
+15
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+PE - PROGRAM ELECTIVE COURSES
+
+FIRST SEMESTER
+
+23EEPSPEXX
+
+-
+
+STATE ESTIMATION AND SECURITY ASSESSMENT OF
+POWER SYSTEMS
+
+23EEPSPEXX
+
+-
+
+WIND AND SOLAR SYSTEMS
+
+23EEPSPEXX
+
+-
+
+EXTRA HIGH VOLTAGE AC AND DC TRANSMISSION
+
+23EEPSPEXX
+
+-
+
+POWER SYSTEM PLANNING AND MANAGEMENT
+
+23EEPSPEXX
+
+-
+
+SYSTEM THEORY
+
+23EEPSPEXX
+
+-
+
+SOFT COMPUTING TECHNIQUES
+
+SECOND SEMESTER
+
+23EEPSPEXX
+
+-
+
+OPERATION OF RESTRUCTURED POWER SYSTEMS
+
+23EEPSPEXX
+
+-
+
+SMART GRID
+
+23EEPSPEXX
+
+-
+
+POWER SYSTEM DYNAMICS
+
+23EEPSPEXX
+
+-
+
+ELECTRIC POWER DISTRIBUTION SYSTEM
+
+23EEPSPEXX
+
+-
+
+SOLID STATE DRIVES
+
+23EEPSPEXX
+
+-
+
+POWER SYSTEM TRANSIENTS
+
+23EEPSPEXX
+
+-
+
+INSULATION TECHNOLOGY AND HIGH VOLTAGE
+ENGINEERING
+
+THIRD SEMESTER
+
+23EEPSPEXX
+
+-
+
+FACTS AND CUSTOM POWER DEVICES
+
+23EEPSPEXX
+
+-
+
+POWER QUALITY
+
+23EEPSPEXX
+
+-
+
+INDUSTRIAL LOAD MODELING AND CONTROL
+
+23EEPSPEXX
+
+-
+
+BIG DATA ANALYTICS IN ELECTRIC POWER SYSTEMS
+
+23EEPSPEXX
+
+-
+
+POWER SYSTEM SIGNAL PROCESSING FOR SMART GRIDS
+
+ANNAMALAI UNIVERSITY
+
+16
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+23EEPSPEXX
+
+-
+
+POWER SYSTEM RELIABILITY
+
+23EEPSPEXX
+
+-
+
+POWER SYSTEM INSTRUMENTATION
+
+23EEPSPEXX
+
+-
+
+HIGH VOLTAGE TESTING TECHNIQUES
+
+OE-OPEN ELECTIVE COURSES
+
+23YYZZOEXX
+
+-
+
+ENERGY MANAGEMENT AND AUDIT
+
+23YYZZOEXX
+
+-
+
+WASTE TO ENERGY
+
+23YYZZOEXX
+
+-
+
+SCADA SYSTEM AND APPLICATIONS
+
+23YYZZOEXX
+
+-
+
+NON CONVENTIONAL ENERGY ENGINEERING
+
+AC-AUDIT COURSES
+
+23EEPSACXX
+
+-
+
+ENGLISH FOR RESEARCH PAPER WRITING
+
+23EEPSACXX
+
+-
+
+DISASTER MANAGEMENT
+
+23EEPSACXX
+
+-
+
+SANSKRIT FOR TECHNICAL KNOWLEDGE
+
+23EEPSACXX
+
+-
+
+VALUE EDUCATION
+
+23EEPSACXX
+
+-
+
+PEDAGOGY STUDIES
+
+23EEPSACXX
+
+-
+
+STRESS MANAGEMENT BY YOGA
+
+23EEPSACXX
+
+-
+
+PERSONALITY DEVELOPMENT THROUGH LIFE
+ENLIGHTENMENT SKILLS
+
+MANDATORY COURSES
+23EEPSMCXX
+
+-
+
+CONSTITUTION OF INDIA
+
+ANNAMALAI UNIVERSITY
+
+17
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+SEMESTER I
+23EEPSPC11
+
+DIGITAL SIMULATION OF POWER SYSTEMS
+
+L T
+3 0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To introduce the basic studies in the area of power systems.
+• To gain knowledge about the solution of network equation using sparsity techniques.
+• To understand the various methodologies involved in the power flow studies
+• To impart knowledge about the various short circuit studies in power system analysis.
+• To familiarize with the concepts and solution methodologies involve in the power
+system stability studies.
+INTRODUCTION
+Importance of basic power system studies (power flow, short circuit and stability) in the
+planning and operation of power system - Distinction between steady state, quasi steady
+state and transient modelling of power system.
+SPARSITY ORIENTED NETWORK SOLUTION
+Solution of network equation - Exploiting sparsity of bus admittance matrix - Compact storage,
+optimal ordering, triangular factorization and solution using the factors - Solution using Gaussian
+elimination.
+POWER FLOW STUDIES
+Power flow model using bus admittance matrix - Fast decoupled power flow method
+(FDPF) - with voltage controlled buses using sparsity technique - Load flow based on
+sparsity oriented solution of I = YV - AC/DC power flow analysis using sequential FDPF
+method - Radial System power flow - Current injection based techniques - Multiarea power
+flow analysis with tie-line control - Special Purpose Power Flow Studies - Harmonic power
+flow - Three phase load flow - Distribution power flow - Interactive load flows Contingency analysis - Sensitivity analysis.
+SHORT CIRCUIT STUDIES
+Short circuit analysis of a multi-node power system using bus impedance matrix ZBUS Building algorithm for ZBUS - Algorithm for symmetrical fault analysis using ZBUS Development of voltage and current equations under unsymmetrical faults using
+symmetrical components and algorithm for unsymmetrical fault analysis using ZBUS - Use
+of sparse factors of YBUS for obtaining the columns of ZBUS.
+
+ANNAMALAI UNIVERSITY
+
+18
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+STABILITY STUDIES
+Mathematical model for stability analysis of a multi-machine system with exciters
+governors - solution of state equation by modified Euler method / 4th order R.K. method.
+
+and
+
+TEXT BOOKS
+1. Stagg G.W and El- Abiad .A.H, “Computer Methods in Power System Analysis”,
+Medtech Scientific International Pvt. Ltd., Krieger Publishing Co., USA, 2019.
+2. Pai M.A and Dheeman Chatterjee, “Computer Techniques in Power System Analysis”,
+McGraw Hill (India) Pvt. Ltd., New Delhi, 2016.
+REFERENCE BOOKS
+1. L.P.Singh, “Advanced Power System Analysis and Dynamics”, Revised 5th Edition,
+New Age International (P) Ltd. Publishers, New Delhi, 2014.
+2. Arrillaga .J and Watson N R, “Computer Modelling of Electrical Power Systems”
+John Wiley and Sons, 2006
+3. Kusic.G.L, “Computer Aided Power System Analysis”, CRC Press, Boca Raton, 2009.
+4. Heydt. T, “Computer Techniques in Power System Analysis”, Macmillan USA
+1996
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Understand the basic studies in the area of Power Systems
+2. Enable the effective use of computers for large power networks
+3. Estimate the system state using power flow models
+4. Offer to build power system models for different types of studies
+5. Evaluate the stability of the system
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11
+CO1
+CO2
+CO3
+CO4
+CO5
+
+PSO1 PSO2 PSO3
+
+3
+3
+
+2
+
+3
+
+2
+
+3
+
+3
+
+2
+
+2
+
+3
+
+2
+
+3
+
+2
+
+3
+
+3
+
+2
+
+2
+
+3
+
+2
+
+3
+
+2
+
+3
+
+2
+
+2
+
+2
+
+3
+
+2
+
+ANNAMALAI UNIVERSITY
+
+19
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPC12
+
+HAND BOOK - 2023
+
+POWER SYSTEM OPERATION AND CONTROL
+
+L T
+3 0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To learn the characteristics and bring out the need for operating the power plants in a
+viable and affordable manner.
+• To develop methods for the optimum operation of the participating plants.
+• To emphasize on the scheduling of the hydro and thermal plants.
+• To bring out the significance of unit commitment based operation.
+• To address the problems associated with interconnected networks, the need for maintaining
+co-coordinated actions and the use of controllers for smooth and satisfactory operation of
+power systems.
+ECONOMIC OPERATION OF POWER SYSTEMS
+Characteristics of steam plants - Characteristics of hydro plants - Analytical form for input Output characteristics of thermal units - Constraints in operation-Economic load dispatch
+neglecting transmission losses - Lambda iteration method - Derivation of transmission loss
+formula - Economic load dispatch with transmission losses - Gradient methods of economic
+dispatch- Newton'smethod.
+OPTIMAL POWER FLOW
+Optimal power flow - Problem statement and formulation - Solution of opf- Gradient method newton‘s method - Linear sensitivity analysis - Linear programming method - Security
+constrained optimal power flow - Interior point algorithm.
+HYDROTHERMAL SCHEDULING
+Hydrothermal Coordination - Hydroelectric plant models - Scheduling Problems-Short Term
+Hydro Thermal Scheduling - Lambda-gamma method with losses - Gradient approach - Hydro
+units in series - Pumped storage hydro scheduling - Dynamic programming and linear programming
+base solution methods.
+UNIT COMMITMENT
+Unit commitment problem - Spinning reserve - thermal unit constraints - Hydro constraints- Fuel
+Constraints - Solution methods - Priority List method - Dynamic programming method Lagrangian Relaxation method.
+AUTOMATIC GENERATION CONTROL
+Basic generator control loops - Speed governing system - Isochronous governor - Governors
+with speed-droop characteristics - Speed regulation - Load sharing by parallel generating units ANNAMALAI UNIVERSITY
+
+20
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Control of power output of generating units - Turbine model - Generator load model - Block
+diagram of an isolated power system - State space representation - Fundamentals of automatic
+generation control - Steady state analysis - Concept of control area - AGC of two area
+interconnected power system - Tie-line frequency bias control - bias for selection of bias factor generation rate constraint - Discrete integral controller for AGC.
+REFERENCES
+1. Wood and Wollenberg, ‘Power Generation, Operation and Control’, John Wiley and Sons,
+2013.
+2. Das. D, “Electrical Power Systems‖, New Age International Publishers”, New Delhi, 2009.
+3. Murthy P.S.R, “Operation and Control in power systems‖”, Tata McGraw Hill, 2009.
+4. Kothari D.P and Dhillon J.S, “Power System Optimization”, Prentice Hall of India, New
+Delhi, 2010.
+5. JiZhong Zhu, “Optimization of Power System Operation”, Wiley IEEE Press, New
+Jersey, 2009.
+6. Kirchmayer, “ Economic Operation of Power Systems”2009
+7. Elgerd.O.I, “Electric Energy Systems: Theory – An Introduction”, Tata McGraw Hill, New
+Delhi, 2001.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Gain knowledge on economic load dispatch.
+2. Solve optimal power flow problems using various solution methods.
+3. Get exposed to hydro thermal scheduling.
+4. Understand the significance of Unit Commitment
+5. Focus on control aspects in power systems.
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11
+CO1
+CO2
+CO3
+CO4
+CO5
+
+3
+
+2
+
+1
+
+3
+
+2
+
+1
+
+3
+
+2
+
+1
+
+1
+
+3
+
+2
+
+1
+
+1
+
+3
+
+2
+
+1
+
+3
+
+1
+
+3
+
+2
+
+1
+
+3
+
+2
+
+1
+
+3
+
+2
+
+1
+
+2
+
+2
+
+1
+
+ANNAMALAI UNIVERSITY
+
+2
+
+21
+
+PSO1 PSO2 PSO3
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSMC15
+
+HAND BOOK - 2023
+
+RESEARCH METHODOLOGY AND IPR
+
+L T
+2 0
+
+P
+0
+
+C
+2
+
+COURSE OBJECTIVES
+• To gain a sound knowledge of scientific research for undertaking a valid study
+• To explore the techniques ofdefining aresearchproblem and investigate the various research
+designs, highlighting their main characteristics
+• To understand the ethical issues of writing technicalpapers
+• To provide an insight on intellectual property
+• To address new and international developments in IPR.
+Meaning of research problem, Sources of research problem, Criteria Characteristics of a good
+research problem, Errors in selecting a research problem, Scope and objectives of research problem
+Approaches of investigation of solutions for research problem, data collection, analysis,
+interpretation, Necessary instrumentations
+Effective literature studies approaches, analysis - Plagiarism, Research ethics Effective technical
+writing, how to write report, Paper - Developing a Research Proposal, Format of research
+proposal, a presentation and assessment by a review committee
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of Patenting and
+Development: technological research, innovation, patenting, development. International
+Scenario: International cooperation on Intellectual Property. Procedure for grants of patents,
+Patenting under PCT
+Patent Rights: Scope of Patent Rights - Licensing and transfer of technology - Patent information
+and data bases - Geographical Indications - New Developments in IPR: Administration of Patent
+System - New developments in IPR; IPR of Biological Systems, Computer Software etc Traditional knowledge Case Studies, IPR and IITs.
+REFERENCES
+1. Stuart Melville and Wayne Goddard, “Research methodology: an Introduction for
+Science & Engineering students”, Juta Academic, 1996
+2. Wayne Goddard and Stuart Melville, “Research Methodology: An Introduction”, Juta
+Academic, 2004
+3. Ranjit Kumar, “Research Methodology: A Step-by-Step Guide for beginners”, Sage
+Publications Ltd, 2014.
+4. Halbert, “Resisting Intellectual Property”, Taylor & Francis Ltd, 2007.
+5. Mayall, “Industrial Design”, McGraw Hill, 1992.
+ANNAMALAI UNIVERSITY
+
+22
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+6. Niebel, “Product Design”, McGraw Hill, 1974.
+7. Asimov, “Introduction to Design”, Prentice Hall, 1962.
+8. Robert P. Merges, Peter S. Menell, Mark A. Lemley, “Intellectual Property in New
+Technological”, Age, 2016.
+9. T. Ramappa, “Intellectual Property Rights Under WTO”, S. Chand, 2008
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Understand research problem formulation.
+2. Analyze research related information and Follow research ethics
+3. Understand that today‘s world is controlled by Computer, Information Technology, but
+tomorrow’s worldwillberuledbyideas, concept, andcreativity.
+4. Understand that when IPR would take such important place in growth of individuals &
+nation, it is needless to emphasis the need of information about Intellectual Property Right
+to be promoted among students in general & engineering in particular.
+5. Understand that IPR protection provides an incentive to inventors for further research work
+and investment in R & D, which leads to creation of new and better products, and in turn
+brings about, economic growth and social benefits.
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11
+CO1
+CO2
+CO3
+CO4
+CO5
+
+3
+3
+3
+3
+3
+
+2
+2
+3
+3
+2
+
+2
+2
+3
+
+3
+3
+3
+3
+2
+
+ANNAMALAI UNIVERSITY
+
+3
+2
+2
+
+2
+3
+
+3
+3
+2
+3
+2
+
+2
+2
+
+1
+
+23
+
+3
+3
+3
+2
+
+PSO1 PSO2 PSO3
+
+3
+3
+3
+3
+
+2
+2
+2
+2
+1
+
+3
+3
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSCP16
+
+HAND BOOK - 2023
+
+ADVANCED POWER SYSTEM ANALYSIS LAB
+
+L T
+0 0
+
+P
+4
+
+C
+2
+
+COURSE OBJECTIVES
+• To understand and learn the relative theory involved in the power system analysis
+• To build up appropriate methodology for articulation of the algorithm implementation
+• To set-up the coding the methodology evolved for executing the experiment.
+• To carry out / employ the methodology
+• To surmise / arrive at inferences from the results
+LIST OF EXPERIMENTS
+1. Formation of bus admittance and impedance matrices
+2. Load flow study based on Gauss - Seidal method
+3. Load flow study based on Newton-Raphson method
+4. Load flow study based on Fast Decoupled Load flowmethod
+5. DC load flowanalysis
+6. Contingency analysis
+7. State estimation based on WLSE method
+8. Economic load dispatch
+9. Optimal power flow analysis
+10. Load frequency control of single area system
+11. Load frequency control of two area system
+12. Symmetrical short circuit study
+13. Unsymmetrical short circuit study
+14. Economic load dispatch based on Bmn co-efficient
+15. Transient stability analysis
+16. Voltage stability study
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Learn the relative theory involved in the power system analysis
+2. Develop the appropriate methodology for articulation the algorithm implementation
+3. Contrivance the coding the methodology evolved for executing the experiment
+4. Execute / implement the methodology
+5. Infer / arrive at inferences from the results
+
+ANNAMALAI UNIVERSITY
+
+24
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+CO1
+CO2
+CO3
+CO4
+CO5
+
+HAND BOOK - 2023
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+3
+2
+2
+2
+3
+3
+2
+2
+3
+3
+3
+3
+3
+2
+2
+2
+3
+3
+2
+2
+3
+1
+1
+2
+3
+2
+2
+3
+3
+2
+2
+
+ANNAMALAI UNIVERSITY
+
+25
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSCP17
+
+HAND BOOK - 2023
+
+ADVANCED RENEWABLE ENERGY LAB
+
+L T
+0 0
+
+P
+4
+
+C
+2
+
+COURSE OBJECTIVES
+• To understand and learn the relative theory involved in the power system analysis
+• To build up appropriate methodology for articulation of the algorithm implementation
+• To set-up the coding the methodology evolved for executing the experiment.
+• To carry out / employ the methodology
+• To surmise / arrive at inferences from the results
+LIST OF EXPERIMENTS
+1. a) Design of equivalent circuit parameters of a solar cell.
+b) Determination of V- I and P -V characteristics of a solar cell.
+2. Determination of MPPT of a solar energy conversion system
+3. Characteristics of the solar array using simulator.
+4. Performance evaluation of a DC Transmission line fed from a solar energy source.
+5. a) Determination MPPT of wind energy conversion system.
+b) Determination of characteristics of PMSG driven wind turbine
+6. Power quality measurement for RLC load using power quality analyzer.
+7. Cost estimation of a solar PV energy conversion system.
+8. Cost estimation of wind turbine.
+9. Cost estimation of biogas plant
+10. P-V and I-V characteristics of PV array using MATLAB simulation.
+11. Perturb and Observe method of MPPT simulation for solar PV system
+12. Modelling of wind turbine using MATLAB simulation
+13. Characteristics of wind energy conversion systems using MATLAB simulation.
+14. Prediction of wind speed by Fuzzy Logic Controller using MATLAB simulation
+15. Simulink model of grid connected wind power system
+16. Simulation study of hybrid (solar /wind/ Diesel) power system using MATLAB
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Learn the relative theory involved in the power system analysis
+2. Develop the appropriate methodology for articulation the algorithm implementation
+3. Contrivance the coding the methodology evolved for executing the experiment
+4. Execute / implement the methodology
+5. Infer / arrive at inferences from the results
+
+ANNAMALAI UNIVERSITY
+
+26
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+3
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+3
+
+CO2
+
+3
+
+2
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+3
+
+CO3
+
+3
+
+3
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+2
+
+3
+
+2
+
+CO4
+
+3
+
+2
+
+2
+
+2
+
+2
+
+2
+
+1
+
+1
+
+2
+
+3
+
+2
+
+CO5
+
+3
+
+3
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+3
+
+3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+3
+
+27
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+SEMESTER II
+23EEPSPC21
+
+POWER SYSTEM STABILITY
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To distinguish between the different types of power system stability studies
+• To understand the concept of small signal stability
+• To study the various solution methodologies for transient stability analysis
+• To analyze the voltage stability assessment methods
+• To gain knowledge about the various method involved in improving the power system
+stability
+INTRODUCTION TO POWER SYSTEM STABILITY
+Basic concepts and definitions - Classification of stability - Rotor angle stability, voltage stability
+and voltage collapse - Distinction between mid-term and long-term stability - Nature of system
+response during severe upsets - Blackouts around the world - Ill effects of instability.
+SMALL SIGNAL STABILITY
+State space representation - Eigen values - Modal matrices - Synchronous machine classical
+model representation - Small signal stability of single machine connected to infinite bus system Effect of field circuit dynamics - Effect of excitation system - Small signal stability of multi
+machine system - Small signal stability enhancement methods.
+TRANSIENT STABILITY ANALYSIS
+Distinction between transient and dynamic stability - An elementary view of the transient
+stability problem - Assumptions made in stability studies - Equal area criterion to test the transient
+stability of simple power systems - Calculation of critical clearing angle and clearing time Limitations of equal area criterion. Factors influencing transient stability - Review of numerical
+integration methods - Modified Euler‘s method and 4th order Runge - Kutta method.
+VOLTAGE STABILITY ANALYSIS
+Difficulties with reactive power transmission - Steady state stability analysis of two bus system
+using PV and QV curves - Voltage stability assessment using indices - Determination of weakest
+bus or weakest bus ordering vector - Large disturbance analysis - Phase balancing and power
+factor correction of unsymmetrical loads.
+METHODS OF IMPROVING STABILITY
+Transient stability enhancement - Steam turbine fast valving - High speed excitation systems High speed fault clearing - Single pole switching - Independent pole operation of circuit breakers ANNAMALAI UNIVERSITY
+
+28
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Generator tripping. Small signal stability enhancement - PSS - Selection of PSSlocation
+REFERENCES
+1. Kundur P, “Power System Stability and Control”, McGraw Hill Education, 2006.
+2. Taylor C W, “Power System Voltage Stability”, McGraw Hill, Inc., 1994.
+3. Miller T.J.E, “Reactive power control in electric systems”, Wiley India, 2010.
+4. Anderson P.N, Fouad, A.A, “ Power system control and stability”, Wiley India, 2008.
+5. Sauer P W and Pai M A, “Power System Dynamics and Stability”, Pearson, 2003.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Familiarize with the different types of stability in power systems.
+2. Understand the significance about small signal stability analysis and its enhancement.
+3. Gain knowledge on Transient stability analysis
+4. Know the significance of voltage stability analysis.
+5. Investigate the various methods to enhance transientstability
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+3
+3
+2
+CO1 3
+2
+2
+2
+2
+2
+CO2 3
+2
+2
+2
+2
+2
+2
+CO3 3
+2 2
+2
+2
+2
+2
+CO4 3
+2
+2
+1
+CO5 2
+
+ANNAMALAI UNIVERSITY
+
+29
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPC22
+
+HAND BOOK - 2023
+
+POWER SYSTEM PROTECTION
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To explain the concept of power system protection.
+• To detail the schemes for overcurrent protection.
+• To describe the transformer protection schemes.
+• To emphasize the protection of transmission lines.
+• To acquire wide knowledge onGenerator and Induction Motor Protection
+• To introduce the automation of substation
+OVERCURRENT PROTECTION
+Introduction-need for protective systems - Evolution of digital relays from electromechanical
+relays - Primary and back-up protection - Protection schemes - Over Current protection-types of
+over current relay- Over current protective schemes- Directional protection- Protection of
+feeders and ring mains - directional over-current relay- Drawbacks of over-current relays- earth
+fault and phase fault protection - Combined earth fault and phase fault protection scheme - phase
+fault protective scheme- Directional earth fault relay- Static over current relays - Basic elements
+of digital protection
+TRANSFORMER PROTECTION
+Types of faults in transformers - Over-current protection - Percentage differential protection of
+transformers - Percentage differential relay with harmonic restraint-restricted earth fault
+protection - Protection against incipient faults - Protection against over-Fluxing- Differential
+protection of bus bars - Protection against external and internal faults - High impedance bus bar
+differential scheme- Supervisory relay -protection of three - Phase bus bars- Digital Differential
+Protection of Transformers
+PROTECTION OF TRANSMISSION LINES
+Distance protection - Simple impedance relay- Reactance relay - mho relay - Comparison
+between distance relays - Distance protection of a three-phase line- need for carrier-aided
+protection - Unit type carrier aided directional protection - Carrier-aided distance schemes for
+acceleration of zone II - Carrier-based phase comparison scheme - Digital Line Differential
+Protection
+GENERATOR AND INDUCTION MOTOR PROTECTION
+Percentage differential protection scheme against stator phase and ground faults - Transverse
+differential protection - Protection against rotor faults - Protection against abnormal operating
+conditions - Unbalanced loading - Over speeding- Loss of excitation - Loss of prime moverANNAMALAI UNIVERSITY
+
+30
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+induction motor protection - Protection against phase faults and ground faults - Protection
+against abnormal operating conditions from supply side and mechanical side
+SUBSTATION AUTOMATION
+Topology and functionality - System elements - System requirements - Hardware
+implementation- communication methods - Communication protocols and formats - Network
+protocols - Substation automation functionality - System configuration and testing - Upgrading
+an existing substation - Communication networks for power systems automation - Introduction
+to IEC 61850 - Advantages of IEC 61850 - Recent Advances in Digital Protection of Power
+Systems.
+REFERENCES
+1. Y.G. Paithankar and S.R Bhide, “Fundamentals of Power System Protection”, PrenticeHall of India, 2013.
+2. Badri Ram and D.N Vishwakarma, “Power System Protection and Switchgear”, Tata
+McGraw Hill Education Private Limited, 2011.
+3. Alstom, “Network Protection & Automation Guide”, 2011
+4. Juan M. Gers and Edward J. Holmes, “Protection of Electricity Distribution Networks”,
+The Institution of Engineering and Technology, 2011
+5. C. Christopoulos and A.Wright, “Electrical power system protection”, Springer, 2013
+6. S.R.Bhide “Digital Power System Protection” PHI LearningPvt.Ltd.2014
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Obtain fundamental knowledge about various protection schemes including over current
+protection.
+2. Become proficient in incorporating transformer protection schemes.
+3. Gain familiarity in several protection schemes for transmission lines.
+4. Acquire knowledge in designing various kinds of Generator and Motor Protection
+5. Familiarize with the substation automation.
+Mapping with Programme Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3
+CO1 3
+2
+2
+2
+3
+CO2 3
+2
+2
+2
+2
+2
+CO3 3
+2
+2
+2
+2
+2
+2
+CO4 3
+3
+3
+2
+2
+2
+2
+3
+2
+2
+CO5 3
+3
+3
+2
+2
+3
+3
+2
+3
+2
+2
+
+ANNAMALAI UNIVERSITY
+
+31
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSCP26
+
+HAND BOOK - 2023
+
+POWER SYSTEM PROTECTION LAB
+
+L
+0
+
+T
+0
+
+P
+4
+
+C
+2
+
+COURSE OBJECTIVES
+• To understand and learn the relative theory involved in the power system analysis
+• To build up appropriate methodology for articulation of the algorithm implementation
+• To set-up the coding the methodology evolved for executing the experiment.
+• To carry out / employ the methodology
+• To surmise / arrive at inferences from the results
+LIST OF EXPERIMENTS
+1 Time/Current Characteristics of IDMT Over Current Relay (Electro Mech Type)
+2 Time/Voltage Characteristics of Over Voltage Relay (Electro Mech Type)
+3 Time/Voltage Characteristics of Under Voltage Relay (Electro Mech Type)
+4 Time/Current Characteristics of earth Fault Relay Testing Kit (Electro Mech Type)
+5 Time/Current Characteristics of Directional Over Current and Earth Fault Relay
+(Electro Mech Type)
+6 Time/Current Characteristics of Directional Over Current Relay (Numerical)
+7 Time/Current Characteristics of Percentage Based Differential Relay (Static Type)
+8 Under and Over Voltage Protection Scheme for Power Transformer.
+9 Phase failure testing scheme for Power Transformer.
+10 Phase Reversal testing scheme for Power Transformer.
+11 Current differential relay testing scheme for Power Transformer.
+12 Buchholz relay testing scheme for Power Transformer.
+13 Simulation of Earth fault testing scheme for feeder connected in the LT side of Power
+Transformer.
+14 Simulation of Short circuit testing scheme for feeder connected in the LT side of Power
+Transformer.
+15 Simulation of Motor Protection scheme used in the LT side of Power Transformer.
+16 Simulation of Feeder Protection scheme coupled with Power Transformer.
+17 Earth fault testing scheme for feeder connected in the LT side of Power Transformer.
+18 Short circuit testing scheme for feeder connected in the LT side of Power Transformer.
+19 Motor Protection scheme used in the LT side of Power Transformer.
+20 Protection scheme for a Feeder coupled with Power Transformer
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Learn the relative theory involved in the power system protection
+2. Develop the appropriate methodology for articulation the algorithm implementation
+3. Contrivance the coding the methodology evolved for executing the experiment
+ANNAMALAI UNIVERSITY
+
+32
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+4. Execute / implement the methodology
+5. Infer / arrive at inferences from the results
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+3
+3
+2
+CO1 3
+3
+3
+2
+3
+CO2 3
+3
+3
+2
+3
+CO3 3
+3
+3
+3
+3
+CO4 3
+CO5 3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+3
+
+3
+
+33
+
+3
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSTS27
+
+HAND BOOK - 2023
+
+INDUSTRIAL TRAINING AND SEMINAR / MINI
+PROJECT
+
+L
+0
+
+Tr
+2
+
+S
+2
+
+C
+2
+
+COURSE OBJECTIVES
+• To train the students in the field work related the Power Systems and to have a practical
+knowledge in carrying out Power Systems field related works
+• To train and develop skills in solving problems during execution of certain works related
+to Power Systems.
+• To work on a technical topic related to Power Systems and acquire the ability of written
+and oral presentation
+• To acquire the ability of writing technical papers for Conferences and Journals.
+Each student should individually undergo a training program in reputed industries in the field of
+Power Systems during the summer vacation (at the end of second semester for full – time / fourth
+semester for part – time) for a minimum stipulated period of four weeks. At the end of the
+training, the student has to submit a detailed report on the training he/she had, within ten days
+from the commencement of the third semester for Full-time / fifth semester for part-time. The
+student will be evaluated, by a team of staff members nominated by Head of the department,
+through a viva-voce examination.
+Further, each student will work for two periods per week guided by student counsellor. He/she
+will be asked to present a seminar of not less than fifteen minutes and not more than thirty
+minutes on any technical topic of student‘s choice related to Power Systems and to engage in
+discussion with audience and will defend the presentation. A brief copy of the presentation also
+should be submitted. Evaluation will be done by the student counselor based on the technical
+presentation and the report and also on the interaction shown during the seminar.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Face the challenges in the fieldwith confidence.
+2. Benefit by the training with managing the situation that arises during the execution of
+works related to Power Systems.
+3. Get the training to face the audience and to interact with the audience with confidence.
+4. Tackle any problem during group discussion in the corporate interviews.
+5. Gain practical knowledge in carrying out Power Systems field related works.
+
+ANNAMALAI UNIVERSITY
+
+34
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+2
+2
+2
+1
+1
+2
+2
+CO1 3
+2
+2
+2
+2
+2
+2
+1
+CO2 2
+2
+2
+1
+2
+1
+1
+2
+1
+2
+CO3
+2
+2
+2
+1
+1
+1
+CO4
+2
+2
+1
+1
+2
+2
+2
+2
+CO5 2
+
+ANNAMALAI UNIVERSITY
+
+35
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+SEMESTER III
+23EEPSTH33
+
+THESIS PHASE-I AND VIVA-VOCE
+
+L Pr
+0 16
+
+S C
+4 10
+
+COURSE OBJECTIVES
+• To carry out thesis work Phase - I which is an integral part of the thesis consisting of
+problem statement, literature review, thesis overview and scheme of implementation.
+• To attempt the solution to the problem by analytical/ simulation/ experimental methods
+and validate with proper justification.
+METHOD OF EVALUATION
+1. The student undergoes literature survey and identifies the topic of thesis and finalizes in
+consultation with Guide/Supervisor and prepares a comprehensive thesis report after
+completing the work to the satisfaction of the supervisor.
+2. The progress of the thesis is evaluated based on a minimum of three reviews.
+3. The review committee will be constituted by the Head of the Department.
+4. A thesis report is required at the end of the semester.
+5. The thesis work is evaluated based on oral presentation and the thesis report jointly by
+external and internal examiners constituted by the Head of the Department.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Review quality of Literature survey and Novelty in the problem
+2. Assess clarity of Problem definition and Feasibility of problem solution
+3. Validate the relevance to the specialization
+4. Acquire Knowledge on the clarity of objective andscope
+5. Improve the quality of Written and Oral Presentation
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+1
+1
+1
+2
+1
+CO1 3
+2
+CO2 3
+2
+3
+2
+2
+1
+1
+1
+1
+CO3 2
+1
+2
+2
+1
+CO4 3
+2
+2
+1
+3
+2
+2
+2
+1
+CO5 2
+2
+
+ANNAMALAI UNIVERSITY
+
+36
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+SEMESTER IV
+L Pr S C
+0 24 6 15
+
+THESIS PHASE-II AND VIVA-VOCE
+
+23EEPSTH41
+
+COURSE OBJECTIVES
+• To carry out Thesis work Phase – II which the remaining part of the thesis.
+• To attempt the solution to the problem by analytical/simulation/experimental methods
+and validate with proper justification.
+METHOD OF EVALUATION
+1. The progress of the thesis is evaluated based on a minimum of three reviews.
+2. The review committee will be constituted by the Head of the Department.
+3. A thesis report is required at the end of the semester.
+4. The thesis work is evaluated based on oral presentation and the thesis report jointly by
+external and internal examiners constituted by the Head of the Department.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Identify the real-world power system problems
+2. Analyze, design, and implement solution methodologies
+3. Apply modern engineering tools for solution
+4. Write technical reports following professional ethics
+5. Develop effective communication skills to present and defend their research work to a
+panel of experts.
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+3
+
+CO1
+
+3
+
+CO2
+
+3
+
+CO3
+
+2
+
+CO4
+
+3
+
+2
+
+3
+
+CO5
+
+2
+
+2
+
+3
+
+3
+
+3
+
+3
+1
+
+ANNAMALAI UNIVERSITY
+
+2
+
+2
+1
+
+3
+
+37
+
+1
+3
+3
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+PROGRAM ELECTIVE COURSES
+SEMESTER I
+23EEPSPEXX
+
+STATE ESTIMATION AND SECURITY
+ASSESSMENT OF POWER SYSTEMS
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+• To acquire fundamental knowledge in power system state estimation
+• To gain knowledge in distribution system stateestimation
+• To perform observability analysis in the power system networks
+• To learn the techniques that enable estimating the system state in distribution systems.
+• To gather knowledge on power system state estimation and strategies to
+enhance the secure power system operations.
+INTRODUCTION
+State estimation - Energymanagement system - SCADA system - Energy control centers - Security
+monitoring and control - Concepts of reliability, security and stability - State transitions and
+control strategies - Data acquisition systems - Modulation techniques, MODEMS, Power line
+carrier communication.
+POWER SYSTEM STATE ESTIMATION
+Static state estimation: Active and reactive power bus measurements - Line flow measurements Line current measurements - Bus voltage measurements - Measurement model and assumptions Weighted least square state estimation algorithm - Maximum likelihood estimation - Decoupled
+formulation of WLS state estimation - Fast decoupled state estimation - State estimation using
+DC model of power system - Weighted least absolute value state estimation - Comparison of state
+estimation algorithms.
+NETWORK OBSERVABILITY ANALYSIS
+Tracking state estimation: Algorithm - Computational aspects - Measurement redundancy Accuracy and variance of measurements - Variance of measurement residuals - Detection,
+identification and suppression of bad measurements - Kalman filtering approach - Computational
+aspects - Approximations to reduce computations - Pseudo measurements - Virtual
+measurements - External system equivalencing - Network observability - Observability analysis
+using phasor measurement units.
+DISTRIBUTION SYSTEM STATE ESTIMATION
+Distribution system state estimation - State of the art methods - Comparison of different DSSE
+algorithms - Developments in measurement system and DSSE design - Pseudo measurements System architecture.
+ANNAMALAI UNIVERSITY
+
+38
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+SECURITY ASSESSMENT AND SECURITY ENHANCEMENT
+Contingency analysis: Linearized AC and DC models of power systems for security assessment Line outage distribution factors and generation shift factors for DC and linearized AC models Single contingency analysis using these factors - Double line outage analysis techniques using bus
+impedance matrix and factors of bus admittance matrix- Fast contingency algorithms for
+nonlinear A.C. models - Contingency ranking and security indices - Correcting the generator
+dispatch for security enhancement using linearized DC models - Methods using sensitivity
+factors - Compensated factors - Optimization methods. Emergency and restorative control
+procedures.
+REFERENCES
+1. Ali Abur, “Power System State Estimation Theory and Implementation”, Marcel Dekker,
+2004.
+2. A.J. Wood, B.F. Wollenberg and G.B. Sheble,” Power Generation, operation and Control”,
+John Wiley and Sons, 3rd Edition, 2013.
+3. Mahalanabis, Kothari and Ahson, “Computer Aided Power System Analysis and
+Control”, Tata McGraw Hill Publishers, 1991.
+4. Abhijit Chakrabarti and Sunita Halder, “ Power System Analysis Operation and Control”,
+PHI Learning, 2010.
+5. G.L. Kusic, “Computer Aided Power System Analysis”, Prentice Hall of India, 1989.
+6. Davide Della Giustina, Marco Pau, Paolo AttilioPegoraro, Ferdinanda Ponci and Sara
+Sulis, “ Electrical Distribution System State Estimation: Measurement Issues and
+Challenges”, IEEE Instrumentation & Measurement Magazine, 2014.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Understand the conceptual aspects in power system state estimation.
+2. Demonstrate various state estimation methods.
+3. Acquire proficiency to perform observability analysis.
+4. Conduct distribution state estimation.
+5. Realize the security assessment and enhancementstrategies.
+
+ANNAMALAI UNIVERSITY
+
+39
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Mapping with Programme Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+CO2
+
+3
+
+2
+
+CO3
+
+3
+
+2
+
+CO4
+
+3
+
+CO5
+
+3
+
+2
+
+2
+
+3
+3
+
+2
+2
+
+2
+
+2
+2
+
+1
+1
+
+3
+
+2
+
+ANNAMALAI UNIVERSITY
+
+40
+
+2
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+WIND AND SOLAR SYSTEMS
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To understand the concept of wind energy system
+• To learn the operation of different types of wind driven generators
+• To enable an insight into the wind power management schemes.
+• To impart knowledge in solar energy system
+• To offer a study on Solar Photovoltaic systems
+INTRODUCTION
+Wind resources - Nature and occurrence of wind - Power in the wind - Wind characteristics Principles of wind energy conversions - Components of wind energy conversion system (WECS)
+- Classification of WECS - Advantages and disadvantages of WECS.
+WIND ELECTRIC GENERATORS
+Characteristics of Induction generators - Permanent magnet generators - Single phase operation
+of induction generators - Doubly fed generators - Grid connected and stand alone systems Controllers for wind driven self excited systems and capacitor excited isolated systems Synchronized operation with grid supply - Real and reactive power control.
+WIND POWER MANAGEMENT
+Wind energy storage - Storage systems - Wind farms and grid connections - Grid related
+problems on absorption of wind - Grid interfacing arrangement - Simulation of wind energy
+conversion system - Operation, Control and technical issues of wind generated electrical energy Inter connected operation - Hybrid systems.
+INTRODUCTION TO SOLAR ENERGY AND ITS PROSPECTS
+Sun as source of energy - Availability of solar energy - Nature of solar energy - solar energy and
+environment - Various methods of using solar energy - solar thermal, photovoltaic,
+photosynthesis - present andfuture scope of solar energy.
+Storage of solar energy - Types of energy storage - Thermal storage - Electrical storage - Chemical
+storage - Hydro storage - Solar ponds - Principle of operation of solar ponds - Application of solar
+ponds.
+PHOTO VOLTAIC SYSTEM
+Solar cells and panels - Structure of PV cells - semiconductor materials for PV cells - I-V
+characteristics of PV systems - PV models and equivalent circuits- effects of irradiance and
+temperature on PV characteristics .
+ANNAMALAI UNIVERSITY
+
+41
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+A basic photo voltaic system for power generation - Advantages and disadvantages of photo voltaic
+solar energy conversion - Application of solar photo voltaic system - components of PV systems Design of PV systems - Power conditioning and storage arrangement - Maximum power point
+tracking - Introduction to string inverters.
+REFERENCES
+1. G.D. Rai, “Non-conventional Energy Resources”, Khanna Publishers, 2011.
+2. G.N. Tiwari, Solar Energy: “Fundamentals, Design, Modeling & Application”, Narosa
+Publishing House, 2013.
+3. Siraj Ahamed, “Wind Energy”: Theory & Practice PHI Learning Private Limited, 2010.
+4. G.D. Rai, “Solar Energy Utilisation, Khanna Publishers”, Fifth Edition, 2011.
+5. B.H. Khan, “Non-conventional Energy Resources”, Tata McGraw Hill, Second Edition,
+2010.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Understand the basic concept of wind energy conversion system.
+2. Impart knowledge on wind electric generators in power systems.
+3. Develop skill to control the wind generated electrical energy.
+4. Learn the basics of solar energy and its prospects.
+5. Understand the basic knowledge of photo voltaicsystem.
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+2
+
+CO2
+
+3
+
+3
+
+2
+
+2
+
+CO3
+
+3
+
+2
+
+2
+
+2
+
+CO4
+CO5
+
+2
+
+2
+
+2
+
+3
+
+2
+
+2
+
+2
+
+ANNAMALAI UNIVERSITY
+
+2
+
+2
+
+2
+
+2
+
+1
+
+2
+
+2
+
+2
+
+2
+
+1
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+1
+
+42
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+EXTRA HIGH VOLTAGE AC AND DC
+TRANSMISSION
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+• To understand the basics of extra high voltage AC and DC transmission.
+• To learn abouttheproperties ofbundle conductors andvoltage controlusing compensators.
+• To gain knowledge about the types of HVDC transmission systems, their control and
+protection.
+• To discuss about the design factors of lines and cables.
+• To learn about the overvoltage problem in extra high voltage system.
+INTRODUCTION
+Introduction to EHV AC and DC transmission - Role of EHV AC Transmission - Standard
+Transmission Voltages - Power-Handling Capacity and Line Loss - comparison between HVAC
+and HVDC overhead and underground transmission schemes - Factors concerning choice of
+HVAC and HVDC transmission - Block diagram of HVAC and HVDC transmission schemes.
+EHV AC TRANSMISSION
+Properties of bundled conductors - Surface voltage gradient on single and multi - conductor
+bundles - Corona effects - Power loss - Charge voltage diagram with Corona - Noise
+generation and their characteristics - Corona pulses, their generation and properties (qualitative
+study only) - Problems of EHV AC transmission at power frequency - Voltage control using
+compensators - Cascade connection of components.
+HVDC TRANSMISSION
+Analysis of DC transmission systems - Harmonics on AC and DC sides and filters for their
+suppression - Multi terminal D.C. Transmission systems; application, types, control and
+protection - Parallel operation of A.C. and D.C. transmission - Voltage stability in AC/DC
+systems - Modern developments in HVDC transmission - HVDC systems simulation.
+EHV LINES AND CABLE TRANSMISSION
+Electrical Characteristics of EHV Cables - Properties of Cable-Insulation Materials - Breakdown
+and Withstand Electrical Stresses in Solid Insulation - Statistical Procedure - Design Basis of
+Cable Insulation - Tests on Cable Characteristics - Surge Performance of Cable Systems - Gas
+Insulated EHV Lines - Design factors under steady state - Design basis of cable insulation.
+TESTING, OVERVOLTAGE AND DESIGN OF EHV SYSTEMS
+EHV Testing - Standard specifications and standard wave shapes for testing Generation of
+switching surges for transformer testing - Impulse voltage generators - Generation of impulse
+ANNAMALAI UNIVERSITY
+
+43
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+currents - General layout of EHV laboratory. Over voltages in EHV systems - Origin and types Switching surges - Lightning surges - Design of EHV Lines - Design factors under steady statesteady state limits - Line insulation coordination based upon transient over voltages - Design
+examples.
+REFERENCES
+1. Rakosh Das Begamudre, “ Extra High Voltage AC Transmission Engineering”, New Age
+International Pvt Ltd Publishers, 4th edition, 2014.
+2. S. Rao, EHV-AC, “HVDC Transmission and Distribution Engineering”, Khanna
+Publishers, 3rd edition, 2001.
+3. Padiyar K.R., “HVDC Power Transmission Systems”, New Age International Pvt Ltd; 3rd
+edition, 2015.
+4. Kuffel and Zaengl, “High Voltage Engineering Fundamentals”, Elsevier; 2nd edition, 2008.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Understand the basic comparison of HVAC and HVDC for overhead and underground
+transmission system.
+2. Derive the surface voltage gradient of single, double, and more than three conductor
+bundles and expression for a charge voltage diagram for evaluation of the power loss.
+3. Analyze the DC transmission system in case of harmonics and discuss about the multi
+terminal DC transmission system.
+4. Gain Knowledge about the design factors about lines and cables.
+5. Learn about testing, overvoltage and design of EHVsystem
+
+Mapping with Programme Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 2
+
+2
+
+CO2 3
+
+2
+
+1
+
+CO3 2
+CO4 1
+
+2
+
+2
+
+CO5 2
+
+2
+
+3
+3
+
+3
+2
+
+3
+
+ANNAMALAI UNIVERSITY
+
+2
+
+44
+
+2
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+POWER SYSTEM PLANNING AND
+MANAGEMENT
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To understand the basic concepts of Power System Planning
+• To familiarize Load Modelling, Forecasting and its impact in Demand Side Management
+• To understand the basics of Renewable Energy Technologies in power system planning.
+• To study about the need for Integrated Resource and its impact
+• To gain the basic knowledge about Financing of Power Projects
+INTRODUCTION TO POWER SYSTEM PLANNING
+Factors affecting the future of power supply industry - Power system planning process objectives
+power system composition - The planning process power system planning - Electricity supply
+industry reform - Deregulation of markets - Public private partnership models - Environmental
+considerations - Other considerations affecting the power industry reform - Planning criteria Planning expansion - Power system stability concerns - Modeling and performance indicators Power quality (PQ) considerations - Uncertainty constraints and risk analysis planning Generation expansion planning
+LOAD MODELLING, FORECASTING AND DEMAND SIDE MANAGEMENT
+Load research - Load research methodology - Driving factors - Load modeling - Electricity load
+forecasting - Classifications - Forecasting perspectives and forecasting driving factors Forecasting time frames.- Energy efficiency - Impact on electricity consumption - Appliance
+efficiency building efficiency - Improving energy efficiency - Incentives mechanisms to effect
+energy efficiency. - Demand side management - Concepts and characteristics of demand side
+management (DSM) - Alternatives of DSM - Benefits of DSM implementation of DSM,
+evaluation of DSM alternatives
+RENEWABLE ENERGY TECHNOLOGIES
+Introduction - Re and electric power - Green energy and sustainable energy generation - Re
+pricing - Production economics - Environmental impacts - Promoting of re- system expansion
+studies - Generation expansion - Transmission and distribution expansion - Cost considerations
+and expansion obligations - Regulatory incentives
+INTEGRATED RESOURCE PLANNING
+Interconnected systems - AC and HVDC interconnection - Benefits of interconnection Technical factors - Economic and financial impacts - Environmental concerns - Social impacts Legal and political aspects - Integrated resource planning (IRP) - Concept and rationale - Supply
+and demand side interaction -Uncertainty and cost implications - Benefits of IRP,
+ANNAMALAI UNIVERSITY
+
+45
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+FINANCING OF POWER PROJECTS
+Introduction - Economic feasibility of projects - Factors influencing investment in power systems
+- Financial vs economic analyses - Financial analysis tools - Major factors influencing financing
+- Financing requirements - Public private partnership (PPP) - Tariff studies - Tariff calculation
+models - Social tariff impacts - Cost-reflective tariff - Regulations and tariffs -planning tools Data collection - Group thinking - Decision support analysis - Decision aiding tools - Strategic
+planning
+TEXT BOOK
+1. Fawwaz Elkarmi, Nazih Abu-Shikhah, “Power System Planning Technologies and
+Applications: Concepts, Solutions and Management”, Engineering Science Reference (an
+imprint of IGI Global), Pennsylvania, 2012.
+REFERENCE BOOKS
+1. Juergen Schlabbach and Karl-Heinz Rofalski, “Power System Engineering Planning,
+Design, and Operation of Power Systems and Equipment”, WILEY-VCH Verlag GmbH
+& Co. KGaA, Weinheim, 2008
+2. Hossein Seifi, Mohammad Sadegh Sepasian, “Electric Power System Planning: Issues,
+Algorithms and Solutions”, Springer, Berlin, 2011.
+3. Ning Zhang, Chongqing Kang, Ershun Du, Yi Wang, “Analytics and Optimization for
+Renewable Energy Integration (Energy Analytics)”, First Edition, CRC Press,
+Boca Raton, 2019.
+4. Ankita Sharma, “Power System Planning”, Genius Publications, 5th Edn, Jaipur, 2019
+5. J.Raja, P.Ajay D Vimal Raj, S.Rajasekar, “Practices in Power System Management in
+India”, Springer, Singapore, 2018.
+6. Tjernberg, Lina Bertling, “Infrastructure Asset Management with Power System
+Applications”, CRC Press, 2018.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Learn the basic concepts of Power System Planning
+2. Study in detail about the Load Modelling, Forecasting and its impact in Demand Side
+Management
+3. Familiarize Renewable Energy Technologies in power system planning
+4. Understand the need for Integrated Resource and its impact
+5. Gain knowledge about Financing of Power Projects
+
+ANNAMALAI UNIVERSITY
+
+46
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+3
+
+3
+
+CO2
+CO3
+
+3
+
+2
+
+3
+
+3
+
+2
+
+3
+
+CO4
+
+3
+
+3
+
+3
+
+CO5
+
+3
+
+3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+47
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+SYSTEM THEORY
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To impart knowledge on basic design concept.
+• To solve linear and non-linear state equations.
+• To understand about the role of controllability and Observability.
+• To educate on stability analysis.
+• To learn about modal concepts and to get familiarized with design of state and output
+feedback controllers.
+BASICS OF DESIGN CONCEPTS
+Design specifications - sensitivity and stability - Limitations - Controller structure - one and two
+degrees of freedom - PID controllers and Lag-lead compensators - Root locus design, Design
+using bode plots and Routh - Hurwitz criterion - Design examples.
+STATE VARIABLE REPRESENTATION
+Concept of State-State equation for Dynamic Systems -Time invariance and linearity- Non
+uniqueness of state model-State Diagrams, Existence and uniqueness of solutions to Continuoustime state equations-Solution of Nonlinear and Linear Time Varying State equations-Role of
+Eigenvalues and Eigenvectors.
+CONTROLLABILITY AND OBSERVABILITY
+Effect of sampling on controllability, observability, state and output feedback observers, estimated
+state feedback- sterilizability and detectability- test for continuous time systems - time varying
+and time invariant case - reducibility- system realizations.
+STABILITY ANALYSIS
+Introduction-Equilibrium Points-Stability in the sense of Lyapunov-BIBO Stability - Stability of
+LTI Systems - Equilibrium Stability of Nonlinear Continuous Time Autonomous Systems-The
+Direct Method of Lyapunov and the Linear/ Non- linear Continuous-Time Autonomous Systems.
+MODAL CONTROL
+Introduction - Controllable and Observable Companion Forms - SISO and MIMO Systems - The
+Effect of State Feedback on Controllability and Observability - Pole Placement by State
+Feedback for both SISO and MIMO Systems - Full Order and Reduced Order Observers
+REFERENCES
+1. Arthur G. O. Mutambara, “Design and Analysis of Control Systems”, CRC Press, Indian
+reprint, 2009.
+ANNAMALAI UNIVERSITY
+
+48
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+2. M. Gopal, “Modern Control System Theory”, New Age International, 2014.
+3. Z. Bubnicki, “Modern Control Theory”, Springer, 2005.
+4. Graham C. Goodwin, Stefan F. Graebe and Mario E. Salgado, “Control system Design”, PHI
+(Pearson), 2003.
+5. D. Roy Choudhury, “Modern Control Systems”, New Age International, 2005.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Learn the basic design concepts with examples.
+2. Gain an enhanced knowledge about state space analysis.
+3. Attain knowledge about time varying and time invariant feedback concepts.
+4. Acquire conceptual knowledge about stability analysis.
+5. Familiarize with modal control concepts.
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+3
+
+3
+
+2
+
+2
+
+CO2
+CO3
+
+3
+
+2
+
+2
+
+2
+
+3
+
+3
+
+2
+
+2
+
+2
+
+2
+
+CO4
+
+3
+
+2
+
+2
+
+2
+
+3
+
+2
+
+CO5
+
+3
+
+2
+
+2
+
+2
+
+2
+
+2
+
+ANNAMALAI UNIVERSITY
+
+49
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+SOFT COMPUTING TECHNIQUES
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To familiarize the students with the various architectures and learning algorithms of
+Artificial Neural Network.
+• To make the students to understand the basis of classifying neural networks and
+suitability for different applications.
+• To enable the students to acquire knowledge about Competitive Neural Networks.
+• To acquire the basic knowledge about Fuzzy logic and its applications.
+• To gain knowledge about the need and usage of Evolutionary Algorithms.
+ARTIFICIAL NEURAL NETWORKS
+Motivation for the development of neural networks - Biological neural networks - Artificial
+neural networks - Fundamental Concepts - Weights - Biases and thresholds - Common activation
+functions. McCulloch-Pitts neuron: Architecture - Algorithm - Applications - Hebb Net Architecture - Algorithm - Application - Perceptron - Architecture - Algorithm - Applications Linear separability - Perceptron learning rule convergence theorem - Delta rule.
+NEURAL NETWORK ARCHITECTURE AND ALGORITHMS
+Back propogation Neural Net: Standard and counter back propogation - Architecture Algorithm - Number of hidden layers - Applications - Hopfield neural net- Discrete and
+Continuous - Architecture - Algorithm - Applications - Associative Memory Neural Networks Boltzman Machine.
+COMPETITIVE NEURAL NETWORKS
+Fixed -Weight competitive nets - Maxnet - Mexican Hat Net - Kohonen self-organizing Maps Applications - Adaptive Resonance Theory - Basic architecture and operation - Neuro
+controllers - Functional diagram - Inverse dynamics - Coping control action - Case studies.
+FUZZY LOGIC
+Fuzzy sets - Properties of Classical and Fuzzy sets - Operations on Fuzzy sets - Fuzzy
+relations - Linguistic variables - Linguistic Hedges - Fuzzy statements - Assignment statements Conditional statements - Unconditional statements - Fuzzy rule base - Canonical rule formation Decomposition of compound rules.- Fuzzy logic controller: Functional diagram - Fuzzification Membership value assignments using intuition - Membership functions - Defuzzification: MaxMembership principle - Centroid method - Weighted average method - Inference Engine Knowledge Base - Rule base - Case studies
+
+ANNAMALAI UNIVERSITY
+
+50
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+EVOLUTIONARY PROGRAMMING
+Optimization - Traditional optimization methods - Concept of Evolutionary Algorithm Simulated Annealing - Genetic Algorithm - Encoding and decoding of variables - GA operators Reproductions - Cross over - Mutation - Fitness function - Fitness scaling - Real coded GA Advanced operators - Particle swarm optimization.
+REFERENCE BOOKS
+1. Lawrence Faussett, ‘Fundamental of neural networks’, Prentice Hall, 2004.
+2. Ross T.J, ‘Fuzzy Logic with Engineering Applications’, McGraw-Hill, New York, 2005.
+3. David .E. Gold berg, ‘Genetic algorithms in search optimization and machine learning’,
+Addison Wesley, Pearson Education, Asia, 2001.
+4. Driankov.Hellendoornarow D.H Reinfrank M, ‘An introduction to Fuzzy Control’,
+Narosa Publishing co., New Delhi, 1996.
+5. Zurada J.M, ‘Introduction to Artificial Neural Systems’, Jaico Publishing House, Delhi,
+2001.
+6. Klir G.J. and Folger T.A, ‘Fuzzy sets, uncertainty and information’, Prentice Hall, 2004.
+7. Simon Haykin, ‘Neural Networks’, Macmillan College Publishing co., New York, 1994.
+8. Sivanandham. SN and Deepa, SN, ‘Neural networks with Matlab’, TMH 2007.
+COURSE OUTCOMES
+At the end of the course work, The students will be able to
+1. Analyze the various learning algorithms of Artificial Neural Network
+2. Recognize the merits and demerits of applying a particular ANN model for a particular
+problem.
+3. Familiarize about the various Competitive Neural Networks
+4. Design and apply fuzzy Logic based reasoning to handle uncertainty in engineering
+problems.
+5. Gain knowledge about the various Evolutionary Programming
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+3
+
+3
+
+CO2
+CO3
+
+3
+
+2
+
+3
+
+3
+
+2
+
+3
+
+CO4
+
+3
+
+3
+
+3
+
+CO5
+
+3
+
+3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+51
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+SEMESTER II
+23EEPSPEXX
+
+OPERATION OF RESTRUCTURED POWER
+SYSTEMS
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+• To introduce the concept of deregulation and Economic operation of power system
+• To impart knowledge on fundamental concepts Power System Operation in Competitive
+Environment
+• To know about open access and pricing in transmission systems
+• To gain knowledge about the AGC in Restructured Power System
+• To understand the concepts of various types of ancillary services and reliability concepts
+POWER SYSTEM RESTRUCTURING AND ECONOMIC OPERATION OVERVIEW
+Introduction - Need for restructuring and deregulation - Different entities in deregulated
+electricity markets - Benefits from a competitive electricity market - After effects of deregulation
+- Economic load dispatch (eld) - ELD problem - Conditions for optimum ELD - Review of
+recent developments in ELD - Optimal power flow - The basic OPF model - Characteristic
+features of OPF - Unit commitment (UC) - The basic model of UC and its issues - Formation of
+power pools - power pools - The energy brokerage system
+POWER SYSTEM OPERATION IN COMPETITIVE ENVIRONMENT
+Introduction - Role of the independent system operator (Iso) - Structure of Uk and Nordic
+electricity sector deregulation - Operational planning activities of Iso - The iso in pool markets The Iso in bilateral markets - Operational planning activities of a Genco - The Genco in pool
+markets - The Genco in bilateral markets - Market participation issues - Unit commitment in
+deregulated environment - competitive bidding
+TRANSMISSION OPEN ACCESS AND PRICING ISSUES
+Introduction - The us and the european perspective: TRANSCOS - Transmission system operator
+- Power wheeling - Transmission open access - Types of transmission services in open access Cost components in transmission - Pricing of power transactions - Embedded cost based
+transmission pricing - Incremental cost based transmission pricing - Transmission open access
+and pricing mechanisms world wide - Security management in deregulated environment Scheduling of spinning reserves - Interruptible load options for security management Congestion management in deregulation - Economic instruments for handling congestion
+AGC IN RESTRUCTURED POWER SYSTEM
+Introduction - Traditional vs restructured scenario - AGC in new market environment - Block
+ANNAMALAI UNIVERSITY
+
+52
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+diagram and state space representation of a two-area interconnected power system in deregulated
+environment - Load-frequency control (LFC) dynamics and bilateral contacts - Modelling Disco participation matrix (DPM)- Generation participation matrix (GPM).
+ANCILLARY SERVICES MANAGEMENT AND RELIABILITY
+Introduction to ancillary services - Ancillary services management worldwide - Check-list of
+ancillary services recognized by various markets - Reactive power as an ancillary services Reactive power management in deregulated electricity markets - Synchronous generators as
+ancillary service providers - Reliability analysis - Effects on the actual reliability - Reliability
+costs-generation reliability - Transmission reliability- Distribution reliability - Regulation of the
+market - Performance indicators.
+TEXT BOOK
+1. Kankar Bhattacharya, Math H.J. Bollen, Jaap E. Daalder, Operation of Restructured
+Power Systems, Kluwer Academic Publishers, Boston , 2001
+2. Loi Lei Lai, Power System Restructuring and Deregulation, John Wiley & Sons Ltd,
+London, 2001.
+REFERENCE BOOKS
+1. Joe H. Chow, Felix.F.Wu, James A. Momoh, “Applied Mathematics for Restructured
+Electric Power Systems: Optimization, Control, and Computational Intelligence”,
+Springer, New York, 2005.
+2. S. C. Srivastava and S. N. Singh, “Operation and Management of Power system in
+Electricity Market”, Alpha Science, 2015.
+3. S.A.Khaparde and A.R.Abhyankar, “Restructured Power Systems”, Narosa Publishing
+House, New Delhi, 2008.
+4. Xiao-Ping Zhang, “Restructured Electric Power Systems: Analysis of Electricity Markets
+with Equilibrium Models”, John Wiley & Sons, New Jersey, 2010.
+5. Das D, “Electrical Power Systems”, New Age International (P) Ltd, New Delhi- 2008.
+6. Lorrin Philipson, H. Lee Willis, “Understanding Electric Utilities and De-Regulation”,
+2nd Edition, CRC Press, Boca Raton, 2006.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Understand the concept of deregulation and Economic operation of power system
+2. Gain knowledge about the fundamental concepts Power System Operation in Competitive
+Environment
+3. Familiarize with the concept of open access and pricing in transmission systems
+4. Acquire knowledge about the various types of ancillary services and reliability concepts
+5. Acquaint about the AGC in Restructured Power System
+ANNAMALAI UNIVERSITY
+
+53
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+2
+
+2
+
+CO2
+
+3
+
+2
+
+2
+
+2
+
+CO3
+
+3
+
+2
+
+2
+
+2
+
+CO4
+
+3
+
+2
+
+2
+
+2
+
+CO5
+
+3
+
+2
+
+2
+
+2
+
+ANNAMALAI UNIVERSITY
+
+54
+
+3
+
+2
+
+2
+
+3
+
+2
+
+2
+
+3
+
+2
+
+3
+
+2
+
+3
+
+2
+
+2
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+SMART GRID
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To familiarize with the fundamentals of smart grids and to get exposed to Smart Grid
+technologies, functionalities and capabilities
+• To study about the load flow and contingency analysis in the smart grid
+• To understand the various stability assessment tools for smart grid
+• To focus on smart metering and demand-sideintegration
+• To acquaint with the application of FACTS and Energy storage devices in smart grid
+INTRODUCTION
+Motivation for smart grid - Smart grid Definition - Benefits - Comparison of Traditional Grid
+and Smart Grid - Characteristics of a Smart Grid - Stakeholders in smart grid development Smart grid technology framework , functionalities, and capabilities - Cost Components for the
+Smart Grid: Transmission Systems and Sub - Stations End - Distribution End - Consumer End Cost-Benefit Analysis
+LOAD FLOW AND CONTINGENCY ANALYSIS FOR SMART GRID
+Introduction to Load Flow Studies - Challenges to Load Flow in Smart Grid - Weaknesses of the
+Present Load Flow Methods - Load Flow methodology for Smart Grid Design - DSOPF
+Application To The Smart Grid - Static Security Assessment (SSA) and Contingencies Contingencies and Their Classification - Contingency Studies for the Smart Grid.
+STABILITY ASSESSMENT FOR SMART GRID
+Introduction to Stability - Strengths and Weaknesses of Existing Voltage Stability Analysis
+Tools - Voltage Stability Assessment - Voltage Stability Assessment Techniques - Voltage
+Stability Indexing - Analysis Techniques for Steady-State Voltage Stability Studies - Angle
+Stability Assessment
+SMART METERING
+Introduction - Smart metering - Comparison of Conventional and smart metering - Benefits of
+smart meters - Functional block diagram of a smart meter - stages in Smart meter architecture Communication infrastructure and protocols for smart metering - Demand side integration.
+FACTS AND ENERGY STORAGE IN THE SMART GRID
+Introduction - Renewable energy generation - Fault current limiting - Shunt compensation Series compensation - FACTS devices - HVDC- Energy storage - Applications and technologies.
+
+ANNAMALAI UNIVERSITY
+
+55
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+TEXT BOOKS
+1. I.S.Jha, Subir Sen, Rajesh Kumar, D.P.Kothari, “Smart Grid,Fundamentals &
+Application”, New Age International (P) Limited, Publishers, New Delhi, 2019.
+2. Ali Keyhani, “Design of Smart Power Grid Renewable Energy Systems”, 3rd Edn, John
+Wiley & Sons, 2019.
+REFERENCES
+1. James Momoh, Smart Grid: “Fundamentals of Design and Analysis”, (Wiley-IEEE
+Press), John Wiley & Sons, Inc., Hoboken, New Jersey, 2015.
+2. Janaka Ekanayake, Kithsiri Liyanage, Jianzhong Wu, Akihiko Yokoyama, Nick Jenkins,
+“Smart Grid: Technology and Applications”, Wiley, New Jersey, 2015.
+3. Krzysztof (Kris) Iniewski, “Smart Grid Infrastructure & Networking”, Tata McGraw Hill,
+1st Edn, NewYork,2012.
+4. Aranya Chakrabortty, Marija D. Ili´c, “Control and Optimization Methods for Electric
+Smart Grids”, Springer New York, 2012.
+5. Jennie C. Stephens, Elizabeth J. Wilson, Tarla Rai Peterson, “Smart Grid (R) Evolution
+Electric Power Struggles”, Cambridge University Press, New York, 2015.
+6. Bharat Modi, Anu Prakash, Yogesh Kumar, “Fundamentals of Smart Grid Technology”,
+S.K. Kataria & Sons, New Delhi, 2015.
+7. Mini S. Thomas, “Power System SCADA and Smart Grids”, CRC Press, Boca Raton,
+2015
+8. Stuart Borlase, “Smart Grids Infrastructure, Technology and Solutions”, CRC Press,
+London, 2013
+9. A. B. M. Shawkat Ali, “Smart Grids: Opportunities, Developments and Trends”,
+Springer-Verlag London 2013
+10. Daphne Mah, Peter Hills, Victor O. K. Li, Richard Balme, “Smart Grid Applications and
+Developments”, Springer-Verlag, London, 2014
+11. Nouredine Hadjsaïd, Jean-Claude Sabonnadière, “Smart Grids”, ISTE Ltd, London, 2012.
+12. Adel Ali Abou El-Ela, Mohamed T, Mouwafi Adel A. Elbaset, “Modern Optimization
+Techniques for Smart Grids”, Springer Nature Switzerland, 2022.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Acquire knowledge on the concept of smart grids.
+2. Implement Load flow and contingency solution methodologies for smart grid.
+3. Identify stability assessment tools for smart grid.
+4. Gain knowledge on smart metering infrastructure.
+5. Realize the application of FACTS devices and energy storage devices in smart grid.
+
+ANNAMALAI UNIVERSITY
+
+56
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+2
+
+CO2
+
+3
+
+3
+
+2
+
+CO3
+CO4
+
+3
+3
+
+2
+3
+
+2
+
+CO5
+
+3
+
+3
+
+3
+
+2
+2
+
+2
+
+2
+
+2
+
+ANNAMALAI UNIVERSITY
+
+2
+
+2
+
+2
+
+2
+2
+
+2
+2
+
+2
+
+57
+
+2
+
+3
+
+2
+2
+
+2
+
+2
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+POWER SYSTEM DYNAMICS
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To review the mathematical background of various power system utilities to construct
+efficient system model during various operating states.
+• To understand the basics of dynamics and stability problems based on the modelling of s
+machines and controllers
+• To familiarizes modelling of classical power plant components in detail
+• To gain knowledge about the various existing techniques in the active power flow control
+for stability control of dynamic systems.
+• To know about the various methodologies and remedial measures in ensuring a better
+reactive power flow control.
+INTRODUCTION
+Concept and importance of power system stability in the operation and design - Distinction
+between transient and dynamic stability - Complexity of stability problem in large system Necessityforreduced models - Stabilityofinterconnected systems
+MACHINE MODELLING AND MACHINE CONTROLLERS
+Electromagnetic Model of Synchronous Generator - Park Equations - Modelling of the Induction
+Motor - Basic equations in the d–q Reference Frame - Steady-state operation of Synchronous
+generator and Induction Motor - Exciter and voltage regulator - Function of excitation systems Typical excitation system configuration - Saturation function - Stabilizing circuit - Function of
+speed governing systems - Block diagram and state space representation of IEEE type excitation
+systems and IEEE mechanical hydraulic governor for hydro turbines and electrical hydraulic
+governors for steam turbines.
+MODELLING OF CLASSICAL POWER PLANT COMPONENTS
+Introduction - Gas turbines - Combined-cycle power plants - Types of turbines and governing
+systems for steam turbines - Model block diagrams - New thermal governor model - Modelling
+of hydro turbines and governor control systems - turbine conduit dynamics and controls overview of wind turbines concepts - Fixed and variable-speed wind turbines - Modelling the
+wind turbine generators,- Constant-speed wind turbine- Doubly fed induction generator wind
+turbine system - DFIG Model.
+ACTIVE POWER FLOW CONTROL
+Small and large disturbances and deviations - UCTE load frequency control - Primary, secondary
+and tertiary control - System modelling, inertia, droop, regulation, and dynamic frequency
+response - Block diagram of the system dynamics and load damping - Effect of governor droop
+ANNAMALAI UNIVERSITY
+
+58
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+on regulation - Increasing load by adjusting prime mover power - Spinning reserves - Under
+Frequency Load Shedding and operation in islanding.
+REACTIVE POWER FLOW CONTROL
+Sensitivity coefficients - Voltage and reactive power control - Reactive power compensation Grid voltage and reactive power control methods – automatic high- side voltage control in power
+plants - Grid hierarchical voltage regulation - Basic SVR and TVR Concepts - primary and
+secondary voltage regulation: architecture and modelling - Tertiary voltage regulation - Block
+diagram with the excitation system, analysis of effect of AVR on synchronizing and damping
+components.
+REFERENCES
+1.
+
+MirceaEremia, Mohammad Shahidehpour, “Handbook of Electrical Power System
+Dynamics, Modeling, Stability”, and Control‖, IEEE Press - John Wiley & Sons, Inc.,
+Hoboken, New Jersey, 2013.
+
+2.
+
+Harry G. Kwatny, Karen Miu-Miller, “ Power System Dynamics and Control: A Nonlinear
+Hybrid Systems Perspective”, Springer New York, 2016.
+Mohamed EL-Shimy, “Dynamic Security of Interconnected Electric Power Systems- Vol2 - Dynamics and stability of conventional and renewable energy systems”, Verlag
+Publishers, Deutschland, Germany, 2015.
+
+3.
+
+4.
+5.
+6.
+7.
+
+Abhijit Chakrabarti, “Power System Dynamics and Simulation”, PHI Learning Private Ltd,
+Delhi, 2015
+R.Ramunujam, “Power System Dynamics Analysis and Simulation”, PHI Learning
+Private Limited, New Delhi, 2010
+K.Umarao, “Computer Techniques and Models in Power System”, I.K. International,
+Second Edition, New Delhi 2014.
+L.P.Singh, “Advanced Power System Analysis and Dynamics”, New Age International
+(P) Ltd, Publishers, Fifth Edition, New Delhi, 2014.
+
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Understand about various approaches in modelling of power system components and
+analyse for the dynamic operation of the power system
+2. Adopt machine controllers for various machine models
+3. Develop models for the Power Plant Components.
+4. Arrive at methods for the control of Real Power
+5. Evolve measures for controlling the Reactive Power
+
+ANNAMALAI UNIVERSITY
+
+59
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+CO2
+
+3
+
+2
+
+2
+
+3
+
+CO3
+
+3
+
+2
+
+2
+
+3
+
+2
+
+CO4
+
+3
+
+2
+
+2
+
+3
+
+2
+
+CO5
+
+3
+
+2
+
+2
+
+3
+
+2
+
+ANNAMALAI UNIVERSITY
+
+60
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+ELECTRIC POWER DISTRIBUTION SYSTEM
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To familiarize with the concept of Distributed Generation
+• To expose the various distributed energy resources
+• To focus on the planning and protection of Distributed Generation
+• To study the concept of Microgrid
+• To analyze the impact of Microgrid
+• To understand the major issues on Microgrid economics
+INTRODUCTION TO DISTRIBUTED GENERATION
+DG definition-Reasons for distributed generation-Benefits of integration-Distributed generation
+and the distribution system-Technical, Environmental and Economic impacts of distributed
+generation on the distribution system-Impact of distributed generation on the transmission
+system-Impact of distributed generation on central generation
+DISTRIBUTED ENERGY RESOURCES
+Combined heat and power (CHP) systems-Wind energy conversion systems (WECS)- Solar
+photovoltaic (PV) systems-Small-scale hydroelectric power generation-Other renewable energy
+sources-Storage devices-Inverter interfaces
+DG PLANNING AND PROTECTION
+Generation capacity adequacy in conventional thermal generation systems-Impact of distributed
+generation-Impact of distributed generation on network design-Protection of distributed
+generation-Protection of the generation equipment from internal Faults-Protection of the faulted
+distribution network from fault currents supplied by the distributed generator Impact of
+distributed generation on existing distribution system protection.
+CONCEPT OF MICROGRID
+Microgrid Definition-A typical Microgrid configuration- Functions of Micro source controller
+and central controller- Energy Management Module (EMM) and Protection Coordination
+Module (PCM)- Modes of Operation- Grid connected and islanded modes - Modelling of
+Microgrid- Microturbine Model- PV Solar Cell Model- Wind Turbine Model Role of Microgrid
+in power market competition.
+IMPACTS OF MICROGRID
+Technical and economical advantages of Microgrid-Challenges and disadvantages of Microgrid
+development-Management and operational issues of a Microgrid- -Impact on heat utilizationImpact on process optimization-Impact on market-Impact on environment-Impact on distribution
+ANNAMALAI UNIVERSITY
+
+61
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+system-Impact on communication standards and protocols. Microgrid economics-Main issues of
+Microgrid economics-Microgrids and traditional power system economics-Emerging economic
+issues in Microgrids-Economic issues between Micro grids and bulk power systems-Potential
+benefits of Microgrid economics
+REFERENCES
+1. Nick Jenkins, JanakaEkanayake , GoranStrbac , ―Distributed Generation‖, Institution of
+Engineering and Technology, London, UK,2010.
+2. S. Chowdhury, S.P. Chowdhury and P. Crossley, ―Microgrids and Active Distribution
+Networks‖, The Institution of Engineering and Technology, London, United Kingdom,
+2009.
+3. Math H. Bollen , Fainan Hassan, ―Integration of Distributed Generation in the Power
+System‖, John Wiley &Sons, New Jersey, 2011.
+4. Magdi S. Mahmoud, Fouad M. AL-Sunni, ―Control and Optimization of Distributed
+Generation Systems‖,Springer International Publishing, Switzerland, 2015.
+5. NadarajahMithulananthan, Duong Quoc Hung, Kwang Y. Lee, ―Intelligent Network
+Integration of Distributed Renewable Generation‖, Springer International Publishing,
+Switzerland, 2017.
+6. Ali K., M.N. Marwali, Min Dai, ―Integration of Green and Renewable Energy in
+Electric Power Systems‖, Wiley and sons, New Jersey, 2010.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Understand the concepts of Distributed Generation and Micro grids
+2. Gain Knowledge about the various DG resources.
+3. Familiarize with the planning and protection schemes of Distributed Generation.
+4. Learn the concept of Microgrid and its mode of operation.
+5. Acquire knowledge on the impacts of Microgrid.
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+2
+
+CO2
+
+3
+
+3
+
+2
+
+CO3
+
+3
+
+3
+
+2
+
+CO4
+
+3
+
+2
+
+CO5
+
+3
+
+3
+
+2
+2
+
+2
+
+2
+
+3
+
+2
+
+2
+
+2
+
+3
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2
+
+2
+
+2
+
+2
+2
+
+ANNAMALAI UNIVERSITY
+
+2
+
+2
+
+62
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+SOLID STATE DRIVES
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To develop models for dc and ac motors.
+• To learn the operation of phase control and chopper controlled dc drives.
+• To understand the operation of induction motor drives
+• To gather knowledge on the theory of synchronous motor drives.
+• To brief about the working principle of Special Electrical Drives
+INTRODUCTION
+Introduction - Fundamentals of electric drives - Comparison between conventional and solid
+state drives - Open loop and closed loop speed control -. Classification, characteristics and
+advantages of electric drives - Selection of power rating for drive motor based on thermal limits.
+Transfer function and State space models of series and separately excited DC motor - Motor
+transfer function - Speed and current loops-load torque disturbance - AC Machines - Dynamic
+modeling - Linear transformations - equations in stator, rotor and synchronously rotating
+reference frames - Flux linkage equations - Dynamic state space model - Modeling of
+Synchronous motor.
+DC DRIVES
+Separately excited D.C motor and series motor drive-waveforms - Equations - Performance
+characteristics - Operation of semi and full converters - Reversible drives using dual converters Armature and field current reversal
+Chopper fed D.C motors, analysis and performance characteristics - Dynamic and regenerative
+braking of chopper controlled drives - Regenerative reversals -Transit systems.
+INDUCTION MOTOR DRIVES
+Stator voltage control of induction motor- Adjustable voltage .constant voltage/frequency
+operation, torque characteristics-Stator current control-controlled slip operation - Rotor
+resistance control -Types of rotor choppers -Typical rotor chopper circuits - Slip power recovery
+scheme - Static Kramer and Scherbius drives systems
+SYNCHRONOUS MOTOR DRIVES
+Adjustable frequency operation - Controlled current operation - Voltage source and current
+source inverter fed synchronous motor drive - PWM inverter fed synchronous motor drive Cycloconverter fed synchronous motor drive - Torque angle control of the self-controlled
+synchronous motor drive.
+ANNAMALAI UNIVERSITY
+
+63
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+SPECIAL MACHINES DRIVES
+Principle of operation - Torque speed characteristics of Switched Reluctance Motor (SRM)
+drives and Brushless DC motor (BLDC) - Permanent magnet synchronous motors - Principle of
+operation, UPF operation, torque speed characteristics
+REFERENCES
+1. Gopal K. Dubey,”Fundamentals of Electrical Drives‖”, CRC Press, Second Edition, 2002.
+2. K.Venkataratnam, “Special Electrical Machines", Universities press, 2009.
+3. Austin Hughes and Bill Drury, “Electric Motors and Drives”: Fundamentals, types and
+Applications‖, Elsevier Ltd, Fourth Edition, 2013.
+4. Vedam Subramaniam, “Electric Drives-Concepts and applications”, Tata McGraw
+Hill Publishing Company Ltd, 2002.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Model and analyze electrical motor drives and their sub systems (converters, rotating
+machines and loads)
+2. Understand the working of dc drives
+3. Arrive at theory of induction motor drives
+4. Enable the operation of synchronous motor drives
+5. Gather an insight into the special machines drives.
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+2
+
+2
+
+1
+
+2
+
+1
+
+1
+
+1
+
+1
+
+CO2
+
+2
+
+2
+
+1
+
+2
+
+1
+
+1
+
+1
+
+1
+
+CO3
+
+2
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+CO4
+
+2
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+CO5
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+2
+
+ANNAMALAI UNIVERSITY
+
+64
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+POWER SYSTEM TRANSIENTS
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To understand the basics of power system transients
+• To gain knowledge about the digital computation for power system protection
+• To know in detail the impact of lightning in the power system
+• To familiarize the concepts of Travelling waves and its impact in the transmission
+systems.
+• To comprehend insulation co-ordination in substations
+INTRODUCTION
+Fundamental circuit analysis of electrical transients - Laplace Transform method of solving
+simple switching transients - Damping circuits - Abnormal switching transients, Three-phase
+circuits and transients - Computation of power system transients.
+DIGITAL COMPUTATION
+Principle of digital computation - Matrix method of solution - Modal analysis - Z transformComputation using EMTP - Lightning, switching and temporary over voltages, Lightning Physical phenomena of lightning.
+IMPACT OF LIGHTNING
+Interaction between lighting and power system-Influence of tower footing resistance and Earth
+Resistance-Switching: Short line or kilometric fault - Energizing transients - Closing and Reclosing of lines-line dropping, load rejection - Over voltages induced by faults.
+SWITCHING HVDC LINE
+Travelling waves on transmission line - Circuits with distributed Parameters Wave EquationReflection, Refraction, Behavior of Travelling waves at the line terminations - Lattice Diagrams
+- Attenuation and Distortion - Multi-Conductor system-and Velocity wave.
+INSULATION CO-ORDINATION
+Principle of insulation co-ordination in Air Insulated substation (AIS) and Gas Insulated
+Substation (GIS) Co- ordination between insulation and protection level- Statistical approach Protective devices - Protection of system against over voltages - Lightning arresters - Substation
+earthing.
+
+ANNAMALAI UNIVERSITY
+
+65
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+REFERENCES
+1. Allan Greenwood, “Electrical Transients in Power System”, Wiley & Sons Inc.
+New York, 1991
+2. C.S.Indulkar, DP Kothari, “Power System Transients‖ - A Statistical approach”, Prentice
+Hall, 1996.
+3. Akihiro Ametani, Naoto Nagaoka, Yoshihiro Baba, Teruo Ohno, “Power System
+Transients: Theory and Applications”, CRC Press, 2013.
+4. Lou van der Sluis, “Transients in Power Systems”, John Wiley & Sons, 2001.
+5. Arrillaga. J
+and
+Watson.N., “Power Systems:
+Electromagnetic
+Transients
+simulation, The Institution of Engineering and Technology”, London, 2007.
+6. Bewley, L..V., “Travelling Waves on Transmission System”, Power Publications Inc.,
+1993.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Acquire the basic knowledge about occurrence of various types of power system
+transients and their mathematical formulation
+2. Compute various parameter for the power system design due to lighting impacts.
+3. Coordinate the insulation of various equipment in power system lighting
+4. Model the power system for transient analysis considering switching HVDC line
+5. Understand the need for Insulation co-ordination
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+CO2
+
+3
+
+2
+
+CO3
+
+2
+3
+
+2
+
+3
+
+3
+
+2
+
+2
+
+2
+
+CO4
+
+3
+
+2
+
+CO5
+
+3
+
+2
+
+2
+
+2
+2
+
+ANNAMALAI UNIVERSITY
+
+3
+
+66
+
+2
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+INSULATION TECHNOLOGY AND HIGH
+VOLTAGE ENGINEERING
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To understand the fundamental concepts in High Voltage Engineering.
+• To acquire knowledge on Electrostatic Fields and the control methodologies involved in
+the control of Field Stress
+• To study about the various types of High Voltage Testing methods and equipments.
+• To learn in detail about SF6 Circuit Breakers.
+• To comprehend in detail about High Voltage Transients in Power systems
+INTRODUCTION
+Fundamentals of high voltage engineering - Voltage stresses - Testing voltages - Testing with
+power frequency voltages - Testing with lightning impulse voltages - Testing with switching
+impulse voltages - Testing with d.c. Voltages - Over voltages - Simulated lightning surges for
+testing - Switching surge test voltage characteristic.
+ELECTROSTATIC FIELDS AND FIELD STRESS CONTROL
+Electrical field distribution and break down strength of insulating materials - Simple
+configurations of fields - Stress control by floating screens - Experimental field analysis
+techniques - Finite element numerical method - Charge simulation method.
+HIGH VOLTAGE TESTING
+High voltage testing of electrical equipment - Testing of overhead line insulators, cables,
+bushings, power capacitors - Power transformers, circuit breakers - Various kinds of test
+voltages
+CIRCUIT BREAKERS
+SF6 gas insulated power apparatus - SF6 Circuit breakers - SF6 metal enclosed substations General design considerations - Maintenance of SF6 metal enclosed substations - SF6 insulated
+current transformers - Design considerations - SF6 gas insulated bushings - SF6 gas
+insulated cables - Testing procedure for testing SF6 insulated power apparatus.
+TRANSIENTS
+High Voltage transients in power system - Traveling waves on transmission lines - Capacitance
+switching - Lightning phenomenon - Line design based on lightning - Over voltage protection
+- Graved wires - Surge protection of power apparatus.
+
+ANNAMALAI UNIVERSITY
+
+67
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+TEXT BOOK
+1. Kuffel. E and Zaengl. W.S, ‘High Voltage Engineering Fundamentals’, Pergamon Press,
+Oxford 1984 Publisher : Robert Maxwell, MC
+2. Dieter Kind, ‘An Introduction to High Voltage Experimental Techniques’, Wiley Eastern
+Ltd., New Delhi, 2013.
+REFERENCE BOOKS
+1. Raju, Gorur G, ‘Dielectrics in Electric Fields’, 2nd Edn, CRC Press, 2016
+2. Denno, Khalil, ‘High Voltage Engineering in Power Systems’, CRC Press, 2018
+3. Dekker.A.J, ‘Electrical Engineering Materials’, Prentice Hall of India, NewDelhi.1987
+4. Gallagher T.J. and Peermain.A. “High Voltage Measurement, Testing and Design”
+Wiley–Blackwell, New York, 1983
+5. Wadhwa. C.L, ‘High voltage Engineering’, New Age International Pvt Ltd., 3rd Edn,
+New Delhi, 2015.
+6. Naidu M.S., Maller V.N, ‘SF6 and vacuum Insulation for High Voltage Applications’,
+Khanna Publishers, New Delhi, 1998
+7. Abu Hanieh Saleh, ’Electric Field Optimization in Sf6 Circuit Breakers’, LAP Lambert
+Academic Publishing, Republic of Moldova, 2015
+COURSE OUTCOMES
+At the end of the course work, The students will be able to
+1. Understand the fundamental concepts in High Voltage Engineering.
+2. Gain knowledge about the Electrostatic Fields and the control methodologies involved in
+the control of Field Stress
+3. Know the various types of High Voltage Testing methods and equipments.
+4. Comprehend the contrition and operation of SF6 Circuit Breakers.
+5. Familiarize High Voltage Transients and its impact in Power systems
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+2
+
+CO2
+
+3
+
+3
+
+3
+
+CO3
+
+3
+
+3
+
+3
+
+CO4
+
+3
+
+3
+
+3
+
+CO5
+
+3
+
+3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+68
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+SEMESTER III
+23EEPSPEXX
+
+FACTS AND CUSTOM POWER DEVICES
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To learn the active and reactive power flow control in power system
+• To understand the need for static compensators
+• To gain knowledge about the static series compensation
+• To familiarize the construction and operation of Unified Power Flow Controller
+• To comprehend the construction and operation of Interline Power Flow Controller
+REACTIVE POWER FLOW CONTROL
+Control of dynamic power unbalances in Power System - Power flow control-Constraints of
+maximum transmission line loading - Benefits of FACTS Transmission line compensation Uncompensated line - Shunt compensation, Series compensation Phase angle control - Reactive
+power compensation Shunt and Series compensation principles - Reactive compensation at
+transmission and distributionlevel
+VAR COMPENSATOR
+Static shunt compensators: SVC and- STATCOM - Operation and control of TSC, TCR and
+STATCOM -Compensator control-Comparison between SVC and STATCOM
+STATIC SERIES COMPENSATION
+TSSC, SSSC - Static voltage and phase angle regulators-TCVR and TCPAR Operation and
+Control-Applications, Static series compensation - GCSC, TSSC, TCSC and Static synchronous
+series compensators and their Control- SSR and its damping
+UNIFIED POWER FLOW CONTROLLER
+Circuit Arrangement, Operation-and control of UPFC - Basic Principle of P and Q control Independent real and reactive power flow control - Applications.
+INTERLINE POWER FLOW CONTROLLER
+Modeling and analysis of FACTS - Controllers - Simulation of FACTS controllers - Power
+quality problems in distribution systems - Harmonics, loads that create harmonics-modeling,
+harmonic - Propagation, series and parallel resonances mitigation of harmonics-passive filters,
+active filtering - Shunt , series and hybrid and their control - Voltage swells, sags, flicker,
+unbalance and mitigation of these problems by power line conditioners - IEEE standards on
+power quality.
+ANNAMALAI UNIVERSITY
+
+69
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+REFERENCES
+1. K R Padiyar, “FACTS Controllers in Power Transmission and Distribution”, New Age
+International Publishers, 2007
+2. X P Zhang, C Rehtanz, B Pal, “Flexible AC Transmission Systems- Modelling and
+Control”, Springer Verlag, Berlin, 2006
+3. N.G. Hingorani, L. Gyugyi, “ Understanding FACTS: Concepts and Technology of Flexible
+AC Transmission Systems”, IEEE Press Book, Standard Publishers and Distributors,
+Delhi, 2001.
+4. K.S.Sureshkumar, S. Ashok , “FACTS Controllers & Applications”, E-book edition,
+Nalanda Digital Library, NIT, Calicut,2003
+5. G T Heydt, “Power Quality”, McGraw-Hill Professional, 2007
+6. T J E Miller, “Static Reactive Power Compensation”, John Wiley and Sons, New York,
+1982.
+COURSE OUTCOMES
+At the end of the course work, the students will be able to
+1. Acquire knowledge about the fundamental principles of Passive and Active Reactive
+Power Compensation Schemes at Transmissionand Distributionlevel in Power Systems.
+2. Learn various Static VAR Compensation Schemes like Thyristor/GTO Controlled
+Reactive Power Systems; PWM Inverter based Reactive Power Systems.
+3. Develop analytical modelling skills needed for modelling and analysis of such Static
+VAR Systems.
+4. Equip with basic procedure of FACTS controller Design.
+5. Gain knowledge on IEEE standards on power quality.
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+3
+
+CO2
+
+3
+
+2
+
+CO3
+
+3
+
+3
+
+CO4
+
+3
+
+2
+
+2
+
+CO5
+
+1
+
+2
+
+2
+
+2
+
+2
+
+3
+
+2
+
+2
+
+2
+
+3
+
+ANNAMALAI UNIVERSITY
+
+1
+
+3
+1
+
+70
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+POWER QUALITY
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To understand the different power quality issues
+• To know in detail about the power system harmonics
+• To gain knowledge about the components used in power system network and its
+modeling
+• To comprehend in detail about power factor and its improvements
+• To familiarize the various STATIC VAR Compensators
+INTRODUCTION
+Voltage quality - Overview of power quality phenomena classification of power quality issuesPower quality measures and standards-THD-TIF-DIN-C- message weights - Flicker factor
+transient phenomena - Occurrence of power quality problems - Power acceptability curves-IEEE
+guides, standards and recommended practices.
+HARMONICS
+Individual and total harmonic distortion RMS value of a harmonic waveform - Triplex harmonics
+-Important harmonic introducing devices – SMPS - Three phase power converters - Arcing
+devices saturable devices - Harmonic distortion of fluorescent lamps - Effect of power system
+harmonics on power system equipment and loads.
+MODELING OF NETWORKS AND COMPONENTS
+Transmission and distribution systems - Shunt capacitors -Transformers - Electric machines Ground systems - Loads under non-sinusoidal conditions - Impact ondrive
+POWER FACTOR IMPROVEMENT
+Passive Compensation Passive Filtering, Harmonic Resonance - Impedance Scan Analysis - Active
+Power Factor Corrected Single Phase Front End, Control Methods for Single Phase APFC Three
+Phase APFC and Control Techniques, PFC Based on Bilateral Single Phase and Three Phase
+Converter
+STATIC VAR COMPENSATORS
+SVC and STATCOM Active Harmonic Filtering - Shunt Injection - Filter for single phase, threephase three-Wire and three - Phase four- Wire systems d-q domain control of three phase shunt
+active filters uninterruptible power supplies constant voltage - Transformers series active power
+filtering techniques for harmonic cancellation and isolation - Dynamic Voltage Restorers for sag ,
+swellandflickerproblems. Groundingandwiringintroduction NECgrounding requirements –
+ANNAMALAI UNIVERSITY
+
+71
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Reasons for grounding typical grounding and wiring problems solutions to grounding and wiring
+problems
+REFERENCES
+1. G.T. Heydt, “Electric power quality”, McGraw-Hill Professional, 2007
+2. Math H. Bollen, “Understanding Power Quality Problems”, IEEE Press, 2000
+3. J. Arrillaga, “Power System Quality Assessment”, John Wiley, 2000
+4. J. Arrillaga, B.C. Smith, N.R. Watson &A. R.Wood, “Power System Harmonic Analysis”,
+Wiley, 1997.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Acquire knowledge about the harmonics, harmonic introducing devices and effect of
+harmonics on system equipment andloads
+2. Develop analytical modeling skills needed for modeling and analysis of harmonics in
+networks and components
+3. Introduce the active power factor correction based on static VAR compensators and its
+control techniques
+4. Implement the series and shunt active power filtering techniques for harmonics.
+5. Find solutions to grounding and wiring problems
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+1
+2
+1
+1
+CO1 2
+3
+
+1
+
+1
+
+2
+
+1
+
+CO4
+
+3
+2
+
+1
+1
+
+1
+1
+
+2
+2
+
+1
+1
+
+CO5
+
+2
+
+2
+
+2
+
+1
+
+CO2
+CO3
+
+ANNAMALAI UNIVERSITY
+
+72
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+23EEPSPEXX INDUSTRIAL LOAD MODELING AND CONTROL
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To understand the basic concepts of demand side management in the electrical energy
+scenario
+• To familiarize the various cost imposed with electricity pricing models
+• To understand the impacts and need for reactive power management in industries.
+• To study about the various types of load models and its impact
+• To gain knowledge about the captive power generation units.
+ELECTRIC ENERGY SCENARIO
+Demand Side Management - Industrial Load Management - Load Curves - Load Shaping
+Objectives - Methodologies - Barriers - Classification of Industrial Loads - Continuous and Batch
+processes - Load Modeling
+ELECTRICITY PRICING
+Dynamic and spot pricing - Models - Direct load control - Interruptible load control - Bottom up
+approach - Scheduling - Formulation of load - Models Optimization and control algorithms Case studies
+REACTIVE POWER MANAGEMENT
+In industries - Controls - Power quality impacts - Application of filters - Energy saving in
+industries - Cooling and heating loads
+LOAD PROFILING-MODELING
+Cool storage -Types - Control strategies - Optimal operation - Problem formulation - Case
+studies
+CAPTIVE POWER UNITS
+Operating and control strategies-Power Pooling- Operation models - Energy banking-Industrial
+Cogeneration - Selection of Schemes - Optimal Operating Strategies - Peak load saving Constraints Problem formulation - Case study - Integrated Load management for Industries.
+REFERENCES
+1. C.O. Bjork, “Industrial Load Management - Theory, Practice and Simulations”, Elsevier,
+Netherlands,1989
+2. C.W. Gellings and S.N. Talukdar, “Load management concepts”. IEEE Press,
+New York, 1986.
+ANNAMALAI UNIVERSITY
+
+73
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+3. Y. Manichaikul and F.C. Schweppe , “Physically based Industrial load”, IEEE Trans. on
+PAS, April,1981, pp.1439-1445
+4. H. G. Stoll, “Least cost Electricity Utility Planning”, Wiley Inter Science Publication,
+USA, 1989.
+5. I.J.Nagarath and D.P.Kothari, “Power System Engineering”, Tata McGraw Hill
+Publishers, New Delhi, 2007
+6. IEEE Bronze Book, “Recommended Practice for Energy Conservation and cost effective
+planning in Industrial facilities”, IEEE Inc, USA, 1984
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Learn the basic concepts of demand side management in the electrical energy scenario
+2. Study the various cost imposed with electricity pricing models
+3. Familiarize understand the impacts and need for reactive power management in industries.
+4. Design various types of load models and analyse itsimpact
+5. Gain knowledge about the captive power generationunits.
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+3
+
+CO2
+CO3
+
+3
+
+2
+
+CO4
+
+3
+
+CO5
+
+3
+
+3
+
+2
+
+2
+
+2
+2
+
+2
+
+ANNAMALAI UNIVERSITY
+
+2
+
+74
+
+3
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+23EEPSPEXX BIG DATA ANALYTICS IN ELECTRIC POWER
+SYSTEMS
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+• To impart knowledge about the application of Big Data in a Power Systems
+• To know about the Big Data Optimization in Electric Power Systems
+• To introduce the concept of Data-Mining Methods for Electricity Theft Detection
+• To understand the security methods for Critical Infrastructure Communications and Big
+Data in Smart Grid Communications
+• To gain knowledge on Unit Commitment Control of Smart Grids
+BIG DATA APPLICATION AND ANALYTICS IN A POWER SYSTEM
+Introduction - General Applications of Big Data - Social Networking - Handling Big Data Algorithms for Processing Big Data- Machine Learning and Deep Learning GeneralitiesMachine Learning - Support Vector Machine (SVM) - Decision-Tree Classifier - Deep Learning
+- Deep Learning Models - Challenges and Suggested Solutions for Using Deep Learning in Big
+Data Analytics - Application of Big Data in Power Systems - Big Data in Smart Grid Networks
+- Phasor Measurement Units (PMU - Renewable Energy - CIM as Information Standard for Big
+Data Analytics - Big Data Problem in Power System Modelling - Security - Constrained Unit
+Commitment (SCUC) - Decomposition Methods to Handle Big Data - Firm Transmission Right
+(FTR) Problems - Time -Constrained Economic Dispatch
+BIG DATA OPTIMIZATION IN ELECTRIC POWER SYSTEMS
+Introduction - Scientometric Analysis of Big Data - Big Data and Power Systems - Big Data
+Optimization - Application of Big Data in Power System Studies- Optimization Techniques Used
+in the Big Data Analysis - Computational Method for Large-scale Unconstrained Optimization Numerical Approach for Nonsmooth Large-scale Optimization - Big Data in Logistics
+Optimization - Big Data Analytics Based on Convex and Nonconvex Optimization Metaheuristic Algorithms for Big Data Optimization
+DATA-MINING METHODS FOR ELECTRICITY THEFT DETECTION
+Introduction - Transmission and Distribution System Losses - Electricity Theft Methods- Fraud
+- Bypassing Existing Meetings- Meter Tampering - Billing Issues - Outright Theft - Electricity
+Theft and Data Collection - Data Mining and Electricity Theft - Prediction - Classification and
+Clustering - Detection - Issues and Directions in Electricity Theft-Related Data-Mining
+Research.
+SECURITY METHODS FOR CRITICAL INFRASTRUCTURE COMMUNICATIONS
+Introduction - Effects of Successful Communication System Threats - General Communication
+ANNAMALAI UNIVERSITY
+
+75
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+System Operations - Industrial Control Networks and Operations - Industrial Control Network
+Operations and Components - Commercial Technology Inroads into Industrial Control Networks
+- High-Level Communication System Threats - Actor-Based Threats: Insider versus Outsider Device Property and Existential-Related Issues - Host-Based Threats - Physical versus Electronic
+Threats and Mitigation - Supply-Chain - Related Threats and Mitigation - Information DamageRelated Threats - Stack-Based Exploitations - Cyber Threats and Security - Component-SpecificRelated Threats and Mitigation - Software and Communication Threats and Mitigation Physical-Layer Threats and Security Measures -Biometric-Like Security with Physical-Layer
+Security Measures
+UNIT COMMITMENT CONTROL OF SMART GRIDS
+Introduction - Grid Modernization - Grid Interconnection with the Internet of Things - Data
+Traffic Pattern in a Smart Grid Environment - Phasor Measurement Unites Applied to
+Distribution Systems - Advanced Metering Infrastructure (AMI) - Massive Flow of Information
+in a Smart Scenario - Volume of Generated Data in a Smart Distribution System:- Generated
+Data by PMUs, Metering Infrastructure - Renewable Energy Resources - Wind Power
+Generation - Solar Power Generation - Solar Panel Capacity and Efficiency - Solar Panel Power
+Generation Density -The Unit Commitment Problem - Multi-agent Architecture - Smart Grid
+Using Multi-Agent Model - Agent’s Profile - Decision - Making Method - Storing and Selling
+Extra Power Procedure.
+TEXT BOOKS
+1. Ahmed F. Zobaa and Trevor J. Bihl, “Big Data Analytics in Future Power Systems”,
+CRC Press, Taylor & Francis Group, Boca Raton, 2019
+2. Ali Tajer, Samir M. Perlaza, H. Vincent Poor, “Advanced Data Analytics for Power
+Systems”, Cambridge University Press, Cambridge, 2021
+REFERENCE BOOKS
+1. Venkat Ankam , “Big Data Analytics, CBS Publishers and Distributors Pvt Ltd”,
+New Delhi, 2016
+2. Alpaydin,E., “Introduction to Machine Learning. Cambridge”, MA, MIT Press, 2014.
+3. Gaurav Aroraa, Chitra Lele, Munish Jindal, “Data Analytics: Principles, Tools, and
+Practices: A Complete Guide for Advanced Data Analytics Using the Latest Trends,
+Tools, and Technologies”, BPB Publications, New Delhi, 2022
+4. Robert C. Qiu and Paul Antonik, “Smart Grid using Big Data Analytics A Random
+Matrix Theory Approach”, John Wiley & Sons Ltd, New Jersey, 2017
+5. LuR, “Privacy-Enhancing Aggregation Techniques for Smart Grid Communications”,
+Springer: Berlin/Heidelberg, Germany, 2016
+6. C. L. Stimmel, “Big Data Analytics Strategies for the Smart Grid”, CRC press, Boca
+Raton, 2014.
+ANNAMALAI UNIVERSITY
+
+76
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+7. Sudip Misra, Samaresh Bera, “Smart Grid Technology: A Cloud Computing and Data
+Management Approach”, Cambridge University Press, Cambridge, 2018.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Know the basic concepts of Big Data in a Power Systems
+2. Gain knowledge about the Big Data Optimization in Electric Power Systems
+3. Implement various methodologies for Data-Mining Methods for Electricity Theft
+Detection
+4. Understand the security methods for Critical Infrastructure Communications and Big
+Data in Smart Grid Communications
+5. Acquire knowledge about Unit Commitment Control of Smart Grids
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+2
+
+2
+
+3
+
+CO2
+
+3
+
+2
+
+2
+
+2
+
+3
+
+CO3
+
+3
+
+2
+
+2
+
+2
+
+3
+
+CO4
+
+3
+
+2
+
+2
+
+2
+
+3
+
+CO5
+
+3
+
+2
+
+2
+
+2
+
+3
+
+ANNAMALAI UNIVERSITY
+
+77
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+POWER SYSTEM SIGNAL PROCESSING FOR
+SMART GRIDS
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+• To introduce the basic concepts of power system signal processing
+• To impart knowledge on multirate systems and sampling
+• To know about the estimation of various electrical parameters
+• To understand time-frequency signal decomposition
+• To gain knowledge about signal detection for electric power systems
+BASIC POWER SYSTEMS SIGNAL PROCESSING
+Introduction - Linear and Time-Invariant Systems - Frequency Response of LTI System - Linear
+Phase FIR Filter - Basic Digital System and Power System Applications - Moving Average
+Systems: Application -RMS Estimation - Trapezoidal Integration and Bilinear TransformDifferentiators Filters: Application - Simple Differentiator - Parametric Filters in Power System
+Applications - Filter Specification - First-Order Low-Pass Filter - First-Order High-Pass Filter Band stop IIR Digital Filter (The Notch Filter) - Total Harmonic Distortion in Time Domain
+(THD) - Signal Decomposition using a Notch Filter - Parametric Notch FIR Filters - Sine and
+Cosine FIR Filters - Smart-Grid Context and Conclusions
+MULTIRATE SYSTEMS AND SAMPLING ALTERATIONS
+Introduction - Basic Blocks for Sampling Rate Alteration - Frequency Domain Interpretation Up-Sampling in Frequency Domain - Down-Sampling in Frequency Domain - The Interpolator The Input - Output Relation for the Interpolator - Multirate System as a Time-Varying System
+and Nobles Identities - The Decimator - Introduction - The Input–Output Relation for the
+Decimator - Fractional Sampling Rate Alteration – Resampling - Real-Time Sampling Rate
+Alteration - Spline Interpolation - Cubic B-Spline Interpolation. Supervision and Control Protection - Power Quality - Mathematical Model for Noise - Sampling and the Anti-Aliasing
+Filtering - Sampling Rate for Power System Application - Smart-Grid Context
+ESTIMATION OF ELECTRICAL PARAMETERS
+Introduction - Estimation Theory - Least-Squares Estimator (LSE) - Linear Least-Squares Frequency Estimation - Frequency Estimation Based on Zero Crossing(IEC61000-4-30) - ShortTerm Frequency Estimator Based on Zero Crossing - Frequency Estimation Based on Phasor
+Rotation -Varying the DFT Window Size - Frequency Estimation Based on LSE 2017.4.6 IIR
+Notch Filter - Small Coefficient and/or Small Arithmetic Errors - Phasor Estimation Introduction - The PLL Structure - Kalman Filter Estimation - Example of Phasor Estimation
+using Kalman Filter - Phasor Estimation in Presence of DC Component - Mathematical Model
+for the Signal in
+ANNAMALAI UNIVERSITY
+
+78
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+Presence of DC Decaying - Mimic Method - Least-Squares Estimator - Improved DTFT
+Estimation Method.
+TIME-FREQUENCY SIGNAL DECOMPOSITION
+Introduction - Short-Time Fourier Transform - Filter Banks Interpretation - Choosing the
+Window: Uncertainty Principle - The Time-Frequency Grid - Sliding Window DFT - Sliding
+Window DFT: Modified Structure - Power System Application - Filter Banks - Two-Channel
+Quadrature-Mirror Filter Bank - An Alias-Free Realization - A PR Condition - Finding the
+Filters from P(z) - General Filter Banks - Harmonic Decomposition Using PR Filter Banks The Sampling Frequency - Extracting Even Harmonics - The Synthesis Filter Banks - Wavelet Continuous Wavelet Transform - The Inverse Continuous Wavelet Transform - Discrete Wavelet
+Transform (DWT) - The Inverse Discrete Wavelet Transform - Discrete-Time Wavelet
+Transform - Design Issues in Wavelet Transform - Power System Application of Wavelet
+Transform - Real-Time Wavelet Implementation
+DETECTION
+Introduction - Signal Detection for Electric Power Systems - Detection Theory Basics Detection on the Bayesian Framework - Newman-Pearson Criterion - Receiving Operating
+Characteristics - Deterministic Signal Detection in White Gaussian Noise - Deterministic Signals
+with Unknown Parameters - Detection of Disturbances in Power Systems - The Power System
+Signal - Optimal Detection - Feature Extraction - Commonly Used Detection Algorithms Transmission Lines Protection - Detection Algorithms Based on Estimation - Saturation
+Detection in Current Transformers - Smart-Grid Context.
+TEXT BOOKS
+1. Paulo Fernando Ribeiro, Carlos Augusto Duque, Paulo M_arcio da Silveira, Augusto
+Santiago Cerqueira, “Power Systems Signal Processing For Smart Grids”, John Wiley &
+Sons Ltd, West Sussex, UK, 2014
+REFERENCE BOOKS
+1. Oppenheim, A.V, Willsky, A.S and Nawab, H, “Signals and Systems”, Prentice Hall,
+1997
+2. Oppenheim, A.V. and Schafer, R.W, “Discrete-Time Signal Processing”, 3rd edn,
+Prentice Hall, 2009
+3. Mitra, S.K, “Digital Signal Processing: A Computer-Based Approach”, 4th Edn,
+McGraw-Hill, 2005.
+4. Lathi, B.P, “Linear Systems and Signals”, Oxford University Press, Oxford, 2004.
+5. Natarajan R, “Power System Capacitors”, CRC Press, Boca Raton, 2005.
+ANNAMALAI UNIVERSITY
+
+79
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+6. Reimert, D, “Protective Relaying for Power Generation Systems”, CRC Press, Taylor &
+Francis Group, 2006
+7. Blackburn, J.L, “Protective Relaying: Principles and Application”, 3rd edn, CRC Press.,
+2007.
+8. Acha, E. and Madrigal, M, “Power Systems Harmonics: Computer Modelling and
+Analysis”, Wiley& Sons, 2001
+9. Ibrahin, M.A, “Disturbance Analysis for Power Systems”, Wiley & Sons, 2012.
+10. Lyons, R.G, “Understanding Digital Signal Processing”, Prentice Hall, 2011.
+11. Proakis, J.G. and Manolakis, D.G., “Digital Signal Processing: Principles, Algorithms
+and Applications”, Prentice Hall, 2007.
+12. Baggini A, “Handbook of Power Quality”, John Wiley & Sons, Chichester, 2008.
+13. Antoniou A, “Digital Filters, Analysis, Design and Applications”, McGraw Hill, 1993
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Known the basic concepts of power system signal processing
+2. Gain knowledge about the multirate systems and sampling
+3. Implement various methodologies for the estimation of various electrical parameters
+4. Understand time-frequency signal decomposition
+5. Acquire knowledge about the signal detection for electric power systems
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+2
+
+3
+
+2
+
+CO2
+
+3
+
+2
+
+2
+
+3
+
+2
+
+CO3
+
+3
+
+2
+
+2
+
+3
+
+2
+
+CO4
+
+3
+
+2
+
+2
+
+3
+
+2
+
+CO5
+
+3
+
+2
+
+2
+
+3
+
+2
+
+2
+
+ANNAMALAI UNIVERSITY
+
+80
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+POWER SYSTEM RELIABILITY
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To impart the basic knowledge about Reliability in Power System Engineering
+• To know in detail about Transmission System Reliability
+•
+
+To study about Bulk Power System Reliability
+
+•
+
+To gain knowledge about the Generation Capacity reliability in Interconnected Power
+System
+
+•
+
+To familiarize with the Distribution System Reliability
+
+BASIC RELIABILITY CONCEPTS
+General reliability function - The exponential distribution meantime to failure - Series
+and parallel systems - Markov processes - Continuous markov processes - Recursive
+techniques.
+TRANSMISSION SYSTEM RELIABILITY
+Average interruption rate method - Frequency and duration method - Stormy and normal
+weather effects - Markov process approach - System studies.
+BULK POWER SYSTEM RELIABILITY
+Service quality criterion - Conditional probability approach - Single system application Two plant, single load system - Two plant, two load system - Networked system approach.
+INTERCONNECTED SYSTEM GENERATING CAPACITY RELIABILITY
+Probability array for two systems - Loss of load approach - Load forecast uncertainty Interconnection benefits.
+DISTRIBUTION SYSTEM RELIABILITY
+Markov model - Distribution system reliability performance
+TEXT BOOK
+1. Roy Billington, ‘Power System Reliability Evaluation’, Gordon and Breach Science
+Publishers, New York, 1970.
+2. Balbi Dhillon .S, ‘Power System Reliability, Safety and Management, Ann Arbor
+Science, 1984.
+REFERENCE BOOKS
+1. Sandler, Gerald H, ‘System Reliability Engineering’, Literary Licensing, LLC, 2012
+ANNAMALAI UNIVERSITY
+
+81
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+2. G.F. Kovalev, L.M. Lebedeva, ‘Reliability of Power Systems’, Springer International
+Publishing, 2019
+3. Roy Billington and Ronald Allan.N, ‘Reliability Evaluation of Engineering Systems,
+Concepts and Techniques’, Pitman Advanced Publishing Program, 1984.
+4. Endrenyi .J, ‘Reliability Modelling in Electric Power Systems’, Wiley–Blackwell, 1978.
+5. Turan Gonen, ‘Electric Power Distribution System Engineering’, CRC Press, Boca
+Raton, 3rd Edn, 2014
+COURSE OUTCOMES
+At the end of the course work, Students will be able to
+1. Understand the fundamental aspects of Power System Reliability
+2. Gather details relating to Transmission System Reliability
+3. Arrive at solutions for Bulk Power System Reliability
+4. Enable Generation Capacity reliability in Interconnected Power System
+5. Articulate on Distribution System Reliability
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+2
+
+CO2
+
+3
+
+3
+
+3
+
+CO3
+
+3
+
+2
+
+3
+
+CO4
+
+3
+
+3
+
+3
+
+CO5
+
+3
+
+3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+82
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+POWER SYSTEM INSTRUMENTATION
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To comprehend the basic concept of measurements an SCADA Systems
+• To impart knowledge on the various types of Power Plant Instruments.
+• To know in detail about Distribution Automation
+• To understand the basics of Substation automation
+• To gain knowledge about the various Instruments / Techniques for Energy Management
+in Power Systems
+MEASUREMENTS AND SCADA SYSTEMS
+Measurement and error analysis - Object and philosophy of power system instrumentation to
+measure large currents, high voltages, Torque and Speed - Standard specifications - Data
+acquisition systems for Power System applications - Data Transmission and Telemetry - PLC
+equipment - Computer control of power system - Man Machine Interface.
+POWER PLANT INSTRUMENTATION
+Piping and Instrumentation diagram of thermal and nuclear power plants - Fuel measurement Gas analysis meters - Smoke measurement - Monitoring systems - Measurement and control of
+furnace draft - Measurement and control of combustion -Turbine monitoring and control: speed,
+vibration, shell temperature monitoring - Radiation detection instruments - Process sensors for
+nuclear power plants - Spectrum analyzers - Nuclear reactor control systems and allied
+instrumentation.
+DISTRIBUTION AUTOMATION
+Definitions - Automation switching control - Management information systems (MIS) - Remote
+terminal units - Communication method for data transfer - Consumer information service (CIS) Graphical information systems (GIS) - Automatic meter reading (AMR) -Remote control load
+management.
+SUBSTATION INSTRUMENTATION
+Substation automation - Requirements - Control aspects in substations - Feeder automation Consumer side automation - Reliability - GPIB programmable test instruments - Microprocessor
+/ Microcontroller based GPIB controllers
+ENERGY MANGEMENT TECHNIQUES AND INSTRUMENTS
+Demand side management (DSM) - DSM planning - DSM Techniques -Load management as a
+DSM satergy - Energy conservation -Tarrif options for DSM - Energy audit - Instruments for
+energy audit - Energy audit for generation, distribution and utilization systems - Economic
+ANNAMALAI UNIVERSITY
+
+83
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+analysis.
+TEXT BOOKS
+1. Liptak B.G, ‘Instrumentation in Process Industries’, Chilton Book Co., 1973.
+2. Sherry A, ‘Modern Power Station Practice: Instrumentation, controls and Testing’,
+Pergamon Press,1971.
+REFERENCE BOOKS
+1. Pabla. A.S “Electric power distribution “- Tata McGraw Hill; New Delhi 2004
+2. Juan Manuel Gers, ‘Distribution systems analysis and automation’, The Institution of
+Engineering and Technology, 2020
+3. James A. Momoh, ‘Electric Power Distribution, Automation, Protection, and Control’,
+CRC Press, 2007
+4. Biswarup Das, ‘Energy Engineering: Power Distribution Automation’, The Institution of
+Engineering and Technology, 2016
+5. Wayne C. Turner, Steve Doty, “Energy Management Handbook”, CRC press, Taylor &
+Frances group, Eighth Edition, 2012.
+6. W.R.Murphy, G.McKay, Energy Management, Butterworth-Heinemann, Elsevier
+Publishers, Oxford, 2015.
+COURSE OUTCOMES
+At the end of the course work, Students will be able to
+1. Understand the need and usage of SCADA Systems
+2. Gain knowledge about the various types of Power Plant Instruments
+3. Familiarize the need for Distribution Automation
+4. Acquire knowledge about the various concepts for Substation Automation
+5. Acquaint about about the various Instruments / Techniques for Energy Management in
+Power Systems.
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+2
+
+CO2
+
+3
+
+3
+
+3
+
+CO3
+
+3
+
+3
+
+3
+
+CO4
+
+3
+
+2
+
+2
+
+CO5
+
+3
+
+3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+84
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSPEXX
+
+HAND BOOK - 2023
+
+HIGH VOLTAGE TESTING TECHNIQUES
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To impart knowledge on basic high voltage testing methods / techniques.
+• To gain knowledge about the various testing techniques for Electrical Equipment.
+• To understand the concept of Impulse voltage generation.
+• To educate in detail about the non-destructive testing.
+• To learn various methodologies for designing high voltage laboratory.
+INTRODUCTION
+Necessity for high voltage testing - Classification of testing methods - Self - Restoration and
+Non-self-restoration systems - Standards and specifications, measurement techniques.
+TESTING TECHNIQUES FOR ELECTRICAL EQUIPMENT
+Testing of power transformers - Voltage transformers - Current transformers - Bushings Insulators - Surge-diverters - Cables - Circuit breakers and isolators - Testing methodology Recording of oscillograms - Interpretation of test results
+GENERATION OF IMPULSE VOLTAGES
+Impulse voltage generator circuit - Analysis of various impulse voltage generator circuits Multistage impulse generator circuits, Marx generator - Switching impulse generator circuit Impulse current generator circuits.
+NON-DESTRUCTIVE TESTING
+Measurement of tan delta and capacitance of solid and liquid dielectrics - Insulation resistance
+measurement - Partial discharges - Location and measurement of discharges in electrical
+equipment - RIV measurements on line hardware, Methodology and interpretation.
+DESIGN OF HIGH VOLTAGE LABORATORY
+General layout of high voltage laboratory - Design aspects from civil and electrical engineering
+points of view - Choice of equipment - Earthing and shielding - Power supply and safety
+circuits.- Fault diagnostic techniques - Statistical interpretation of test data-50 percent disruptive
+discharge voltage-up and down method - Transfer function approach - Pattern recognition
+approach - Neural networks approach.
+TEXT BOOKS
+1. Naidu M S and Kamaraju V., ‘High Voltage Engineering’, McGraw Hill Education; 5th
+Edn, 2017.
+
+2. Gallagher T J and Pearmain A.," High voltage measurement, testing and design", John
+Wiley & Sons, New York, 1983.
+ANNAMALAI UNIVERSITY
+
+85
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+REFERENCE BOOKS
+1. Dieter Kind, ‘High voltage experimental technique’, Vieweg+Teubner Verlag Publishers,
+Wiesbaden, 2013.
+2. E.Kuffel, W.S. Zaengl, J.Kuffel, ‘High Voltage Engineering Fundamentals’, Newnes, 2nd
+Edn, Oxford, 2000.
+3. Denno, Khalil, ‘High Voltage Engineering in Power Systems’, CRC Press, 2018
+4. Hugh M. Ryan, ‘High Voltage Engineering and Testing’, The Institution of Engineering
+and Technology, 2013
+5. Wolfgang Hauschild, Eberhard Lemke, ‘High-Voltage Test and Measuring Techniques’,
+Springer, 2014
+6. Klaus Schon, ‘High Voltage Measurement Techniques: Fundamentals, Measuring
+Instruments, and Measuring Methods’, Springer International Publishing, 2019
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Learn the basics about the high voltage testing methods / techniques
+2. Gain an enhanced knowledge about the various testing techniques for Electrical
+Equipment.
+3. Attain knowledge about time varying and time invariant feedback concepts.
+4. Acquire conceptual knowledge about the concept of Impulse voltage generation.
+5. Familiarize with the methodologies for designing high voltage laboratory
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+3
+
+CO2
+
+3
+
+2
+
+3
+
+CO3
+
+3
+
+3
+
+3
+
+CO4
+
+3
+
+2
+
+3
+
+CO5
+
+3
+
+3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+86
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+OPEN ELECTIVE COURCES
+23YYZZOEXX
+
+ENERGY MANAGEMENT AND AUDIT
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVE
+• To familiarize the energy management in Electrical Drives
+• To learn the energy management schemes in Electric Heating and Lighting
+• To understand the basics of Distribution Automation
+• To learn in detail about the Demand Side Management
+• To gain in depth knowledge about Energy Audit.
+ENERGY MANAGEMENT IN ELECTRIC DRIVE
+Motors and Adjustable speed drives - High efficiency motors - Rewinding electric motors Motor drives and controls - Other factors in motor system efficiency - Utility rebates for motor
+and drives.
+ENERGY MANAGEMENT IN ELECTRIC HEATING AND LIGHTING
+Industrial heating - Resistance heating, induction heating, arc heating, dielectric and micro wave
+heating - Radiant heating -Cost of electrical energy - Lighting - Lamp life time - Efficient
+lighting - Motive power and power factor improvement - Capacitor rating - Siting of capacitors Effects of power factor improvement - Temperature measurement - Optimum start control Efficient use of electrical energy in air conditioning.
+DISTRIBUTION AUTOMATION
+Introduction - Need Based Energy Management (NBEM) - Advantages - Conversional
+distribution network - Automated system - Distribution Automation System (DAS) Communication interface - PLCC - Different data communication systems - Distribution
+SCADA - Distribution automation - Load management in automated distribution system - RTU Substation automation - Feeder automation - Consumer side automation - Energy audit concept Reduced line loss - Power quality - Differed capital expenses - Energy cost reduction - Optimal
+energy use - Improved reliability.
+DEMAND SIDE MANAGEMENT
+Introduction -Scope of demand side management (DSM) - Evolution of DSM concepts - DSM
+planning and implementation - Load management as DSM strategy - Application of load control
+- End use of energy conversion - Tariff options for DSM - Customer acceptance Implementation issues - Implementation strategies - DSM environment - International experience
+with DSM.
+ANNAMALAI UNIVERSITY
+
+87
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+ENERGY AUDIT
+Basic principles of energy audit - Definition of energy auditing - Objectives - Energy flow
+diagram - Strategy of energy audit - Comparison with standards - Energy management team considerations in implementing energy with conservation programmes - Periodic progress review
+- Instruments for energy audit - Energy audit of electrical system - Energy audit of heating,
+ventilation and air conditioning systems - Energy audit of compressed air systems -Energy audit
+of buildings - Energy audit of steam generation, distribution and utilization systems - Economic
+analysis - Energy audit case studies.
+REFERENCE BOOKS
+1. Rakosh Das Begamudre, ‘Energy Conversion Systems’, New Age International
+Publishers, New Delhi, 2015.
+2. Murphy W.R, McKay G., “Energy Management”, Butterworth-Heinemann (Elsevier)
+Publications, London, 2015.
+3. Trivedi P.R., Julka B.R., “Energy Management”, Common Wealth Publishers, New
+Delhi, 1997
+4. K.V.Sharma, P.Venkataseshaiah, “Energy Management and Conservation”,
+I.K.International Pvt., Ltd, New Delhi, 2019.
+5. Albert Thumann, Terry Niehus, William J Younger, “Handbook of Energy Audits”,
+9th Edn, CRC Press, 2013.
+COURSE OUTCOMES:
+At the end of the course work, Students will be able to
+1. Understand and acquire fundamental knowledge energy management in Electrical
+Drives
+2. Acquire the energy management methodologies in Electric Heating and Lighting.
+3. Understand the basics of Distribution Automation.
+4. Learn in detail about the Demand Side Management
+5. Gain in depth knowledge about Energy Audit.
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+3
+
+3
+
+CO2
+CO3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+CO4
+
+3
+
+3
+
+3
+
+CO5
+
+3
+
+3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+88
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23YYZZOEXX
+
+HAND BOOK - 2023
+
+WASTE TO ENERGY
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To impart the basic knowledge about Energy acquired from wastes
+• To know in detail about Biomass Pyrolysis
+• To study about Biomass Gasification in detail
+• To gain knowledge about the Biomass combustion
+• To familiarize with the properties and uses of Biogas
+INTRODUCTION
+To Energy from Waste: Classification of waste as fuel - Agro based, Forest residue, Industrial
+waste - MSW -Conversion devices -Incinerators, gasifiers, digesters.
+BIOMASS PYROLYSIS
+Pyrolysis - Types, slow fast - Manufacture of charcoal - Methods - Yields and application Manufacture of pyrolytic oils and gases, yields and applications.
+BIOMASS GASIFICATION
+Gasifiers - Fixed bed system - Downdraft and updraft gasifiers - Fluidized bed gasifiers -Design,
+construction, and operation - Gasifier burner arrangement for thermal heating - Gasifier engine
+arrangement and electrical power - Equilibrium and kinetic consideration in gasifier operation
+BIOMASS COMBUSTION
+Biomass stoves - Improved chullahs, types, some exotic designs, Fixed bed combustors, Types,
+inclined grate combustors, Fluidized bed combustors, Design, construction and operation Operation of all the above biomass combustors.
+BIOGAS
+Properties of biogas (Calorific value and composition) - Biogas plant technology and status - Bio
+energy system - Design and constructional features - Biomass resources and their classification Biomass conversion processes - Thermo chemical conversion - Direct combustion - biomass
+gasification - pyrolysis and liquefaction - biochemical conversion - anaerobic digestion - Types
+of biogas Plants -Applications - Alcohol production from biomass - Bio diesel production Urban waste to energy conversion - Biomass energy programme in India.
+REFERENCES
+1. Desai, Ashok V., “Non-Conventional Energy”, Wiley Eastern Ltd., 1990.
+2. Khandelwal, K. C. and Mahdi, S. S., “Biogas Technology - A Practical Hand Book - Vol.
+I & II”, Tata McGraw Hill Publishing Co. Ltd., 1983.
+ANNAMALAI UNIVERSITY
+
+89
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+3. Challal, D. S., “Food, Feed and Fuel from Biomass”, IBH Publishing Co. Pvt. Ltd., 1991.
+4. C. Y. Were Ko-Brobby and E. B. Hagan, “Biomass Conversion and Technology”, John
+Wiley & Sons, 1996.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Understand the basics relating to the Energy acquired from wastes
+2. Learn the details about Biomass Pyrolysis
+3. Articulate on the process of Biomass Gasification
+4. Gather the theory about the Biomass combustion
+5. Acquire a knowledge on the properties and uses of Biogas
+
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+3
+
+1
+
+2
+
+2
+
+CO2
+CO3
+
+2
+
+1
+
+2
+
+3
+
+2
+
+3
+
+2
+
+1
+
+2
+
+CO4
+
+2
+
+3
+
+2
+
+2
+
+2
+
+CO5
+
+2
+
+2
+
+2
+
+1
+
+2
+
+3
+
+ANNAMALAI UNIVERSITY
+
+90
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23YYZZOEXX
+
+HAND BOOK - 2023
+
+SCADA SYSTEM AND APPLICATIONS
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To understand the basics of SCADA and its functions
+• To familiarize with SCADA Architecture and Communications
+• To comprehend various Applications of SCADA
+• To know about the various Incident response and International implications
+• To get an insight into Project management for SCADA systems and records retention
+INTRODUCTION TO SCADA
+Data acquisition systems - Subsystems of SCADA - Functions of SCADA - Functions of
+SCADA - Evolution of SCADA - Monitoring and supervisory functions - SCADA applications
+in Utility - Automation
+SCADA ARCHITECTURE AND COMMUNICATION
+Different types of SCADA architectures, advantages and disadvantages of each system - Single
+unified standard architecture - IEC 61850 - Various industrial communication technologies Wired and wireless methods and fiber optics - Open standard communication protocols
+SCADA APPLICATIONS
+Industries SCADA System Components - Schemes - Remote Terminal Unit (RTU) - Intelligent
+Electronic Devices (IED) - Programmable Logic Controller (PLC) -Communication Network,
+SCADA Server, SCADA / HMI Systems - Utility applications - Transmission and Distribution
+sector operations, monitoring, analysis and improvement-Industries - Oil, gas and water - Case
+studies, Implementation, Simulation Exercises
+INTERNATIONAL IMPLICATIONS OF SECURING SCADA AND INCIDENT
+RESPONSE
+The security environment of cyber space - The problem of unintentional cyber incidents Critical infrastructure - Industry Response - Recommendations - Short/medium-term and longterm recommendations - Disaster recovery and business continuity of SCADA - Types of plans Examples of SCADA systems at risk-SCADA contingency planning process - Developing the
+contingency planning policy statement - Identification of system resource recovery priorities Identification of preventive controls - Difficulties with SCADA and incident response - Incident
+analysis- Incident prioritization - Notification - Choosing a containment strategy - Identifying the
+attacker - Eradication and recovery - Evidence retention.
+
+ANNAMALAI UNIVERSITY
+
+91
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+PROJECT MANAGEMENT FOR SCADA SYSTEMS AND RECORDS RETENTION
+Introduction to project management - Areas of knowledge needed - Similarities and differences
+with the SCADA community - Managing stakeholders and projects - Successful with SCADA
+implementations - SCADA implementations unique - Third-party maintenance of data - Records
+retention - Issues with sharing information - Sharing information has a price - Sharing data can
+mislead and confuse - Sharing information costs time - Sharing information has a risk
+REFERENCES
+1. Stuart A. Boyer, ‘SCADA-Supervisory Control and Data Acquisition’, Instrument
+Society of America Publications, USA, 2004
+2. Gordon Clarke, Deon Reynders, ‘Practical Modern SCADA Protocols: DNP3, 60870.5
+and Related Systems’, Newnes Publications, Oxford, UK,2004
+3. William T. Shaw, ‘Cyber security for SCADA systems’, Penn Well Books,2021
+4. Brodsky, Jacob; Radvanovsky, Robert, ‘Handbook of SCADA / control systems
+security’, CRC Press, 2016.
+5. David Bailey, Edwin Wright, ‘Practical SCADA for industry’, Newnes, 2003
+6. Michael Wiebe, ‘A guide to utility automation: AMR, SCADA, and IT systems for
+Electric Power’, Penn Well, 1999
+COURSE OUTCOMES
+At the end of the course work, Students will be able to
+1. Understand the basics of SCADA and its functions
+2. Gain knowledge about SCADA Architecture and Communications
+3. Familiarize various Applications of SCADA
+4. Acquire knowledge about the various Incident response and International implications
+5. Learn and understand about Project management for SCADA systems and records
+retention
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+3
+
+CO2
+CO3
+
+3
+
+3
+
+3
+
+3
+
+2
+
+3
+
+CO4
+
+3
+
+2
+
+3
+
+CO5
+
+3
+
+3
+
+3
+
+ANNAMALAI UNIVERSITY
+
+92
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+23YYZZOEXX NON CONVENTIONAL ENERGY ENGINEERING
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+• To understand basic principles of Wind Energy Conversion Systems
+• To gain knowledge about the Solar Energy and methodologies for maximum energy
+harvesting.
+• To comprehend the various Energy yielding methodologies from Bio Mass
+• To impart knowledge about Geo-Thermal and Ocean Energy generation
+• To familiarize the various types of Energy Sources for Energy harvesting.
+WIND ENERGY
+Basic principles of wind energy conversion - Site selection consideration - Types of wind mills Basic components of wind energy conversion systems (WECS) - Types of WECS -Applications
+of wind energy - Safety system - Environmental aspects.
+SOLAR ENERGY
+Physical principles of conversion of solar radiation into heat - Flat plate collector - Collector
+efficiency - Concentrating collector: focusing type - Advantages of focusing collectors Cylindrical parabolic concentrating collector - Selective absorber coatings - Central receiver
+tower solar power plant - Solar energy storage systems - Solar pond - Principle of solar photo
+voltaic cell - Solar photo voltaic power generation - MPPT (Maximum Power Point Tracking) Solar pump - Solar hydrogen energy - Solar refrigerator.
+ENERGY FROM BIO MASS
+Bio gas generation principle - Types of bio-gas plants - Applications of bio-gas plants - Bio-mass
+as a source of energy - Energy plantation - Thermal gasification of bio mass - Energy from
+agricultural waste - Agro thermal power plant - Bagasse-Based cogeneration programme Integrated waste management.
+GEO-THERMAL AND OCEAN ENERGY
+Nature of geo-thermal energy -Geo-thermal sources - Prime movers for geo-thermal energy
+conversion - advantages and disadvantages of geo-thermal energy - Application of geo-thermal
+energy - Principle of ocean thermal energy conversion (OTEC) - Open cycle OTEC system Applications - Basic principle and components of tidal power plant - Site requirements - Storage
+- Advantages and limitations of tidal power generation - Ocean wave energy conversion devices.
+OTHER ENERGY SOURCES
+Basic principle and components of a fuel cell - Types of fuel cell - Advantages and
+ANNAMALAI UNIVERSITY
+
+93
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+disadvantages of fuel cell - Conversion energy and application of fuel cell - Basic battery theory
+- Batteries applied for bulk energy storage - Magneto Hydro Dynamics (MHD) - MHD
+generators - Working principle - Types - Characteristics - area of use - Hydrogen fuel -Hydrogen
+production - Storage - Transportation and utilization - Hydrogen as alternative fuel for motor
+vehicle - safety management.
+REFERENCE BOOKS
+1. Rai G.D, ‘Non-Conventional Energy Sources’, Khanna Publishers, New Delhi, 2000
+2. Gupta B.R., ‘Generation of Electrical Energy’, S.Chand & Co. Ltd, New Delhi, 2001
+3. Agarwal M.P, ‘Future Sources of Electrical Power’, S.Chand & Co. Ltd, New Delhi,
+1999.
+4. D.P.Kothari, K.C.Singal, Rakesh Ranjan, ‘Renewable Energy Sources ans Emerging
+Technologies’, PHI Learning Pvt. Ltd, Delhi, 2011
+5. B.H.Khan, ‘Non-Conventional Energy Resources’, 3rd Edn, Mc Graw Hill Education (India) Pvt
+Ltd, New York, 2017
+6. Tasneem Abbasi, S.A.Abbasi, ‘Renewable Energy Sources’, PHI Learning Pvt Ltd, Delhi, 2013
+7. R.K.Rajput, ‘Non-Conventional Energy Sources and Utilisation’, S.Chand & Co. PVt Ltd,
+New Delhi, 2016
+8. Ankur Mathur, ‘Non-Conventional Sources of Energy’, University Science Press, New Delhi,
+2018
+
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Comprehend the working of Wind Energy Conversion Systems.
+2. Understand the various methodologies adopted for maximum energy harvesting from
+the Solar Energy
+3. Gain knowledge about the Energy yielding methodologies from Bio Mass
+4. Impart knowledge about the various Geo-Thermal and Ocean Energy generation.
+5. To familiarize the concepts and solution methodologies involve with various types of
+Energy Sources for Energy harvesting.
+Mapping with Program Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+
+3
+
+2
+
+3
+
+2
+
+2
+
+3
+
+2
+
+CO2
+CO3
+
+3
+
+3
+
+3
+
+2
+
+2
+
+3
+
+2
+
+3
+
+2
+
+2
+
+2
+
+CO4
+
+3
+
+2
+
+2
+
+2
+
+CO5
+
+3
+
+2
+
+2
+
+ANNAMALAI UNIVERSITY
+
+2
+94
+
+2
+
+2
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+AUDIT COURSES
+23EEPSACXX
+
+ENGLISH FOR RESEARCH PAPER WRITING
+
+L
+2
+
+T
+0
+
+P
+0
+
+C
+0
+
+COURSE OBJECTIVES
+• To understand that how to improve your writing skills and level of readability
+• To learn about what to write in each section
+• To understand the sills needed when writing a Title Ensure the good quality of paper at
+very first-time submission syllabus.
+1. Structuring Paragraphs and Sentences, Being Concise and Removing Redundancy,
+Avoiding Ambiguity and Vagueness
+2. Clarifying Who Did What, Highlighting Your Findings, Hedging and Criticizing,
+Paraphrasing and Plagiarism, Sections of a Paper, Abstracts. Introduction.
+3. Review of the Literature, Methods, Results, Discussion, Conclusions, the Final Check
+4. Key skills that are needed when writing a Title, key skills are needed when writing an
+Abstract, key skills that are needed when writing an Introduction, skills needed when
+writing a Review of the Literature,
+5. Skills that are needed when writing the Methods, skills needed when writing the Results,
+skills are needed when writing the Discussion, skills that are needed when writing the
+conclusion.
+6. Useful phrases, how to ensure paper is as good as it could possibly be the first- time
+submission.
+REFERENCES
+1. Goldbort R (2006) Writing for Science, Yale University Press (available on Google
+Books) Model Curriculum of Engineering & Technology PG Courses [Volume-I] [ 41]
+2. Day R (2006) “How to Write and Publish a Scientific Paper”, Cambridge University
+Press.
+3. Highman N (1998), “Handbook of Writing for the Mathematical Sciences”, SIAM
+Highman‘s book.
+4. Adrian Wall work , “English for Writing Research Papers”, Springer New York
+Dordrecht Heidelberg London,2011.
+
+ANNAMALAI UNIVERSITY
+
+95
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSACXX
+
+HAND BOOK - 2023
+
+DISASTER MANAGEMENT
+
+L
+2
+
+T
+0
+
+P
+0
+
+C
+0
+
+COURSE OBJECTIVES
+•
+•
+•
+•
+
+To learn to demonstrate a critical understanding of key concepts in disaster risk reduction
+and human itarian response.
+To critically evaluate disaster risk reduction and humanitarian response policy and practice
+from multiple perspectives.
+To develop an understanding of standards of humanitarian response and practical
+relevance in specific types of disasters and conflict situations.
+To understand the strengths and weaknesses of disaster management approaches,
+planning and programming.
+
+INTRODUCTION DISASTER
+Definition, factors and significance; difference between hazard and disaster; natural and manmade
+disasters: difference, nature, types and magnitude.
+REPERCUSSIONS OF DISASTERS AND HAZARDS
+Economic damage, loss of human and animal life, destruction of ecosystem natural disasters:
+earthquakes, volcanisms, cyclones, tsunamis, floods, droughts and famines, landslides and
+avalanches, man-made disaster: nuclear reactor meltdown, industrial accidents, oil slicks and
+spills, outbreaks of disease and epidemics, war and conflicts.
+DISASTER PRONE AREAS IN INDIA
+Study of seismic zones; areas prone to floods and droughts, landslides and avalanches; areas prone
+to cyclonic and coastal hazards with special reference to tsunami; post-disaster diseases and
+epidemics
+DISASTER PREPAREDNESS AND MANAGEMENT
+Preparedness: monitoring of phenomena triggering a disaster or hazard; evaluation of risk:
+application of remote sensing, data from meteorological and other agencies, media reports:
+governmental and community preparedness.
+RISK ASSESSMENT
+Disaster risk: Concept and elements, disaster risk reduction, global and national disaster risk
+situation. Techniques of risk assessment, global co- operation in risk assessment and warning,
+people‘s participation in risk assessment - Strategies for survival.
+
+ANNAMALAI UNIVERSITY
+
+96
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+DISASTER MITIGATION MEANING
+Concept and strategies of disaster mitigation, emerging trends in mitigation - Structural
+mitigation and Non-structural mitigation, Programs of disaster mitigation in india
+REFERENCES
+1. R. Nishith, Singh AK, ―Disaster Management in India: Perspectives, issues and strategies‖
+New Royal book Company.
+2. Sahni, Pardeep Et.Al. (Eds.), Disaster Mitigation Experiences and Reflections‖, Prentice Hall
+of India, New Delhi.
+3. Goel S. L., Disaster Administration and Management Text and Case Studies‖, Deep &Deep
+Publication Pvt. Ltd., New Delhi.
+
+ANNAMALAI UNIVERSITY
+
+97
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSACXX
+
+HAND BOOK - 2023
+
+SANSKRIT FOR TECHNICAL KNOWLEDGE
+
+L
+2
+
+T
+0
+
+P
+0
+
+C
+0
+
+COURSE OBJECTIVES
+• To get a workingknowledge in illustrious Sanskrit, the scientific language in the world
+• To learn Sanskrit to improve brain functioning
+• To acquire Sanskrit knowledge to develop the logic in mathematics, Science & other
+subjects
+• To get Enhanced memory power
+• To explode the huge knowledge from ancient literature.
+Alphabets in Sanskrit, past / present / future tense, simple sentence -Order, Introduction of roots
+technical information about Sanskrit literature. Technical concepts of Engineering -electrical,
+mechanical, architecture, mathematics
+REFERENCES
+1. Abhyaspustakam‖ -Dr.Vishwas, Samskrita-Bharti Publication, New Delhi
+2. Teach Yourself Sanskrit Prathama Deeksha -Vempati Kutumbshastri, Rashtriya Sanskrit
+Sansthanam, New Delhi Publication
+3. India‘s Glorious Scientific Tradition‖ Suresh Soni, Ocean books (P) Ltd.,
+New Delhi.
+COURSE OUTCOMES
+At end of the course work, Students will be able to
+1. Understanding basic Sanskrit language
+2. Ancient Sanskrit literature about science & technology can be understood.
+3. Being a global language, will help to develop logic in students.
+
+ANNAMALAI UNIVERSITY
+
+98
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSACXX
+
+HAND BOOK - 2023
+
+VALUE EDUCATION
+
+L
+2
+
+T
+0
+
+P
+0
+
+C
+0
+
+COURSE OBJECTIVES
+• To understand value of education and self-development
+• To imbibe good values in students
+• To know about the importanceof character
+Values and self - development - Social values and individual attitude and work ethics, Indian
+vision of humanism - Moral and non- moral valuation - Standards and principles - Value
+judgements
+Importance of cultivation of values, Sense of duty, Devotion, Self- reliance - Confidence,
+Concentration - Truthfulness, Cleanliness - Honesty, Humanity - Power of faith, National Unity Patriotism - Love for nature, Discipline.
+Personality and Behavior Development - Soul and Scientific attitude -Positive Thinking Integrity and discipline - Punctuality, Love and Kindness - Avoid fault Thinking, Free from
+anger, Dignity of labour, Universal brotherhood and religious tolerance, True friendship,
+Happiness vs suffering, love for truth. Aware of self-destructive habits, Association and
+Cooperation, Doing best for saving nature
+Character and Competence - Holy books vs Blind faith, Self-management and Good health,
+Science of reincarnation, Equality, Nonviolence, Humility, Role of Women, All religions and
+same message, Mind your Mind, Self-control, Honesty, Studying effectively.
+REFERENCES
+1. Chakroborty, S.K, “Values and Ethics for organizations Theory and practice”, Oxford
+University Press, New Delhi.
+COURSE OUTCOMES
+At end of the course work,Students will be able to
+1. Acquire Knowledge of self-development.
+2. Learn the importance of Human values
+3. Develop the overall personality
+
+ANNAMALAI UNIVERSITY
+
+99
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSACXX
+
+HAND BOOK - 2023
+
+PEDAGOGY STUDIES
+
+L
+2
+
+T
+0
+
+P
+0
+
+C
+0
+
+COURSE OBJECTIVES
+• Review existing evidence on the review topic to inform programmedesign and policy
+makingundertakenbythe DFID, other agencies and researchers.
+• Identify critical evidence gaps to guidethe development.
+INTRODUCTION AND METHODOLOGY
+Aims and rationale, Policy background, Conceptual framework and terminology, Theories of
+learning, Curriculum, Teacher education - Conceptual framework, Research questions Overview of methodology and Searching
+THEMATIC OVERVIEW
+Pedagogical practices are being used by teachers, in formal and informal classrooms in
+developing countries. Curriculum, Teacher education
+EVIDENCE ON THE EFFECTIVENESS OF PEDAGOGICAL PRACTICES
+Methodology for the in-depth stage: quality assessment of included studies. How can teacher
+education (curriculum and practicum) and the school curriculum and guidance materials best
+support effective pedagogy? Theory of change - Strength and nature of the body of evidence for
+effective pedagogical practices - Pedagogic theory and pedagogical approaches -teachers
+attitudes and beliefs and Pedagogic strategies
+Professional development: alignment with classroom practices and follow-up support, Peer
+support, Support from the head teacher and the community - Curriculum and assessment,
+Barriers to learning: limited resources and large class sizes.
+RESEARCH GAPS AND FUTURE DIRECTIONS
+Research design, Contexts, Pedagogy Teacher education, Curriculum and assessment,
+Dissemination, and research impact
+REFERENCES
+1. Ackers J, Hardman F (2001) Classroom interaction in Kenyan primary schools, Compare,
+31 (2):245-261.
+2. Agrawal M (2004) Curricular reform in schools: The importance of evaluation, Journal of
+Curriculum Studies, 36 (3):361-379.
+3. Akyeampong K (2003) Teacher training in Ghana - does it count? Multi-site teacher
+Education research project (MUSTER) country report 1.London: DFID.
+ANNAMALAI UNIVERSITY
+
+100
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+4. Akyeampong K, Lussier K, Pryor J, Westbrook J (2013) Improving teaching and
+learning of basic maths and reading in Africa: Does teacher preparation count?
+International Journal Educational Development, 33 (3):272–282.
+5. Alexander RJ (2001) Culture and pedagogy: International comparisons in primary
+Education Oxford and Boston: Blackwell.
+6. Chavan M (2003), Read India: A mass scale, rapid, learning to read campaign.
+7. www.pratham.org/images/resource%20working%20paper%202.pdf.
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1. Understand what pedagogical practices are being used by teachers in formal and informal
+classrooms in developing countries.
+2. Understand what is the evidence on the effectiveness of these pedagogical practices, in
+what conditions, and with what population of learners
+3. Learn how can teacher education (curriculum and practicum) and the school curriculum
+and guidance materials best support effective pedagogy.
+
+ANNAMALAI UNIVERSITY
+
+101
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+23EEPSACXX
+
+HAND BOOK - 2023
+
+STRESS MANAGEMENT BY YOGA
+
+L
+2
+
+T
+0
+
+P
+0
+
+C
+0
+
+COURSE OBJECTIVES
+•
+•
+
+To achieve overall health of body and mind
+To overcome stress
+
+Definitions of Eight parts of yoga. (Ashtanga ) Yam and Niyam
+1. Do`s and Don‘t‘s in life.
+a. Ahinsa, satya, astheya, bramhacharya and aparigraha
+b. Shaucha, santosh, tapa, swadhyay, ishwarpranidhan
+2. Asan and Pranayam
+a. Various yoga poses and their benefits for mind &body
+b. Regularization of breathing techniques and its effects-Types of pranayam
+REFERENCES
+1. Yogic Asanas for Group Training-Part-I‖: Janardan Swami Yogabhyasi Mandal, Nagpur
+2. Raja yoga or conquering the Internal Nature‖ by Swami Vivekananda, Advaita Ashrama
+(Publication Department), Kolkata.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Develop healthy mind in a healthy body thus improving social health also
+2. Improve efficiency
+
+ANNAMALAI UNIVERSITY
+
+103
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+23EEPSACXX PERSONALITY DEVELOPMENT THROUGH LIFE L
+ENLIGHTENMENT SKILLS
+2
+
+T
+0
+
+P
+0
+
+C
+0
+
+COURSE OBJECTIVES
+• To learn to achieve the highest goal happily
+• To become a person with stable mind, pleasing personality and determination
+• To awaken wisdom in students
+Neetisatakam-Holistic development of personality
+• Verses- 19,20,21,22 (wisdom)
+• Verses- 29,31,32 (pride &heroism)
+• Verses- 26,28,63,65 (virtue)
+• Verses- 52,53,59 (dont‘s)
+• Verses- 71,73,75,78 (do‘s)
+Approach to day to day work and duties Shrimad Bhagwad Geeta:
+• Chapter 2-Verses 41,47,48,
+• Chapter 3-Verses 13, 21, 27, 35,
+• Chapter 6-Verses 5,13,17, 23,35,
+• Chapter 18-Verses 45, 46, 48.
+Statements of basic knowledge Shrimad Bhagwad Geeta:
+• Chapter2-Verses 56, 62,68
+• Chapter 12 -Verses 13, 14, 15, 16,17, 18
+Personality of Role model.ShrimadBhagwadGeeta:
+• Chapter2-Verses 17, Chapter 3-Verses36,37,42,
+• Chapter 4-Verses 18,38,39
+• Chapter18 -Verses37,38,63
+REFERENCES
+1. Srimad Bhagavad Gita‖ by Swami Swarupananda Advaita Ashram (Publication Department),
+Kolkata
+2. Bhartrihari‘s Three Satakam (Niti-sringar-vairagya) by P.Gopinath, Rashtriya Sanskrit
+Sansthanam, NewDelhi.
+COURSE OUTCOMES
+At the end of the curse work the students will be able to
+1. Study Shrimad - Bhagwad- Geeta that will help the student in developing his personality and
+achieve the highest goal in life
+2. Lead the nation and mankind to peace and prosperity
+3. Help in developing versatile personality
+ANNAMALAI UNIVERSITY
+
+104
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+MANDATORY COURSES
+23EEPSMCXX
+
+CONSTITUTION OF INDIA
+
+L
+2
+
+T
+0
+
+P
+0
+
+C
+0
+
+COURSE OBJECTIVES
+• Understand the premises informing the twin themes of liberty and freedom from a civil rights
+perspective.
+• Address the growth of Indian opinion regarding modern Indian intellectuals ‘constitutional role
+and entitlement to civil and economic rights as well as the emergence of nationhood in the early
+years of Indian nationalism.
+•
+
+Address the role of socialism in India after the commencement of the Bolshevik revolution
+in 1917 and its impact on the initial drafting of the Indian Constitution.
+
+HISTORY OF MAKING OF THE INDIAN CONSTITUTION
+History, Drafting Committee, (Composition & Working)
+PHILOSOPHY OF THE INDIAN CONSTITUTION
+Preamble, Salient Features
+CONTOURS OF CONSTITUTIONAL RIGHTS & DUTIES
+Fundamental Rights, Right to Equality, Right to Freedom, Right against Exploitation, Right to
+Freedom of Religion, Cultural and Educational Rights, Right to Constitutional Remedies, Directive
+Principles of State Policy, Fundamental Duties.
+ORGANS OF GOVERNANCE
+Parliament, Composition, Qualifications and Disqualifications, Powers and Functions, Executive,
+President, Governor, Council of Ministers, Judiciary, Appointment and Transfer of Judges,
+Qualifications, Powers and Functions
+LOCAL ADMINISTRATION
+District‘s Administration head: Role and Importance, Municipalities: Introduction, Mayor and role
+of Elected Representative, CEO of Municipal Corporation.
+Pachayati raj: Introduction, PRI: Zila Pachayat, Elected officials and their roles, CEO Zila Pachayat:
+Position and role. Block level: Organizational Hierarchy (Different departments), Village level:
+Role of Elected and Appointed officials, Importance of grass root democracy.
+
+ANNAMALAI UNIVERSITY
+
+105
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+HAND BOOK - 2023
+
+ELECTION COMMISSION
+Election Commission: Role and Functioning, Chief Election Commissioner and Election
+Commissioners, State Election Commission: Role and Functioning-Institute and Bodies for the
+welfare of SC/ST/OBC andwomen.
+REFERENCES
+1. The Constitution of India, 1950 (Bare Act), Government Publication.
+2. Dr. S. N. Busi, Dr. B. R. Ambedkar framing of Indian Constitution, Ist Edition, 2015.
+3. M. P. Jain, Indian Constitution Law, 7th Edn, Lexis Nexis, 2014.
+4. D.D. Basu, Introduction to the Constitution of India, Lexis Nexis, 2015.
+COURSE OUTCOMES
+At the end of the course work the students will be able to
+1. Discuss the growth of the demand for civil rights in India for the bulk of Indians before the
+arrival of Gandhi in Indianpolitics.
+2. Discuss the intellectual origins of the framework of argument that informed the
+conceptualization of social reforms leading to revolution in India.
+3. Discuss the circumstances surrounding the foundation of the Congress Socialist Party [CSP]
+under the leadership of Jawaharlal Nehru and the eventual failure of the proposal of direct.
+4. Familiarize with Elections through adult suffrage in the Indian Constitution.
+5. Discuss the passage of the Hindu Code Bill of 1956.
+
+ANNAMALAI UNIVERSITY
+
+106
+
+FEAT
+
+M.E (POWER SYSTEMS ENGINEERING)
+
+ANNAMALAI UNIVERSITY
+
+HAND BOOK - 2023
+
+107
+
+FEAT
+
+

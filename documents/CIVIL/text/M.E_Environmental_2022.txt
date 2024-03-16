@@ -1,0 +1,4560 @@
+9
+
+SEMESTER I
+Course Code
+
+Catego
+ry
+
+23CEEEPC11
+
+PC
+
+23CEEEPC12
+
+PC
+
+23CEEEPE13
+23CEEEPE14
+23CEEEMC15
+
+PE
+PE
+MC
+
+23CEEECP16
+
+CP
+
+23CEEECP17
+
+CP
+
+23CEEEAC18
+
+AC
+
+Course
+Physico-Chemical
+Treatment Systems for
+Water & Wastewater
+Air Pollution
+Monitoring and Control
+Program Elective-I
+Program Elective-II
+Research Methodology
+and IPR
+Environmental Process
+Monitoring Laboratory
+Unit Operations &
+Process Laboratory
+Audit Course-I
+
+L T P CA FE Total
+
+Credit
+s
+
+3
+
+-
+
+-
+
+25 75 100
+
+3
+
+3
+
+-
+
+-
+
+25 75 100
+
+3
+
+3
+3
+2
+
+-
+
+-
+
+25 75 100
+25 75 100
+25 75 100
+
+3
+3
+2
+
+-
+
+-
+
+4
+
+40 60 100
+
+2
+
+-
+
+-
+
+4
+
+40 60 100
+
+2
+
+2
+
+-
+
+-
+
+-
+
+0
+
+-
+
+-
+
+Total
+SEMESTER II
+
+18
+Credit
+s
+
+Course Code
+
+Category
+
+Course
+
+L
+
+T
+
+P CA FE Total
+
+23CEEEPC21
+
+PC
+
+3
+
+-
+
+-
+
+25 75 100
+
+3
+
+23CEEEPC22
+
+PC
+
+3
+
+-
+
+-
+
+25 75 100
+
+3
+
+23CEEEPE23
+23CEEEPE24
+23CEEEOE25
+
+PE
+PE
+OE
+
+3
+3
+3
+
+-
+
+-
+
+25 75 100
+25 75 100
+25 75 100
+
+3
+3
+3
+
+23CEEECP26
+
+CP
+
+-
+
+-
+
+4
+
+40 60 100
+
+2
+
+23CEEETS27
+
+TS
+
+Tr S
+2 2
+
+40 60 100
+
+2
+
+23CEEEAC28
+
+AC
+
+Biological Treatment
+Systems for Water &
+Wastewater
+Solid Waste
+Management
+Program Elective-III
+Program Elective-IV
+Open Elective (Inter
+Faculty)
+Environmental
+Research Laboratory
+Industrial Training
+and Seminar/Mini
+Project
+Audit Course-II
+
+-
+
+-
+
+0
+
+2
+
+-
+
+Total
+
+19
+
+10
+
+SEMESTER III
+Course Code
+
+Category
+
+Course
+
+L
+
+T
+
+P CA FETotal
+
+23CEEEPE31
+23CEEEOE32
+
+PE
+OE
+
+Program Elective-V
+Open Elective (Inter
+Faculty)
+Project work & Vivavoce
+Phase-I
+Dissertation-I
+Total
+
+3
+
+-
+
+-
+
+Pr
+16
+
+S
+4
+
+23CEEEPV33
+
+PV-I
+
+Credit
+s
+
+25 75 100
+25 75 100
+
+3
+3
+
+40 60 100
+
+10
+
+3
+-
+
+16
+
+SEMESTER IV
+Course Code
+
+23CEEEPV41
+
+Course
+
+L
+
+T
+
+P CA FE Total
+
+Project work & Vivavoce
+Phase-II
+Dissertation-II
+Total
+
+Pr
+24
+
+S
+6
+
+Category
+
+PV-II
+
+40
+
+Credit
+s
+
+60 100
+
+15
+
+GRAND TOTAL CREDITS: 68
+PC
+
+Program
+Core
+PE Program
+Elective
+OE Open
+Elective
+
+Core Practical
+
+AC
+
+Audit Course
+
+Industrial Training
+and Seminar
+MC Mandatory Learning
+Course
+
+PV
+
+Project work & Viva-voce
+
+CE
+EE
+
+Branch code
+M.E Specialization Code
+
+CP
+TS
+
+PROGRAMME ELECTIVES (PE)
+Sl.
+No.
+1
+2
+3
+4
+5
+
+Course Code
+23CEEEPEXX
+23CEEEPEXX
+23CEEEPEXX
+23CEEEPEXX
+23CEEEPEXX
+
+15
+
+Course Title
+Environmental Impact Assessment
+Membrane Technology
+Emission Control and Treatment Systems
+Climate Change and Adaptation
+Air Pollution Meteorology and Modelling
+
+11
+
+6
+7
+8
+9
+
+23CEEEPEXX
+23CEEEPEXX
+23CEEEPEXX
+23CEEEPEXX
+
+Remote Sensing & GIS
+Operation and Maintenance of ETP
+Landfill Engineering & Remediation
+Noise Pollution & Control
+
+OPEN ELECTIVES (OE)
+Sl.
+No.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Course Code
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+23CEEEOEXX
+
+Course Title
+Statistics for Environmental Research
+Marine Pollution & Control
+Environmental Biotechnology
+Sustainable Development & Circular Economy
+Environmental Legislation
+Composite Materials
+Business Analytics
+Industrial Safety
+Operations Research
+Cost Management of Engineering Projects
+Waste To Energy
+Online MOOC course or other courses
+
+AUDIT COURSES (AC)
+SL.NO Course Code
+COURSE TITLE
+1
+23CEEEACXX English For Research Paper Writing
+23CEEEACXX Disaster Management
+2
+23CEEEACXX Sanskrit For Technical Knowledge
+3
+23CEEEACXX Value Education
+4
+23CEEEACXX Constitution Of India
+5
+23CEEEACXX Pedagogy Studies
+6
+23CEEEACXX Stress Management By Yoga
+7
+23CEEEACXX Personality Development Through Life Enlightenment Skills
+8
+
+12
+
+23CEEEPC11
+
+PHYSICO-CHEMICAL TREATMENT
+FOR WATER & WASTEWATER
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+Students shall become well conversant with the basis and principles of processes and
+unit operations for various Physico- chemical treatment plants for water and
+wastewater.
+ Students shall gain competency in the design of physical, chemical and the
+combination of treatment systems and also on the system components comprising, to
+enable them to make the right choice of process and the design treatment plants.
+ Students shall understand the managerial issues in the operation, maintenance, datalogging and Compliance Standards in the planning, designing and managing Physico
+Chemical units operations of water and wastewater treatment plants
+Pollutants in water and wastewater–Physical, Chemical, Biological and Radiological
+characteristics- Interpretations- Significance of Physico-chemical treatment– LimitationsChoice of Chemicals- Optimization of Chemical use- Side stream waste generation.
+Physico Chemical Treatment Processes; Physical treatment- Screening: Bar, Coarse
+and Fine Screens- Disposal of screenings– Grit Chamber: Parshall Plume& Venturi
+Plume- Critical Velocity- Flotation; Skimming, Air Flotation and Diffused Air
+Floatation-Equalization –Sedimentation; Settling Tank, Clarifiers, Clariflocculators and
+Tube Settlers – Filtration – Sand and Multimedia Filters – Gravity & Pressure Filters- Up
+flow & Down flow Filters.
+Principles of Chemical Treatment Processes; Chemical Mixing & Preparation;
+Mixers: Types and Speed of Impellers- Energy dissipation- Coagulation: Coagulants Limitations Flocculation: Ortho kinetic and Peri kinetic-–Oxidation-Precipitation–
+Disinfection: Chlorination, UV Radiation and Ozonation - Ion exchange; Resins, Types
+of Resins-Limitations - Electrolytic methods: Membranes –Limitations- Advanced
+Oxidation/Reduction- Sludge dewatering: Centrifuge and Filter Press- Sludge
+Management.
+Advanced Processes: Membrane separation; Micron Filtration, Ultra filtration, Nano
+Filtration and Reverse Osmosis- Membrane Flux- Limitations- Cleaning & FlushingOperational Conditions – PLC Controls- Management of Membrane Plants.
+O&M Schedules: Monitoring Parameters- Instrumentation- Online monitoring &
+SCADA systems- Monitoring Schedules - Data Compiling & Reporting- Monitoring
+Schedules- Reporting- Residue management–Up gradation of existing plantsCompliance to Standards of treatment.
+
+13
+
+REFERENCES
+1. Metcalf and Eddy, "Wastewater Engineering, Treatment and Reuse" ,Tata McGraw
+Hill, New Delhi, 2003.
+2. Qasim.S.R., Motley, E.M and Zhu.G. "Water works Engineering – Planning, Design
+and Operation", Prentice Hall, New Delhi, 2002.
+3. Lee, C.C. and Shun dar Lin, "Handbook of Environmental Engineering Calculations",
+McGraw Hill, New York, 1999.
+4. Spellman F.R., "Hand Book of Water and Wastewater Treatment Plant operations",
+CRC Press, New York 2009.
+COURSE OUTCOMES
+1. Students shall understand the importance of characterization and parameters of
+treatment. Students will come to know the basis and principles of Physico- Chemical
+processes and alternative chemicals used for water and wastewater treatment.
+2. Students shall know on all options of Physical treatment processes for water and
+wastewater into treatment processes and their application requirements and respective
+efficiencies.
+3. Students shall know on all options of Chemical treatment processes for water and
+wastewater into treatment processes and their application requirements and respective
+efficiencies.
+4. Students will get to know all types of membrane based treatment processes and their
+respective suitability for the treatment of water and wastewater
+5. Students have also got to know the monitoring schedules and Compliance Standards
+for the management of Physico Chemical unit operations of Water and Wastewater
+Treatment Plants.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+1
+2
+3
+2
+1
+CO2
+1
+2
+3
+3
+2
+1
+CO3
+1
+2
+3
+3
+2
+1
+CO4
+1
+2
+3
+3
+2
+1
+CO5
+1
+2
+3
+3
+2
+1
+
+14
+
+23CEEEPC12
+
+AIR POLLUTION MONITORING AND
+CONTROL
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+
+
+
+Students shall understand the Ambient Air Quality Standards with the sources of
+anthropogenic sources of air pollution.
+Students shall understand the Protocols and Procedures for ambient air sampling and
+analysis.
+Students shall understand the point and area sources of air pollution and the
+respective control methods.
+Students shall study on the choices of air cleaning equipment for particulate/ gaseous
+air pollutants.
+Students have also got to know the Compliance Standards for Planning, Designing
+and management of Emission Cleaning equipment.
+
+Classification and Properties of Air Pollutants
+Emission sources -major emissions from Global sources -importance of anthropogenic
+sources- behavior and fate of air pollutants- photochemical smog effects of air pollution
+health, vegetation and materials damage in India air pollution standards -different types
+of terrain – effects of terrain features on atmosphere – mechanical and thermal
+turbulence- Indoor air pollution.
+Meteorological Aspects of Air Pollution Dispersions
+General Atmospheric Circulation, Atmospheric Thermodynamics, Atmospheric Stability,
+Boundary Layer Development-Effect of Meteorology on Plume Dispersion, Wind
+Velocity, Wind Rose, Local Climatological Data-Air Quality Modeling: Types of
+Plumes, Flow Regimes of a Plume, Plume Rise, Ambient Air Concentration ModelingGaussian Dispersion Models, Plume Dispersion Parameters, Computer Programs,
+USEPA Recommended Models
+Air Pollution Sampling and Measurement
+Air pollution sampling and measurement- types of pollutant sampling and
+measurement- Ambient air sampling- Analysis of Gaseous air pollutants- Particulate
+pollutants- Aerosols – Black Carbon -stack sampling, analysis of air pollutants- sulphur
+dioxide- nitrogen dioxide, carbon monoxide, oxidants and ozone- hydrocarbons, particulate
+matter.
+
+15
+
+Control Methods:
+Sources- correction methods- -particulate emission control- gravitational settling
+chambers- cyclone separators- fabric filters- electrostatic precipitators- wet
+scrubbers- -control of gaseous emissions- adsorption by solids- absorption by
+liquids- combustion, condensation – control of SO2 emission – desulphurization of flue
+gases – dry methods – wet scrubbing methods. Control of sulphur dioxide
+emission- desulphurization of flue gases- dry methods- wet scrubbing methods- control of
+nitrogen oxides- modification of operating conditions- modification of design
+conditions- effluent gas treatment methods- carbon monoxide control- control of
+hydrocarbons.
+Vehicular Air Pollution:
+Genesis of Vehicular emissions- Natural Pollution- Gasification of Vehicles- Point sources
+of Air Pollution from automobiles- Fuel tank, carburetor and crank case- Exhaust
+emissions- Mechanism of Origin of air pollution from automobiles. Automobile air
+pollution – Indian Scenario- Population and pollution loads of vehicles- Automobile
+Pollution Control- Control at sources- Exhaust gas treatment devices- Alternate fuels
+comparison- Thermal Reactor- Catalytic Converter- Automobile Emission Control- Legal
+measures.
+
+Textbooks
+1. Air Pollution, H.C.V.Rao, 1990, McGraw Hill Co.
+2. Environmental Pollution Control, C.S.Rao, Wiley Eastern Ltd.,1993
+3. Air Pollution , M.N.Rao McGraw Hill 1993.
+REFERENCES
+1. Fundamentals of Air Pollution, Samuel, J.W., 1971, Addison Wesley Publishing Co.
+2. Air Pollution, Kudesia, V.P. International Student Edition McGram-Hill-Kosakusha
+Ltd.,Tokyo.
+3. Air Pollution Control and Engineering, De Nevers, Mc Graw- Hills, 1993
+
+COURSE OUTCOMES
+1. Students will understand sources and types of sources of air pollution and will come
+to classify and characterize the air pollutants.
+
+16
+
+2. Students will become conversant with AAQ Monitoring methodology. Students will
+become conversant with equipment including offsite sampling and laboratory
+analysis.
+3. Students will understand the concept and design methodologies for the removal of
+particulates through all types of Cyclones and Scrubbers.
+4. Students will understand the concept and design methodologies for the removal of
+gaseous pollutants through all types of Scrubbers
+5. Students will understand the concept and design methodologies for the control of
+automobile pollution.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+1
+2
+3
+2
+1
+CO2
+1
+2
+3
+3
+2
+1
+CO3
+1
+2
+3
+3
+2
+1
+CO4
+1
+2
+3
+3
+2
+1
+CO5
+1
+2
+3
+3
+2
+1
+
+23CEEEMC15
+
+L
+
+T
+
+P
+
+C
+
+2
+
+0
+
+0
+
+2
+
+RESEARCH METHODOLOGY AND IPR
+
+COURSE OBJECTIVES
+
+
+Students shall understood control of today’s world by Computer, Information
+Technology, but tomorrow world will be ruled by ideas, concept, and creativity.
+ Students shall understood IPR protection in research work and investment in R & D
+Research problem
+Meaning of research problem, Sources of research problem, Criteria Characteristics of a
+good research problem, Errors in selecting a research problem, Scope and objectives of
+research problem.
+Investigation
+Approaches of investigation of solutions for research problem, data collection, analysis,
+interpretation, Necessary instrumentations.
+Technical writing
+Effective literature studies approaches, analysis Plagiarism, Research ethics.
+
+17
+
+Effective technical writing, how to write report, Paper Developing a Research Proposal,
+Format of research proposal, a presentation and assessment by a review committee
+IPR
+Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of
+Patenting and Development: technological research, innovation, patenting, development.
+International Scenario: International cooperation on Intellectual Property. Procedure for
+grants of patents, Patenting under PCT.
+Patterns
+Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent
+information and databases. Geographical Indications.
+
+REFERENCES
+1. Cooper Donald R, Schindler Pamela S and Sharma JK, “Business Research
+Methods”, Tata McGraw Hill Education, 11e (2012)
+2. Catherine J. Holland, "Intellectual property: Patents, Trademarks, Copyrights, Trade
+Secrets,” Entrepreneur Press, 2007.
+3. David Hunt, Long Nguyen, Matthew Rodgers, "Patent searching: tools &
+techniques,” Wiley, 2007.
+4. The Institute of Company Secretaries of India, Statutory body under an Act of
+parliament, "Professional Programme Intellectual Property Rights, Law and
+practice,” September 2013.
+
+COURSE OUTCOMES
+At the end of this course, students will be able to
+1. Understand research problem formulation.
+2. Analyse research related information and follow research ethics
+3. Understand that today’s world is controlled by Computer, Information Technology,
+but tomorrow world will be ruled by ideas, concept, and creativity.
+4. Understanding that when IPR would take such important place in growth of
+individuals & nation, it is needless to emphasise the need of information about
+Intellectual Property Right to be promoted among students in general & engineering in
+particular.
+
+18
+
+5. Understand that IPR protection provides an incentive to inventors for further research
+work and investment in R & D, which leads to creation of new and better products,
+and in turn brings about, economic growth and social benefits.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 1
+3
+2
+3
+2
+1
+CO2
+2
+3
+1
+3
+2
+1
+CO3 1
+2
+3
+3
+2
+1
+CO4
+1
+3
+2
+3
+2
+1
+CO5
+1
+3
+2
+3
+2
+1
+
+23CEEECP16
+
+ENVIRONMENTAL PROCESS
+MONITORING LABORATORY
+
+L
+
+T
+
+P
+
+C
+
+0
+
+0
+
+4
+
+2
+
+COURSE OBJECTIVES
+To conduct laboratory studies on
+1.
+2.
+
+Water and wastewater samples.
+Monitoring Air Pollution and Noise Level.
+
+3.
+
+Microscopic examination for water and waste water.
+LIST OF EXPERIMENTS
+
+1) pH Meter
+- Determination of pH of Samples
+2) Conductivity Meter - Determination of Specific conductance of Samples
+3) Turbidity Meter
+- Determination of turbidity (NTU) of Samples
+4) Jar test apparatus - Determination of the optimum dosage of coagulant
+5) Determination of Chemical Oxygen Demand (COD) of samples
+6) Determination of Biochemical Oxygen Demand (BOD5) of samples
+7) Determination of Solids in the samples
+a) Suspended solids
+Settle able solids
+Non-Settle able solids
+b) Dissolved solids
+
+19
+
+Volatile solids
+Fixed solids
+8) Determination of Hardness of samples (EDTA method)
+9) Determination of chloride of samples (Mohr's method)
+10) Determination of Dissolved Oxygen of samples (Winkler's method)
+Air Pollution & Noise Level Monitoring
+11) Estimation of: NOx, SOx, SPM, HC, CO
+12) Noise level
+13) Environmental Microbiology
+General techniques of microbiology: Media preparation, sterilization, inoculation,
+cultivation, isolation, purification and enumeration. (plate count, membrane filtration
+method). Kinetics of bacterial growth: Bacterial growth curve, estimation of number of
+generations, generation time. Determination of microbial quality of water: standard plate
+count, standard coliform test, determination of coliform density by MPN method fecal
+coliform test, fecal streptococcal plate count, Morphological identification of various
+common soil fungi, Microscopic examination of different algae of water and wastewater
+COURSE OUTCOMES
+At the end of this course, students will be able to;
+1. Will become conversant on all primary parameters of Environmental attributes.
+2. Will aware of Standard Protocols and Procedures in conducting the experiments.
+3. Will understand the required interpretation of results for the evaluation.
+4. Will become conversant on the Standards on Quality and Permissible levels of
+parameters for all respective attributes of environment.
+5. Will become conversant in use of instruments and the respective SOPs.
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+3
+3
+2
+3
+2
+3
+2
+2
+CO2 3
+3
+2
+2
+3
+2
+3
+2
+2
+CO3 3
+3
+2
+2
+3
+2
+2
+2
+2
+CO4 3
+3
+2
+2
+3
+2
+2
+2
+3
+CO5 3
+3
+2
+2
+3
+2
+3
+2
+3
+
+20
+
+23CEEECP17
+
+UNIT OPERATIONS & PROCESS
+LABORATORY
+
+L
+
+T
+
+P
+
+C
+
+0
+
+0
+
+4
+
+2
+
+COURSE OBJECTIVES
+To conduct laboratory studies on water and wastewater treatment units.
+
+LIST OF EXERCISE
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+
+Determination of DO, MLSS and SVI in Activated Sludge Process.
+Determination of F/M in an Activated Sludge Process.
+Determination of free available chlorine – Disinfection efficiency.
+Determination of Kinetic coefficients of a Activated Sludge Process.
+Determination of Kinetics of a Anaerobic reactor.
+Evaluation of the efficiency of coagulant and flocculant in settling.
+Determination of kinetics in MBR process.
+Determination of filtration kinetics in various adsorption columns.
+
+REFERENCES
+1. Metcalf & Eddy, Inc. ‘Wastewater Engineering, Treatment, Disposal and Reuse, Third
+Edition, Tata McGraw-Hill Publishing Company Limited, New Delhi 2003.
+2. Lee, CC & Shun dar Lin, Hand book of Environmental Engineering Calculations, Mc
+Graw Hill, New York, 1999.
+3. Casey T.J. Unit treatment processes in water and wastewater engineering, John
+Wiley’s Sons, London, 1993.
+COURSE OUTCOMES
+At the end of this course, students will be able to;
+1. Will become conversant on all primary parameters of Environmental attributes.
+2. Will become conversant in use of instruments and the respective SOPs
+3. Will aware of Standard Protocols and Procedures in conducting the experiments.
+4. Will understand the required interpretation of results for the evaluation.
+5. Will become conversant on the Standards on Quality and Permissible levels of
+parameters for all respective attributes of environment.
+
+21
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+3
+3
+3
+3
+2
+3
+2
+2
+CO2 3
+3
+3
+3
+3
+2
+3
+2
+2
+CO3 3
+3
+3
+3
+3
+2
+2
+2
+2
+CO4 3
+3
+3
+3
+3
+2
+2
+2
+3
+CO5 3
+3
+3
+3
+3
+2
+3
+2
+3
+
+23CEEEPC21
+
+BIOLOGICAL TREATMENT SYSTEMS
+FOR WATER & WASTEWATER
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+
+
+
+Students shall understood the basis and principles of various Biological treatment
+processes and unit operations for water and wastewater
+Students shall become conversant in the design of treatment processes and unit
+operations.
+Students shall become competent to make ch
+oice on specific process or combination thereof.
+Students shall aware of the monitoring parameters, instrumentation and data
+compilation and reporting on operating the treatment plants.
+
+Biological treatment Processes; Principles of aerobic and anaerobic processes - Kinetics
+of biological growth – Factors affecting growth – Attached and Suspended growth Determination of Kinetic coefficients– Biodegradability assessment -Selection of
+process- Reactors- : batch & continuous .
+Aerobic Treatment; Principle of Aerobic Oxidation- Process control ParametersMicroorganisms- Activated Sludge process- Sequencing Batch reactors- Membrane
+Biological Reactors-Trickling Filters-BioTower-RBC-Moving Bed Reactors- Fluidized
+bed reactors-Aerated lagoons- Waste stabilization ponds. Nutrient Removal Systems –
+Natural treatment systems- Constructed wet land– Reclamation and reuse – Flow charts,
+layout, PID, hydraulic profile- Case Studies.
+Anaerobic treatment; Principle of Anaerobic Digestion- Process control ParametersMicroorganisms- Conventional & High Rate Digesters – Two Phase Digesters - UASBR-
+
+22
+
+Up flow filters - Fluidized bed Reactor- Gas Collection, Storage & Transfer- Flow chart,
+Layout and Hydraulic profile – Case Studies
+Sludge Treatment and Disposal ;Design of sludge management facilities- Sludge
+thickening- Sludge digestion- Sludge dewatering (Centrifuge and Filter Press) Layout,
+PID, Hydraulics profile – Upgrading existing plants – Ultimate residue disposal – Recent
+advances.
+Operations and Maintenance Schedules ; Planning, Organizing and controlling of plant
+operations-Monitoring parameters - Continuous Operation& Maintenance –
+Instrumentation–Data compiling & Reporting– Retrofitting- Case studies.
+REFERENCES
+1. ArceivalaS.J., and Asolekar S.R "Wastewater Treatment for Pollution Control and
+reuse "McGraw Hill, third Edition, New Delhi, 2007.
+2. Manual on “Sewerage and Sewage Treatment” CPHEEO, Ministry of Urban
+Development, Government of India, New Delhi, 1999.
+3. Metcalf & Eddy, INC, Wastewater Engineering – Treatment and Reuse, Fourth
+Edition, Tata McGraw-Hill Publishing Company Limited, New Delhi, 2003.
+4. Qasim, S. R. "Wastewater Treatment Plant, Planning, Design & Operation",
+Technomic Publications, New York, 1994.
+5. F.R. Spellman, "Hand Book of Water and Wastewater Treatment Plant operations",
+CRC Press, New York 2009.
+6. David Hendricks, “Fundamentals of Water Treatment Process", CRC Press, New
+York 2011.
+COURSE OUTCOMES
+1. Students will understand the principles of biological treatment of water and
+wastewater with different approaches and types of biological treatment.
+2. Students will appreciate and gain the ability to choose the type of aerobic biological
+treatment processes and design the treatment plant.
+3. Students will appreciate and gain the ability to choose the type of anaerobic
+biological treatment processes and design the treatment plant.
+4. Students will be able to choose the type of biological treatment processes for sludge
+disposal and management.
+5. Students will become conversant with O&M and Trouble shooting in the operation of
+Water and Wastewater treatment plants.
+
+23
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+3
+CO2
+3
+3
+3
+2
+CO3
+3
+3
+3
+3
+CO4
+3
+1
+CO5
+3
+3
+1
+
+23CEEEPC22
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+SOLID WASTE MANAGEMENT
+
+COURSE OBJECTIVES
+
+
+Students shall be taught on different methods of sampling, analysis and
+characterization of solid waste streams.
+ Students shall be imparted with knowledge and skills in the collection, storage,
+transport, treatment, disposal and recycling options for solid wastes including the
+related engineering principles, design criteria, methods and equipment.
+ Students shall be made aware on different classification and types of Solid Waste
+streams on the basis of the characteristics and proven methods of treatment.
+ Students shall be specifically taught on Plastic and eWaste management.
+ Students shall be made to understand all set of Rules, Notifications and Amendments
+to respective Solid waste Management by MoEF&CC
+Classification and Regulatory framework
+Types and Sources of solid waste Streams - Need for solid and hazardous waste
+management – Salient features of Indian legislations on Management and Handling of
+Solid Wastes; MSW, Hazardous Wastes, Bio Medical Wastes, Nuclear wastes ,Batteries
+waste, eWaste, Waste plastics , Fly ash and Demolition Waste.
+Waste characterization and source reduction
+Waste generation rates and variation – Composition- Proximate and Ultimate AnalysisCharacteristics: physical, chemical and biological – Hazardous Characteristics – TCLP
+tests – Waste sampling and characterization plan - Source reduction of wastes – Extended
+Producer Responsibility - Recycling and reuse
+Storage, Collection and Transport of wastes
+Handling and segregation of wastes at source – Storage and Collection of municipal solid
+wastes – Analysis of Collection systems - Need for transfer and transport – Transfer
+
+24
+
+stations- Optimizing waste Collection –Labelling and Handling of hazardous wastes –
+Hazardous waste Manifests and Transport
+Waste processing technologies
+Objectives of waste processing – Material separation and processing technologies –
+Concept of Alternative Fuel & Raw Materials (AFR)-Biological and Chemical
+technologies – Composting: Methods and controls – In vessel Composting - Thermal
+technologies: Pyrolysis and Incineration- Types of Incinerators – Solidification and
+Stabilization of hazardous wastes - Treatment of Biomedical wastes - Health
+considerations in the context of operation of facilities- Concept of Common facilities.
+Waste Disposal
+Landfills - Classification, Types and Methods – Site selection - Design and Operation of
+Sanitary landfills, secure landfills and Landfill bioreactors – Leachate and landfill gas
+management – landfill closure and Environmental Monitoring – Rehabilitation of open
+dumps-Remediation of contaminated sites. Elements of integrated waste management;
+stakeholders - Financing and Public Private Participation for waste managementSustaining the informal sector of waste pickers- Integrated Solid waste Management
+Facilities.
+REFERENCES
+1. George Technoboglous, Hilary Theisen and Samuel A, Vigil, “Integrated Solid
+Waste Management, Mc-Graw Hill International edition, New York, 1993.
+2. CPHEEO, “Manual on Municipal Solid waste management, Central Public Health
+and Environmental Engineering Organization Government of India, New Delhi,
+2014.
+3. William A. Worrell, P. AarneVesilind, Solid Waste Engineering, Cengage
+Learning, 2012.
+4. Michael D. LaGrega, Philip L Buckingham, Jeffrey C. E vans and
+"Environmental Resources Management, Hazardous waste Management", McGraw Hill International edition, New York,2010.
+5. John Pitchtel, Waste Management Practices, CRC Press, Taylor and Francis
+Group,2014.
+6. Frank Kreith, George Tchobanoglous ,Handbook of Solid Waste management,
+McGraw Hill, 2002.
+COURSE OUTCOMES
+Students are expected to understand the following;
+1.
+
+Students will become conversant on characteristics of different types of solid and
+hazardous wastes and the factors affecting variation and managerial issues. They will
+
+25
+
+understand the Planning and Design concepts of integrated solid waste management
+and technical solutions for its strategic management with resource recovery.
+2. Students will become conversant on Waste characterization and sampling
+3. Students will become conversant on Collection, Storage and Extended Producer
+responsibility.
+4. Students will become conversant on Waste processing ,Treatment including
+Incineration
+5. Students will become conversant on Landfill for ultimate disposal and
+comprehensive management
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+3
+3
+CO2
+3
+3
+CO3
+2
+3
+CO4
+3
+3
+CO5
+3
+3
+
+23CEEECP26
+
+ENVIRONMENTAL RESEARCH
+LABORATORY
+
+L
+
+T
+
+P
+
+C
+
+0
+
+0
+
+4
+
+2
+
+COURSE OBJECTIVES
+
+
+To conduct laboratory studies on water and wastewater treatment units.
+LIST OF EXPERIMENTS
+
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+
+Coagulation and Flocculation.
+Batch studies for sedimentation.
+Characteristics of Filter media.
+Studies on Filtration.
+Water softening.
+Adsorption studies / Kinetics.
+Silt Density Index.
+Reverse Osmosis.
+Kinetics of suspended growth process (activated sludge process).
+Kinetics of attached growth process (Rotating Biological Contactors).
+Sludge volume Index.
+Anaerobic Reactor systems / Kinetics.
+
+26
+
+13)
+14)
+
+Advanced Oxidation Processes.
+Chlorine Demand Estimation.
+REFERENCES
+1. Metcalf & Eddy, Inc. ‘Wastewater Engineering, Treatment, Disposal and Reuse,
+Third Edition, Tata McGraw-Hill Publishing Company Limited, New Delhi 2003.
+2. Lee, CC & Shun dar Lin, Hand book of Environmental Engineering Calculations, Mc
+Graw Hill, New York, 1999.
+3. Casey T.J. Unit treatment processes in water and wastewater engineering, John
+Wileys Sons, London, 1993.
+COURSE OUTCOMES
+1. Will become conversant on all primary parameters of Environmental attributes.
+2. Will become conversant in use of instruments and the respective SOPs
+3. Will aware of Standard Protocols and Procedures in conducting the experiments.
+4. Will understand the required interpretation of results for the evaluation.
+5. Will become conversant on the Standards on Quality and Permissible levels of
+parameters for all respective attributes of environment.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+1
+2
+1
+2
+3
+CO2 3
+1
+2
+1
+2
+3
+CO3 3
+1
+2
+2
+3
+1
+CO4 3
+1
+2
+3
+2
+1
+CO5 3
+1
+2
+1
+2
+2
+
+L
+23CEEETS27
+
+INDUSTRIAL TRAINING AND
+SEMINAR/
+MINI PROJECT
+
+SEMINAR
+
+COURSE OBJECTIVES
+
+-
+
+T
+
+P
+
+Tr
+
+S
+
+2
+
+2
+
+C
+
+2
+
+27
+
+
+
+
+
+To take on hand training on specific work environment with specific nature of
+works.
+To work on a technical topic related to Environmental Engineering and acquire
+the ability of written and oral presentation
+To acquire the ability of writing technical papers for Conferences and Journals
+
+The students will work for two periods per week guided by student counselor and a
+seminar will be conducted for not less than fifteen minutes and not more than thirty
+minutes on any technical topic of student’s choice related to relevant subject. The
+students will defend their presentation and interact with audience. A brief copy of their
+presentation also should be submitted. Evaluation will be done by the student counselor
+based on the technical presentation and the report and also on the interaction shown
+during the seminar.
+COURSE OUTCOMES
+1. Discover potential research areas in the field of Environmental Engineering
+2. Compare and contrast the several existing solution for research challenge
+3. Demonstrate an ability to work in teams and manage the conduct of the research study
+4. Formulate and purpose a plan for creating a solution for the research plan identified
+5. To report and present the findings of the study conducted in the preferred domain
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+2
+1
+3
+3
+2
+1
+CO2
+2
+1
+3
+3
+2
+1
+CO3
+2
+1
+3
+3
+2
+1
+CO4
+2
+1
+3
+3
+2
+1
+CO5
+2
+1
+3
+3
+2
+1
+INDUSTRIAL TRAINING
+COURSE OBJECTIVES
+
+
+
+To train the students in the field of Environmental Engineering and enrich
+practical knowledge to carry out the relevant works in the field.
+To train and develop skills in solving problems during execution of certain works
+related to the field of specialization.
+
+28
+
+The students individually undergo a training program in reputed concerns in the
+field of Environmental Engineering during the summer vacation (at the end of second
+semester for full – time / fourth semester for part – time) for a minimum stipulated period
+of four weeks. At the end of the training, the student has to submit a detailed report on the
+training obtained, within ten days from the commencement of the third semester for Fulltime / fifth semester for part-time. The students will be evaluated by a team of staff
+members nominated by head of the department through a viva-voce examination.
+COURSE OUTCOMES
+1. The students can face the challenges in the practice with confidence.
+2. The student will be benefited by the training with managing the situation arises
+during the execution of works.
+
+L
+23CEEEPV33
+
+PROJECT WORK & VIVA-VOCE
+PHASE-I / DISSERTATION-I
+
+-
+
+T
+
+P
+
+Pr
+
+S
+
+16
+
+4
+
+C
+10
+
+COURSE OBJECTIVES
+
+
+
+To train the students in the field of Environmental Engineering and enrich
+practical knowledge to carry out the relevant works in the field.
+To train and develop skills in solving problems during execution of certain works
+related to the field of specialization.
+
+The students individually undergo a training program in reputed concerns in the
+field of Environmental Engineering during the summer vacation (at the end of second
+semester for full – time / fourth semester for part – time) for a minimum stipulated period
+of four weeks. At the end of the training, the student has to submit a detailed report on the
+training obtained, within ten days from the commencement of the third semester for Fulltime / fifth semester for part-time. The students will be evaluated by a team of staff
+members nominated by head of the department through a viva-voce examination.
+
+29
+
+COURSE OUTCOMES
+1. Ability to effectively gather and interpret information from literature survey. And
+use this knowledge to identify, formulate, analyse and solve complex problems
+and to evaluate and interpret various solutions
+2. Gain the ability to communicate effectively with written, oral, and visual means in
+a technical setting.
+3. Ability to use modern design and analysis tools.
+4. Students will be able to carry out calculations involved in design, consider and
+evaluate altemate assumptions, approaches, and procedures. Ability to fabricate
+system components related to engineering problems giving consideration to
+environment and society
+5. Ability to serve as effective team member to plan and complete the project/task
+within a specified budget and time.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+2
+1
+3
+3
+2
+1
+CO2
+2
+1
+3
+3
+2
+1
+CO3
+1
+2
+3
+3
+2
+1
+CO4
+2
+1
+3
+3
+2
+1
+CO5
+2
+1
+3
+3
+2
+1
+
+L
+23CEEEPV41
+
+PROJECT WORK & VIVA-VOCE
+PHASE-II / DISSERTATION-II
+
+-
+
+T
+
+P
+
+Pr
+
+S
+
+24
+
+6
+
+C
+15
+
+COURSE OBJECTIVES
+ To develop the ability to solve a specific problem right from its identification and
+literature review till the successful solution of the same.
+ To train the students in preparing project reports and to face reviews and viva
+voce examination.
+
+30
+
+COURSE OUTCOMES
+1.
+
+2.
+3.
+4.
+
+5.
+
+Ability to effectively gather and interpret information from literature survey. And use
+this knowledge to identify, formulate, analyse and solve complex problems and to
+evaluate and interpret various solutions
+Gain the ability to communicate effectively with written, oral, and visual means in a
+technical setting.
+Ability to use modern design and analysis tools.
+Students will be able to carry out calculations involved in design, consider and
+evaluate altemate assumptions, approaches, and procedures. Ability to fabricate
+system components related to engineering problems giving consideration to
+environment and society
+Ability to serve as effective team member to plan and complete the project/task
+within a specified budget and time.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+2
+1
+3
+3
+2
+1
+CO2
+2
+1
+3
+3
+2
+1
+CO3
+1
+2
+3
+3
+2
+1
+CO4
+2
+1
+3
+3
+2
+1
+CO5
+2
+1
+3
+3
+2
+1
+
+31
+
+PROFESSIONAL ELECTIVES
+
+23CEPEPEXX
+
+ENVIRONMENTAL IMPACT
+ASSESSMENT
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+
+
+To expose the students to the need, methodology, documentation and usefulness
+of environmental impact assessment and to develop the skill to prepare
+environmental management plan.
+To provide knowledge related to the broad field of environmental risk assessment,
+and prepare Disaster Management Plan.
+To understand the role of Environmental Impact Assessment as an important
+policy tool for sustainable development.
+
+Historical development of Environmental Impact Assessment - EIA in Project CycleLegal and Regulatory aspects in India – EIA Notification,2006 and its subsequent
+amendments. Types and limitations of EIA –EIA process- screening – scoping - setting –
+analysis – mitigation- Cross sectoral issues and terms of reference in EIA – Public
+Participation in EIA-EIA Consultant Accreditation.
+EIA Landscape: Matrices – Networks – Checklists –Cost benefit analysis – Analysis of
+alternatives – Software packages for EIA – Expert systems in EIA. Prediction tools for
+EIA – Mathematical Modelling for impact prediction – Assessment of impacts – air –
+water – soil – noise – biological –– Socio Economics- Cumulative Impact Assessment.
+Social impact assessment - Relationship between social impacts and change in
+community and institutional arrangements- Individual and family level impacts.
+Communities in transition Documentation – Planning – Organization of informationPublic Consultation - Role of NGO.
+Environmental Management Plan; Preparation- Implementation and review of EMP–
+Mitigation and Rehabilitation Plans – Policy and guidelines for planning and monitoring
+programmes – Post project audit – Ethical and Quality aspects of Environmental Impact
+Assessment- Case Studies
+Environmental risk assessment framework- Hazard identification -Dose Response
+Evaluation – Exposure Assessment – Exposure Factors, Tools for Environmental Risk
+
+32
+
+Assessment– HAZOP and FEMA methods – Event tree and fault tree analysis –
+Multimedia and multi pathway exposure Modelling of contaminant- Risk
+Characterization Risk communication - Emergency Preparedness Plans –Design of risk
+management programs.
+REFERENCES
+1. Canter, L.W., Environmental Impact Assessment, Mc Graw Hill, New York. 1996
+2. Lawrence, D.P., Environmental Impact Assessment – Practical solutions to recurrent
+problems, Wiley-Interscience, New Jersey. 2003
+3. World Bank –Source book on EIA
+4. Cutter, S.L., Environmental Risk and Hazards, Prentice-Hall of India Pvt. Ltd., New
+Delhi, 1999.
+5. Kolluru Rao, Bartell Steven, Pitblado R and Stricoff “Risk Assessment and
+Management Handbook”, McGraw Hill Inc., New York, 1996.
+6. Raghavan K. V. and Khan A., Methodologies in Hazard Identification and Risk
+Assessment, Manual by CLRI, 1990.
+7. Sam Mannan, Lees' Loss Prevention in the Process Industries, Hazard Identification,
+Assessment and Control, 4th Edition, Butterworth Heineman, 2012.
+COURSE OUTCOMES
+1. After the completion of course, the student will be able to appreciate the importance
+of Environmental Impact Assessment and its role in developmental activities,
+including Indian Legislation pertaining to EIA.
+2. The student will also know the basics and stages of EIA landscape, limitations and
+framework in different formats.
+3. The student will appreciate the SIA and role of NGOs.
+4. The student will also know the basics and stages of EMP landscape, limitations and
+framework in different formats.
+5. The student will become conversant on Risk Analysis and Disaster Management
+Plans.
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+2
+2
+1
+2
+1
+1
+CO2 3
+2
+2
+1
+1
+2
+2
+3
+CO3 2
+1
+3
+2
+1
+1
+2
+CO4 2
+2
+2
+2
+1
+2
+1
+CO5 2
+2
+3
+
+33
+
+23CEEEPEXX
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+MEMBRANE TECHNOLOGY
+
+COURSE OBJECTIVES
+
+
+
+
+Necessity and advantages of Membrane technology in place of conventional systems
+for water and wastewater treatment
+Membrane Types, Proprietary data and Expert systems for planning and designing of
+Membrane based treatment plants
+Operation and maintenance of membrane based plants.
+
+Solids removal suspended solids and dissolved solids – organic, inorganic and inert
+solids – membrane processes – principle and theory – materials of membranes –
+proprietary products – selectivity modules – concentration polarization – membrane
+fouling and cleaning – applications.
+Mechanism of membrane transport – RO/UF transport – solution diffusion model – dual
+sorption model – free volume theory – pore flow model – resistance model - boundary
+layer film model – Membrane modules; flat cartridge, spiral wound, tubular hollow fibre
+– Design equations – Expert systems of proprietary products.
+Membrane preparation techniques – isotropic membranes anisotropic membranes metal
+membranes, ceramic membranes liquid membranes and biomembranes; MF UF, NF and
+RO – specific applications and limitations – Applications.
+Engineering aspects of membranes; Hybrid membrane techniques; membrane reactor,
+membrane distillation membrane extraction and osmotic distillation – Design equations –
+Applications.
+O& M of MF/UF/NF and RO Plants- Membrane Chemical Cleaning – Chemicals
+including SMBS- Instrumentations -SCADA systems for operation –Data Maintenance.
+REFERENCES
+1.
+
+Christie J. Geankoplis,, Transport Process and Unit Operations, 3rdEdn., Prentice
+Hall of India Pvt. Ltd.
+
+2.
+
+Sun, Tak, Hwang and Karl Kammermayer, Membranes in separations, John Wiley
+and Sons, New York.
+
+34
+
+3.
+
+Richard W.Naker, Membrane Technology and Applications. John Wiley and Sons,
+2004
+
+4.
+
+Separation Process Principles by J.D. Seader and Ernest J.Henley, John John Wiley
+and Sons, 200.
+Coulson J.M and Richardson, Chemical Engineering – Particle Technology and
+Separation Process Vol.2 th edition. Asian Books Pvt. Ltd. New Delhi 1998.
+
+5.
+6.
+7.
+8.
+
+Warren L.McCabe, Julian Smith and Peter Harriot, Unit Operations of Chemical
+Engineering, th edition. 2004.
+Judson King .C Separation Process, McGraw Hill Inc,, 1980.
+Hoffman E.J, Membrane separations Technology Single stage, multi stage and
+Differential permeation, Gulf Professional Publishing.
+
+COURSE OUTCOMES
+1. Students should have understood the principles of different membrane treatment
+processes and different types of membranes.
+2. Students should have known different types of membranes and their respective
+limitations and application suitability.
+3. Students should have become knowledgeable to design a suitable membrane
+separation process.
+4. Students should have understood the Composite membrane process for a specific
+application and design packages for proprietary membrane systems.
+5. Students should have understood the O&M protocols including Cleaning chemicals,
+instrumentation and data maintenances.
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+2
+1
+3
+2
+1
+CO2 3
+2
+1
+2
+3
+1
+CO3 3
+2
+1
+1
+2
+3
+CO4 3
+2
+1
+2
+3
+1
+CO5 3
+2
+1
+1
+3
+
+35
+
+23CEEEPEXX
+
+EMISSION CONTROL AND
+TREATMENT SYSTEMS
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+
+Students shall enable to characterize the Emission Stacks as Point Sources from
+industrial processes with respect to nature of industries
+Students shall know to design the systems to control and remove particulates and
+gaseous pollutants from the emission of the stack
+Students shall aware of the permissible limits of various pollutants from the emission
+of stacks with reference to source industries.
+
+Industry specific Emission Stacks - Source Characterization- Sampling and Analysis –
+Sampling Ports- Treatment Trains for Particulate and gaseous pollutants removal. Source
+Reduction through Process modification, alternate fuels, complete combustion or
+incineration- Control parameters of combustion.
+Particulate Removal; Theory and Types of Cyclones; Single & Multiclones- Bag Filters:
+Types and Materials for Bags - Design of Cyclones & Bag Filters -Electro Static
+Precipitators: Design, Advantages and Limitations- Energy factors- Pressure dropLimitations – Merits &Demerits- Efficiency- Ash Disposal
+Gaseous Pollutants- Theory and Types of Wet Scrubbers- Venturi Scrubber- Packed Bed
+Tower- Dry Scrubbers- Theory and Design Principles- Operation & Maintenance
+Manual- Refractory lining- Spent liquor Treatment.
+Proprietary systems Equipment choices- Emission lines- Pressure drop: Monitoring &
+Control- Leak detection - Compliance of the choice to Mandates of Consent or
+Clearances- Proprietary systems
+Statutory Requirements for Continuous monitoring- Primary Parameters of industry
+specific- Data logging systems – Data transfer and compliance.
+REFERENCES
+1. Lawrence K. Wang, Norman C. Parelra, Yung Tse Hung, "Air Pollution Control
+Engineering", Tokyo, 2004.
+
+36
+
+2. Noel de Nevers, "Air Pollution Control Engg"., Mc Graw Hill, New York, 1995.
+3. David H.F. Liu, Bela G. Liptak „Air Pollution‟, Lweis Publishers, 2000.
+4. Anjaneyulu. Y, “Air Pollution & Control Technologies” Allied Publishers (P)
+Ltd.,India, 2002.
+5. Arthur C.Stern, „Air Pollution (Vol.I – Vol.VIII)‟, Academic Press, 2006.
+6. Wayne T.Davis, „Air Pollution Engineering Manual‟, John Wiley & Sons, Inc., 2000.
+7. Daniel Vallero“ Fundamentals of Air Pollution”, Fourth Edition,2008.
+
+COURSE OUTCOMES
+1. Students should have known the source characterization and interpretation for its
+control
+2. Students should have become conversant on all choices of equipment for emission
+control and management for various particulates pollutants.
+3. Students should have become conversant on all choices of equipment for emission
+control and management for various gaseous pollutants
+4. Students will become conversant with proprietary equipment specifically with
+respect to type of pollutants that can be controlled and removed.
+5. Students should have come to know all Permissible of various pollutants with
+respect to industries from the Stacks.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+1
+2
+3
+2
+1
+CO2 2
+1
+3
+3
+2
+1
+CO3 1
+2
+3
+3
+2
+1
+CO4 1
+2
+3
+3
+2
+1
+CO5 1
+2
+3
+3
+2
+1
+
+37
+
+23CEEEPEXX
+
+CLIMATE CHANGE AND
+ADAPTATION
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+ Understand the earth’s climate change and
+to know the Institutional
+arrangements and existing legal frame work for monitoring this phenomenon and
+the role climate models.
+ To understand the likely impact of climate change on various sectors and its
+irreversibility.
+ To study and to evolve suitable adaptation and mitigation measures o f climat e
+change on various sectors and to know the importance of climate planning.
+Introduction to climate change science
+Basics of climate change - climate - weather and the greenhouse gas effect - Earth’s
+climate machine - hydrological cycle - ocean circulation - natural cycles - human
+contribution to climate change - observed changes in the climate since the industrial
+revolution - projected future trends and impacts of climate change on surface temperature
+- precipitation - ocean pH - sea-level and Arctic sea-ice extent - its effects - sources of
+scientific climate information - relevant programs - role / functions of various
+institutions.
+International / National policy framework to address Climate Change
+History of international climate change negotiations and United Nations Framework
+Convention on Climate Change (UNFCCC), key provisions of the UNFCCC, its
+organizational structure, different party under the Convention, Kyoto Protocol - its
+associated bodies, key commitments by Parties. Key issues relevant for a future climate
+change regime, Montreal Protocol – Climate conventions, IPCC – role, structure and
+functions – assessment reports – Evidences of Change in Climate and Environment–
+on a Global Scale /India– policy frame work and initiatives by India., climate change
+predictions – Climate Change models.
+Likely impact and Adaptation to Climate Change
+Impact of Climate Change on various sectors– Agriculture, Forestry and Eco-system–
+Water resources– Human Health– Industry, Society–Scenarios –Projected Impacts for
+different regions, Introduction to climate change adaptation, ways to measure
+
+38
+
+vulnerability, examples of adaptation, solutions, planned response, framework for
+assessing climate vulnerability, adaptation measures for various vulnerable sectors.
+Climate change Mitigation
+Strategies to bring down emissions to safe levels, emission levels and mitigation targets,
+mitigation through development planning, key international mechanisms to assist
+countries in planning and implementing mitigation actions, Carbon sequestration–
+Carbon Capture and Storage, carbon foot prints, Carbon Trading, Alternative fuels,
+CDM, MDG and SDG’s.
+Introduction to Planning for Climate Change
+Planning processes for climate change - climate change planning – at national level –
+sectoral -sub-national institutions in climate change planning - five-step methodology for
+preparing a low-emission climate-resilient development strategy - international initiatives
+to support climate change planning.
+REFERENCES
+1. Alcore‘ Inconvenient Truth”–video form
+2. DashSushilKumar,“Climate Change– An Indian Perspective”, Cambridge
+University PressIndiaPvt.Ltd,2007
+3. IPCC Fifth Assessment Report (AR5)–www.ipcc.ch
+4. JanC.vanDam,Impactsof“ClimateChangeandClimateVariabilityonHydrological
+Regimes”,CambridgeUniversityPress,2003
+5. Cambridge University (2013). Climate Change: Action, Trends and Implications
+for Business.
+6. IISD, UNITAR & UNEP (2009). IEA Training Material: Vulnerability and
+Climate Change Impact Assessment for Adaptation.
+7. IPCC (2013). Climate Change 2013. The Physical Science Basis - Summary for
+Policymakers.
+8. OECD (2009): Guidance on Integrating Climate Change Adaptation into
+Development Co-operation.
+9. UNEP (2009). Climate Change Science Compendium
+10. UNEP (2009). Climate in Peril, a Popular Guide to the Latest IPCC Report.
+11. UNEP & UNDP (2011). Mainstreaming Climate Change Adaptation into
+Development Planning: A Guide for Practitioners.
+12. UNFCCC (2008). Compendium on Methods and Tools to Evaluate Impacts of,
+and Vulnerability and Adaptation to, Climate Change.
+13. UNFCCC (2006). UNFCCC Handbook.
+14. UNFCCC & UNEP (2002). Climate Change Information Kit.
+15. World Meteorological Organization (2012). Greenhouse Gas Bulletins.
+
+39
+
+COURSE OUTCOMES
+At the end of the course students will be able to
+1. Understand the science behind the earth’s climate change and its system
+classification.
+2. Know the role and objectives of global conventions.
+3. Acquire substantial knowledge on global and national level Institutional
+arrangements existing for monitoring the climate change.
+4. Show the likely impact of climate change on various sectors and its
+irreversibility.
+5. Understand the need for evolving strategies for adaptation mitigation measures o f
+climat e change on various sectors, Know the role and use of climate planning
+and cleaner technology.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+2
+1
+3
+2
+1
+CO2 3
+2
+1
+3
+2
+1
+CO3 3
+2
+1
+3
+2
+1
+CO4 3
+2
+1
+3
+2
+1
+CO5 3
+2
+1
+3
+2
+1
+
+23CEEEPEXX
+
+AIR POLLUTION METEOROLOGY
+AND MODELING
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+
+
+To enlighten the students in the various aspects of Air pollution and associated
+Meteorology particularly for dispersion.
+ To have the exposure of fundamentals Planetary Boundary Layer Characteristics.
+ To understand the different approaches of pollutant transport theories.
+ To learn the popular Gaussian Plume Model used widely for regulatory purposes.
+ To provide numerical dispersion modelling for the advancement towards research and
+development.
+Air pollution micrometeorology–primary and secondary measurement – projectionSources of meteorological data- Planetary Boundary Layer (PBL) – Introduction and
+
+40
+
+definition–Earth and atmosphere Exchange process-Thermodynamic variables and their
+vertical distribution in the PBL- Atmospheric stability –lapse rate- stability classes.
+Conservation laws-Atmospheric dynamics – Large scale in viscid and small scale viscous
+flows- Application. Scales of Atmospheric motion –Macro, synoptic, Meso and Micro
+scale system and dispersion - Characteristic plume shapes – Inversion breakup and
+shoreline fumigation.
+Gradient Transport Theories – Eulerian approach to describe diffusion-Mass conservation
+and diffusion equations- Molecular diffusion-Turbulent diffusion constant K (Fickian
+Diffusion) theory- Variable K-theory-Limitations and experimental verification of
+gradient transport theories –Application of K-theories to atmospheric dispersion
+Statistical Theories of Diffusion-Lagrangian approach to describing diffusion-Statistical
+theory of absolute diffusion-Plume diffusion from continuous sources- Statistical theory
+of relative diffusion-Puff diffusion from Instantaneous Release – Fluctuating Plume
+Models- Experimental Verification of Statistical Theories-Application to Atmospheric
+Dispersion and Limitation.
+Gaussian Plume Model- assumptions and approximation-Diffusion experiments- Pasquill
+Stability classes-Empirical dispersion parameterization schemes – Pasquill-GiffordBrookhaven National Laboratory-Tennessee Valley Authority-Briggs Urban DispersionMaximum Ground Level Concentration-Model evaluation – Tracer release experiments.
+Plume rise theory-Briggs- Plume Concentrations for differing sampling time averagingGravitational Settling of Particles-Dry Deposition
+Numerical Dispersion Models-Introduction-Short range gradient transport ModelsTurbulent Kinetic Energy (TKE) models- Higher order closure models. Urban and
+regional Air Quality Models-Introduction_ Components of an air quality model – Urban
+Diffusion and air quality models-Regional air quality models- Applications.
+REFERENCES
+1. S.Pal Arya., “Air Pollution Meteorology And Dispersion”, Oxford University
+Press, 1999.
+2. Arthur C. Stern., “Air Pollution” (Third Edition) Volume I- Air Pollutants, Their
+Transformation and Transport, Academic Press (An imprint of Elsevier), 2006.
+3. Roland.B. Stull., “An Introduction to Boundary Layer Meteorology”, Kluwer
+Academic Press, London, 1993.
+4. J.R.Garratt, “ The Atmospheric Boundary Layer”, Cambridge University Press,
+1999.
+
+41
+
+5. D.Bruce Turner, “Workbook of Atmospheric Dispersion Estimates”, Lewis
+Publishers, London, 1994.
+6. Lyons, T.J., and Scott, W.D., “Principles of Air Pollution Meteorology”, CBS Publishers
+and Distributors (P) Ltd., New Delhi, 1992.
+7. James R. Holton, “An Introduction to Dynamic Meteorology”, Academic Press
+Inc., London, 1989.
+COURSE OUTCOMES
+At the end of the course students will be able to;
+1. The concepts of micrometeorology and fundamentals and atmospheric attributes.
+2. Model the transport, diffusion and dispersion of pollutants.
+3. Gaussian or numerical methods with better air pollution meteorological
+background.
+4. Numerical Modelling and interpretation for predicted GLC of pollutants.
+5. Investigate the present existing regulatory models and Urban air quality
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+2
+3
+2
+1
+CO2 1
+2
+3
+3
+2
+1
+CO3 1
+2
+3
+3
+2
+1
+CO4 1
+2
+3
+3
+2
+1
+CO5 1
+2
+3
+3
+2
+1
+
+23CEEEPEXX
+
+REMOTE SENSING AND GIS
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+ To learn the principles and applications of spatial information technologies namely
+remote sensing, GPS and GIS in the context of Environmental Engineering.
+ To realize the importance of remote sensing and GIS in solving the spatial problems in
+Environmental Engineering.
+Concepts of Remote Sensing – Principles of remote sensing - Energy sources and
+radiation principles, Energy interactions with atmosphere, Energy interactions with earth
+surface features - Spectral reflectance of some earth features- Data acquisition and
+
+42
+
+interpretation –Aerial photography – Visible, Infra Red and Microwave sensing-Thermal
+and Multispectral remote sensing.
+Classification of sensing system - Active and Passive- Remote sensing platforms-Sun
+synchronous and Geosynchronous - Image interpretation - Visual Image Interpretation Digital Image Processing – Image rectification, enhancement classification-Supervised
+and Unsupervised - satellite data Products-Concepts of GPS.
+GIS- Definition- basic components of GIS-standard GIS packages-Maps-Mapping
+process- projections, coordinate systems-Spatial data –spatial data model-spatial
+relationship-topology-spatial data structure: Raster, Vector – attribute data- databasedatabase management systems-database models: Hierarchical, network, relational, object
+oriented models-data input, editing-integrated GIS database.
+Thematic mapping - measurement in GIS: length, perimeter and areas - Query analysis Reclassification-Buffering-Neighborhood functions-Integrating data: map overlay,
+overlay functions, vector overlay and raster overlay – Interpolation-Network analysisData output types- Output devices-Error- Types of errors -Digital Elevation Modeling
+(DEM).
+Application of remote sensing - Management and monitoring of Environment,
+conservation of resources, coastal zone management – Limitations – urban storm water
+studies – Solid waste management – optimal routing – wetland studies – non point source
+pollution -water Quality, monitoring and management.
+
+REFERENCES
+1. Lillesand, T.M. and Kiefer, R.W., “Remote Sensing and Image Interpretation”, John
+Wiley and Sons, New York, 2004.
+2. Burrough, P.A. and McDonnell, R.A., “Principles of Geographic Information
+Systems”, Oxford University Press, New York, 2001.
+3. Lintz, J. and Simonet, “Remote Sensing of Environment”, Addison Wesley
+Publishing Company, New Jersey, 1998.
+
+COURSE OUTCOMES
+At the end of the course students will be able to;
+1. Understand the concepts and application of Remote sensing, GIS and GPS.
+2. Apply the various methods of Visual Interpretation and Digital image interpretation.
+
+43
+
+3. Understand data compilation and various methods of Mapping process
+4. Understand various thematic map, Map overlay and DEM.
+5. Apply the RA/GIS techniques for resources management.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 1
+2
+3
+3
+2
+1
+CO2 1
+2
+3
+3
+2
+1
+CO3 1
+2
+3
+3
+2
+1
+CO4 1
+2
+3
+3
+2
+1
+CO5 1
+2
+3
+3
+2
+1
+
+23CEEEPEXX
+
+OPERATION AND MAINTENANC OF
+EFFLUENT TREATMENT PLANTS
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+To educate the student on the various Operation & Maintenance aspects of Water
+treatment systems, sewer systems, sewage treatment plants and Effluent
+Treatment Plants.
+Elements of operation and maintenance: Process and equipment- Preventive and
+Corrective maintenance scheduling- - Operation and Maintenance Plan - Proper and
+adequate tools, Spare units and parts - Training Requirements.
+Laboratory control- Records and Reports- Housekeeping - Corrosion prevention and
+control –Sampling procedure-Analytical techniques- Measurement of Flows, Pressures
+and Levels -Safety in O&M Operations - Management Information System - Measures
+for Conservation of Energy- management of residues from plant maintenance.
+Operation and maintenance of Physico-Chemical Treatments: Operation and maintenance
+in screen chamber, Grit Chamber and clarifiers- - Operation issues, trouble shooting
+guidelines and record keeping requirements for clarifier, Equalization basins,
+Neutralization unit - Chemical storage and mixing equipment - Chemical metering
+equipment - Flash mixer –Filters, thickeners and centrifuges- Filter Press - Start-up and
+maintenance inspection - Motors and Pumps - Hazards in Chemical Handling – Jar Test Chlorination Equipment - Membrane process systems- SDI and LSI determinationProcess Chemistry and Chemical dosage calculations- Case Studies.
+
+44
+
+Operation and Maintenance of Biological Treatment: Construction, Operation and
+Maintenance aspects of activated sludge process, trickling filters, anaerobic digester,
+SBR, UASBR, MBRs- Startup and Shutdown Procedures-DO, MLSS and SVI
+monitoring.
+Organizational Set up : Protocol & Procedure- Personal Safety Systems- Trouble
+shooting guidelines – Interaction with other Treatment Processes - Planning, Organizing
+and Controlling of plant operations – capacity building, case studies of Retrofitting- Case
+studies.
+REFERENCES
+1. CPHEEO, Manual on operation and maintenance of water supply systems, Central
+Public Health and Environmental Engineering Organisation, Ministry of Urban
+Development, Government of India, 2005.
+2. Ministry of Drinking Water and Sanitation, operation and maintenance manual for
+rural water supplies, Government of India, 2013.
+3. Metcalf & Eddy, Inc., G. Tchobanoglous, H. D. Stensel, R. Tsuchihashi, and F.
+L.Burton. “Wastewater Engineering: Treatment and Resource Recovery”5th edition).
+McGraw Hill Company, 2014.
+4. Ananth S Kodavasal, The STP Guide-Design, Operation and maintenance, Karnataka
+State Pollution Control Board, Bangalore, 2011.
+5. FrikSchutte, Handbook for the operation of water Treatment Works, The Water
+Research Commission, The Water Institute of Southern Africa, TT265/06, 2006.
+COURSE OUTCOMES
+At the end of the course students will be able to
+1. Acquire knowledge on the protocols and parameters of operation and maintenance
+Effluent treatment plants.
+2. Gain knowledge on parameters of analysis and laboratory techniques
+3. Parameters specific to unit operations and the respective limiting values for Physico
+Chemical treatment plants.
+4. Parameters specific to unit operations and the respective limiting values for biological
+treatment plants.
+5. Augmentation methodologies and trouble shooting.
+
+45
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+2
+1
+1
+2
+3
+CO2 3
+2
+1
+2
+3
+1
+CO3 3
+2
+1
+3
+2
+1
+CO4 2
+1
+3
+1
+2
+3
+CO5 2
+1
+3
+2
+3
+1
+
+23CEEEPEXX
+
+LANDFILL ENGINEERING &
+REMEDIATION
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+To understand the important characteristics and design principles of the waste
+containment and remediation industry.
+To know the relevant regulations and engineering design requirements of landfills
+and contaminated site remediation.
+
+Landfill: Waste management Hierarchy- Need for landfills –Environmental Protection by
+Landfills- Landfill Classification – Sanitary and Secure Landfills - Components and
+Configuration - Legal framework for land filling – Landfill Site investigation- Regional
+Landfills- Environmental control using site design –- Landfill Design Tasks
+Landfill Liners and cover systems: Landfill barrier system components – Design of
+Compacted clay liners: Factors affecting hydraulic conductivity , Water content-density
+criteria, Thickness, Desiccation - Geo synthetic Clay Liners and Geo membranes; types,
+manufacturing, handling, seaming and testing - Asphalt Barriers and Capillary barrier Composite Liner system design- liner construction and quality control- Leakage through
+Liners- vapor transmission and chemical compatibility - Installation of Geo membranes Liner Leakage Mechanism – Diffusion - Controls on advection through liners - Single
+phase flow-advection-diffusion- Landfill cover systems- Design of Cover Systems –
+Daily Cover – Intermediate Cover – Final Cover - Flow through Landfill Covers- Design
+and Analysis of Slope Stability- Anchor Trenches- Access ramps - Erosion control
+Leachate and Landfill Gas Management: Waste decomposition in landfills - Factors
+affecting leachate and landfill gas generation – Factors affecting Leachate Quantity in
+active and post closure conditions- Hydrologic Evaluation of Landfill Performance
+(HELP) model – Leachate Drainage Layer – Geotextile and Geonet design – Leachate
+Collection and Removal systems-Temporal trends in leachate composition – Design of
+
+46
+
+Landfill gas collection and removal systems- Gas condensate issues & knockouts Leachate treatment methods (biological and physico-chemical)- Leachate re-circulation
+& bioreactor landfills- monitoring and control of leachate and Landfill gas- Landfill
+Settlement
+Landfill Operation and Closure: Landfill Construction and Operational Controls – Fill
+Sequencing Plans – Cell Construction- Dozer and Compactor operations-Selection of
+Landfill Equipment- Landfill Administration-Record Keeping - Topographic mapping.
+Environmental Controls – Odour, Vector and Litter Control – Landfill Safety - Fire
+Control – Ground and Surface water Monitoring – Methane Gas monitoring - Audits of
+landfill environmental performance and management – Post Closure care and use of
+landfills – Landfill Economics- landfill construction and operational cost estimation –
+Rehabilitation of Open dumps- Landfill Mining.
+REFERENCES
+1. Robert M. Koerner and Donald H Gray "Geotechnical aspects of Landfill Design and
+Construction", Prentice Hall, New Jersy, 2002.
+2. Neal Bolton P.E “The Handbook of Landfill Operations”, Blue Ridge Services Inc.,
+Atascadro, CA, 1995.
+3. David E Daniel and Robert M. Koerner “Waste Containment Facilities –Guidance for
+construction Quality Assurance and Construction Quality Control of Liner and Cover
+Systems”, American Society of Civil Engineers, ASCE Press, 2007.
+4. Donald L Wise and Debra J Trantolo, “Remediation of Hazardous Waste
+Contaminated Soils”, Marcel Dekker Inc., New York, 1994.
+5. George Tchobanoglous, Hilary Theisen and Samuel A, Vigil, “Integrated Solid Waste
+Management”, Mc-Graw Hill International edition, New York, 1993.
+6. Hari D Sharma and Krishna R. Reddy, “Geo-environmental Engineering: Site
+Remediation, Waste Containment, and Emerging Waste Management Technologies”,
+John Wiely, New Jersy, 2004.
+7. Oweis, I.S. and Khera, R.P, “Geotechnology of Waste Management”, 2nd Edition,
+PWS Publishing Co., Boston, MA, 1998.
+COURSE OUTCOMES
+At the end of the course students will be able to
+1. Have an overview of the Indian and International landfill regulations and guidelines
+for the design, construction, operation and management of landfills.
+2. Use of Membranes and liner systems
+3. Understand the methods for management and treatment of landfill gas and leachate.
+4. Operation and Closure Post closure monitoring requirements.
+5. Post closure monitoring requirements and monitoring schedules.
+
+47
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+3
+CO2
+2
+3
+CO3
+3
+3
+CO4 3
+3
+CO5 3
+3
+
+C
+23CEEEPEXX
+
+NOISE POLLUTION AND CONTROL
+
+L
+3
+
+T
+0
+
+P
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+
+To give students an overview of noise pollution including methods of prevention,
+control, measures and management of pollution.
+To apply the theory of noise pollution to practical engineering situations.
+To use engineering instrumentation and principles to undertake a laboratory
+investigation in noise pollution.
+
+Sources of Noise: Industry, Road traffic, Rail traffic, Air traffic, Construction and
+Public Works, Indoor Sources, Public Gatherings
+Effects of Noise: Human hearing mechanism, Interference with Communication,
+Hearing Loss, Disturbance of sleep, Stress, annoyance, Effects of performance,
+Miscellaneous effects, Exposure limits
+Basic Concepts of Sound: Propagation of Sound Wave Sound Intensity and Sound
+Power, Sound level and decibel, equivalent and continuous sound pressure level
+Sound Measurement: Sound level meters, Types, Components, Community
+Measurement, Procedure
+
+Noise
+
+Noise Pollution Control: Community and Industrial Noise, Control Measures, Control at
+Source, Control of sound transmission, Reduction in Length of exposure, Education
+of Public and Workers, Ear Protection, Noise Pollution Control Legislation
+
+48
+
+REFERENCES
+1. “Environmental Health Criteria – 12”, Noise, World Health Organisation
+Publication, Geneva, 1980.
+2. Patrick, C.F., “Environmental Noise Pollution ", John Wiley and Sons, 1977.
+3. Burs, W., LippinCott., " Noise and Man", Philadelphia, 1969.
+
+COURSE OUTCOMES
+At the end of the course students will be able to
+1. Overview noise pollution sources
+2. Impacts of Noise Pollution
+3. Noise Propagation
+4. Methods of Noise Measurement.
+5. Methods for prevention and control.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+3
+CO2 3
+3
+CO3 3
+3
+CO4
+3
+3
+CO5
+3
+3
+
+49
+
+OPEN ELECTIVES
+
+23CEEEOEXX
+
+STATISTICS FOR ENVIRONMENTAL
+RESEARCH
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+
+
+
+
+
+
+To provide commonly used hypothesis tests, present univariate statistical methods,
+provide methods for gaining a preliminary understanding of a multivariate data base.
+To summarize some important concepts related to the assessment of model reliability.
+To discuss the commonly used bivariate and multivariate regression methods,
+spurious modelling, and contrasting methods for calibrating multivariate models,
+stepwise regression, PCRA.
+To introduce the basics of times series and stochastic modelling.
+
+Introduction: Statistical decision making – Definition of a model – The Modelling
+process Hypothesis Tests on Means: The Analysis of Variance problem – Objective –
+One-sample and Two – sample t Tests – One-Way ANOVA – Multiple comparisons in
+the ANOVA test – Randomized Block Design – Two-Way ANOVA; Hypothesis Tests of
+Variances: One-sample 2 test – Two sample F test – Barlett’s test for group variances.
+Frequency Analysis: Probability paper – plotting the data – Fitting Normal, Log-Normal
+and Log-Pearson Type-III distributions – Low-flow frequency analysis – Binomial risk
+Nonparametric Methods: One-sample run test for randomness – Pearson test and
+Spearman tests for serial dependence – Durbin-Watson test for autocorrelation – Kendall
+test for trend – Mann-Whitney test for distribution inequality – Chi-square test for
+goodness of fit – Kolmogorov – Smirnov One-sample and Two-sample tests. Assessing
+Model Reliability: Model rationality – Bias in estimation – SEE – Correlation coefficient
+– Accuracy of model coefficients – Analysis of the residuals
+Correlation and Regression Analysis: Bivariate correlation – correlation in multivariate
+systems; Bivariate linear regression – statistical optimization – principle of least squares
+– reliability of the regression equation – reliability of point estimates of regression
+coefficients – confidence interval of the regression equation – correlation versus
+regression
+Multiple Regression Analysis: Matrix solution of the standardized model - criteria for
+evaluating a multiple regression model – Analysis of residuals Spurious Correlation and
+Regression: Transformation of a bivariate regression equation – Transformation
+involving ratios of variables – the ratio correlation problem – ratio correlation cases;
+
+50
+
+Stepwise Regression: Objective – model structure – Total and partial F tests Principal
+components Regression Analysis – PCRA method; Polynomial regression analysis:
+Transformation and calibration – Analysis of variance of polynomial models – PCRA of
+polynomial equations
+Numerical Optimization: Nonlinear model structures – objective function – response
+surfaces – Phase I search – Step sizes – Constraints – Goodness of fit - Calibration of
+power models – criteria for measuring optimality. Time Series and Stochastic Modeling:
+Components of a Time Series – Moving-Average filtering – Autocorrelation analysis –
+Cross-correlation analysis – Identification of random component – Auto regression and
+Cross-regression models
+REFERENCES
+1. Gupta, S.C. and Kapoor, V. K., “Fundamentals of Mathematical Statistics”, Eleventh
+Edition (Reprint), Sultan Chand & Sons, 2014
+2. Richard H McCuen, “Statistical Methods for Engineers”, Prentice-Hall, Englewood
+Cliffs, N.J., 1985
+3. Richard H McCuen, “Microcomputer Applications in Statistical Hydrology”,
+Prentice-Hall, Englewood Cliffs, N.J., 1993
+4. Vic Barnett, “Environmental Statistics: Methods and Applications”, John Wiley &
+Sons, Inc., 2003
+5. Gupta, S.C. and Kapoor, V. K., “Fundamentals of Applied Statistics”, Fourth Edition
+(Reprint), Sultan Chand & Sons, 2014
+6. Richard H McCuen and Willard M Snyder, “Hydrologic Modelling: Statistical
+Methods and Applications”, Prentice-Hall, Englewood Cliffs, N.J., 1986
+7. Paul Mac Berthouex and Linfield C. Brown, “Statistics for Environmental
+Engineers”, Second Edition, Lewis Publishers, Washington D.C. , 2002
+COURSE OUTCOMES
+At the end of the course students will be able to
+1. Recognize that statistical methods are decision-making tools and will view them as a
+part of a process.
+2. Demonstrate different examples to illustrate each statistical method, recognizing that
+there are a great many possible applications of statistical methods.
+3. Explore the use of statistical software and develop microcomputer applications for
+solving real-time problems in Water Resources Engineering and Environmental
+Engineering.
+4. Realize that the course contains the statistical methods necessary to solve a wide
+array of real-world problems in Water Resources Engineering and Environmental
+Engineering.
+5. Conversant on statistical tools for analysing environmental data and apply for
+research and development projects.
+
+51
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 1
+2
+3
+1
+2
+3
+CO2 1
+2
+3
+2
+3
+1
+CO3 1
+2
+3
+3
+2
+1
+CO4 1
+2
+3
+2
+3
+1
+CO5 1
+2
+3
+1
+2
+3
+
+23CEEEOEXX MARINE POLLUTION AND CONTROL
+
+L
+3
+
+T
+0
+
+P
+0
+
+C
+3
+
+COURSE OBJECTIVES
+
+
+
+
+To educate about the Coastal and Marine Environment.
+To expose the concepts of Marine disposals and ocean dynamics.
+To find sources of marine pollution and methods for monitoring and control.
+
+Marine and Coastal Environment: Seas and oceans, Continental area, Coastal zone,
+Properties of seawater, Principles of Marine Geology, coastal features–Beaches,
+Estuaries, Lagoons–The oceans and climate
+Ocean Hydrodynamics: Wave Theory, Waves in shallow waters–Refraction, Diffraction
+and Shoaling, Approximations for deep and shallow water conditions– Tidal
+Classification- General circulation of ocean waters- Ocean currents-Coastal sediment
+transport- Onshore offshore sediment transport - Beach formation and coastal processes Tsunamis, storm surge, El Niño effect.
+Marine Pollution sources and effects: Sources of Marine Pollution–Point and non-point
+sources, Pollution caused by Oil Exploration, Dredging, Offshore Structures, Agriculture
+Impacts of pollution on water quality and coastal eco systems –Marine discharges and
+effluent standards.
+Marine Pollution Monitoring: Basic measurements-Sounding boat, lead lines, echo
+sounders – current meters – tide gauge- use of GPS – Measurement of coastal water
+characteristics – sea bed sampling – Modeling of Pollutant transport and dispersion-Oil
+Spill Models – Ocean Monitoring satellites – Applications of Remote Sensing and GIS in
+monitoring marine pollution
+
+52
+
+Coastal Management: Pollution Control strategies – Selection of optimal Outfall locations
+- National and International Treaties, Coastal Zone Regulation–Total Maximum Daily
+Load applications – Protocol sin Marine Pollution– ICZM and Sustainable Development
+REFERENCES
+1. R.B. Clark, C. Fridand MAtttrill, "Marine Pollution”, Oxford Science Publications,
+th
+
+2.
+3.
+4.
+5.
+
+5 Edition,2005.
+TobiasN. Hofer, “Marine Pollution:NewResearch”, Nova Publishers,2008
+Dr.P.C.Sinha , “Marine pollution”, Anmol Publications Pvt.Ltd, 1998.
+Laws,E.A., "Aquaticpollution", JohnWileyandSons, Inc., NewYork, 2000.
+Michael J.Kennish, “Practical HandbookofEstuarineandMarine
+Pollution”,Volume10ofCRC Marine Science,CRC Press, 1996.
+
+COURSE OUTCOMES
+At the end of the course students will be able to;
+1. Know about marine environment and earn the physical concept
+the oceanic
+currents and natural processes of various activities happening over the marine
+environment.
+2. Acquire knowledge on the marine pollution and the effect of the same on the ecology.
+3. Understand remote sensing and various other techniques for measuring and
+monitoring oceanic environment parameters.
+4. Learn the significance of control of marine pollution and sustainable
+development.
+5. Understand the importance of ICZMP and the need of its
+implementation.
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+1
+2
+3
+2
+1
+CO2 3
+1
+2
+3
+2
+1
+CO3 3
+1
+2
+3
+2
+1
+CO4 3
+1
+2
+3
+2
+1
+CO5 3
+1
+2
+3
+2
+1
+
+53
+
+23CEEEOEXX ENVIRONMENTAL BIOTECHNOLOGY
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURESE OBJECTIVES
+
+
+T o study t h e living organisms of microscopic size, which in clued bacteria,
+fungi, algae, protozoa and the infectious agents and their form, structure,
+reproduction, physiology, metabolism and classification.
+
+
+
+T o study their distribution in nature, their relationship to each other and to
+other organisms, their effects on human beings and on other animals and plants,
+their abilities to make physical and chemical changes in our environment, and
+their reactions to physical and chemical agents.
+
+Cellular structure of microorganism, classification and study of microorganisms, nutrition
+of microorganisms and metabolism, enzymes, photosynthesis, protein, fat and
+carbohydrate metabolism, respiration sterilization theory, growth kinetics and enzyme
+kinetics, modelling aspects of microbial growth and metabolism
+Ecology and ecosystem, spoilage and product manufacture by spontaneous mixed
+cultures, microbial participation in the natural cycles of matter
+General features of the organic and inorganic pollutants; Bacteriology of water, sewage,
+air, soil and milk - Algae in water supply and its control, microbiology of waste water
+treatment - Bio-methanation processes
+Agricultural applications for sludge and wastewaters – process design schemes for
+treatment of wastewater – dumping of refuge and sludge – exhaust gas purification Some
+case studies of treatment of effluents from distillery, refinery, fertilizer, tannery textile,
+pulp and paper and metal processing industries
+
+REFERENCES
+1. Atlas, R.A. and Bartha, R. “Microbial Ecology- Fundamentals and
+Application”, Benjamin Cummings, New York, 2000.
+2. Grant,Wd.AndLong,PL., “Environmental Microbiology”, Blackie Glasgow, London,
+1981.
+3. Grerard J. Tortora, Berdell R.Funke, ChristineandL. Case, “ Microbiology: An
+Introduction”, Benjamin Cummings, U.S.A.2004.
+4. Pelczar Jr.MJ, Chan EC SandKrieg, NR., “Microbiology”, Mc Graw HillInc.,
+NewYork, 1993.
+
+54
+
+5. Prescott, L.M., Harley, J.P. and Klein, D.A., “Microbiology”, Mc Graw Hill, New
+York,2006.
+6. H.J. Rehm and G.Reed., “A Comprehensive treatise in Biotechnology” Vol. No.8.,
+Verlag Chenie, Wein Heim, 1983.
+7. M.J.Pelczar, R.D. Reid and F.C.S. Chan, “Microbiology”, Tata Mcgraw Hill
+Publishing Co., 1977.
+COURSE OUTCOMES
+At the end of the course students will be able to
+1. Understand the characteristics and role of microbes in sustenance of life systems..
+2. Isolate and identify different microbes present in various sources.
+3. Acquire knowledge on soil, aquatic and air microbiology.
+4. Become acquainted with role of microorganisms in the waste treatment
+5. Become conversant in applying the microorganisms in the treatment processes and
+plants.
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+3
+3
+CO2
+2
+3
+CO3 2
+3
+CO4
+3
+3
+CO5
+3
+3
+
+23CEEEOEXX
+
+SUSTAINABLE DEVELOPMENT AND
+CIRCULAR ECONOMY
+
+L
+
+T
+
+P
+
+3
+
+0
+
+0
+
+C
+3
+
+COURSE OBJECTIVES
+Students shall be taught to appreciate the need for managing the natural resources to
+ensure the sustainability of our developmental works with the following specific studies;
+
+
+Identify and critically discuss the connection between linear/circular economies
+and environmental sustainability generally and between circular economies and
+SDG 12 specifically
+
+55
+
+
+
+
+
+Identify and critically discuss the histories, concepts, business models, goals and
+scopes for circular economies
+Couple insights in circular economic thinking based on business models and guest
+lectures given by practitioners with theoretical readings
+Identify and discuss ideas for transitions to circular economies
+Identify and discuss advantages and limitations of circular economies
+
+Introduction
+Linear economy- General principles of sustainability and the SDGs- Principles of
+Circular Economies – Life Cycle Analysis- Biomimicry, the sharing economy, cradle-tocradle, and the roots/genealogies - conceptual frameworks of circular economies-.
+Business Models for Circular Economy
+Create value by reusing/recycling - Industrial designs provide smarter solutions- Offering
+products as “service” rather than selling products - Transferring ownership to consumers
+- Business model for Circular Economy.
+Measurements and Metrics
+Carbon foot print of any given product or service- Review Life Cycle Assessments Review the case for proximity and appropriate scale in the design of production-tradeconsumption networks- Case studies include biofuels from the production of palm oil and
+the manufacture of mobile phones.
+Businesses adopting circular economy models
+Businesses adopting circular economy models for specific sectors - food & agriculture,
+mining & minerals ,transport & cycling, fashion & textiles , consumer electricals &
+electronics and industrial manufacturing (furniture)
+Circular economies and Development
+Current Global scenario of adoption of circular economies in development economies Transitions to Circular Economies - Economic anthropology on exchange, circulation and
+flows of materials in specific societies- circular economies in space and time.
+TEXT BOOKS
+Angelis, Roberta De (2018) Business Models in the Circular Economy: Concepts,
+Examples and Theory (Palgrave)
+Weetman, Catherine (2016) A Circular Economy Handbook for Business and Supply
+Chains (Kogan Page)
+REFERENCES
+1. United Nations Sustainable Development Goals (2015)
+2. The Age of Sustainable Development, Sach,2015
+
+56
+
+COURSE OUTCOMES
+At the end of the course students will be able to
+1. Understand the conceptual framework of circular economy
+2. Understand the business models for circular economy
+3. Understand the importance of carbon foot print and life cycle assessment
+4. Acquire knowledge on Business adoption circular economy models of adaptation
+5. Understand circular economy and development over Global scenario
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+1
+3
+2
+3
+2
+1
+CO2
+1
+3
+2
+3
+2
+1
+CO3
+1
+3
+2
+3
+2
+1
+CO4
+1
+3
+2
+3
+2
+1
+CO5
+1
+3
+2
+3
+2
+1
+
+23CEEEOEXX
+
+ENVIRONMENTAL LEGISLATION
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+To understand the importance of Environmental Policy Frameworks of National and
+International Conventions.
+To understand and appreciate the Legislation in this Country for Prevention ands
+Control of Industrial Pollution and Environmental Protection.
+
+Environmental Polices and Legislations – Regulations to Encourage Pollution Prevention
+and Cleaner Production – Regulatory versus Market-Based Approaches.
+Ministry of Environment, Forests& Climate Changer- Environmental Protection ActRules for Water and Air Pollution Control and Management- Notifications for
+Environmental Impact Assessment- Notifications for Coastal Zone Management and
+amendments thereof- Specific Rules for Solid Waste Management – Noise Control.
+Special Notifications on Reserved Forests and Biospheres – Marine Biodiversity –
+Endangered Species- Green Belt Development – Forest Cover.
+
+57
+
+Central Pollution Control Board- Pollution Control Boards and Committees- State
+Environmental Impact Assessment Authorities- State Coastal Zone Management
+Authorities- EAC and SEAC – District Environmental Committees- Public Hearing
+Issues- Environmental NGOs.
+International Framework Conventions on Climate Change- IPCC- Life Cycle Assessment
+and Environmental Management Systems: Elements of LCA – Life Cycle Costing – Eco
+Labeling – International Environmental Standards – ISO 14001 – Environmental audit,
+Green building & green energy concepts and management.
+
+REFERENCES
+1. Modak, P., “Waste Minimization: A guide to cleaner production and Enhanced
+profitability”, Centre for Environmental Education, Ahmedabad, 1996.
+2. Modak, P., C. Visvanathan and MandarParasnis “Cleaner production Audit,
+Environmental systems Reviews”, Asian Institute of Technology, Bangkok, 2005.
+3. Paul L Bishop, “Pollution Prevention: Fundamentals and Practice”, McGraw Hill
+International, 2000.
+4. World Bank Group, “‘Pollution Prevention and Abatement Handbook – Towards
+Cleaner Production”, World Bank and UNEP, Washington D.C., 2005
+COURSE OUTCOMES
+At the end of the course students will be able to;
+1. Appreciation on International and National Acts and Rules for Environmental
+Protection.
+2. Understand and become conversant key legislation on Environmental Protection in
+India.
+3. Gain knowledge on Various Notifications and Guidelines on Forests, Biosphere and
+Green Belt Development.
+4. Understand and become conversant on nodal governmental agencies on
+Environmental Protection in India.
+5. Understand and become conversant on International Conventions and legal
+Frameworks for Environmental Protection.
+
+58
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 2
+1
+3
+1
+2
+3
+CO2 2
+1
+3
+2
+3
+1
+CO3 2
+1
+3
+3
+2
+1
+CO4 2
+1
+3
+2
+3
+1
+CO5 2
+1
+3
+1
+2
+3
+
+23CEEEOEXX
+
+COMPOSITE MATERIALS
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURESE OBJECTIVES
+
+
+
+To understand the importance of Composite Materials as a subject that revolutionized
+modern day technologies.
+To understand the significance of material science in the development of new
+materials and devices for all branches of Engineering.
+
+Introduction: Definition – Classification and characteristics of Composite materials.
+Advantages and application of composites. Functional requirements of reinforcement and
+matrix. Effect of reinforcement (size, shape, distribution, volume fraction) on overall
+composite performance.
+Reinforcements: Preparation-layup, curing, properties and applications of glass fibers,
+carbon fibers, Kevlar fibers and Boron fibers. Properties and applications of whiskers,
+particle reinforcements. Mechanical Behavior of composites: Rule of mixtures, Inverse
+rule of mixtures.
+Isostrain and Isostress conditions.Manufacturing of Metal Matrix Composites: Casting –
+Solid State diffusion technique, Cladding – Hot isostatic pressing. Properties and
+applications. Manufacturing of Ceramic Matrix
+Composites: Liquid Metal Infiltration – Liquid phase sintering. Manufacturing of Carbon
+– Carbon composites: Knitting, Braiding, Weaving. Properties and applications.
+Manufacturing of Polymer Matrix Composites: Preparation of Molding compounds and
+prepregs – hand layup method – Autoclave method – Filament winding method –
+Compression molding – Reaction injection molding. Properties and applications.
+
+59
+
+Strength: Laminar Failure Criteria-strength ratio, maximum stress criteria, maximum
+strain criteria, interacting failure criteria, hydrothermal failure. Laminate first play
+failure-insight strength; Laminate strength-ply discount truncated maximum strain
+criterion; strength design using caplet plots; stress concentrations.
+
+TEXT BOOKS
+1. Material Science and Technology – Vol 13 – Composites by R.W.Cahn – VCH,
+West
+Germany .
+2. Materials Science and Engineering, An introduction. WD Callister, Jr., Adapted by
+R.Balasubramaniam, John Wiley & Sons, NY, Indian edition, 2007.
+
+REFERENCES
+1. Hand Book of Composite Materials-ed-Lubin.
+2. Composite Materials – K.K.Chawla.
+3. Composite Materials Science and Applications – Deborah D.L. Chung.
+4. Composite Materials Design and Applications – Danial Gay, Suong V. Hoa, and
+Stephen W. Tasi.
+
+COURSE OUTCOMES
+At the end of the course students will be able to
+1. Understand the Composite materials and their specific characteristics.
+2. Become conversant with engineering properties of the composite materials
+3. Understand the basis of manufacturing processes and techniques for composite
+materials.
+4. Understand the basis of advanced manufacturing processes and techniques for
+composite materials.
+5. Become conversant with analysis techniques to assess the strength of the composite
+materials.
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+1
+3
+CO2 3
+3
+1
+3
+1
+CO3 3
+2
+3
+2
+1
+1
+3
+1
+2
+CO4 3
+3
+3
+2
+2
+2
+1
+1
+3
+3
+2
+CO5 3
+3
+2
+3
+3
+2
+1
+2
+1
+3
+3
+3
+
+60
+
+23CEEEOEXX
+
+BUSINESS ANALYTICS
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURESE OBJECTIVES
+
+
+
+
+
+
+
+
+
+Understand the role of business analytics within an organization.
+Analyze data using statistical and data mining techniques and understand
+relationships between the underlying business processes of an organization.
+To gain an understanding of how managers use business analytics to formulate
+and solve Business problems and to support managerial decision making.
+To become familiar with processes needed to develop, report, and analyze
+business data.
+Use decision-making tools/Operations research techniques.
+Mange business process using analytical and management tools.
+Analyze and solve problems from different industries such as manufacturing,
+service, retail,
+Software, banking and finance, sports, pharmaceutical, aerospace etc.
+
+Business analytics: Overview of Business analytics, Scope of Business analytics,
+Business Analytics Process, Relationship of Business Analytics Process and organization,
+competitive advantages of Business Analytics. Statistical Tools: Statistical Notation,
+Descriptive Statistical methods, Review of probability distribution and data modelling,
+sampling and estimation methods overview.
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data, simple
+Linear Regression. Important Resources, Business Analytics Personnel, Data and models
+for Business analytics, problem solving, Visualizing and Exploring Data, Business
+Analytics Technology.
+Organization Structures of Business analytics, Team management, Management Issues,
+Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring
+contribution of Business analytics, Managing Changes. Descriptive Analytics, predictive
+analytics, predicative Modelling, Predictive analytics analysis, Data Mining, Data Mining
+Methodologies, Prescriptive analytics and its step in the business analytics Process,
+Prescriptive Modelling, nonlinear Optimization.
+
+61
+
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical Forecasting
+Models, Forecasting Models for Stationary Time Series, Forecasting Models for Time
+Series with a Linear Trend, Forecasting Time Series with Seasonality, Regression
+Forecasting with Casual Variables, Selecting Appropriate Forecasting Models. Monte
+Carlo Simulation and Risk Analysis: Monte Carle Simulation Using Analytic Solver
+Platform, New-Product Development Model, Newsvendor Model, Overbooking Model,
+Cash Budget Model.
+Decision Analysis: Formulating Decision Problems, Decision Strategies with the without
+Outcome Probabilities, Decision Trees, The Value of Information, Utility and Decision
+Making. Recent Trends in Embedded and collaborative business intelligence, Visual data
+recovery, Data Storytelling and Data journalism.
+REFERENCES
+1. Business analytics Principles, Concepts, and Applications by Marc J. Schniederjans,
+Dara G.Schniederjans, Christopher M. Starkey, Pearson FT Press.
+2. Business Analytics by James Evans, persons Education.
+COURSE OUTCOMES
+1. Students will demonstrate knowledge of data analytics.
+2. Students will demonstrate the ability of think critically in making decisions based on
+data and deep analytics.
+3. Students will demonstrate the ability to use technical skills in predicative and
+prescriptive
+modeling to support business decision-making.
+4. Students will demonstrate the ability to translate data into clear, actionable insights.
+5. Students will become conversant on required business analytical skills
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+1
+2
+3
+1
+2
+3
+CO2
+1
+2
+3
+2
+3
+1
+CO3
+1
+2
+3
+3
+2
+1
+CO4
+1
+2
+3
+1
+2
+3
+CO5
+1
+2
+3
+3
+2
+1
+
+62
+
+23CEEEOEXX
+
+INDUSTRIAL SAFETY
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURESE OBJECTIVES
+
+
+
+
+Students to know the Standards and Guidelines for Workplace safety for all inmates
+and also people outside the premises.
+Personal Safety Systems to safe guard the workers from Occupational health hazards
+System specific Protocols and Procedures for overall industrial safety
+
+Industrial safety: Accident, causes, types, results and control, mechanical and electrical
+hazards, types, causes and preventive steps/procedure, describe salient points of factories
+act 1948 for health and safety, wash rooms, drinking water layouts, light, cleanliness,
+fire, guarding, pressure vessels, etc, Safety color codes. Fire prevention and firefighting,
+equipment and methods.
+Fundamentals of maintenance engineering: Definition and aim of maintenance
+engineering, Primary and secondary functions and responsibility of maintenance
+department, Types of maintenance, Types and applications of tools used for maintenance,
+Maintenance cost & its relation with replacement economy, Service life of equipment.
+Wear and Corrosion and their prevention: Wear- types, causes, effects, wear reduction
+methods, lubricants-types and applications, Lubrication methods, general sketch, working
+and applications, i. Screw down grease cup, ii. Pressure grease gun, iii. Splash
+lubrication, iv. Gravity lubrication, v. Wick feed lubrication vi. Side feed lubrication, vii.
+Ring lubrication, Definition, principle and factors affecting the corrosion. Types of
+corrosion, corrosion prevention methods.
+Fault tracing: Fault tracing-concept and importance, decision tree concept, need and
+applications, sequence of fault finding activities, show as decision tree, draw decision
+tree for problems in machine tools, hydraulic, pneumatic ,automotive, thermal and
+electrical equipment’s like, I. Any one machine tool, ii. Pump iii. Air compressor , iv.
+Internal combustion engine, v. Boiler, vi. Electrical motors, Types of faults in machine
+tools and their general causes.
+Periodic and preventive maintenance: Periodic inspection-concept and need, degreasing,
+cleaning and repairing schemes, overhauling of mechanical components, overhauling of
+electrical motor, common troubles and remedies of electric motor, repair complexities
+and its use, definition, need, steps and advantages of preventive maintenance.
+Steps/procedure for periodic and preventive maintenance of: I. Machine tools, ii. Pumps,
+
+63
+
+iii. Air compressors, iv. Diesel generating (DG) sets, Program and schedule of preventive
+maintenance of mechanical and electrical equipment, advantages of preventive
+maintenance. Repair cycle concept and importance
+REFERENCES
+1. Maintenance Engineering Handbook, Higgins & Morrow, Da Information Services.
+2. Maintenance Engineering, H. P. Garg, S. Chand and Company.
+3. Pump-hydraulic Compressors, Audels, Mcgrew Hill Publication.
+4. Foundation Engineering Handbook, Winterkorn, Hans, Chapman & Hall London.
+COURSE OUTCOMES
+1. Students will demonstrate knowledge Safety measures and personal safety systems
+2. Students will know the National and International Practices for Industrial Safety.
+3. Students will become conversant with Codes and specific of Safety Systems
+4. Students will come to know the analytic techniques of failures and vulnerability
+5. Students will become conversant on maintenance methods for safe working
+environment.
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+1
+2
+3
+2
+2
+3
+CO2 3
+2
+1
+3
+3
+2
+3
+2
+CO3 2
+2
+1
+1
+2
+CO4 2
+2
+2
+1
+2
+1
+2
+2
+CO5 2
+1
+2
+2
+2
+2
+1
+1
+2
+1
+2
+2
+
+23CEEEOE32
+
+OPERATIONS RESEARCH
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+
+Students to understand and gained the skill to apply all optimization techniques
+and Models
+Students to understand on working with CPM and PERT
+Students to know the methodologies of Scheduling and Sequencing.
+
+Optimization
+Techniques,
+Model
+Formulation,
+models,
+General
+L.R Formulation, Simplex Techniques, Sensitivity Analysis, Inventory Control Models
+Formulation of a LPP - Graphical solution revised simplex method - duality theory - dual
+simplex method - sensitivity analysis - parametric programming
+
+64
+
+Nonlinear programming problem - Kuhn-Tucker conditions min cost flow problem - max
+flow problem - CPM/PERT
+Scheduling and sequencing - single server and multiple server models - deterministic
+inventory models - Probabilistic inventory control models - Geometric Programming.
+Competitive Models, Single and Multi-channel Problems, Sequencing Models, Dynamic
+Programming, Flow in Networks, Elementary Graph Theory, Game Theory Simulation.
+REFERENCES
+1. H.A. Taha, Operations Research, An Introduction, PHI, 2008
+2. H.M. Wagner, Principles of Operations Research, PHI, Delhi, 1982.
+3. J.C. Pant, Introduction to Optimization: Operations Research, Jain Brothers, Delhi,
+2008
+4. Hitler Libermann Operations Research: McGraw Hill Pub. 2009
+5. Pannerselvam, Operations Research: Prentice Hall of India 2010
+6. Harvey M Wagner, Principles of Operations Research: Prentice Hall of India 2010.
+COURSE OUTCOMES
+At the end of the course, the student should be able to;
+1. Students should able to apply the dynamic programming to solve problems of discreet
+and continuous variables.
+2. Students should able to apply the concept of non-linear programming
+3. Students should able to carry out CPM/PERT analysis
+4. Student should able to model the real world problem and simulate it.
+5. Students should become conversant with techniques of optimization.
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+3
+2
+1
+1
+2
+3
+CO2
+3
+2
+1
+2
+3
+1
+CO3
+3
+2
+1
+3
+1
+2
+CO4
+3
+2
+1
+2
+3
+1
+CO5
+3
+2
+1
+1
+2
+3
+
+65
+
+23CEEEOE32
+
+COST MANAGEMENT OF
+ENGINEERING PROJECTS
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+
+Students to gain the knowledge and skill to work on data base for operation control
+Students to gain the knowledge and skill to apply Cost Behavior and Profit Planning
+Students to gain the knowledge on TQM and its value in Cost management
+
+Introduction and Overview of the Strategic Cost Management Process-Cost concepts in
+decision-making; relevant cost - Differential cost - Incremental cost and Opportunity
+cost. Objectives of a Costing System; Inventory valuation; Creation of a Database for
+operational control; Provision of data for Decision-Making.
+Project: meaning - Different types - why to manage - cost overruns centers - various
+stages of project execution: conception to commissioning. Project execution as
+conglomeration of technical and non-technical activities. Detailed Engineering activities.
+Pre project execution main clearances and documents Project team: Role of each
+member. Importance Project site: Data required with significance. Project contracts.
+Types and contents. Project execution Project cost control. Bar charts and Network
+diagram. Project commissioning: mechanical and process
+Cost Behavior and Profit Planning Marginal Costing; Distinction between Marginal
+Costing and Absorption Costing; Break-even Analysis - Cost-Volume-Profit Analysis.
+Various decision-making problems. Standard Costing and Variance Analysis. Pricing
+strategies: Pareto Analysis. Target costing - Life Cycle Costing. Costing of service sector.
+Just-in-time approach - Material Requirement Planning - Enterprise Resource Planning.
+Total Quality Management and Theory of constraints. Activity- Based Cost Management
+- Bench Marking; Balanced Score Card and Value-Chain Analysis. Budgetary Control;
+Flexible Budgets; Performance budgets; Zero-based budgets. Measurement of Divisional
+profit ability pricing decisions including transfer pricing.
+Quantitative techniques for cost management - Linear Programming - PERT/CPM –
+Transportation Problems - Assignment problems - Simulation - Learning Curve Theory.
+REFERENCES
+1. Cost Accounting A Managerial Emphasis, Prentice Hall of India, New Delhi
+
+66
+
+2. Charles T. Horngren and George Foster, Advanced Management Accounting
+3. Robert S Kaplan Anthony A. Alkinson, Management & Cost Accounting
+4. Ashish K. Bhattacharya, Principles & Practices of Cost Accounting A. H. Wheeler
+publisher
+5. N.D. Vohra, Quantitative Techniques in Management, Tata McGraw Hill Book Co.
+Ltd.
+COURSE OUTCOMES
+At the end of the course, the student should be able to
+1. The cost management methodologies using technology options and financial
+management
+2. Appreciate the importance of TQM and tools to apply the same in any organization.
+3. Understand and become able to do several approaches of Cost Benefit Analysis.
+4. Understand and become able to do several approaches of Budget Control.
+5. Understand and become able to do CPM/PERT exercises for business management.
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1
+3
+3
+CO2
+3
+3
+CO3 3
+3
+CO4
+2
+3
+CO5 3
+3
+
+23CEEEOEXX
+
+WASTE TO ENERGY
+
+L
+
+T
+
+P
+
+C
+
+3
+
+0
+
+0
+
+3
+
+COURSE OBJECTIVES
+
+
+
+Students to understand the ways and scientific means to reclaim energy from the
+waste
+Students to understand the importance of source segregation for effective processing
+of waste in WTE system. Students to know all technological options of WTE.
+
+Introduction to Energy from Waste: Classification of waste as fuel – Agro based, Forest
+residue, Industrial waste - MSW – Conversion devices – Incinerators, gasifiers, digesters
+– Need for WTE for MSW Management.
+
+67
+
+Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods –
+Yield sand application – Manufacture of pyrolytic oils and gases, yields and applications
+-Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers –
+Fluidized bed gasifiers – Design, construction and operation – Biomethanization PlantDual Fuel Burners.
+Combustion: Mass Burning Incinerators- Fixed bed combustors, Types, inclined grate
+combustors, Fluidized bed combustors-Pyrolytic Incinerators- Operation of all the
+Thermal Systems of WTE.
+Integrated Solid Waste Management Facilities: Segregation – Resource RecoveryModular Processes of Incinerators – Advanced systems of Biomethanization- Integrated
+Systems with combination of plant operations.
+MSW to energy conversion - Biomass energy programs in India- Global Status of WTEPollution Problems- Costing – Operating feasibility- Power Purchase or Resource
+Management- Indian legislation and Policies. .
+
+REFERENCES
+1. Non-Conventional Energy, Desai, Ashok V., Wiley Eastern Ltd., 1990.
+2. Biogas Technology - A Practical Hand Book - Khandelwal, K. C. and Mahdi, S. S.,
+Vol. I & II, TataMcGraw Hill Publishing Co. Ltd., 1983.
+3. Food, Feed and Fuel from Biomass, Challal, D. S., IBH Publishing Co. Pvt. Ltd.,
+1991.
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John
+Wiley & Sons,1996.
+COURSE OUTCOMES
+At the end of the course, the student should be able to
+1. Students should have been understood the importance of Energy reclamation from
+Waste.
+2. Students should have been understood all technological options of WTE including
+some proprietary systems as case studies.
+3. Students should become conversant on Biological approach and options of WTE
+Technologies
+4. Students should become conversant on Thermal methods of WTE Plants.
+5. Students will become aware on the Indian Scenario of WTE for MSW Management.
+
+68
+
+Mapping of COs with POs
+PSOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3
+CO1 3
+2
+1
+1
+2
+3
+CO2 3
+2
+1
+2
+3
+1
+CO3 3
+2
+1
+3
+1
+2
+CO4 3
+2
+1
+2
+3
+1
+CO5 3
+2
+1
+1
+2
+3
+
+AUDIT C OURSES
+23CEEEACXX
+
+ENGLISH FOR RESEARCH PAPER
+WRITING
+
+L
+
+T
+
+P
+
+C
+
+2
+
+0
+
+0
+
+0
+
+COURSE OBJECTIVES
+
+
+
+
+Understand that how to improve your writing skills and level of readability
+Learn about what to write in each section
+Understand the skills needed when writing a title to ensure the good quality of paper
+at very first-time submission
+
+Planning and Preparation, Word Order, Breaking up long sentences, Structuring
+Paragraphs and Sentences, Being Concise and Removing, Redundancy, Avoiding
+Ambiguity and Vagueness.
+Clarifying Who Did What, Highlighting Your Findings, Hedging and Criticizing,
+Paraphrasing and Plagiarism, Sections of a Paper, Abstracts. Introduction Review of the
+Literature, Methods, Results, Discussion, Conclusions, the Final Check.
+Key skills are needed when writing a Title, key skills are needed when writing an
+abstract, key skills are needed when writing an Introduction, skills needed when writing a
+Review of the Literature.
+Skills are needed when writing the Methods, skills needed when writing the Results,
+skills are needed when writing the Discussion, and skills are needed when writing the
+Conclusions.
+Useful phrases, how to ensure paper is as good as it could possibly be the first- time
+submission.
+SUGGESTED STUDIES
+1. Goldbort R (2006) Writing for Science, Yale University Press (available on Google
+Books)
+2. Day R (2006) How to Write and Publish a Scientific Paper, Cambridge University
+Press.
+3. Highman N (1998), Handbook of Writing for the Mathematical Sciences, SIAM.
+Highman’sbook .
+4. Adrian Wallwork , English for Writing Research Papers, Springer New York
+Dordrecht Heidelberg London, 2011.
+
+70
+
+COURSE OUTCOMES
+At the end of the course, the student should be able to
+1. Students should have learnt and got the writing skills and level of readability
+2. Students should have understood on when and what to write and how.
+3. Students should acquire specific skills to write abstract and literature review.
+4. Students should acquire specific skills to results & Conclusions.
+5. Students should have been conversant with phrases when it is first time submission.
+
+23CEEEACXX
+
+DISASTER MANAGEMENT
+
+L
+
+T
+
+P
+
+C
+
+2
+
+0
+
+0
+
+0
+
+COURSE OBJECTIVES
+
+
+
+
+
+Learn to demonstrate a critical understanding of key concepts in disaster risk
+reduction and humanitarian response.
+Critically evaluate disaster risk reduction and humanitarian response policy and
+practice from multiple perspectives.
+Develop an understanding of standards of humanitarian response and practical
+relevance in specific types of disasters and conflict situations.
+Critically understand the strengths and weaknesses of disaster management
+approaches, planning and programming in different countries, particularly their home
+country or the countries they work in
+
+Introduction: Disaster: Definition, Factors and Significance; Difference between Hazard
+and Disaster; Natural and Manmade Disasters: Difference, Nature, Types and Magnitude.
+Repercussions of Disasters and Hazards: Economic Damage, Loss of Human and Animal
+Life, Destruction of Ecosystem. Natural Disasters: Earthquakes, Volcanisms, Cyclones,
+Tsunamis, Floods, Droughts and Famines, Landslides and Avalanches, Man-made
+disaster: Nuclear Reactor Meltdown, Industrial Accidents, Oil Slicks and Spills,
+Outbreaks of Disease And Epidemics, War and Conflicts.
+Disaster Prone Areas in India: Study of Seismic Zones; Areas Prone to Floods and
+Droughts, Landslides and Avalanches; Areas Prone to Cyclonic and Coastal Hazards with
+Special Reference to Tsunami; Post-Disaster Diseases And Epidemics. Disaster
+Preparedness and Management Preparedness: Monitoring of Phenomena Triggering A
+Disaster or Hazard; Evaluation of Risk: Application of Remote Sensing, Data from
+
+71
+
+Meteorological and Other Agencies, Media Reports: Governmental and Community
+Preparedness.
+Risk Assessment: Disaster Risk: Concept and Elements, Disaster Risk Reduction, Global
+and National Disaster Risk Situation. Techniques of Risk Assessment, Global CoOperation in Risk Assessment and Warning, People’s Participation in Risk Assessment.
+Strategies for Survival.
+Disaster Mitigation: Meaning, Concept and Strategies of Disaster Mitigation, Emerging
+Trends In Mitigation. Structural Mitigation and Non-Structural Mitigation, Programs of
+Disaster Mitigation In India.
+
+SUGGESTED READINGS
+1. R. Nishith, Singh AK, “Disaster Management in India: Perspectives, issues and
+strategies “’New Royal book Company.
+2. Sahni, PardeepEt.Al. (Eds.),” Disaster Mitigation Experiences And Reflections”,
+Prentice Hall Of India, New Delhi.
+3. Goel S. L. , Disaster Administration And Management Text And Case Studies”, Deep
+&Deep Publication Pvt. Ltd., New Delhi.
+COURSE OUTCOMES
+At the end of the course;
+1. Students should become conversant with protocols of Risk Assessment and Disaster
+Management Plan.
+2. Students should have understood the disaster risk reduction and humanitarian
+response policy
+3. Students should have understood the disaster management approaches, planning and
+programming.
+4. Students should have understood the Risk Assessment and Reduction approaches,
+planning and reporting.
+5. Students should become conversant with Indian Protocols and Guidance documents
+for preparing RA and DMP.
+
+72
+
+23CEEEACXX
+
+SANSKRIT FOR TECHNICAL
+KNOWLEDGE
+
+L
+
+T
+
+P
+
+C
+
+2
+
+0
+
+0
+
+0
+
+COURSE OBJECTIVES
+
+
+
+
+
+To get a working knowledge in illustrious Sanskrit, the scientific language in the
+world
+Learning of Sanskrit to improve brain functioning
+Learning of Sanskrit to develop the logic in mathematics, science & other subjects
+enhancing the memory power
+The engineering scholars equipped with Sanskrit will be able to explore the huge
+knowledge from ancient literature
+
+Alphabets in Sanskrit - Past/Present/Future Tense /Simple Sentences.
+Order - Introduction of roots -Technical information about Sanskrit Literature.
+Technical concepts of Engineering-Electrical, Mechanical, Architecture, Mathematics.
+
+SUGGESTED READING
+1. “Abhyaspustakam” – Dr.Vishwas, Samskrita-Bharti Publication, New Delhi
+2. “Teach Yourself Sanskrit” Prathama Deeksha-VempatiKutumbshastri, Rashtriya
+Sanskrit Sansthanam, New Delhi Publication
+3. “India’s Glorious Scientific Tradition” Suresh Soni, Ocean books (P) Ltd., New
+Delhi.
+COURSE OUTCOMES
+At the end of the course, the student should be able to
+1. Understanding basic Sanskrit language
+2. Ancient Sanskrit literature about science & technology can be understood
+3. Being a logical language will help to develop logic in students
+4. Students should come to understand value system of history.
+5. Students should become conversant to cite Sanskrit idioms in their writings.
+
+73
+
+23CEEEACXX
+
+VALUE EDUCATION
+
+L
+
+T
+
+P
+
+C
+
+2
+
+0
+
+0
+
+0
+
+COURSE OBJECTIVES
+
+
+
+
+Understand value of education and self- development
+Imbibe good values in students
+Let the should know about the importance of character
+
+Values and self-development –Social values and individual attitudes. Work ethics, Indian
+vision of humanism. Moral and non- moral valuation. Standards and principles. Value
+judgments’.
+Importance of cultivation of values. Sense of duty. Devotion, Self-reliance. Confidence,
+Concentration. Truthfulness, Cleanliness. Honesty, Humanity. Power of faith, National
+Unity. Patriotism, Love for nature ,Discipline.
+Personality and Behavior Development - Soul and Scientific attitude. Positive Thinking.
+Integrity and discipline. Punctuality, Love and Kindness - Avoid fault Thinking - Free
+from anger, Dignity of labour - Universal brotherhood and religious tolerance. True
+friendship.
+Happiness Vs suffering, love for truth - Aware of self-destructive habits - Association
+and Cooperation - Doing best for saving nature.
+Character and Competence –Holy books vs Blind faith- Self-management and Good
+health - Science of reincarnation- Equality, Nonviolence ,Humility, Role of Women- All
+religions and same message- Mind your Mind, Self-control- Honesty, Studying
+effectively
+SUGGESTED READING
+1. Chakroborty, S.K. “Values and Ethics for organizations Theory and practice”, Oxford
+University Press, New Delhi
+COURSE OUTCOMES
+1.Students should have gained the overall Knowledge of self-development
+2.Students should have learnt the importance of Human values
+3.Students should have understood the importance for developing the overall personality
+4. Students should have understood the importance of association and cooperation.
+5. Students should have understood the role of women.
+
+74
+
+23CEEEACXX
+
+CONSTITUTION OF INDIA
+
+L
+
+T
+
+P
+
+C
+
+2
+
+0
+
+0
+
+0
+
+COURSE OBJECTIVES
+
+
+
+
+
+Understand the premises informing the twin themes of liberty and freedom from a
+civil rights perspective.
+To address the growth of Indian opinion regarding modern Indian intellectuals’
+constitutional role and entitlement to civil and economic rights as well as the
+emergence of nationhood in the early years of Indian nationalism.
+To address the role of socialism in India after the commencement of the Bolshevik
+Revolution in 1917 and its impact on the initial drafting of the Indian
+Constitution.History of Making of the Indian Constitution: History Drafting
+Committee, (Composition& Working)
+
+Philosophy of the Indian Constitution:
+
+Preamble- Salient Features
+Constitutional Rights & Duties:
+ Fundamental Rights
+ Right to Equality
+ Right to Freedom
+ Right against Exploitation
+ Right to Freedom of Religion
+ Cultural and Educational Rights
+ Right to Constitutional Remedies
+ Directive Principles of State Policy
+ Fundamental Duties.
+Organs of Governance:
+ Parliament
+ Composition
+ Qualifications and Disqualifications
+ Powers and Functions
+ Executive
+ President
+ Governor
+ Council of Ministers
+ Judiciary, Appointment and Transfer of Judges, Qualifications
+
+75
+
+ Powers and Functions
+Local Administration:
+ District’s Administration head: Role and Importance,
+ Municipalities: Introduction, Mayor and role of Elected Representative,
+ CEO of Municipal Corporation.
+ Panchayati raj: Introduction, PRI: ZilaPanchayat.
+ Elected officials and their roles, CEO ZilaPanchayat: Position and role.
+ Block level: Organizational Hierarchy (Different departments),
+ Village level: Role of Elected and Appointed officials,
+ Importance of grass root democracy.
+Election Commission:
+ Election Commission: Role and Functioning.
+ Chief Election Commissioner and Election Commissioners.
+ State Election Commission: Role and Functioning.
+ Institute and Bodies for the welfare of SC/ST/OBC and women.
+SUGGESTED READING
+1. The Constitution of India, 1950 (Bare Act), Government Publication.
+2. Dr. S. N. Busi, Dr. B. R. Ambedkar framing of Indian Constitution, 1st Edition, 2015.
+3. M. P. Jain, Indian Constitution Law, 7th Edn., Lexis Nexis, 2014.
+4. D.D. Basu, Introduction to the Constitution of India, Lexis Nexis, 2015.
+COURSE OUTCOMES
+At the end of the course, the student should be able to
+1. Understand the preamble of constitution of India
+2. Fare work about Fundamental right and duties
+3. Understand organs of governance
+4. Understand the governance of local administration
+5. Acquire Knowledge on the functionalities of Election Commission
+
+76
+
+23CEEEACXX
+
+PEDAGOGY STUDIES
+
+L
+
+T
+
+P
+
+C
+
+2
+
+0
+
+0
+
+0
+
+COURSE OBJECTIVES
+
+
+Review of Pedagogical practices are being used by teachers in formal and
+informal classrooms in developing countries.
+ Identify critical evidence gaps to guide the Professional & curriculum
+development.
+Introduction and Methodology
+Aims and rationale, Policy background, Conceptual framework and terminology-Theories
+of learning, Curriculum Teacher education conceptual framework, Research question –
+Overview of methodology and Searching.
+Thematic overview
+Pedagogical practices are being used by teachers in formal and informal classrooms in
+developing countries. Curriculum and Teacher education Evidence on the effectiveness
+of pedagogical practices.
+Methodology for the in depth stage
+Quality assessment of included studies, How can teacher education (curriculum and
+practicum) and the school curriculum and guidance materials best support effective
+pedagogy, Theory of change Strength and nature of the body of evidence for effective
+pedagogical practices Pedagogic theory and pedagogical approaches. Teachers' attitudes
+and beliefs and Pedagogic strategies.
+Professional development
+Alignment with classroom practices and follow up support-Peer support -Support from
+the head teacher and the community-Curriculum and assessment -Barriers to learning:
+limited resources and large class sizes.
+Research gaps and future directions
+Research design -Contexts -Pedagogy Teacher education Curriculum and assessment Dissemination and research impact.
+REFERENCE
+1. Ackers J. Hardman F (2001) Classroom interaction in Kenyan primary schools,
+Compare, 31 (2): 245-261,
+
+77
+
+2.
+
+Agrawal M (2004) Curricular reform in schools: The importance of evaluation,
+Journal of Curriculum Studies, 36 (3): 361-3
+
+3.
+
+Akyeampong K (2003) Teacher training in Ghana - does it count? Mulb-site teacher
+education research project (MUSTER report 1. London: DFID,.
+Akyeampong K. Lussier K. Pryor J. Westbrook J (2013) Improving teaching and
+learning of basic maths and reading in Africa: Does teacher preparation count?
+International Journal Educational Development, 33 (3): 272-282
+
+4.
+
+5.
+
+Alexander RJ (2001) Culture and pedagogy: International comparisons in primary
+education. Oxford and Boston Black well
+
+COURSE OUTCOMES
+1. Understand over view of pedagogy
+2. Understand thematical overview of pedagogy
+3. Understand effectives of pedagogy branches
+4. Understand curriculum and assessment
+5. Understand research Skills
+
+23CEEEACXX
+
+STRESS MANAGEMENT THROUGH
+YOGA
+
+L
+
+T
+
+P
+
+C
+
+2
+
+0
+
+0
+
+0
+
+COURSE OBJECTIVES
+
+
+
+
+
+To teach various types of stress and its management
+To teach stress according to YOGA
+To teach physiology of stress on ANS
+To educate stress related diseases and role of meditation and yoga on
+stress management
+
+Meaning and Definition of Stress Types: Eutress, Distress, Anticipatory Anxiety,
+Intense Anuety and Depression Meaning of Management Stress Management
+Concept of Stress according to Yoga Patanjali aphorism (PYS II 3) Avidya Asmita
+Anapana sati – Vipasama Meditation
+Physiology of Stress on Autonomic Nervous System (ANS), Endocrine System:
+Hypothalamus, Cerebral Cortex and Neurohumours.
+
+78
+
+Mechanism of Stress related diseases Psychic, Pychosomatic. Sematic and Organic
+phase Role of Meditation & Pranayama on stress physiological aspect of Meditation
+Constant stress & strain, anxiety, conflicts resulting in fatigue among Executive.
+Contribution of Yogs to solve the stress related problems of Executive
+Meaning and definition of Health - vincus dimensions of health (Physical Mental.
+Social and Spiritual) - Yoga and health - Yoga as therapy Physical fitness Stress
+central exercise Sitting meditation, Walling meditation Progressive muscular
+relaxation Gentle stretches and Massage
+COURSE OUTCOMES
+At the end of the course, the student should be able to
+1)
+Understand types of stress and arrangement
+2)
+Understand stress according to yoga
+3)
+Understand physiology of stress on ANS
+4)
+Understand stress related diseases and causes through meditation and yoga
+5)
+Understand and practice yoga and meditation
+
+23CEEEACXX
+
+PERSONALITY DEVELOPMENT
+THROUGH LIFE SKILLS
+
+L
+2
+
+T
+0
+
+P
+0
+
+C
+0
+
+COURSE OBJECTIVES
+
+
+
+
+
+
+To learn career and Professional skills
+To built altitude and motivation
+To understand stress arrangement capabilities
+To learn decision making and leadership qualities
+To learn importance of health and hygiene
+
+Career and Professional Skills
+Career and Professional Skills Listening Skills Reading Skills, Writing Skills, Effective
+Resume préparation, Interview Skills, Group Discussion Skills, Exploring Career
+Opportunités, Psychometric Analysis and Mock Interview Sessions Team Skills:
+Cognitive and Non-Cognitive Skills, Présentation Skills, Trust and Collaboration,
+Listening as a Team Skill, Brainstorming, Social and Cultural Etiquettes Digital Skills:
+Computer Skills, Digital Literacy and Social Media, Digital Ethics and Cyber Security
+
+79
+
+Attitude and Motivation
+Attitude: Concept. Signifiance, Factors affecting attitudes, Positive attitude Advantages,
+Negative attitude Disadvantages, Ways to develop positive attitude, Difference between
+personalities having positive and negative attitude. Motivation: Concept, Significance,
+Internal and external motives Importance of self- motivation- Factors leading to de
+motivation, Maslow's Need Hierarchy Theory of Motivation,
+Stress-management and Development of Capabilities
+Development of will power, imagination through yogic life style Development of
+thinking, emotion control and discipline of mind through Pranayama- Improvement of
+Memory through méditation-Stress: meaning causes, and effects of stress in life
+management Stress: psycho-physical mechanism,management of stress through Yoga
+Other Aspects of personality Development
+Body language Problem-solving - Conflict and Stress Management - Decision-making
+skills Leadership and qualities of a successful leader - Character-building-Team-workTime management-Work ethics-Good manners and etiquette.
+Health and Hygiene
+Heath and Hygiene Meaning and significance for Healthy Life 1 Exercise and Nutrition
+and Immunity. Obesity Meaning Types and its Hazards- Physical Fitness and Health
+Related Physical Fitness Concept, Components and Tests-Adventure Sports
+
+SUGGESTED READING
+1. Barun K. Mitra. "Personality Development & Soft Skills", Oxford Publishers,
+Third Impression,2017.
+2. Ghosh, Shantikumar. 2004. Universal Values, Kolkata: The Ramakrishna Mission
+References Larry James, "The First Book of Life Skills: First Edition, Embassy
+Books, 2016.
+
+REFERENCES
+1. L.Chaito: Relaxation & Meditation Techniques, 1983
+2. Michael Aegyle: Bodily Communication, Methuen, 1975
+3. Mulligan J: The personal Management (handbook)
+4. M.L. Kamlesh (1999). "Pychology in Physical education and Sports"
+Metropolitan BookCompany, New Delhi
+
+80
+
+5. Patra, Avinash, 2012. The Spiritual Life and Culture of India. London: Oxford
+University Press.
+6. Postonjee D.M: Stress and Coping The Indian Experience,sage Publication.New
+7. R.D. Sharma (1979). "Health and Physical Education" Gupta Prakashan, New
+8. Shiv Khera, "You Can Win", Macmillan Books, New York, 2003.
+9. Acharya Maha Pragya-Shaku ki Sadhna (Hindi medium)
+10. Acharya Mahapragya- Naya manav, naya Vishwa, Adarsh Sahitya Sangh, Churu
+(Hindi medium)
+11. Shiv Khera-Jeet Apki (Hindi medium)
+
+COURSE OUTCOMES
+1. Understand carrier and professional skills
+2. Understand altitude and motivation
+3. Understand stress arrangement and capabilities
+4. Understand the health and hygiene
+
+

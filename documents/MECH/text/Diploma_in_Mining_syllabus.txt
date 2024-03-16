@@ -1,0 +1,3213 @@
+ANNAMALAI UNIVERSITY
+Faculty of Engineering and Technology
+
+THREE YEAR DIPLOMA PROGRAMME IN MINING ENGINEERING
+REGULATIONS
+
+R1.Condition for Admission:
+Condition for admission to the first year of the three year Diploma Programme shall be
+required to have passed in
+The S.S.L.C Examination of the board of Secondary Education, Tamilnadu
+(or)
+The Anglo Indian High School Examinations with eligibility for Higher Secondary Course
+in Tamilnadu
+(or)
+The Matriculation Examination of Tamilnadu.
+(or)
+Any other Examination recognized as equivalent to the above by the Board of Secondary
+Education, Tamilnadu.
+R2. Eligibility for the diploma:
+A candidate shall be (i). Eligible for a Certificate in Mining Engineering, if passed first
+year and discontinued the Programme (ii). Eligible for a Pre-Diploma Certificate in Mining
+Engineering, if passed up to second year and discontinued the programme and (iii). Eligible for a
+Diploma certificate, if the candidate has satisfactorily undergone the prescribed courses of study
+for a period of not less than three academic years and has passed the prescribed examinations in
+all the three academic years.
+Candidates who obtained the certificate of Mining Engineering can also rejoin at a later
+date in the second year and who obtained the Pre-Diploma Certificate in the third year to complete
+the Diploma in Mining Engineering.
+R3.Courses of study and Scheme of the Examinations:
+The courses of study and the syllabi for the courses are given separately. The scheme of
+Examinations is also given separately.
+R4.Duration of the programme:
+A student is normally expected to complete the Diploma programme in three years but in
+any case not more than six years from the time of admission.
+
+1
+
+R5.Assessment:
+The break-up of assessment and examination marks for theory and practical courses
+is as follows.
+First assessment (Mid-term Test –I)
+
+: 10 marks
+
+Second assessment (Mid-term Test –II)
+
+: 10 marks
+
+Third Assessment
+(Assignment/Maintenance of Record Book) : 05 marks
+Examination
+
+: 75 marks
+
+The Practical Training/Project work will be assessed for 25/75 marks by a committee
+consisting of the guide and a minimum of two members nominated by the Head of the
+Department. One of the committee members will be nominated as the chairman by the Head
+of the Department. The Head of the Department may himself be a member or the chairman.
+75/225 marks are allotted for the Practical Training/Project work and viva voce examination at
+the end of the semester.
+R6. Student Counsellors:
+To help the students in planning their course of study and for general advice on the
+academic programme, the Head of the Department will attach a certain number of students to a
+member of the faculty who shall function as student counsellor for those students throughout
+their period of study.
+R7.Attendance requirements:
+To be eligible to appear for the examination in a particular course, a student must put in a
+minimum of 75% of attendance in that course. However, the Vice-Chancellor may give a
+rebate/concession not exceeding 10% in attendance for exceptional cases only on Medical
+grounds.
+A student who does not meet the minimum attendance requirement in a course must reregister for and repeat the course.
+R8.Criteria for passing the Programme:
+A candidate is deemed to have passed in a course if he/she secures a minimum of 40%
+marks (30 Marks out of 75) in the final examination and a minimum of 50% marks in both final
+examination ad continuous assessment marks put together (50 marks out of Total 100 marks).
+Same minimum percentage of marks is adopted for passing the project work also.
+R9.Classification of Successful Candidates:
+A Candidate will be declared to have passed in First Class with Distinction if he/she
+secures not less than 75% of the aggregate marks in all the semesters put together and passes all
+the semesters in the first appearance itself within the stipulated period of study (3 years) without
+any break
+2
+
+A Candidate will be declared to have passed in First Class if he/she secures not less than
+60% of the aggregate marks in all the semesters put together and passes all the subjects within 4
+years.
+All other successful candidates will be declared to have passed in Second Class.
+R10.Ranking of candidates:
+The candidates who are eligible to get the Diploma in First Class with distinction will be
+ranked together on the basis of the percentage of marks obtained by them in all the subjects of
+study from I to VI semester.
+The candidates passing with First class will be ranked next after those with distinction
+on the basis of the percentage of marks obtained by them in all the subjects of study from I to
+VI Semester.
+R11. Transitory Regulations:
+The University shall have powers to revise or change or amend the regulations, the scheme
+of examinations, the courses of study and the syllabi from time to time.
+Wherever there had been change of syllabi, examinations based on the existing syllabus will
+be conducted for three consecutive times after implementation of the new syllabus in order to
+enable the students to clear the arrears. Beyond that, the students will have to take up their
+examinations in equivalent subjects, as per the new syllabus, on the recommendations of the
+Head of the Department concerned.
+
+3
+
+Diploma Programme in Mining Engineering
+Course of Study and Scheme of Examinations
+FIRST YEAR – FIRST SEMESTER
+Course
+Code
+DMIC
+101
+DMIC
+102
+DMIC
+103
+DMIC
+104
+DMIP
+105
+DMIP
+106
+DMIP
+107
+DMIP
+108
+
+Periods / week
+
+Course
+
+L
+
+T
+
+P
+
+Technical English I
+
+4
+
+0
+
+0
+
+Mathematics I
+
+4
+
+0
+
+Engineering Physics
+
+4
+
+Engineering Chemistry
+
+Duration
+of Exam
+Hrs.
+
+Marks
+CA
+
+FE
+
+Total
+
+3
+
+25
+
+75
+
+100
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+Physics Laboratory
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+Chemistry Laboratory
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+75
+
+100
+
+75
+
+100
+
+600
+
+800
+
+Computer Practice
+0
+2
+3
+3
+25
+Laboratory
+Engineering Practices
+0
+0
+3
+3
+25
+Laboratory
+Total
+16
+2
+12
+200
+L – Lecture T – Tutorial P – Practical CA- Continuous Assessment
+FE – Final Examination
+FIRST YEAR - SECOND SEMESTER
+Course
+Code
+DMIC
+201
+DMIC
+202
+DMIC
+203
+DMIC
+204
+DMIC
+205
+DMIC
+206
+DMIP
+207
+DMIP
+208
+
+Course
+
+Periods / week
+L
+
+T
+
+P
+
+Technical English II
+
+4
+
+0
+
+0
+
+Mathematics II
+
+4
+
+0
+
+Material Science
+
+4
+
+Chemistry for Mining
+Engineering
+
+Duration
+of Exam
+Hrs.
+
+Marks
+CA
+
+FE
+
+Total
+
+3
+
+25
+
+75
+
+100
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+Engineering Mechanics
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+Mine Development
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+3
+
+3
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+24
+
+3
+
+6
+
+200
+
+600
+
+800
+
+Computer Aided
+Machine Drawing
+Manufacturing
+Technology Laboratory I
+Total
+
+4
+
+SECOND YEAR - THIRD SEMESTER
+Course
+Code
+DMIC
+301
+DMIC
+302
+DMIC
+303
+DMIC
+304
+DMIC
+305
+DMIC
+306
+DMIP
+307
+DMIP
+308
+
+Course
+
+Periods / week
+L
+
+T
+
+P
+
+Mining Geology I
+
+4
+
+0
+
+0
+
+Strength of Materials
+
+4
+
+0
+
+Mine Surveying
+
+4
+
+Mining Environmental
+Engineering
+
+Duration
+of Exam
+Hrs.
+
+Marks
+CA
+
+FE
+
+Total
+
+3
+
+25
+
+75
+
+100
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+Surface Mining
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+Drilling and Blasting
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+24
+
+0
+
+6
+
+200
+
+600
+
+800
+
+Mine Development:
+Drilling and blasting
+Laboratory
+Mine Surveying
+Laboratory
+Total
+
+SECOND YEAR - FOURTH SEMESTER
+Course
+Code
+DMIC
+401
+DMIC
+402
+DMIC
+403
+DMIC
+404
+DMIC
+405
+DMIC
+406
+DMIP
+407
+DMIP
+408
+
+Course
+
+Periods / week
+L
+
+T
+
+P
+
+Mining Geology II
+
+4
+
+0
+
+0
+
+Mining Machinery I
+
+4
+
+0
+
+4
+
+Duration
+of Exam
+Hrs.
+
+Marks
+CA
+
+FE
+
+Total
+
+3
+
+25
+
+75
+
+100
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+Mine Ventilation
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+Mineral Processing
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+24
+
+0
+
+6
+
+200
+
+600
+
+800
+
+Underground Mining
+Methods - Coal
+Rock Mechanics and
+Ground Control I
+
+Mining Geology
+Laboratory I
+Mining Environmental
+Laboratory I
+Total
+
+5
+
+THIRD YEAR - FIFTH SEMESTER
+Course
+Code
+DMIC
+501
+DMIC
+502
+DMIC
+503
+DMIC
+504
+DMIP
+505
+DMIP
+506
+DMIP
+507
+DMIP
+508
+
+Course
+Rock Mechanics and
+Ground Control II
+Underground Mining
+Methods Metal
+Mining Hazard and
+Safety
+Advanced Mine
+Surveying
+Mining Geology
+Laboratory II
+Mining Environmental
+Laboratory II
+Mining Machinery
+Laboratory
+Practical Training
+and Assessment
+Total
+
+Periods / week
+L
+
+T
+
+P
+
+4
+
+0
+
+0
+
+4
+
+0
+
+4
+
+Duration
+of Exam
+Hrs.
+
+Marks
+CA
+
+FE
+
+Total
+
+3
+
+25
+
+75
+
+100
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+#
+
+*
+
+25
+
+75
+
+100
+
+16
+
+0
+
+9
+
+200
+
+600
+
+800
+
+# Training in Mining Industry – 4 weeks
+* Viva-Voce
+THIRD YEAR - SIXTH SEMESTER
+
+Course
+Code
+DMIC
+601
+DMIC
+602
+DMIC
+603
+DMIC
+604
+DMIP
+605
+DMIT
+606
+
+Course
+Mine Management
+and Entrepreneurship
+Electrical Engineering &
+Mechanical Engineering
+Mining Machinery II
+Mine Sampling
+Assaying, Coal/
+Mineral Processing
+Mine Hazard and
+Safety Laboratory
+Project Work
+Total
+
+Periods / week
+L
+
+T
+
+P
+
+4
+
+0
+
+0
+
+4
+
+0
+
+4
+
+Duration
+of Exam
+Hrs.
+
+Marks
+CA
+
+FE
+
+Total
+
+3
+
+25
+
+75
+
+100
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+4
+
+0
+
+0
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+3
+
+3
+
+25
+
+75
+
+100
+
+0
+
+0
+
+12
+
+*
+
+75
+
+225
+
+300
+
+16
+
+0
+
+9
+
+200
+
+600
+
+800
+
+* Viva-Voce
+
+6
+
+DMIC 101 -TECHNICAL ENGLISH I
+Unit I
+Listening - Introducing learners to GIE - Types of listening - Listening to audio (verbal & sounds);
+Speaking - Speaking about one’s place, important festivals etc. – Introducing oneself, one’s
+family / friend; Reading - Skimming a reading passage – Scanning for specific information Note-making; Writing - Free writing on any given topic (My favorite place / Hobbies / School
+life, etc.) - Sentence completion - Autobiographical writing (writing about one’s leisure time
+activities, hometown, etc.); Grammar - Prepositions - Reference words -questions - Tenses
+(Simple); Vocabulary - Word formation - Word expansion (root words / etymology); Ematerials - Interactive exercises for Grammar & Vocabulary - Reading comprehension exercises
+- Listening to audio files and answering questions.
+
+Unit II
+Listening - Listening and responding to video lectures / talks; Speaking - Describing a simple
+process (filling a form, etc.) - Asking & answering questions - Telephone skills – Telephone
+etiquette; Reading – Critical reading - Finding key information in a given text - Sifting facts from
+opinions; Writing - Biographical writing (place, people) - Lab descriptions (general/specific
+description of laboratory experiments) - Definitions - Recommendations; Grammar - Use of
+imperatives - Subject-verb agreement; Vocabulary - Compound words - Word Association; Ematerials - Interactive exercises for Grammar and Vocabulary - Listening exercises with sample
+telephone conversations / lectures – Picture-based activities.
+
+Unit III
+Listening - Listening to specific task - focused audio tracks; Speaking - Role-play – Simulation
+Group interaction - Speaking in formal situations (teachers, officials, foreigners); Reading and
+interpreting visual material; Writing - Jumbled sentences - Coherence and cohesion in writing Channel conversion (flowchart into process) - Types of paragraph (cause & effect / compare &
+contrast / narrative / analytical) - Informal writing (letter/e-mail/blogs)- Paraphrasing; Grammar Tenses (Past) - Use of sequence words - Adjectives; Vocabulary - Different forms and uses of
+words, Cause and effect words; E-materials - Interactive exercises for Grammar and Vocabulary Excerpts from films related to the theme and follow up exercises Pictures of flow charts and tables
+for interpretations
+
+Unit IV
+Listening - Watching videos / documentaries and responding to questions based on them;
+Speaking - Responding to questions - Different forms of interviews - Speaking at different types
+of interviews; Reading - Making inference from the reading passage - Predicting the content of
+a reading passage; Writing - Interpreting visual materials (line graphs, pie charts etc.) - Essay
+writing – Different types of essays; Grammar - Adverbs – Tenses – future time reference;
+Vocabulary - Single word substitutes - Use of abbreviations & acronyms; E-materials Interactive exercises for Grammar and Vocabulary - Sample interviews - film scenes - dialogue
+writing.
+7
+
+Unit V
+Listening - Listening to different accents, Listening to Speeches / Presentations, Listening to
+broadcast & telecast from Radio & TV; Speaking - Giving impromptu talks, Making presentations
+on given topics; Reading - Email communication - Reading the attachment files having a
+poem/joke/proverb - Sending their responses through email Writing - Creative writing, Poster
+making; Grammar - Direct and indirect speech; Vocabulary - Lexical items (fixed / semi fixed
+expressions); E-materials - Interactive exercises for Grammar & Vocabulary - Sending emails
+with attachment – Audio / video excerpts of different accents, - Interpreting posters
+Text Books:
+1.
+
+Mindscapes: English for Technologies and Engineers, Orient Black Swan, 2012.
+
+2.
+
+S.P. Dhanavel, English and Communication Skills for students of Science and Engineering
+Oriented Black Swan, Chennai 2011.
+
+Reference Books:
+1.
+
+Pickett, Nell Ann, Ann A.Laster and Katherine E.Staples. Technical English: Writing,
+Reading and Speaking. New York: Longman, 2001.
+
+2.
+
+Bailey, Stephen. Academic Writing: A practical guide for students. New York: Rutledge,
+2011.
+
+3.
+
+Morgan, David and Nicholas Regan. Take-Off: Technical English for Engineering.
+Reading: Garnet Publishing Limited, 2008.
+
+4.
+
+Thorn, Michael and Alan Badrick. An Introduction to Technical English. Harlow: Prentice
+Hall Europe, 1993.
+
+5.
+
+Rizvi, M.Ashraf. Effective Technical Communication. New Delhi: Tata McGraw-Hill
+PublishingCompany, 2007.
+
+8
+
+DMIC 102 - MATHEMATICS I
+Unit I MATRICES
+Eigenvalues and Eigenvectors of a real matrix – Characteristic equation – Properties of
+eigenvalues and eigenvectors – Cayley-Hamilton Theorem – Diagonalization of matrices –
+Reduction of a quadratic form to canonical form by orthogonal transformation – Nature of
+quadratic forms.
+Unit II
+
+INFINITE SERIES
+
+Sequences – Convergence of series – General properties – Series of positive terms – Tests of
+convergence (Comparison test, Integral test, Comparison of ratios and D’Alembert’s ratio test) –
+Alternating series – Series of positive and negative terms – Absolute and conditional
+convergence – Power Series – Convergence of exponential, logarithmic and Binomial Series.
+Unit III
+
+FUNCTIONS OF SEVERAL VARIABLES 9+3
+
+Limits and Continuity – Partial derivatives – Homogeneous functions and Euler’s theorem
+– Total derivative – Differentiation of implicit functions – Change of variables –Jacobians –
+Partial differentiation of implicit functions – Taylor’s series for functions of two variables –
+Errors and approximations – Maxima and minima of functions of two variables – Lagrange’s
+method of undetermined multipliers.
+Unit IV
+
+IMPROPER INTEGRALS
+
+Improper integrals of the first and second kind and their convergence – Evaluation of integrals
+involving a parameter by Leibnitz rule – Beta and Gamma functions – Properties – Evaluation of
+integrals using Beta and Gamma functions – Error functions.
+Unit V
+
+MULTIPLE INTEGRALS
+
+Double integrals – Change of order of integration – Double integrals in polar coordinates – Area
+enclosed by plane curves – Triple integrals – Volume of Solids – Change of variables in double
+and triple integrals – Area of a curved surface.
+Text Books:
+1.
+Grewal B.S., “Higher Engineering Mathematics”, Khanna Publishers, New Delhi, 40th
+Edition, 2007.
+2.
+Ramana B.V., “Higher Engineering Mathematics”, Tata McGraw Hill Co. Ltd., New Delhi,
+11th Reprint, 2010.
+References:
+1.
+Jain R.K. and Iyengar S.R.K., “Advanced Engineering Mathematics”, Narosa
+Publications, New Delhi, 3rd Edition, 2007.
+2.
+Bali N., Goyal M. and Watkins C., “Advanced Engineering Mathematics”, Firewall Media
+(An imprint of Lakshmi Publications Pvt., Ltd.,), New Delhi, 7th Edition,2009.
+3.
+Greenberg M.D., “Advanced Engineering Mathematics”, Pearson Education, New Delhi,
+2nd Edition, 5th Reprint, 2009.
+4.
+Peter V.O’Neil, “Advanced Engineering Mathematics”, Cengage Learning India Pvt., Ltd,
+New Delhi, 2007.
+9
+
+DMIC 103 - ENGINEERING PHYSICS
+Unit I
+
+PROPERTIES OF MATTER
+
+9
+
+Elasticity - Poisson’s ratio and relationship between moduli (qualitative) - Stress-strain diagram factors affecting elasticity - bending of beams - cantilever - bending moment - theory and
+experiment of Young’s modulus determination - Uniform and non-uniform bending - I shaped
+girders - twisting couple - hollow cylinder - shaft - torsion pendulum - determination of rigidity
+modulus- moment of inertia of a body (regular and irregular).
+Unit II
+
+ACOUSTICS AND ULTRASONICS
+
+9
+
+Classification of sound - loudness and intensity - Weber-Fechner Law - standard intensity and
+intensity level - decibel - reverberation - reverberation time - rate of growth and decay of sound
+intensity - derivation of Sabine’s formula - absorption coefficient and its determination - factors
+affecting acoustics of buildings : focusing, interference, echo, Echelon effect, resonance - noise
+and their remedies. Ultrasonics - production - magnetostriction and piezoelectric methods detection of ultrasound - acoustic grating - industrial applications - NDT - Ultrasonic method:
+scan modes and practice.
+Unit III
+
+9
+
+THERMAL PHYSICS
+
+Thermal expansion - thermal stress - expansion joints - bimetallic strips - thermal conductivityconductions in solids - Forbe’s and Lees’ disc methods - Rectilinear flow of heat through a rod
+- flow of heat through a compound materials - radical flow of heat through a spherical shell thermal insulation of buildings – Laws of blackbody radiation: Kirchoffs law, Stephens law,
+Wiens law, Raleigh-Jean law and Planks law (derivation). Laws of thermodynamics - Otto and
+diesel engines and their efficiency - entropy - entropy of Carnot’s cycle - reverse Carnot’s cycle refrigerator.
+Unit IV
+
+APPLIED OPTICS
+
+9
+
+Interference - Michelson interferometer: construction, working, determination of wave length
+and thickness - anti-reflection coating - air wedge and its application - Lasers - Einstein’s
+coefficients - CO2, Nd:YAG and semiconductor lasers - homo junction and hetro junction construction and working - applications - Optical fibres - classification (index & mode based)principle and propagation of light in optical fibres - acceptance angle and numerical aperture. fibre optic communication system - active and passive sensors.
+Unit V
+
+SOLID STATE PHYSICS
+
+9
+
+Nature of bonding - growth of single crystals (qualitative) - crystal systems - crystal planes and
+directions - expressions for interplanar distance - coordination number and packing factor for
+simple structures: SC, BCC, FCC and HCP - structure and significance of NaCl, ZnS, diamond
+10
+
+and graphite - crystal imperfections: point defects, dislocations and stacking faults - Unit cell,
+Bravais space lattices - miller indices.
+Text Books:
+1.
+2.
+
+Gaur R.K., and Gupta, S.L., Engineering Physics, Dhanpat Raj Publications,2003.
+Palanisamy, P.K., Engineering Physics, Scitech Publications (P) Ltd, 2006.
+
+References:
+1.
+2.
+3.
+
+Sankar, B.N., Pillai.S.O., Engineering Physics, New Age International (P) Ltd.,2007.
+Rajendran.V Engineering Physics, Tata McGraw-Hill, 2009.
+Arumugam, M., Engineering Physics, Anuradha Publications, 2000.
+
+11
+
+DMIC 104 - ENGINEERING CHEMISTRY
+Unit I
+
+CHEMICAL THERMODYNAMICS
+
+9
+
+Second law: Entropy - entropy change for an ideal gas, reversible and irreversible processes;
+entropy of phase transitions; Clausius inequality. Free energy and work function: Helmholtz and
+Gibbs free energy functions; Criteria of spontaneity; Gibbs- Helmholtz equation; ClausiusClapeyron equation; Maxwell relations – Van’t Hoff isotherm and isochore. Chemical potential;
+Gibbs-Duhem equation – variation of chemical potential with temperature and pressure.
+
+Unit II
+POLYMER CHEMISTRY
+9
+Introduction: Classification of polymers – Natural and Synthetic; Thermoplastic and
+Thermosetting. Functionality – Degree of polymerisation. Types and mechanism of
+polymerisation: Addition (Free Radical, cationic, anionic and living); condensation and
+copolymerisation. Properties of polymers: Tg, Tacticity, Molecular weight – weight average,
+number average and polydispersity index. Techniques of polymerisation: Bulk, emulsion,
+solution and suspension.
+Unit III
+KINETICS AND CATALYSIS
+9
+Introduction – reaction velocity, factors affecting reaction velocity, rate constant, order of
+reaction, molecularity, pseudo molecular reactions, zero, first, second and third order reactions,
+reactions of fractional orders, determination of order of reactions. Catalysis: Auto catalysis Enzyme Catalysis: Michaelis-Menton equation; factors affecting enzyme catalysis.
+Heterogeneous Catalysis: Types of adsorption isotherms: Langmuir–Hinselwood and Rideal–
+Eley Mechanism.
+Unit IV
+
+PHOTOCHEMISTRY AND SPECTROSCOPY
+
+9
+
+Photochemistry: Laws of photochemistry - Grotthuss–Draper law, Stark–Einstein law and
+Lambert-Beer Law. Photoprocesses - Internal Conversion, Inter-system crossing, Fluorescence,
+Phosphorescence, Chemiluminescence and Photo-sensitisation. Spectroscopy: Electromagnetic
+spectrum - Absorption of radiation – Electronic, Vibrational and rotational transitions. Width and
+intensities of spectral lines. Spectrophotometric estimation of iron. UV- visible and IR
+spectroscopy – principles, instrumentation (Block diagram) and applications.
+Unit V
+
+NANOCHEMISTRY
+
+9
+Basics - distinction between molecules, nanoparticles and bulk materials; size-dependent
+properties. Nanoparticles: Nanocluster, nanorod, nanotube and nanowire. Synthesis:
+Precipitation, thermolysis, hydrothermal, solvothermal, electrodeposition, chemical vapour
+deposition, laser ablation; Properties and Applications. Risk discussion and Future perspectives.
+
+12
+
+Text Books:
+1.
+
+P. Kannan and A. Ravikrishnan, “Engineering Chemistry”, Sri Krishna Hitech Publishing
+Company Pvt. Ltd. Chennai, 2009.
+
+2.
+
+S. Vairam, P. Kalyani and Suba Ramesh, “Engineering Chemistry”, Wiley India, 2011
+
+Reference Books:
+1.
+
+P.W. Atkins and de Paula Julio, “Physical Chemistry”, Oxford University Press, 8th Ed.,
+(Indian Student Edition) (2009).
+
+2.
+
+K. K. Rohatgi-Mukherjee, “Fundamental of Photochemistry” New Age International (P)
+Ltd., New Delhi, 1986.
+
+3.
+
+G.A. Ozin and A.C. Arsenault, “Nanochemistry: A Chemical Approach to Nanomaterials”,
+RSC Publishing, 2005.
+
+4.
+
+V.R.Gowariker, N.V.Viswanathan and Jayadev Sreedhar, “Polymer Science”, New Age
+International P (Ltd.,), Chennai, 2006.
+
+13
+
+DMIP- 105 PHYSICS LABORATORY
+List of Experiments
+1. Torsional pendulum
+
+– Determination of rigidity modulus of wire and moment
+of inertia of disc
+2. Non – uniform bending – Determination of young’s modulus
+3. Lee’s disc`
+– Determination of thermal conductivity of a bad conductor
+4. Potentiometer
+– Determination of thermo e.m.f. of thermocouple
+5. Air wedge
+– Determination of thickness of a thin sheet of paper
+6. Optical fibre
+– Determination of Numerical Aperture and acceptance angle
+7. Compact disc
+– Determination of width of the groove usinglaser
+8. Acoustic grating
+– Determination of velocity of ultrasonic waves inliquids
+9. Post office box
+– Determination of Band gap of a semiconductor
+10. Spectrometer
+– Determination of wavelength using grating
+11. Viscosity of liquids
+– Determination of co-efficient of viscosity of a liquid by
+Poiseuille’s flow
+
+DMIP – 106 CHEMISTRY LABORATORY
+List of Experiments
+1.
+Estimation of HCl using Na2CO3 as primary standard and Determination of alkalinity in
+water sample.
+2.
+Determination of total, temporary & permanent hardness of water by EDTA method.
+3.
+Determination of DO content of water sample by Winkler’s method.
+4.
+Determination of chloride content of water sample by argentometricmethod.
+5.
+Estimation of copper content of the given solution byIodometry.
+6.
+Determination of strength of given hydrochloric acid using pH meter.
+7.
+Determination of strength of acids in a mixture of acids using conductivity meter.
+8.
+Estimation of iron content of the given solution usingpotentiometer.
+9.
+Estimation of iron content of the water sample using spectrophotometer
+(1,10- phenanthroline / thiocyanate method).
+10. Estimation of sodium and potassium present in water using flame photometer.
+11. Determination of molecular weight of poly vinyl alcohol using Ostwald viscometer.
+12. Pseudo first order kinetics – ester hydrolysis.
+13. Corrosion experiment – weight loss method.
+14. Determination of CMC.
+15. Phase change in a solid.
+DMIP – 107 COMPUTER PRACTICES LABORATORY
+List of Experiments:
+1.
+Search, generate, manipulate data using MS office/ Open Office
+2.
+Presentation and Visualization – graphs, charts, 2D, 3D
+3.
+Problem formulation, Problem Solving and Flowcharts
+4.
+C Programming using Simple statements and expressions
+5.
+Scientific problem solving using decision making and looping.
+6.
+Simple programming for one dimensional and two dimensional arrays.
+7.
+Solving problems using String functions
+8.
+Programs with user defined functions
+9.
+Program using Recursive Function and conversion from given program to flow chart.
+10. Program using structures and unions.
+14
+
+DMIP 108 - ENGINEERING PRACTICES LABORATORY
+List of Experiments
+Welding
+1. Arc welding of butt joints, lap joints, T Joint.
+2. Gas welding of butt joints, lap joints, T Joint.
+Basic Machining
+Simple turning, drilling and tapping operations. Machine assembly Practice.
+Study and assembling the following: Centrifugal pump and air conditioners.
+Demonstration on
+1. Smith operations like the production of hexagonal bolt.
+2. Foundry operation like mould preparation for grooved pulley.
+Plumbing
+Basic pipe connections involving the fittings like valves, taps, coupling, unions, reducers, elbows
+and other components used in household fittings. Preparation of plumbing line sketches.
+
+15
+
+DMIC 201-TECHNICAL ENGLISH II
+Unit I
+Listening - Listening to informal conversations and participating; Speaking - Opening a
+conversation (greetings, comments on something, weather) - Turn taking - Closing a
+conversation (excuses, general wish, positive comment, thanks); Reading - Developing
+analytical skills, Deductive and inductive reasoning - Extensive reading; Writing - Effective use
+of SMS for sending short notes and messages - Using ‘emoticons’ as symbols in email
+messages; Grammar - Regular & irregular verbs - Active and passive voice; Vocabulary Homonyms (e.g. ‘can’) - Homophones (e.g. ‘some’, ‘sum’); E-materials - Interactive exercise
+on Grammar and vocabulary – blogging; Language Lab - Listening to different types of
+conversation and answering questions.
+
+Unit II
+Listening - Listening to situation based dialogues; Speaking - Conversation practice in real life
+situations, asking for directions (using polite expressions), giving directions (using imperative
+sentences), Purchasing goods from a shop, Discussing various aspects of a film (they have
+already seen) or a book (they have already read); Reading - Reading a short story or an article
+from newspaper, Critical reading, Comprehension skills; Writing - Writing a review / summary
+of a story / article, Personal letter (Inviting your friend to a function, congratulating someone for
+his success, thanking one’s friend / relatives); Grammar - modal verbs, Purpose expressions;
+Vocabulary - Phrasal verbs and their meanings, Using phrasal verbs in sentences; E-materials Interactive exercise on Grammar and vocabulary, Extensive reading activity (reading stories/
+novels from links), Posting reviews in blogs - Language Lab - Dialogues (Fill up exercises),
+Recording students’ dialogues.
+
+UNIT III
+Listening - Listening to the conversation - Understanding the structure of conversations;
+Speaking - Conversation skills with a sense of stress, intonation, pronunciation and meaningSeeking information – expressing feelings (affection, anger, regret etc.); Reading - Speed reading
+– reading passages with the time limit - Skimming; Writing - Minutes of meeting – format and
+practice in the preparation of minutes - Writing summary after reading the articles from the
+journals - Format for the journal articles – elements of technical articles (abstract, introduction,
+methodology, results, discussion, conclusion, appendices, references) - Writing strategies;
+Grammar - Conditional clauses - Cause and effect expressions; Vocabulary - Words used as
+nouns and verbs without any change in the spelling (e.g. ‘rock’, ‘train’, ‘ring’); E-materials. Interactive exercise on Grammar & vocabulary - Speed Reading practice exercises; Language
+Lab - Intonation practice using EFLU materials – Attending a meeting and writing minutes.
+
+16
+
+UNIT IV
+Listening - Listening to a telephone conversation, Viewing a model interview (face-to-face,
+telephonic and video conferencing) and observing the practices; Speaking - Role play practice in
+telephone skills - listening and responding, -asking questions, -note taking – passing on
+messages, Role play and mock interview for grasping the interview skills; Reading - Reading the
+job advertisements and the profile of the company concerned – scanning; Writing - Applying for
+a job – cover letter - résumé preparation – vision, mission and goals of the candidate; Grammar Numerical expressions - Connectives (discourse markers); Vocabulary- Idioms and their
+meanings – using idioms in sentences; E-materials - Interactive exercises on Grammar &
+Vocabulary - Different forms of résumés- Filling up a résumé / cover letter; Language Lab Telephonic interview – recording the responses - e-résumé writing.
+UNIT V
+Listening - Viewing a model group discussion and reviewing the performance of each participant
+- Identifying the characteristics of a good listener; Speaking - Group discussion skills – initiating
+the discussion – exchanging suggestions and proposals – expressing dissent/agreement –
+assertiveness in expressing opinions – mind mapping technique; Reading - Note making skills –
+making notes from books, or any form of written materials Intensive reading Writing - Types of
+reports – Feasibility / Project report – report format – recommendations / suggestions –
+interpretation of data (using charts for effective presentation); Grammar - Use of clauses;
+Vocabulary – Collocation; E-materials - Interactive grammar and vocabulary exercises Sample GD - Pictures for discussion, Interactive grammar and vocabulary exercises - Pictures
+for discussion; Language Lab - Different models of group discussion.
+Text Books:
+1.
+
+Mindscapes: English for Technologies and Engineers, Orient Black Swan, 2012.
+
+2.
+
+S.P. Dhanavel, English and Communication Skills for students of Science and Engineering
+Oriented Black Swan, Chennai 2011.
+
+Reference Books:
+1.
+
+Laws, Anne. Presentations. Hyderabad: Orient BlackSwan, 2000.
+
+2.
+
+Lewis, Hedwig. BodyLanguage:AGuide for Professionals. New Delhi: Sage Publications,
+1998.
+
+3.
+
+Naterop, Jean B. and Rod Revell. Telephoning in English. Cambridge: Cambridge
+University Press, 1987.
+
+4.
+
+Rutherford, Andrea J. Basic Communication Skills for Technology. New Delhi: Pearson
+Education, 2001.
+
+5.
+
+Ur, Penny. Teaching Listening Comprehension. Cambridge: Cambridge University Press,
+1984.
+
+17
+
+DMIC 202- MATHEMATICS II
+Unit I
+DIFFERENTIAL EQUATIONS
+Method of variation of parameters – Method of undetermined coefficients – Homogenous
+equation of Euler’s and Legendre’s type – System of simultaneous linear differential equations
+with constant coefficients.
+Unit II
+VECTOR CALCULUS
+Gradient and directional derivative – Divergence and Curl – Irrotational and Solenoidal vector
+fields – Line integral over a plane curve – Surface integral and volume integral - Green’s, Gauss
+divergence and Stokes theorems – Verification and application in evaluating line, surface and
+volume integrals.
+Unit III
+ANALYTIC FUNCTION
+Analytic functions – Necessary and sufficient conditions for analyticity - Properties – Harmonic
+conjugates – Construction of analytic function - Conformal mapping – Mapping by functions Bilinear transformation.
+Unit IV
+COMPLEX INTEGRATION
+Line integral - Cauchy’s integral theorem – Cauchy’s integral formula – Taylor’s and Laurent’s
+series – Singularities – Residues – Residue theorem – Application of residue theorem for
+evaluation of real integrals – Use of circular contour and semicircular contour with no pole on
+real axis.
+Unit V
+LAPLACE TRANSFORMS
+Existence conditions – Transforms of elementary functions – Transform of Unit step function and
+Unit impulse function – Basic properties – Shifting theorems -Transforms of derivatives and
+integrals – Initial and final value theorems – Inverse transforms – Convolution theorem ––
+Transform of periodic functions – Application to solution of linear ordinary differential equations
+with constant coefficients.
+Text Books:
+1.
+Grewal B.S., “Higher Engineering Mathematics”, Khanna Publishers, New Delhi, 40th
+Edition, 2007.
+2.
+Ramana, B.V. “Higher Engineering Mathematics”, Tata McGraw Hill, New Delhi, 2010.
+References:
+1.
+Glyn James, “Advanced Modern Engineering Mathematics”, Pearson Education, New
+Delhi, 2007.
+2.
+Jain R.K. and Iyengar S.R.K., “Advanced Engineering Mathematics”, Narosa
+Publications, New Delhi, 3rd Edition, 2007.
+3.
+Bali N., Goyal M. and Watkins C., “Advanced Engineering Mathematics”, Firewall Media
+(An imprint of Lakshmi Publications Pvt., Ltd.,), New Delhi, 7th Edition,2009.
+4.
+Peter V.O’Neil, “Advanced Engineering Mathematics”, Cengage Learning India Pvt., Ltd,
+New Delhi, 2007.
+18
+
+DMIC 203 MATERIALS SCIENCE
+Unit I
+MECHANICAL PROPERTIES:
+Introduction to mechanical properties - tensile test - plastic deformation mechanisms - slip and
+twinning - role of dislocations in slip - strengthening methods - strain hardening - refinement of
+the grain size - solid solution strengthening - precipitation hardening - creep resistance - creep
+curves - mechanisms of creep - creep-resistant materials - fracture - the Griffith criterion critical
+stress intensity factor and its determination - fatigue failure - fatigue tests – methods of
+increasing fatigue life - hardness - Rockwell and Brinell hardness - Knoop and Vickers
+microhardness.
+Unit II
+PHASE DIAGRAMS
+Solid solutions - Hume Rothery’s rules - free energy of solid solution - intermediate phases The phase rule - single component system - one-component system of iron - binary phase
+diagrams - isomorphous systems - the tie-line rule - the level rule - application to isomorphous
+system - eutectic phase diagram - peritectic phase diagram - other invariant reactions microstructural change during cooling.
+Unit III
+FERROUS ALLOYS AND HEAT TREATMENT
+The iron-carbon equilibrium diagram - phases, invariant reactions - microstructure of slowly
+cooled steels - eutectoid steel, hypo and hypereutectoid steels - effect of alloying elements on the
+Fe-C system - diffusion in solids - Fick’s law - phase transformations - pearlitic transformations T-T-T-diagram for eutectoid steel - baintic and martensitic transformations - tempering of
+martensite - heat treatment of steels - annealing - normalizing - quenching and tempering - case
+hardening - induction, flame and laser hardening - carburizing, cyaniding, carbonitriding and
+nitriding.
+Unit IV
+
+ELECTRONIC MATERIALS
+
+Classification of solids - energy bands - concept of Fermi level - conductor, semiconductor,
+insulator - Semiconductors: intrinsic, extrinsic - carrier concentration expression (qualitative)
+- compound semiconductors (qualitative) - dielectric materials - polarization mechanisms dielectric breakdown - magnetic materials - ferromagnetic materials & hysteresis - ferrites superconducting materials, properties, types and applications.
+Unit V
+NEW MATERIALS AND APPLICATIONS
+Introduction to Ceramics and its applications - Ceramic Fibres - Fibre reinforced Plastics – Fibre
+reinforced Metal – Metallic glasses – Shape memory alloys – Copper base alloys – Nickel –
+Titanium alloys – Relaxor- Ferroelectric materials – Electro and magneto rheological fluids Sensors and Actuators – polymer semiconductos – photoconducting polymers
+– liquid crystals - Bio-sensors - Scintillation detectors (Position sensitive) –Bio materials –
+hydroxyapatite – PMMA – Silicone.
+Text Books:
+1.
+Raghavan, V., Materials Science and Engineering, Prentice Hall of India, 2007.
+2.
+Palanisamy, P.K., Applied Materials Science, Scitech, 2003.
+Reference Books:
+1.
+Calister, W.D., Materials Science and Engineering an Introduction, John Wiley, 2003.
+2.
+Rajendarn V and Marikani A, Materials Science, Tata McGraw Hill, 2006
+3.
+Raghavan, V., Physical Metallurgy, Prentice Hall of India, 2002.
+19
+
+DMIC 204- CHEMISTRY FOR MINING ENGINEERING
+Unit I
+WATER TREATMENT
+Different types of impurities in water-disadvantages of hard water in industries – conditioning
+methods – external treatment methods –zeolite and ion exchange methods – internal treatment
+(colloidal, phosphate, calgon, carbonate methods) – desalination (reverse osmosis and electrodialysis) – requisites of drinking water – treatment of domestic water (screening, sedimentation,
+coagulation, filtration, disinfection – by chlorination, UV treatment, ozonization).
+Unit II
+POLYMERS, LUBRICANTS AND ADHESIVES
+Thermosetting and thermoplastics resins – properties and applications of polythene, polypropylene,
+TEFLON, polystyrene, polyvinyl chloride, PMMA, polyamides, polyesters, bakelite, vulcanization of
+rubber – rubber blended plastics – laminated plastics – laminated glass – thermocole. Lubricants and
+lubrication- functions- classification with examples- properties (viscosity index, flash and fire point,
+oiliness, carbon residue, aniline point, cloud and pour point)- greases (calcium based, sodium based,
+lithium based only)- solid lubricants- graphite and molybdenum sulphide. Adhesives – adhesive
+action – development of adhesive strength – physical and chemical factors influencing adhesive
+action – bonding process of adhesives –phenol formaldehyde resins, polyurethane, epoxy resins, urea
+formaldehyde.
+Unit III CORROSION AND CORROSION INHIBITION
+Corrosion – causes of corrosion – principles of chemical corrosion – Pilling – Bedworth ruleprinciples of electrochemical corrosion – difference between chemical and electrochemical corrosion –
+factors influencing corrosion – types of corrosion – galvanic corrosion – differential aeration corrosion
+– stress corrosion – soil corrosion – pitting corrosion, water line corrosion -corrosion control –
+cathodic protection – sacrificial anode – selection of materials and proper designing – corrosion
+inhibitors, protective coatings.– Paints, varnishes and lacquers- Electroplating- hot dip process.
+Unit IV ABRASIVES AND CHEMISTRY OF BUILDING MATERIALS
+Cement – chemical composition – setting and hardening – concrete – weathering of cement and
+concrete and its prevention- special cements – high alumina cement, sorel cement, white Portland
+cement, water proofing, and quick setting cement – lime – classification – manufacture, setting and
+hardening – refractories – requisites –classification – common refractory bricks – preparation,
+properties and uses of silica bricks, high alumina bricks, magnesite bricks, carbon bricks, zirconia
+bricks and carborundum – composites – definition of composites – characteristics – constituents of
+composites – types – fibre reinforced plastic (FRP) – metal matrix composites (MMC) – ceramic
+matrix composites (CMC) – properties and applications. Mohr’s scale of hardness- natural abrasives
+(diamond, corundum, emery, garnets and quartz)- artificial abrasives (silicon carbide, boron carbide).
+Unit V
+FUELS AND EXPLOSIVES
+Classification of fuels (solid, liquid and gases) comparison- coal varieties- analysis of coal, proximate
+analysis and ultimate analysis - significance- coke manufacture (Beehive coke oven and OttoHoffman by product coke oven method)- characteristics of metallurgical coke- Petrol- knockingOctane Number- improvement of antiknock characteristics- diesel engine fuel- Cetane Numbergaseous fuels- composition and uses of producer gas, water gas and natural gas- combustion –gross
+and net calorific values- theoretical calculation of calorific value (Dulong’s formula)- calculation of
+minimum requirement of air (simple calculations)- explosive range, spontaneous ignition temperature
+– flue gas analysis – Orsat apparatus. Chemistry of different types of industrial explosives like – gun
+powder, dynamite, Nitroglycerin Based explosives, Ammonium Nitrate Based explosives,
+Ammonium Nitrate fuel oil, PETN, TNT, Liquid oxygen, slurry explosives and emulsionexplosives.
+Text Books:
+1.
+Jain P.C. and Monica Jain, Engineering Chemistry, Dhanpat Rai Publishing Company
+(P) Ltd., New Delhi, 2002.
+2.
+Dara.S.S., A Textbook of Engineering Chemistry, S.Chand & Company Ltd., New Delhi, 2003.
+Reference Books:
+1.
+Nanjundan, S. and Sreekultan Unnithan, C., Applied Chemistry, Sree Lakshmi Publications,
+Chennai, 2001.
+2.
+Sadasivam, V., Modern Engineering Chemistry – A Simplified Approach, Vol.I, Kamakya
+Publications, Coimbatore, 2003.
+
+20
+
+DMIC 205 - ENGINEERING MECHANICS
+Unit I
+BASICS AND STATICS OF PARTICLES
+12
+Introduction – Units and Dimensions – Laws of Mechanics – Lami’s theorem, Parallelogram and
+triangular Law of forces –– Vectorial representation of forces – Vector operations of forces additions, subtraction, dot product, cross product – Coplanar Forces – rectangular components –
+Equilibrium of a particle – Forces in space – Equilibrium of a particle in space -Equivalent
+systems of forces – Principle of transmissibility .
+Unit II
+EQUILIBRIUM OF RIGID BODIES
+12
+Free body diagram – Types of supports –Action and reaction forces –stable equilibrium –
+Moments and Couples – Moment of a force about a point and about an axis – Vectorial
+representation of moments and couples – Scalar components of a moment – Varignon’s theorem –
+Single equivalent force -Equilibrium of Rigid bodies in two dimensions – Equilibrium of Rigid
+bodies in three dimensions
+Unit III
+PROPERTIES OF SURFACES AND SOLIDS
+12
+Centroids and centre of mass– Centroids of lines and areas - Rectangular, circular, triangular areas
+by integration – T section, I section, - Angle section, Hollow section by using standard formula –
+Theorems of Pappus - Area moments of inertia of plane areas – Rectangular, circular, triangular
+areas by integration – T section, I section, Angle section, Hollow section by using standard
+formula – Parallel axis theorem and perpendicular axis theorem –Principal moments of inertia of
+plane areas – Principal axes of inertia-Mass moment of inertia –mass moment of inertia for
+prismatic, cylindrical and spherical solids from first principle – Relation to area moments of
+inertia.
+Unit IV
+DYNAMICS OF PARTICLES
+12
+Displacements, Velocity and acceleration, their relationship – Relative motion – Curvilinear
+motion -Newton’s laws of motion – Work Energy Equation– Impulse and Momentum – Impact of
+elastic bodies.
+Unit V FRICTION AND ELEMENTS OF RIGID BODY DYNAMICS
+12
+Friction force – Laws of sliding friction – equilibrium analysis of simple systems with sliding
+friction –wedge friction-. Rolling resistance -Translation and Rotation of Rigid Bodies – Velocity
+and acceleration – General Plane motion of simple rigid bodies such as cylinder, disc/wheel and
+sphere.
+Text Books:
+1.
+Beer, F.P and Johnston Jr. E.R. “Vector Mechanics for Engineers (In SI Units): Statics and
+Dynamics”, 8th Edition, Tata McGraw-Hill Publishing company, New Delhi(2004)
+2.
+Vela Murali, “Engineering Mechanics”, Oxford University Press (2010)
+References:
+1.
+Hibbeller, R.C andAshok Gupta, “Engineering Mechanics: Statics and Dynamics”, 11th
+Edition, Pearson Education (2010).
+2.
+Irving H. Shames and Krishna Mohana Rao. G., “Engineering Mechanics – Statics and
+Dynamics”, 4th Edition, Pearson Education (2006)
+3.
+J.L.Meriam and L.G.Kraige, “ Engineering Mechanics- Statics - Volume 1, DynamicsVolume 2,Third Edition, John Wiley & Sons,(1993)
+4.
+Rajasekaran, S and Sankarasubramanian, G., “Engineering Mechanics Statics and
+Dynamics”,3rd Edition, Vikas Publishing House Pvt. Ltd.,(2005).
+5.
+Bhavikatti, S.S and Rajashekarappa, K.G., “Engineering Mechanics”, New Age International
+(P) Limited Publishers, (1998).
+6.
+Kumar, K.L., “Engineering Mechanics”, 3rd Revised Edition, Tata McGraw-Hill Publishing
+company, New Delhi (2008).
+21
+
+DMIC 206 - MINE DEVELOPMENT
+Unit I
+
+INTRODUCTION TO MINING
+
+History of mining, contribution of mining to civilisation and national economy Indian mineral
+resources and world status, role of mining engineers in industry. Introduction to opencast and
+underground coal & metalliferous mining – selection criteria, comparison. Modes of entry into
+deposits for underground mining – shafts, inclines, adits, etc.
+Unit II
+
+INTRODUCTION TO DRILLING
+
+Principles of drilling, methods, selection, applications and limitations, drill bits, flushing methods,
+fields of application, exploration and production drilling, drilling in undergroundworkings,
+variables affecting the performance of drilling, novel methods of drilling.
+Unit III
+
+SHAFT SINKING
+
+Selection of site and size, sinking methods, support system, ventilation, lighting and drainage
+arrangements during sinking, material handling and safety in sinking shafts.Introduction to
+piling, caisson and freezing methods - cementation method - widening and deepening of shafts.
+Modern techniques of shaft sinking – shaft boring, design of shaft insets, pit bottom excavation
+and shaft raising.
+Unit IV
+
+INTRODUCTION TO EXPLOSIVES AND BLASTING
+
+Types of explosives, fuses, detonators and other accessories, alternatives to explosives, cause of
+accidents and safety precautions, drilling and blasting pattern for underground excavations,
+merits, demerits and limitations of blasting. Storage and transport of explosives.
+Unit V
+
+DRIFTING AND TUNNELING
+
+Drivage of drifts, organisation and cycle of operations, supporting of development workings,
+modern methods of drifting, tunnelling, road heading and tunnel boring.
+Text Books:
+1.
+2.
+
+Hartman, H.L., Introduction to Mining Engineering, John Wiley and Sons, Second
+Edition, 1999.
+Deshmukh,D.J., Elements of Mining Technology, Vol.I, Vidyaseva Prakashan, Nagpur,
+
+References:
+1.
+2.
+3.
+4.
+5.
+6.
+
+Chugh,C.P., Drilling Technology Hand Book, Oxford & IBH Publications, 1994.
+Chugh,C.P. Diamond Drilling, Oxford & IBH Publishers, 1999.
+Karnam,U.M.R., Principles of Rock Drilling, 1999.
+Bhandari S., Engineering rock blasting operations, A. A. Balkema, 1997.
+Cummings,A.B. and Given, I.A., SME Mining Engineers’ Handbook, Vol.I and II, Society
+of Mining Engineers, New York, 1993.
+Universal Mining School - Lecture notes, cardiff, U.K
+
+22
+
+DMIP 207 COMPUTER AIDED MACHINE DRAWING
+Drawing Standards
+Code of practice for Engineering Drawing, BIS specifications – Welding symbols, riveted joints,
+keys, fasteners – Reference to hand book for the selection of standard components like bolts, nuts,
+screws, keys etc.
+Fits And Tolerences
+Limits, Fits – Tolerancing of individual dimensions – Specification of Fits – Preparation of
+production drawings and reading of part and assembly drawings, basic principles of geometric
+dimensioning & tolerancing.
+Introduction To Drafting Package
+Drawing, Editing, Dimensioning, Plotting Commands, Layering Concepts, Matching, Detailing,
+Detailed drawing, Basic principles of geometric dimensioning & tolerancing.
+ASSEMBLY DRAWING (Preparation of 2D assembled views for
+the given part details)
+Preparation of assembled views, both manually and using software package, given part details for
+components such as Shaft couplings – Plummer block – Screw jack – Lathe Tailstock – Universal
+joint – Machine Vice – Stuffing box – Crosshead – Safety Valves – Non-return valves –
+Connecting rod – Piston and crank shaft – Multi plate clutch – Preparation of Bill of materials and
+tolerance data sheet.
+Text Books:
+1.
+Gopalakrishna K.R., “Machine Drawing”, 17th Edition, Subhas Stores Books Corner,
+Bangalore, 2003.
+2. N. D. Bhatt and V.M. Panchal, “Machine Drawing”, 45th Edition, Charator Publishers, 2010
+References:
+Goutam Pohit and Goutam Ghosh, “Machine Drawing with AutoCAD”, 1st Edition, Pearson
+Education, 2004
+Junnarkar, N.D., “Machine Drawing”, 1st Edition, Pearson Education, 2004
+N. Siddeshwar, P. Kanniah, V.V.S. Sastri, ”Machine Drawing” , published by Tata Mc
+GrawHill,2006
+S. Trymbaka Murthy, “A Text Book of Computer Aided Machine Drawing”, CBS Publishers,
+New Delhi, 2007.
+
+23
+
+DMIP 208 MANUFACTURING TECHNOLOGY LABORATORY I
+List of Experiments:
+Machining, Measurement and Machining time estimations of Taper Turning
+External Thread cutting Internal Thread Cutting Eccentric Turning Knurling
+Square Head Shaping Hexagonal Head Shaping
+
+24
+
+DMIC 301- MINING GEOLOGY I
+Unit I
+
+Physical Geology
+
+Main branches of geology - Origin of earth – age of earth - structure and composition of the earth
+– earthquakes, volcanoes and mountains- basics of plate tectonics.
+Unit II
+
+Geomorphology
+
+Physiographic divisions of India. Concept of geomorphology - processes of weathering –
+development of river system - classification of seas – formation of glaciers – formation of lakes.
+Unit III
+
+Mineralogy
+
+Physical properties of minerals – rock forming minerals –physical and chemical properties of
+important rock forming minerals: quartz, feldspar, pyroxene, amphibole, mica, olivine and garnet
+group of minerals and calcite.
+Unit IV
+
+Petrology
+
+Classification of rocks – Description of igneous, sedimentary and metamorphic rocks – forms
+and mode of occurrence of igneous rocks. Common igneous rocks : granite, syenite, diorite and
+basalt. Common sedimentary rocks: sandstone, limestone, laterite and shale. Common metamorphic
+rocks: quartzite, slate, schist, gneiss and marble. Engineering properties of rocks.
+Unit V
+
+Structural Geology
+
+Dip and strike. Introduction to geological structures. Definition, classification and description of
+folds, faults, joints and unconformities. Criteria for recognition of fold and faults in the field and
+their significance in mineral exploration.
+Text Books:
+1.
+2.
+
+Parbin Singh. Geology for Engineers, IBH Publications, N. Delhi. 1991.
+Arthur Holemess, Principles of Physical Geology, Thomas Nelson and Sons, USA, 1964.
+
+Reference Books:
+1.
+3.
+4.
+5.
+6.
+
+Blyth F.G.H. and De Freitas M.H. Geology for Engineers, 7th edition, Elsevier Publications,
+2006.
+Bell F.G. Engineering Geology, Elsevier Publications, 2007.
+Ford, W.E. Dana’s Textbook of Mineraology (4th edition), Wiley Eastern Ltd., N. Delhi,
+1989.
+Winter, J.D. An Introduction to Igneous and Metamorphic Petrology, Prentice Hall, N.
+Delhi, 2001.
+Billings, M.P. Structural Geology, Prentice Hall Ino., N. Jersey, USA, 1972.
+
+25
+
+DMIC 302 - STRENGTH OF MATERIALS
+Unit I
+
+Stress, Strain And Deformation Of Solids
+
+Rigid bodies and deformable solids – Tension, Compression and Shear Stresses – Deformation of
+simple and compound bars – Thermal stresses – Elastic constants – Volumertric strains –
+Stresses on inclined planes – principal stresses and principal planes – Mohr’s circle of stress.
+Unit II
+
+Transverse Loading On Beams And Stresses In Beam
+
+Beams – types transverse loading on beams – Shear force and bending moment in beams –
+Cantilevers – Simply supported beams and over – hanging beams. Theory of simple bending
+– bending stress distribution – Load carrying capacity – Proportioning of sections – Flitched
+beams – Shear stress distribution.
+Unit III
+
+Torsion
+
+Torsion formulation stresses and deformation in circular and hollows shafts – Stepped shaftsDeflection in shafts fixed at the both ends – Stresses in helical springs – Deflection of helical
+springs, carriage springs.
+Unit IV
+
+Deflection Of Beams
+
+Double Integration method – Macaulay’s method – Area moment Theorems for computation of
+slopes and deflections in beams - Conjugate beam and strain energy – Maxwell’s reciprocal
+theorems.
+Unit V
+
+Thin Cylinders, Spheres And Thick Cylinders
+
+Stresses in thin cylindrical shell due to internal pressure circumferential and longitudinal stresses
+and deformation in thin cylinders – spherical shells subjected to internal pressure – Deformation
+in spherical shells – Lame’s theory – Application of theories of failure.
+Text Books:
+1.
+2.
+
+Bansal, R.K., Strength of Materials, Laxmi Publications (P) Ltd.,2007
+Jindal U.C., Strength of Materials, Asian Books Pvt. Ltd., New Delhi,2007
+
+References Books:
+1.
+2.
+3.
+4.
+
+Egor. P.Popov “ Engineering Mechanics of Solids” Prentice Hall of India, New Delhi,
+2001
+Subramanian R., Strength of Materials, oxford University Press, Oxford Higher Education
+Series, 2007.
+Hibbeler, R.C., Mechanics of Materials, Pearson Education, Low Price Edition, 2007
+Ferdinand P. Been, Russell Johnson, J.r. and John J. Dewole Mechanics of Materials, Tata
+Mcgraw Hill publishing ‘co. Ltd., New Delhi.
+
+26
+
+DMIC 303 - MINE SURVEYING
+
+Unit I UNDERGROUND SURVEY AND MODERN SURVEYING METHODS
+
+14
+
+Special features of Underground Mining surveying; Correlation of Surface and underground
+mine workings; operational details and applicable errors in each; methods of transferring
+levels to different landings/ levels/ horizon; Illustrative examples: Measurement of shaft depth
+Application of Remote sensing and photogrammetry in exploration and mining; EDM;
+Electronic theodalite, Electronic Tachometer (Total station); Laser Theodalite; GPS; GIS;
+DTM Applicability and limitations.
+Unit II ADJUSTMENT OF SURVEY MEASUREMENT
+
+10
+
+Most probable value, laws of weights; principle of least square; uncorrelated values of unequal
+precision; Adjustment of figures – Simple triangle, two connected triangles, crossed quadric
+lateral, hubangle correction (polygon); errors and adjustment in steep sights; striding level;
+Application of top eccentric and side eccentric telescopes Illustrativeexamples:
+Unit III
+
+ALIGNMENT SURVEY AND TACHOMETRY
+
+10
+
+Alignment / Gradient control of vertical and inclined shafts; gradient control in development
+openings; Holing surveys; Application of appropriate methods, equipment, operational control;
+Alignment in Headgears, machinery foundation etc Illustrative examples:
+Unit IV
+
+STOPE & SUBSIDENCE SURVEYS AND .MINE PLANS
+
+9
+
+Stope survey – objectives, methods, preparation of stope plan, preparation of mine plan
+subsidence survey – Subsidence trough, factors influencing subsidence, protective pillars,
+guidelines subsidence in laying out monitoring stations, methods of survey, statutory provisions
+and circulars.Preparation of Mine plans and sections; stepped plan; Allay plan; Duties and
+responsibilities of mine surveyor under mines act and connected legislations.
+Unit V
+
+CONTOURING AND CURVE SETTING MISCELLANEOUS SURVE
+APPLCIATIONS
+
+17
+
+Methods of Contouring; contour gradient; uses of contours; Reservoir / Catchment area
+calculations Illustrative examples: setting out underground / curves; need for curves; types of
+curves; methods of curve setting Dip/ Strike / Fault interpretation from inclined angle vertical
+borehole data in dipping and plunging formations; interpretations of borehole maps; borehole
+deviation; calculation of plunge in folded terrain.
+
+27
+
+Text Books:
+1.
+2.
+
+Winniberg, F., Metalliferous Mine Surveying
+Punmia, B.C., Surveying Vol I and II, Laxmi Publication, New Delhi, 1991
+
+References Books:
+1.
+2.
+3.
+4.
+
+Mason,E., Coal Mining Series, Surveying ,Vol I And Vol II, Virtue And Company
+Limited, London.
+Clark, D., Plane And Geodetic Surveying,Vol I And Vol II, CBS Publishing Co., 1986.
+Assur,V.L.And Pilatov,A.M., Pratical Guide To Surveying MIR Publishers, Moscow
+1988.
+Kenetkar, T.P., Surveying and Levelling, Vol I and Vol II, United Book Corporation,
+Poona, 1991.
+
+28
+
+DMIC 304 - MINING ENVIRONMENTAL ENGINEERING
+
+Unit 1 Introduction
+Man and Environment: Overview (socio-economic structure & occupational exposures) –
+Scope of Environmental Engineering – pollution problems due to urbanization &
+industrialization
+Air Pollution and Water Pollution:
+Causes of air pollution – types & sources of air pollutants- Climatic & Meteorological effect on
+air pollution concentration- formation of smog and fumigation.
+Water Sources
+Origin of waste water – Types of water pollutants and their effects
+Different Sources of Water Pollution
+Biological Pollution (point & non-point sources) – Chemical Pollutants: Toxic Organic &
+Inorganic Chemicals – Oxygen demanding substances – Physical Pollutants: Thermal Waste –
+Radioactive waste – Physiological Pollutants: Taste affecting substances – other forming
+substances
+Unit – II Analysis of Air Pollutants
+Collection of Gaseous Air Pollutants- Collection of Particulate Pollutants – Analysis of Air
+Pollutants like : Sulphur dioxide – Nitrogen oxide – Carbon monoxide – Oxidants &Ozone –
+Hydrocarbons – Particulate Matter
+Air Pollution Control Measures & Equipment - Control of Particulate Emission – Control of
+Gaseous Emission – Flue Gas Treatment Methods : Stacks Gravitational and Inertial
+Separation, Settling Chambers, Dynamic Separators, Cyclones, Filtration, Liquid
+Scrubbing, Spray Chambers, Packed Towers, Orifice and Ventury Scrubbers, Electrostatic
+Precipitators, Gas/solid Adsorption, Thermal Decomposition
+Unit – III Methods & Approach of Air Pollution Control
+Controlling smoke nuisance – Develop air quality criteria and practical emission standards –
+Creating zones suitable for industry based on micrometeorology of air area – Introducing
+artificial methods of removal of particulate and matters of waste before discharging to open
+atmosphere
+Unit – IV Soil Polluting Agencies & Effect of Pollution
+Liquid & Solid Wastes – Domestic & Industrial Wastes – Pesticides – Toxic: Inorganic &
+Organic Pollutants – Soil Deterioration – Poor Fertility, Septicity, Ground Water Pollution,
+Concentration of Infecting Agents in Soil
+29
+
+Solid Waste Disposal
+Dumping domestic & Industrial Solid Wastes: Advantages & Disadvantages – Incineration:
+Advantages & Disadvantages – Sanitary Land Field: Advantages & Disadvantages –
+Management of Careful & Sanitary Disposal of Solid Wastes
+Unit – V Noise Pollution & Control
+Noise Pollution: Intensity, Duration – Types of Industrial Noise – Ill effects of Noise – Noise
+Measuring & Control – Permissible Noise Limits
+Environmental Legislations, Authorities & Systems
+Air & Water Pollution Control Acts & Rules (Salient Features only) – Functions of State /
+Central Pollution Control Boards – Environmental Management System: ISO 14 000 (Salient
+Features only
+Text Books/ Reference Books
+1. Kormondy, Concept of Ecology Prentice-Hall of India, New. Delhi
+2. Odum, Fundamental of Ecology, Prentice-Hall of India, N.ew Delhi
+3. J. Turk & A. Turk, Environmental Science
+4. Dix, Environmental Pollution
+5. Pollution Control Acts, Rules and Notification / Central Pollution Control Board, New Delhi
+6. Dr. A.K. De, Environmental Chemistry
+7. D. Lal, Water Supply & Waste Water
+
+30
+
+DMIC 305 - SURFACE MINING
+Unit I
+
+INTRODUCTION
+
+Important terms and definitions pertaining to surface mining operations. Introduction to
+surface mining methods. Status of surface mining, types of surface mine operations. Concept
+of stripping ratio, stripping economics, ultimate pit limits. Elements of surface mine planning.
+Major factors affecting exploitation of mineral resources.
+Unit II
+
+LAYOUT AND DESIGN OF SURFACE MINES
+
+Selection of mining method based on ore body characteristics. Cycles of mining operations..
+Working pit slope and ultimate pit slope, various modes of slope failures, factors influencing
+slope stability, development of open-cast mine layouts, stripping methods using different
+machinery, Various layout problems and their solutions. Conversion of Underground mine to
+open-cast mines.
+Unit III
+
+DEVELOPMENT OF SURFACE MINES
+
+Removal and systematic storage of overburden. Formation of benches and bench parameters.
+Rock drilling methods, Explosives and blasting, sizing and loading of materials. Material
+handling and storage at surface mines. Outline of coal and lignite excavation by surface
+operation method. Outline of surface placer mining. Advantages and disadvantages of surface
+mining operations.
+Unit IV
+
+EXCAVATION SYSTEM IN SURFACE MINES
+
+Surface mining technology. Selection criteria for excavation / loading and material transport
+equipment used in surface mines. Classification, construction, capacity, operation,
+productivity and application of different types of excavating / loading equipment used in
+surface mines. Surface mining technology – Open-cast mining practices by bucket wheel
+excavators. Open-cast mining practices by Surface Miner. Problems of Deep open-cast
+mining.
+Unit V
+
+TRANSPORT AND WASTE DUMPS
+
+Scope and application of different modes of transport system in surface mines – Trucks, belt
+conveyors (shift able and high-angle), Aerial ropeways, Rail transport and Pipeline transport
+systems. Scope and application of in-pit crushers in surface mines. Types of waste dump –
+internal and external; dump formation methods and corresponding equipment; Dump stability
+and stabilization measures. Health and safety in surface mining.
+Note: All Statutory aspects like CMR, MMR and relevant DGMS circulars are to be covered
+by the faculty.
+
+31
+
+Text Books:
+1.
+2.
+
+Kennedy, B.A., Surface Mining – 2nd Edition, SME, New York, 1990.
+Hartman H.L., Introductory Mining Engineering, John Wiley and Sons, 2002.
+
+References Books:
+1.
+2.
+3.
+
+4.
+5.
+6.
+
+Amitosh De, Heavy Earth Moving Machinery, Lovely Prakashan, Dhanbad, 2000.
+Hustrulid, W. and Kuchta, M, Open Pit Mine Planning & Design, Vol. 1, Fundamentals,
+Balkema, Rotterdam, 1998.
+Singh, R.D., Principles and Practices of Modern Coal Mining, New Age International
+(P) Ltd., Publishers, 1997 Hartman, H.L. (Ed.), SME Mining Engg. Handbook Vol. I
+and II, Society for Mining, Metallurgy, and Exploration, Inc., Colorado,1992.
+Pfleider, E. P, Surface Mining, 1st Edition, New York, 1968.
+Konya, C.J. and Walter, E.J., Surface Blast Design, New Jersey, 1990.
+Rzhevsky V., Open pit Mining Operations, Mir Publications, 1971.
+
+32
+
+DMIC 306 - DRILLING AND BLASTING
+Unit I
+
+Exploratory Drilling
+
+Drilling for exploration and other purposes; various types of drilling equipment – their merits,
+demerits and limitations; core recovery –single and double tube core barrels, wire line drilling;
+directional drilling, fishing tools; borehole surveying; borehole logging; novel and special
+drilling techniques. Drilling for oil and ground water.
+Unit II
+
+Production Drilling
+
+Production drilling; Various methods of drilling - percussive, rotary, rotary percussive, Factors
+affecting drilling; mechanics of drilling; drill ability and drilling index; micro-bit drilling;
+selection of drilling equipment; different types of bit, bit wear; drill hole economics; case
+studies
+Unit III
+
+Explosives, Accessories And Tools
+
+Explosives and Blasting Agents- ANFO, slurry, emulsion, LOX, permitted explosives, bulk
+explosives; Selection of explosives; Blasting accessories, Initiation systems, Testing of
+explosives; Storage, transportation and handling of explosives; Destruction of explosives and
+accessories. Theories of rock breakage; mechanics of rock fragmentation by explosive action,
+Instrumentation in blasting –V.O.D probe, vibration monitoring, high speed video camera, etc.
+Unit IV
+
+Blasting In Underground Mines
+
+Design of blast for coal and metal underground mines – gallery, Solid blasting techniques,
+periphery blasting, drilling pattern for tunneling and shaft sinking, controlled blasting techniques,
+dangers associated with underground blasting and preventive measures; misfires, blown out
+shots, incomplete detonation – their causes and remedial measures.
+Unit V
+
+Blasting In Surface Mines And Allied Engg. Fields
+
+Methods of blasting in surface mines, Blast design, Primary and secondary blasting, Rock
+fragmentation studies, Dangers associated with blasting in opencast mines and preventive
+measures, Environmental impacts due to blasting, Controlled blasting techniques, Blasting in
+opencast coal mines of developed galleries, Blasting economics, Computer aided design of
+blasts.
+Blasting for road constructions, trench cutting, demolition of buildings etc; Blasting for
+Dimensional stones; Underwater blasting. Alternatives to blasting.
+Note: Relevant portions of Coal and Metalliferrous Mines Regulations, DGMS Circulars shall
+be covered wherever required.
+
+33
+
+Text Books:
+1.
+
+2.
+
+Hustrulid, W. A. Blasting Principles of Open Pit Mining, Vol. 1- General Design
+Concept,
+A.A. Balkema, Rotterdam, 1999.
+Jimeno, C.L., Jimeno, E.L, Carcedo, E.J. Drilling and Blasting of Rocks, A.A.Balkema,
+Rotterdam, 1995.
+
+References Books:
+1.
+2.
+3.
+
+Kennedy, B.A., Surface Mining – 2nd Editions, SME, New York, 1990.
+Pijush Pal Roy., Rock blasting: effects and operations, A.A. Balkema, Rotterdam, 2005.
+Clark, G.B., Principles of Rock fragmentation, Wiley Interscience Publication, 1987.
+
+34
+
+MIP 307 - Mine Development Drilling and Blasting Laboratory
+List of Experiments
+Study of accessories of boring machines and boring rig.
+Study, sketch & use of the boring and fishing tools.
+Study and sketch of Hydraulic feed mechanism of the drilling machine.
+Study and sketch of double tube core barrel
+Study and sketch of various types of detonators and relay
+Study of different types of exploders.
+Study of construction and use of stemming rods, scraper cum break detector, blasting
+cable, circuit tester etc
+8. Study and sketch of approved types of explosive magazines
+9. Study & sketch of different types of initiation.
+10. Study & sketch of Hydraulic Splitter / Cordex
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+DMIP 308 - MINE SURVEYING LABORATORY
+
+List of Experiments
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Theodolite traverses survey.
+Method of co-ordinates.
+Close traversing by Theodolite & balancing by Bowditch rule & transit rule.
+Study of Miners Dial its constructional features & adjustments
+Study of measurement of Depth of a vertical shaft.
+Study of measuring subsidence.
+Determine the true apparent dip & strike from bore hole data.
+
+35
+
+DMIC 401 - MINING GEOLOGY II
+Unit I Economic Geology
+Ore forming process, mineral deposits formed from magmatic, hydrothermal and volcanic
+process: mechanical concentration, oxidation and supergene enrichment.
+Unit II Economic Mineral Deposits
+Metallic and non-metallic deposits, study of graphite, copper, zinc, lead, gold, iron, manganese,
+radioactive minerals, asbestos, mica, gemstone-origin, mode of occurrence and distribution in
+India. Origin, occurrence and Indian distribution of industrial minerals-ceramic, refractory,
+abrasive, glass and natural pigments.
+Unit III Coal And Petroleum Geology
+Origin, physical properties, processes, occurrence of coal and its types, petroleum deposits.
+Petroliferous basins of India. Ore reserve estimation and UNFC.
+Unit IV Mineral Exploration
+Methods of investigation ore bodies- rock sampling techniques ore reserve estimation methods
+and UN framework classification (UNFC).
+Coal and petroleum reserve calculation.
+Geophysical prospecting methods – Introduction. Seismic, electrical, magnetic and gravity
+methods of mineral prospecting.
+Unit V Remote Sensing Application In Geological Studies
+Introduction to aerial and satellite remote sensing. photo recognition elements; applications of
+remote sensing and GIS in geological mapping and mineral exploration.
+Text Books:
+1. Bateman, A.M., Economic Mineral Deposits, John Wiley and Sons,1956
+2. Krishnaswamy, S. Indian Mineral Resources, Oxford and IBH Publication Company,
+New Delhi, 1984.
+3. Umeshwar Prasad, Economic Geology: Economic Mineral Deposits, CBS Publishers &
+Distributors, 2014.
+Reference Books:
+1. Bales, R.L., Geology of the Industrial Rocks and Minerals, Harper press (India) Ltd.,
+Faridabad, 1988.
+2. Arogyaswamy, R.N.P., courses in Mining Geology, Oxford and IBH Co., New Delhi, 1988.
+4. Umathay, R.M., Text book of Mining Geology, Dattsons , 2002.
+5. Arogyaswamy, R.N.P., Courses in Mining Geology, Oxford and IBH Co., New Delhi, 1988.
+36
+
+DMIC 402 - MINING MACHINERY- I
+
+Unit I: Wire Ropes
+Usage, chemical composition, infield tests of wire, classification of wire ropes, applicabilities of
+different ropes - causes of deterioration, precautions, selection parameters - computation of
+numerical problems on size - Weight and strength of wire ropes. Capping and recapping of wire
+ropes, classification - description of capping methods - splicing methods, description of splicing
+
+Unit II: Transportation In Mines -Rope Haulages
+Purpose of transportation, comprehensive classification of transportation - ROPE HAULAGE direct Rope Haulage System, merits, demerits and applications - safety Devices in Direct Rope
+Haulage system-Endless Rope Haulage System, merits, demerits and applicabilities safety
+devices - Laying and maintenance of track- constructional details of mine tub/car -factors of
+selection for rope haulage serial rope ways- computation problems for determination of H.P.
+rope size breaking strength, Tub capacity, number of tubs.
+
+Unit III: Transportation In Mines -Conveyors
+Conveyor usage, classification - belt conveyor system, different types of belt constructions,
+safety devices merits, demerits and limitations of Best conveying system - compilation of
+numerical problems to find the material quantity H.P. length and inclination of haulage, tensing
+strength breaking strength of belt amount of slip. Scraper chain convey or system, protective
+devices-merits, demerits and limitation.
+
+Unit IV: Transportation In Mines –Locomotives & Ariel Ropeways
+Transportation in Mines -Locomotives & Areal rope ways -Classify loco haulage systems,
+merits, demerits, applicabilities of different system - clarifies aerial roper ways, the applicable
+conditions of aerial ropeways.
+
+Unit V: Introduction To Coal Processing/Beneficiation Machinery
+Why beneficiation-methods of beneficiation- quality control-material handling while
+beneficiation - rushing-screening stacking-washing, Tailings dam-disposal of tailings - Coal
+washery & washing of coal etc.
+
+37
+
+Text Books:
+1. Handbook of Metalliferous Mining Methods by Y.P.,Chacharkar, Lovely Prakashan,
+Dhanbad.
+2. Elements of Mining Technology, D.J.Deshmukh Vol.3
+References Books:
+1. Mine Transport by Kerlin
+2. Introduction to mining, G.K, Pradhan, Mintech Publications, Bhubaneswar
+
+38
+
+DMIC 403 - UNDERGROUND MINING METHODS - COAL
+Unit I Introduction
+Status of coal industry and deposit factors affecting choice of mining methods, classification of
+mining methods, grading and analysis of coal.
+Unit II Bord And Pillar Method-Development
+Design and development of a district, bord and pillar, room and pillar methods, with conventional
+and ontinuous mining techniques; panel system.
+Unit III Bord And Pillar Method – Extraction
+Pillar extraction by caving and stowing methods; mechanised extraction of pillars, shaft pillar
+extraction, systematic supports, surface, underground and face arrangements for stowing.
+Unit IV Longwall Method
+Advance and retreat methods, continuous and cyclic systems, extraction with different
+machines- loughs, shearers, design of long wall workings, optimum length of face, size of
+panel, gates, support system, personnel, organisation and safety measures, salvaging in long
+wall.
+Unit V Special Methods Of Working
+Problems of working thick & thin seams, multi slices, sublevel caving, horizon mining, gallery
+blasting method, contiguous seam working, working steeply inclined seams, working under
+surface structures and seams liable to spontaneous heating, outburst and bumps, etc.
+hydraulic mining, wongawali, shortwall, underground coal gasification, shield mining.
+Note: All the above are to be covered with emphasis on CMR and the relevantcirculars
+Text Books:
+1. Singh, R.D. Principles and Practices of Modern Coal Mining, New Age International
+(P) Ltd., Chennai, 1994.
+2. Singh, T.N. Singh, Underground Winning of Coal – Oxford & IBH Publishing Co.
+Ltd., 1992.
+References Books:
+1. Mathur, S.P., Coal Mining in India, M.S. Enterprises, Bilaspur,1999.
+2. Das S.K., Modern Coal Mining technology, Lovely Prakashan, Dhanbad1994.
+3. Singh T.N., Dhar, B.B. Thick Seam Mining, Problems and Issues, Oxford & IBH
+Publishers, 1992.
+4. Mathur, S.P., Mining Planning for Coal., M.G. Consultants, Bilaspur,1993.
+5. Peng S.S., and Chiang, H.S., Longwall Mining, John Willey and Sons, New York,
+1992.
+6. Szwilski and Richards M.J., Underground Mining Methods and Technology, 1987.
+Internet: www.miningindia.com
+39
+
+DMIC 404 - ROCK MECHANICS AND GROUND CONTROL I
+Unit I Introduction
+Definition of some important terms used in rock mechanics, application of rock mechanics in
+mining, introduction to stress analysis, principal stresses and strains, differential equations of
+static equilibrium.
+Unit II Physical Properties Of Rocks And Rock Indices
+Physical properties of rock – density, porosity, moisture content, permeability, swell index,
+slake durability index, thermal conductivity, hardness, durability, Protodyaknov index, impact
+strength index, point load index, rock mass classification.
+Unit III Mechanical Properties Of Rocks
+Preparation of test specimens, laboratory determination of mechanical properties of rocks,
+compressive strength, tensile strength, shear strength, modulus of elasticity, Poisson’s ratio,
+triaxial strength of rocks, Mohr’s envelope, effect of various parameters on the strength of
+rocks, in-situ strength, effect of joints and fracture on mechanical properties of rocks.
+Unit IV Non-Destructive Testing Methods And Time Dependent Properties Of Rocks
+Dynamic wave velocities, dynamic elastic constants, their determination in the laboratory,
+application in mining, time dependent properties of rocks, creep, mechanism of creep of rocks –
+different stages, rheological models.
+Unit V Underground Supports
+Various methods of roof examination, pressure arch theory, ground forces and field stresses,
+mechanism, objectives and limitations of supports, conventional supports – column type, timber
+sets, arches, yielding type; rock and cable bolting, rock grouting, shotcreting, roof stitching,
+support of shaft bottoms, galleries, junctions and places of roof falls, design of supports,
+longwall powered supports. Design of systematic support rules for B & P Development,
+depillaring LW gate readings and extraction.
+Text Books:
+1. Obert, L. and Duvall, W.I., Rock Mechanics and Design of Structure in Rock John Wiley
+and Sons Inc., New York, 1967.
+2. Vutukuri, V.S., and Lama, R.D., Handbook on Mechanical Properties of Rocks, Vol. I, II,
+III and IV, Transtech Publication, Berlin, 1974/78. Peng, S.S., Ground Control, Wiley
+Interscience, New York, 1987.
+References Books:
+1. Brady, B.H.G. and Brown, S.T., Rock Mechanics, Wiley Interscience, 1985.
+2. Hoek, E., and Brown, S.T., Underground Excavations in Rocks, Institute of Mining
+Metallurgy, London, 1980.
+
+40
+
+DMIC 405 - MINE VENTILATION
+Unit I
+
+Mine Gases
+Occurrence, properties, physiological effects, detection – types of instruments,
+construction, principle and limitations, measurement and analysis, methane layering, methane
+drainage. Methods of ventilation survey, Instruments required for ventilation survey
+Unit II Mine Climate And Control
+Psychometrics properties of air, Sources of heat and humidity in mines and their effects, heat
+stress estimation, cooling power of mine air and methods of improving cooling power including
+air conditioning. Psychometrics surveys.
+Unit III Principal Laws Of Air Movement In Underground
+Fundamentals of fluid flow and its application in mine ventilation with special reference to
+Bernoulli’s Equation, Reynolds number, Poiseuille equation, Atkinson’s equation, KarmanPrandtl equation for rough flows, resistance of mine roadways, friction and shock resistance,
+etc.
+Unit IV Natural Ventilation And Air Current Distribution In Mines
+Natural ventilation, effect of depth, temperature, pressure, etc. thermodynamic treatment,
+distribution of air current in mines – splitting, stopping, regulators, ventilation doors, air
+crossings, controlled recirculation, etc. Retrograde and boundary, ascensional, decensional,
+homotropal and antitropal ventilation systems, Ventilation in deep and hot mines, remedial
+measures.
+Unit V Mechanical Ventilation & Ventilation Planning
+Main mechanical ventilators, booster fans and auxiliary fans, and their selection, installation,
+fan performance, characteristics and testing, fans in series and parallel, fan drifts and reversal of
+air current, forcing versus exhaust ventilation, ventilation of long headings including overlap
+systems. Calculation of pressure and quantity requirements, economic analysis, ventilation
+standards, network analysis, monitoring of mine environment. principles and computer
+applications.
+Note: All the above are to be covered with emphasis on CMR,MMR and the relevant circulars
+by the faculty.
+Text Books:
+1.
+Mishra, G.B. Mine Environment and Ventilation, Oxford University Press, 1992.
+2.
+Hartman, H.L. Mine Ventilation and Air Conditioning, Wiley Interscience publication,
+1993.
+Reference Books:
+1.
+Hall, C.J., Mine Ventilation Engineering, Society of Mining Engineers, New Engineers,
+New York, Second Edition, 1992.
+2.
+Vutukuri, V.S., Mine Environment Engineering, Trans Tech Publishers, 1986.
+3.
+McPherson, M.J., Subsurface Ventilation and Environmental Engineering, Chapman
+and Hall Publication, London, 1993.
+
+41
+
+DMIC 406 - MINERAL PROCESSING
+Unit I Introduction
+Scope, objectives, minerals/ores for mineral processing, methods of treatment, choice of
+methods, sequence of operations, product, flow sheets, ore sorting – hand mechanical,
+electronic, removal of harmful materials, ore transportation.
+Unit II Comminution
+Introduction to comminution, primary/secondary/tertiary crushing, purpose, duty, theory of
+crushing, crushing sequence, reduction ratio, types of crushers and comparison, general
+crushing flow sheet, wet/dry grinding, mechanism and various affecting parameters.
+Unit III Laboratory & Industrial Sizing And Sampling And Control
+Purpose, factors governing particle behaviour, laboratory and industrial screen, trommels,
+vibrating screens, etc. wet and dry screening, classification, classifiers. Purpose, sampling solid ore, pulp, head feed, grinding circuit samples, flotation products, etc., X-ray fluorescence,
+automatic sampling. Metallurgical accounting.
+Unit IV Separation/Concentration
+Newton’s and Stoke’s Laws of particle settlement, different concentration techniques – gravity,
+chemical froth flotation, wet & dry magnetic separation, electromagnetic, amalgamation, heavy
+media, jigging, shaking tables, sluicing, spirals, thickeners, filtration, etc., coal washing.
+Unit V Special Methods
+Chemical extraction, cyanide process, leaching, use of ion exchange, solvent extraction, pilot
+plant studies on ores, tailing dams; generalised plant practice/flow sheets for coal and other
+important ores – copper, aluminium, lead, zinc, silver, gold, uranium, iron, limestone,
+magnesite.
+Text Books:
+1. Jain, S.K., Ore Processing, Oxford – IBH Publishing, 1984.
+2. Gaudin, A.M., Principles of Mineral Dressing – McGraw Hill Book Company, 1971.
+References Books:
+1. Taggart, A.F., Handbook of Mineral Dressing, John Wiley and Sons, New York,1990.
+2. Wills, B.A. Mineral Processing Technology, Pergamon Press, 1985.
+3. Vijayendra, H.G., Handbook on Mineral Dressing, Vikas Publishing House Pvt. Ltd.
+1995
+
+42
+
+DMIP- 407 MINING GEOLOGY LABORATORY I
+List of Experiments
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Study of physical properties of minerals.
+Study and identification of important rock forming minerals in hand specimen
+Megascopic studies of important igneous Rocks.
+Megascopic studies of important sedimentary Rocks.
+Megascopic studies of important metamorphic Rocks.
+Study and Identification of important economic minerals in hand specimen
+Study and sketch of model showing different types of faults, folds and their
+relations to photography.
+
+DMIP 408 MINING ENVIRONMENTAL LAB I
+List of Experiments
+
+1. To determine the psychometric properties, gas percentage in atmosphere.
+2. To study the principles and characteristics governing mine fans.
+3. To understand lamp design and perform underground illuminationsurveys.
+4. Study of mine flame safety lamp, gas testing with flame safety lamp, electric cap lamps,
+lamp room layouts and illumination survey.
+5. Study of air-reversal arrangement in mine fans.
+6. Study of pressure survey and quantity survey in mines using velocity meter,
+anemometer and barometer.
+7. Determination of air born dust by gravimetric dust sampler, personal dust sampler and
+by high volume sampler.
+8. Noise survey.
+9. Determination of crossing point temperature and index of inflammability.
+10. Study of self rescuers of different types.
+11. Proximate analysis of coal
+12. Measurement of vibrations due to various sources.
+13. Determination of pH, TDS, TSS, dissolved oxygen and chemical oxygen demand of
+water.
+14. Determination of organic carbon of soil sample
+
+43
+
+DMIC 501 - ROCK MECHANICS AND GROUND CONTROL II
+Unit I Rock Mechanics Instrumentation
+Conventional testing machines and servo-controlled stiffness testing machines, load cells,
+strain gauges, flat jacks, convergence indicators, anchorage testing equipment, sag bolts, etc,
+in situ measurements.
+Unit II Pit Slope Stability & Subsidence
+Approach to slope stability, slope parameters, Geological and physico-mechanical parameters
+affecting slope stability, effect of water pressure, determination of factor of safety, introduction
+to methods of failure analysis. Theories of subsidence, factors affecting subsidence, subsidence
+surveys, subsidence prediction techniques, subsidence control – surface and underground
+measures, pseudomining damage.
+Unit III Theories of Failure of Rocks & Pillar Design and Rock Burst
+12 Different theories of failure of rocks, modes of failure - Griffith, Coulumb, Navier, Mohr’s,
+80 Hoek-Brown, etc. Strength of pillars, barrier and shaft pillars design – load estimation,
+factor of safety, various formulae, rock burst, bumps.
+Unit IV Design of Underground Workings
+Stress distribution in underground workings, design of underground openings, measurement
+of rock movements, engineering rock mass classification, rock load assessment and support
+design, introduction to numerical methods of geomechanics; scaled model studies – principles
+of modeling and model material and testing.
+Unit V Stowing/Filling
+Principal methods of stowing, collection, preparation and transport of materials, surface,
+underground and face arrangements, design of stowing plants.
+Text Books:
+1.
+2.
+
+Obert, L. and Duvall, W.I., Rock Mechanics and Design of Structure in Rock John
+Wiley and Sons Inc., New York, 1967.
+Vutukuri, V.S. and Lama, R.D., Handbook on Mechanical Properties of Rocks, Vol.I, II,
+III and IV, Transtech Publication Berlin, 1974/78.
+
+References Books:
+1.
+2.
+3.
+
+Brady, B.H.G. and Brown, S.T., Rock Mechanics, Wiley Interscience, 1985.
+Hoek, E and Brown, E.T., Underground Excavations in Rocks, Institute of Mining
+Metallurgy, London, 1980.
+Peng, S.S. Ground Control, Wiley Interscience, New York, 1987.
+44
+
+DMIC 502 - UNDERGROUND MINING METHODS - METAL
+.
+Unit I
+
+Basics
+
+Metal Mining Terminology; Typical modern metal mine features; typical pre stoping ore
+block constructional features; classification of methods; Techno economic characteristics
+impacting on choice of method; Typical Unit cost parameters; optimum size of mine and
+stope.
+Unit II
+
+General Mine Design
+
+Mode of mine and stope entry; Layouts; optimum production; Basic design – Level Intervals,
+ore pass, common ore pass, size of blocks ore handling in stope and other openings, overview
+of constructional features – X cuts, Raises, Winzes etc.
+Unit III
+
+Stoping – General Description
+
+Unsupported methods – Room and pillar, shrinkage, sublevel stoping etc. Supported stopes –
+Cut and fill, square set etc. Caving methods – Top slicing, sublevel caving, block caving.
+Unit IV
+
+Stope Planning And Layout
+
+Preparing a stoping block; sequence of stoping; organization; production cycle; Unit cost
+calculation; comparison of methods and costs
+Unit V
+
+Novel Innovative Techniques & Special Applications
+
+Rapid excavation; Hydraulic mining; slurry mining; solution mining; Radial – axial splitter;
+Thermal fragmentation; shock wave breaking; Nuclear mining. Deep mining; narrow
+contiguous veins; shaft and remnant pillars; VCR; Ring drilling; Large Blast hole stoping.
+Cast studies of Indian and foreign underground metal mines.
+Note: All the above are to be covered with emphasis on MMR and the relevant circulars
+Text Books:
+1. Cummings, A.B. and Given, I, V., SME Mining Engg. Handbook Vol. I And II, Society
+Of Mining Engineers Of American Institute Of Mining, Metallurgical, Petroleum
+Engineers Inc., New York 1992.
+2. Hartman, H.L., Introductory Mining Engineering, John Wiley and Sons, New York,
+1987. Hustrulid, W.A. Ed., Underground Mining Methods Handbook Society of
+Mining Engineering, AMIE, New York, 1990.
+.
+
+45
+
+DMIC 503 - MINING HAZARDS & SAFETY
+Unit I: Mine Fires
+Spontaneous Heating, Different stages: Determination of proneness of coal by crossing point,
+Factors governing proneness to spontaneous combustion, Detection of spontaneous heating
+symptoms, Preventive measures, Including pannel system layout, Adequate ventilation
+provisions in design stages, Regular inspections etc.
+Unit II: Fires
+Underground & quarry fires: Causes of mine fires, Dealing with mine fires, Sealing off,
+different types of stopping, construction & purposes, Pressure balancing to control air leakage
+into sealed off fire-areas, Methods of collection of air samples from sealed off fire - areas and
+from mine atmosphere, Recovery of sealed off mine working on account of fire by reopening.
+Unit III Dealing With Fires In Quarry:
+Debris, Coal pillars & coal stocks different types of fire extinguishers safety & statutory
+aspects.
+Unit IV: Mine-Explosions:
+Fire Damp Explosions:
+Limits of inflammability & various factors influencing the same, Causes of fire damp
+explosions, Preventive measures.
+Unit V: Coal Explosions:
+Coal Dust Explosions Causes:
+Factors affecting inflammability of coal dust, Causes of & preventive measures against coal
+dust explosions, Various stone dust, Types & efficiency, Stone dusting, Stone dust barriers
+water barriers & triggered barriers, Organization for stone dust treatment of coal dust,
+Sampling procedures of roadways mine dusts apparatus & organization, Safety & statutory
+aspects.
+Text Books:
+1. Elements of Mining Technology Vol-2, D. J. Deshmukh .
+2. Mine Disasters and Mine Rescue - M.A. Ramlu, Oxford & IBH, New Delhi.
+References:
+1. Hand book on First Aid, Published by Multi Disciplinary Centre on Safety, Health &
+Environment, Bhubaneswar
+2. Mine Safety & Legislation, by S.K.Das, Lovely Prakashan, Dhanbad. Mine Rescue
+46
+
+Rules.
+
+DMIC 504 – ADVANCED MINE SURVEYING
+Unit I: Theodolite
+Magnetic bearing of lines. Traversing - continuous Azimuth, double for sight methods computation of bearings of traverses check of accuracy in angular measurements - permissible
+error - distribution - calculation of latitude and departure - problems on rectangular coordinates
+- calculation of areas - Bowditch Rule
+Unit II: Triangulation
+Definition - Principles - classification mine Triangulation - scheme of Triangulation - Checks
+for measuring angles in Triangle - selection of stations - points considered for selection of
+stations - Baseline measurement in catenary, on level ground - Connections applied on base line
+determination of true north by astronomical observation method of extension of base line.
+Unit III: Setting Curves
+Classification - Definitions - elements of simple curve - Method of setting out curves - by chord
+and offset, chard and angle.
+Correlation survey - Purpose - methods of correlation - Direct Traversing - Co - planning Weisbach Triangle.
+Unit IV: Tachometry
+Principles - systems - Constants Methods - Stadia method, substance method, Tangential
+method -merits and demerits of Tachometry - relation between stadia reading, Horizontal
+distance, vertical distance, solves problems.
+Unit V: Stope Survey
+Objectives - Methods - Tap Triangulation - Field of application - Typing method Radial Ray
+method - prepare stope sheets - stope plans with details
+Modern surveying Instruments: - Principle of working of - EDM - GPS - Total station
+Instrument - applicability in Mines.
+Textbooks:
+1. Surveying
+2. Surveying
+
+: Kanetkar & Kulkarni Vol 1,2
+: Punmia Vol. 1,2,3
+
+References:
+47
+
+1. U.M.S Volumes
+2. Surveying
+
+: Ghatak Vol.1,2,3
+
+48
+
+DMIP 505 - MINING GEOLOGY LABORATORY II
+Ore Geology
+Physical identification of metallic ores of iron, manganese, lead, zinc, copper, chromite and
+bauxite. Physical identification of non-metallic ores graphite, asbestos, ochres, garnet,
+silimanite, vermiculite and mica. Physical identification of lignite and coal.
+ORE RESERVE ESTIMATION
+Grid map preparation, iso-chore and iso-pach map preparation. Ore reserve estimation by
+conventional methods. Assessment of coal and lignite reserves from contour maps.
+Determination of Engineering properties of rocks.
+Remote Sensing & Geophysics
+Study of aerial photographs and satellite imageries. Interpretation of geological
+geomorphological features from aerial photographs and satellite imageries. Electrical resistivity
+survey and interpretation of electrical data.
+Geological Field Work
+Geological mapping of igneous, sedimentary and metamorphic terrains. Identification of
+minerals and ores in the field site. Preparation of lithology and structural maps.
+References:
+1. Bateman, A.M., Economic Mineral Deposits, John Wiley and Sons, 1956.
+2. Krishnaswamy, S. Indian Mineral Resources, Oxford and IBH Publishing Company,
+New Delhi, 1984.
+3. Bell F.G., Engineering Geology, Elsevier Publications, 2007.
+
+49
+
+DMIP 506 – MINING ENVIRONMENTAL LAB II
+List of Experiments
+1.
+2.
+3.
+4.
+
+Determination of CO, NOx, CH4, H2S, SO2, O2, CO2, by corresponding analyzers.
+Study and application of infrared gas analyzer.
+Detection of methane by different types of methanol meters & frame safety lamp.
+Study and uses of proto – IV, Proto – V. Dragger – BG – 174 self contained breathing
+apparatus
+5. Study and uses of self rescuer Gas mask, smoke helmet.
+6. Study and use of reviving apparatus
+7. Study of Born-Side safety boning apparatus.
+8. Various types of CO-detectors used in mines and their selection criteria
+9. Measurement of relative humidity with the help of various types of hygrometer.
+10. To find the effect of heat, humidity and air velocity with the help of Kata-thermometer
+DMIP – 507 MINING MACHINERY LABORATORY
+1. Study of construction of different types of wire ropes and Types of rope chapels used for
+rope haulages & winding, safety hooks used in winding.
+2. Construction and operation of compressed air operateddrills
+3. Study of different types of haulage systems – tensioning arrangement in endless haulage
+and different types of haulage clips and other meance of attachment of tubs to the rope.
+4. Study of haulage track, curves, diamond crossing, construction of Mine tubs and cars
+along with their couplings.
+5. Study of safety devices provided of haulage roads and locomotives - Exhaust conditioning
+and flame traps & underground Battery charging station layout
+6. Electrical power distribution in mines, electrical layout for rope haulages and pumps,
+Electrical and hydraulic layouts for long wall faces
+7. Study of aerial rope ways – driving/tensioning/loading/unloading and angle stations
+8. Study of various types of head gear-fleet angle, Study of shaft fittings-signal systems,
+guides, safety dogs and protective roofing, study of guides– methods of support and
+tensioning arrangements.
+9. Study of fittings of winding engines- drums, brakes, and depth indicators.
+10. Study of different types of conveyors like armored face conveyors, belt conveyors, gate
+belt conveyors, shaker & vibrating conveyors, high angle conveyors
+11. Study of coal drill and its electrical panel/gate end box
+12. Study of coal ploughs and shearers
+13. Study of continuous minors and road headers
+14. Study of pit top & pit bottom layouts in shaft and incline under variousconditions.
+15. Study of different types of loading machines.
+16. Study of earth mining equipments (Diesel Engine) & Hydraulic circuits
+
+50
+
+DMIP 508 - PRACTICAL TRAINING AND ASSESMENT
+AIM:
+To provide training in mines for gaining thorough understanding of all the theoretical knowledge.
+Gaining practical experience is an important aspect of the mining engineering programme
+having many characteristic features of its own.
+The students have to undergo training in mines during the summer vacation at the end of the
+IV Semester for a period of 4 weeks and obtain a valid certificate from the competent authority
+of the organization provide training. The students have to submit a report on the training which
+would be evaluated during the ensuing V Semester. The training report will be evaluated
+similar to the Project work.
+
+DMIC 601 - MINE MANAGEMENT AND ENTREPRENEURSHIP
+Unit I: Mine management
+Role of mining Industry in country’s economic development, ownerships of Industries,
+Management, organisation, in the context of mining Industry.
+Unit II: Entrepreneurship
+Motivating factors, Risks and Rewards, requirements self employment schemes, products
+selection. site solution, plant layout, setting of a mine, Market survey. Feasibility report, Man
+Power requirement, techno-economic and cost factors.
+Unit III: Work Study
+Work study, principle of workstudy, scope and necessity of workstudy, Method study,
+advantages of Method study, time study and principle of time study
+Unit IV: Industrial Dispute Act-1947
+Industrial Dispute act-1947 causes f or Industrial Dispute adverse effects for Industrial Dispute
+various provisions of ID act works committee, conciliation officer, Bord of conciliation court of
+enquiry, industrial tribunal, voluntary organisation, strike and lockout.
+Unit V: Total Quality and Management
+Concepts of Quality and its use in mine production.
+
+51
+
+Text Books:
+1. Mine Management, Legislation and Ground safety : S. Ghatak
+2. Mine Management
+: V.N. Singh
+References:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Industrial Management
+Industrial Management
+Mines act 1952
+Mines rules 1955
+CMR/MMR 1957 / 61
+Critical Appraisal
+Mineral Economics
+Encyclopaedia of Mining Laws
+Mine safety and disaster
+
+: O.P. Khanna
+: Jain and Bhanu
+
+: Rakesh & Prasad
+: D. J. Deshmukh
+: C.P.Singh
+
+52
+
+DMIC 602 - ELECTRICAL ENGINEERING & MECHANICAL ENGINEERING
+Unit 1
+D.C. Generators: Construction - main parts, materials their made of, function of the parts.
+Deduction of emf equation and simple problem Application of D.C. Generators.
+D.C. Motor: Principle of operation and classification. Speed equations and speed control of
+shunt and series motor-armature resistance control and field control only-reversal of direction
+of rotation. Application of D.C. motors.
+A.C. Generators/ Alternators: Construction - main parts-rotor, stator, slip ring and brushes,
+excitors and their function. Principle of operation , classification and uses.
+Unit II
+A.C. - 3 phase systems: Connections: a) Star connection- 3 phase, 3 wire and 4 wire systems.
+b) Delta connection - 3 phase 3 wire systems. Relation between line & phase values of voltage
+& current - in each case and expression for power. Advantages of 3 phase system over single
+phase system.
+Transformers: Construction & principle of operation of single phase transformers. E.M.F.
+equation and deduction of the relations - N1/N2 = E1/E2 = l1/l2. Connections of 3 phase
+transformers
+a) Star / Star. b) Delta/Delta c) Star/ Delta d) Delta / Star. (connections only)
+Applications of Transformers.
+Starters:
+a) D.O.L & star/delta starter for squirrel cage motors.
+b) Rotor- Rheostat starter for slip ring motor.
+Reversal of direction of rotation & uses of 3 phase induction motor.
+Storage Batteries (Lead acid cell): Construction - different parts, materials they are made of
+and their functions. Charging - different methods, conditions of full charge. Defects,
+maintenance & uses.
+Unit III
+Stress & Strain: Simple stress and strain, Hook's law, Poisson’s ratio, stress-strain diagram
+(Mild steel only) - Elastic limit, yeild point, ultimate strength, working stress, factor of safety,
+elastic constants & relationship among them ( deduction not required).
+Steam & Boiler: Heat and temperature, absolute pressure and temperature, conversion of heat
+into mechanical work, properties of steam, sensible heat, latent heat of evaporation, wet, dry
+and superheated steam; enthalpy of steam, (use of steam table). Functions of boilers and their
+classification, brief description and working principles only of the following boilers - Cochran,
+Lancashire and Babcock Wilcox. Locations & functions only of the following boiler mountings
+and accessories - water level indicator, fusible plug, pressure gauge, stop valve, safety valve,
+economiser, super heater, air preheater and feed pump.
+53
+
+Unit IV
+Fluid Mechanics: Properties of fluid, pressure of fluid, pressure head of liquid, pressure gause
+such as piezometer tube, manometer, fluid flow, equation of continuity of flow, Bernoulli's
+theorem( proof not required), venturimeter- simple numerical problems. Centre of pressure and
+depth of centre of pressure on flat surface vertically immersed in a liquid( no proof) problems
+only. Flow of liquid through notches-definition of notch, type of notches- rectangular notch,
+triangle notch, formula of discharge through notches ( proof not required). Simple numerical
+problems no discharge.
+Unit V:
+Compressed Air: Compressed air as power. Different types of compressions and compressors,
+work done and HP required for compression( problems on single stage air compressor only),
+effect of clearance volume, multistage compressors, inter coolers and after coolers,
+Compressors air transmission and losses in transmission and storage, advantages of use of
+compressed air in mine. Study of compressed air machines- air turbine only.
+Text Books:
+1. Theraja. B. L., “A text book of Electrical Technology”, S. Chand&Co., New Delhi,
+2005.
+2. Ballaney P.L., Thermal Engineering, Khanna Publishers, New Delhi, 24 th ed.2003.
+Reference Books:
+1. Rajput. R. K., “A text book of Electrical Machines”, Lakshmi Publications, 2006.
+2. Khurmi R.S., Thermal Engineering, S.Chand& Co., New Delhi.14th ed.2005
+
+54
+
+DMIC 603 - MINING MACHINERY II
+Unit I: Coal face machinery
+a) Hand held drills - classification Electronic Rotary drills: Hammer Drills, Epicyclical gear
+Arrangement-b) Power Loader - Types of loaders, field of applications, working operationPrinciple, design and application of long wall face machinery shearer, AFC, Lump breaker stage loader, power pack self advancing chock shield supports- SERDS and DERDS- their
+applications- principle of working of AFC (Armoured Face conveyor)- names the constituent
+parts of AFC-application of Twin Bord AFC, bottom closed AFC- safety devices associated
+with AFC drive- principle of lump breaker- purpose of power pack- Sequences of overburden
+Movements in a long wall Panel- classification and capability of the immediate roof in long
+wall panel- Abutment Pressures in long wall mining- classification of Powered supports in long
+wall mining- factors governing the selection of power supports- purpose of the following in
+Power supports
+a. Canopy
+b. Caving Shield
+c. Lamniscate Linksd. Extension Canopy
+e. Face Guard
+f. Double acting Advancing Ram- composition of Hydraulic fluid- types of Hydraulic
+control systems.
+Unit II :Flameproof and intrinsically safe apparatusOutlines the necessity, FLP vs intrinsically safe apparatus field of application, Frame proofing constructional features methods of intrinsic safety field or application Remote control principle.
+Unit III: Signaling
+Method of signaling in mines - electrical signaling, circuit indicators - Mining telephones
+operation.
+Unit IV :Winding
+Winding in shafts - purpose, equipment, Types of had gear frames -Shaft fittings - guides in the
+shafts - pit - top arrangement - keps and suspension gear - Types of drums. Head gear pulley,
+care skip winging-pit-top and pit-bottom arrangements - Drum winding and skip winding,
+multi-deck winding and friction winding - Drum and friction winding - Winding engine - depth
+indicator slow banking arrangement - Methods of speed control - Breaking in winding - Types
+of breaks.
+Unit V :Mine Pumps:
+Pumping - Various terms of pumping, classification of pumps - centrifugal pump fittings Turbine pump, fittings - Eudthrust - submersible pump - fittings Roto Pump, merits limitation Selection of pumps - computation of numerical problems on Head, Quantity, H.P. Frictional
+losses.
+55
+
+Text Books:
+1. Elements of mining science and Art of mining Digest : D.J Deshmuku Vol.3
+2. U.M.S. Volumes
+Reference:
+1. Statham series Vol.3
+2. Mine transport: Kerlin
+3. Introduction to mining Engineering
+
+: Hartment
+
+56
+
+DMIC 604 - MINE SAMPLING ASSAYING AND MINERAL PROCESSING
+Unit I : Mine Sampling:
+Definition, terms, purpose and various uses. Different Sampling Methods. Salting-purpose,
+safety against salting. Reduction of sampling- Methods used.
+Unit II : Assaying:
+Introduction - assay map, assay plan factor, assay values, grade value,
+tenar, type of grade value. Calculations based on average assay value. Estimation of ore
+reserves.
+Unit III : Mineral Dressing:
+Scope, objectives & limitations of Mineral Dressing. Comminution. Size separation. Gravity
+concentration methods. Introductory froth floatation. Simplified flow sheets of coal, copper,
+Lead & zinc, iron, limestone’s (Briefly).
+Unit IV: Coal Processing :
+Characteristics of Indian Coal, Why Coal processing is needed? Constituents of coal and their
+role - Specification of coal to be used in steel plants (for coking coal) and other plants (power
+plants, cement plants etc),
+Unit V: Coal Benification:
+Coal quality improvement while mining, Coal handling, dry coal beneficiation, Wet coal
+beneficiation.
+Text Books:
+1. Mineral dressing
+2. Mine economics
+
+: Gaudin
+: Sinha & Sharma
+
+References:
+1. Element of mining
+2. U.M.S.
+3. Mine economics
+
+: DJ.Deshmukh
+: A.Kumar
+
+57
+
+DMIP 605 - MINE HAZARD AND SAFETY LAB
+List of Experiments
+Study of constructional features & working of self contained breathing apparatus.
+1. Study of various types of Fire Extinguishers used in Mines.
+2. Study of constructional features & working of self Rescuer.
+3. Study of constructional features & working of Gas Mask.
+4. Study of constructional features & working of Reviving apparatus.
+5. Study of working of Burn Side Safety Boring Machine.
+6. Study of constructional features & working of Stone Dust Barriers.
+7. First aid training to be explained and conducted.
+DMIP 606 - PROJECT WORK
+Course Contents
+Identification of the Project- Collection of data- Organisation of the data- Design of Project
+elements - Preparation of drawings- Schedules and sequence of operations- Preparation of
+charts and models- Preparation of report
+Objectives
+
+-
+
+Identify different works to be carried out in the project.
+
+-
+
+Design the required elements of the project as per standard practices.
+
+Collect data relevant to the project.
+Arrive at efficient method from the available choices based on preliminary
+investigation.
+
+Prepare working drawing for the project.
+Prepare schedule of time and sequence of operations.
+Prepare charts or models for each project.
+
+Prepare project report.
+Project may be selected from among the following suggested topics
+Underground mining (coal)
+
+1.
+2.
+3.
+
+Bord and pillar mining method Longwall mining method.
+Blasting gallery method.
+Stoping methods for non-coal mining Mechanised stoping methods for non-coal mining
+Opencast mining
+
+1. Pillars extracting by open cast method(coal)
+58
+
+2. Mechanised opencast mining.
+3. In Pit crushing technology Surface mining technology Blasting
+
+59
+
+
