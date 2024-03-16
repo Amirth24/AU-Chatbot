@@ -1,0 +1,2777 @@
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING
+Curriculum ME COMMUNICATION SYSTEMS
+Full Time
+Semester  I
+Sl
+No
+Category
+1
+PCI
+2
+PCII
+3
+PCIII
+4
+PCIV
+5
+PE  I
+6
+PE  II
+7
+PCI
+Lab
+Course
+Code
+CSYC
+101
+CSYC
+102
+CSYC
+103
+CSYC
+104
+CSYE
+105
+CSYE
+106
+CSYP
+107
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+Mathematics for Engineers
+4
+25
+75
+100
+3
+Advanced Digital
+Communication Techniques
+4
+25
+75
+100
+3
+RF Engineering
+4
+25
+75
+100
+3
+Advanced Digital Signal
+Processing
+4
+25
+75
+100
+3
+Professional Elective  I
+4
+25
+75
+100
+3
+Professional Elective  II
+4
+25
+75
+100
+3
+3
+40
+60
+100
+2
+24
+3
+190
+510
+700
+20
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+Advanced Radiation Systems
+4
+25
+75
+100
+3
+Advanced
+Wireless
+Communication Engineering
+4
+25
+75
+100
+3
+Optical Networks
+4
+25
+75
+100
+3
+Wireless Sensor Networks
+4
+25
+75
+100
+3
+Professional Elective  III
+4
+25
+75
+100
+3
+Professional Elective  IV
+4
+25
+75
+100
+3
+3
+40
+60
+100
+2
+100
+100
+1
+290
+510
+800
+21
+Design and Simulation of
+Communication Systems Lab  I
+Total
+Semester II
+Sl
+No
+Course
+Code
+CSYC
+201
+CSYC
+202
+CSYC
+203
+CSYC
+204
+CSYE
+205
+CSYE
+206
+Category
+1
+PCV
+2
+PCVI
+3
+PCVII
+4
+PCVIII
+5
+PE  III
+6
+PE  IV
+7
+PCII
+Lab
+CSYP
+207
+Design and Simulation of
+Communication Systems Lab II
+8
+Semi
+CSYP
+208
+Seminar
+Total
+24
+3
+Semester III
+Sl
+No
+1
+2
+3
+4
+Category
+OE  I
+OE  II
+Thesis
+IndTrain
+Course
+Code
+CSYE 301
+CSYE 302
+CSYT 303
+CSYT 304
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+Open Elective  I
+Open Elective  II
+Thesis Phase  I
+Industrial Training
+4
+4
+Total
+8
+4
+4
+25
+25
+40
+100
+190
+75
+75
+60
+210
+100
+100
+100
+100
+400
+3
+3
+4
+2
+12
+ four weeks during the summer vacation at the end of second semester
+Semester IV
+Sl
+No
+1
+Category
+Thesis
+Course
+Course
+Code
+CSYT 401 Thesis Phase  II
+Total
+L
+T
+P
+CA
+FE
+Total
+Credits
+8
+8
+40
+40
+60
+60
+100
+100
+12
+12
+L  Lecture P  Practical T  Thesis CA  Continuous Assessment
+FE  Final Examination
+Part Time
+Semester  I
+Equivalent
+Sl
+No
+Category
+1
+PC  I
+2
+PC  II
+3
+PC  III
+Course
+Code
+PCSYC
+101
+PCSYC
+102
+PCSYC
+103
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+Mathematics for Engineers
+4
+25
+75
+100
+3
+Advanced Digital
+Communication Techniques
+4
+25
+75
+100
+3
+RF Engineering
+4
+25
+75
+100
+3
+Total 12
+75
+225
+300
+9
+Course
+Code in
+BE Full
+Time
+CSYC
+101
+CSYC
+102
+CSYC
+103
+Semester  II
+Equivalent
+Sl
+No
+Category
+1
+PC  IV
+2
+PC  V
+3
+PC  VI
+Course
+Code
+PCSYC
+201
+PCSYC
+202
+PCSYC
+203
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+Advanced Radiation Systems
+4
+25
+75
+100
+3
+Advanced Wireless
+Communication Engineering
+4
+25
+75
+100
+3
+Optical Networks
+4
+25
+75
+100
+3
+Total 12
+75
+225
+300
+9
+Course
+Code in
+BE Full
+Time
+CSYC
+201
+CSYC
+202
+CSYC
+203
+Semester  III
+Equivalent
+Sl
+No
+Category
+1
+PC  VII
+2
+PE  I
+3
+PE  II
+4
+PC Lab
+I
+Course
+Code
+PCSYC
+301
+PCSYE
+302
+PCSYE
+303
+PCSYP
+304
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+4
+25
+75
+100
+3
+Professional Elective  I
+4
+25
+75
+100
+3
+Professional Elective  II
+4
+25
+75
+100
+3
+Design and Simulation of
+Communication Systems Lab I
+3
+40
+60
+100
+2
+Total 12
+3 115
+285
+400
+11
+Advanced
+Processing
+Digital
+Signal
+Course
+Code in
+BE Full
+Time
+CSYC
+104
+CSYE
+105
+CSYE
+106
+CSYP
+107
+Semester  IV
+Equivalent
+Category
+Course
+Code
+Sl
+No
+PCSYC
+401
+PCSYE
+402
+PCSYE
+403
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+Wireless Sensor Networks
+4
+25
+75
+100
+3
+Professional Elective  III
+4
+25
+75
+100
+3
+Professional Elective  IV
+4
+25
+75
+100
+3
+Course
+Code in
+BE Full
+Time
+CSYC
+204
+CSYE
+205
+CSYE
+206
+1
+PC  VIII
+2
+PE  I
+3
+PE  II
+4
+PC Lab
+ II
+PCSYP
+404
+Design and Simulation of
+Communication Systems Lab
+ II
+3
+40
+60
+100
+2
+CSYP
+207
+5
+Semi
+PCSYP
+405
+Seminar
+100
+100
+1
+CSYP
+208
+Total 12
+3 215
+285
+500
+12
+Semester  V
+Equivalent
+Sl
+No
+Category
+1
+OE  I
+2
+OE  II
+3
+Thesis
+Course
+Code
+PCSYE
+501
+PCSYE
+502
+PCSYT
+503
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+Open Elective  I
+4
+25
+75
+100
+3
+Open Elective  II
+4
+25
+75
+100
+3
+Thesis Phase  I
+4
+40
+60
+100
+6
+8
+4
+90
+210
+300
+12
+Total
+Course
+Code in
+BE Full
+Time
+CSYE
+301
+CSYE
+302
+CSYT
+303
+ four weeks during the summer vacation at the end of second semester
+Semester  VI
+Equivalent
+Sl
+No
+Category
+1
+Thesis
+Course
+Code
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+PCSYT
+601
+Thesis Phase  II
+8
+40
+60
+100
+13
+8
+40
+60
+100
+13
+Total
+L  Lecture
+P  Practical
+T  Thesis
+CA  Continuous Assessment FE  Final Examination
+Course
+Code in
+BE Full
+Time
+CSYT
+401
+LIST OF PROFESSIONAL ELECTIVES
+1 Speech Processing
+2 Spread Spectrum Communication
+3 Microwave Antennas and Integrated Circuits
+4 RF MEMS for Wireless Communication
+5 OFDM for Wireless Communication Systems
+6 Mobile Ad Hoc Networks
+7 High Speed Networks
+8 Virtual Private Networks
+9 Electromagnetic Interference and Compatibility in System Design
+10 Advanced Electromagnetic Theory
+11 RF Communication
+12 Advanced Digital Image Processing
+13 Digital Video Processing
+14 Wireless Communication Networks
+15 VLSI for Wireless Communication
+16 FPGA based Wireless Communication System Design
+LIST OF OPEN ELECTIVES
+1 Wireless Intelligent Networks
+2 System Management and Security
+3 Embedded System Design
+4 Multimedia Communication
+5 Soft Computing Techniques
+6 Cloud Computing
+7 Cryptography Systems
+8 Research Methodology
+CSYC 101
+MATHEMATICS FOR ENGINEERS
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ This course will provide the state of the art knowledge about the theoretical background
+for modeling the real problems of construction management
+Basic Concepts of Probability
+Theory of Probability  Random variables  Moments  Moment Generating Function  Standard
+distributions  Functions of Random variables  Two dimensional random variables  Correlation
+ Regression
+Estimation Theory
+Principles of least squares  Multiple and partial Correlation  Regression  Estimation of
+parameters  Maximum likelihood Estimates  Method of moments
+Testing of Hypothesis
+Sampling distributions  Tests based on Normal t Chisquare and F distributions  Analysis of
+variance  One way and Two way classifications
+Design of Experiments
+Completely Randomised Design  Randomised Block Design  Latin Square Design  22
+Factorial Design
+Queueing Theory
+Single and Multiple server Markovian Queueing models  Customer impatience  MG1
+Queueing system  Queueing applications
+REFERENCES
+1 Taha HA Operations Research  An Introduction Prentice Hall of India Ltd 1997
+2 Irwin Miller John E Freund Probability and Statistics for Engineers Englewood Cliffs
+PrenticeHall 1994
+3 S C Gupta V K Kapoor Fundamentals of Mathematical StatisticsA Modern Approach
+New Delhi Sultan Chand 1999
+4 Goel Brahms Operations research 4th ENL and revised edition pragatiprakashan 2000
+COURSE OUTCOMES
+At the completion of the course students will be able to
+1 Determinate probability and estimation of variables
+2 Determine the statistics value of each variable by using sampling techniques
+3 Find the block design by using various design of Experiment method
+4 Determine the queue system using queuing theory
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYC 102
+ADVANCED DIGITAL COMMUNICATION
+TECHNIQUES
+L
+4
+T
+0
+PO10
+P
+0
+COURSE OBJECTIVES
+ To enable the student to understand advanced modulation and Coding Techniques
+ To learn the Optimum receivers for digital communication schemes
+ To have a knowledge on base band signal conditioning methods for exploiting the
+channel
+Digital Modulation Techniques
+Digital Modulation an Overview Factors that Influence the Choice of Digital Modulation
+Bandwidth and Power Spectral Density of Digital Signals Line Coding and Pulse Shaping
+Techniques Linear Modulation Techniques BPSK DPSK QPSK Offset QPSK  4 QPSK
+QPSK Transmission and Detection Techniques Combined Linear and Constant Envelope
+Modulation MPSK QAM MFSK and OFDM Spectral Characteristics of Digitally Modulated
+Signals
+Optimum Receivers
+Optimum Receiver for Signals Corrupted by Additive White Gaussian Noise Performance of
+the Optimum Receiver for Memory less Modulation Optimum Receiver for CPM Signals
+Optimum Receiver for Signals with Random Phase in AWGN Channel Performance Analysis
+for Wire line and Radio Communication Systems
+Modulation Performance in Fading and Multipath Channels Performance of Digital Modulation
+in Slow Flat Fading Channels Frequency Selective Channels Performance of  4 DQPSK in
+Fading and Interference
+Equalization
+Fundamentals of Equalization Generic Adaptive Equalizer Equalizers in Communication
+Receivers Survey of Equalization Techniques Linear Transversal and Filter Equalizer Non
+Linear Equalizers Decision Feedback and Maximum Likelihood Sequence Equalizer
+Algorithms for adaptive Equalization Fractional Spaced Equalizers
+Trellis Coded Modulation
+Modulation and Coding for Band Limited Channels Coded Modulation for BandwidthConstrained ChannelsTrellis Coded Modulation Set Partitioning Four State Trellis Coded
+Modulation with 8PSK Signal Constellation EightState Trellis Code for Coded 8PSK
+Modulation EightState Trellis for Rectangular QAM Signal Constellations Decoding Methods
+Turbo Coding
+IntroductionTurbo Encoder Turbo Decoder Iterative Turbo Decoding Principles Modifications
+of the MAP AlgorithmThe SoftOutput Viterbi Algorithm SOVA Turbo Coded BPSK
+Performance over Gaussian channels Turbo Coding Performance over Rayleigh Channels
+REFERENCES
+1 Theodore SRappaport Wireless Communications 2nd edition Pearson Education
+2002
+2 John G Proakis Digital Communication 4 th edition Mc Graw Hill Publication 2001
+3 Bernard Sklar Digital Communications second edition Pearson Education 2001
+4 Stephen G Wilson Digital Modulation and Coding First Indian Reprint Pearson
+Education 2003
+5 MKSimon SMHinedi and WCLindsey Digital communication techniques
+Signalling and detection Prentice Hall India New Delhi 1995
+COURSE OUTCOMES
+The student would be able
+1 To demonstrate various digital modulation techniques
+2 To design basic and advanced coding for a digital communication system
+3 To use base band signal conditioning methods involved for exploiting channel
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CSYC 103
+RF ENGINEERING
+L
+4
+T
+0
+PO10
+P
+0
+COURSE OBJECTIVES
+ To learn the fundamental concepts of RF wireless communications
+ To explore the students about the protocols and modulation techniques
+ To introduce transmitter and receiver system design techniques and analysis
+ To understand the basics of radio system design and applications
+RF Passive Components and Transmission Line Analysis
+High Frequency Resistors Capacitors and inductors  transmission line analysis  line equation microstrip line  SWR voltage reflection coefficient propagation constant  phase constant phase velocity  Smith chart  parallel RL and RC circuits  ABCD parameters and S parameters
+RF Active Components and RF Amplifier Design
+RF Diode PIN diode  Gunn Diode  RF bipolar junction transistor  RF field effect transistor modeling of diode  transistor and FET RF Amplifier Characteristics  power relational and
+stability considerations  LNA  power amplifiers  differential amplifiers  distributed power
+amplifiers and broadband amplifiers
+RF Circuits Design
+RF Oscillator Design Fixed frequency oscillator  dielectric resonant oscillator  voltage
+controlled oscillator  sun element oscillator RF Mixer Design Single ended mixer  double
+ended mixer RF Filter Resonator and Filter Configuration Butterworth and Chebyshev filters design of microstrip filters
+RF IC Design
+Introduction to RFIC Analog and microwave design versus RFIC design  noise performance
+estimation  RF technology  receiver with single IF stage metallization  sheet resistance  skin
+effect parasitic capacitance and inductance  current handling  metal capacitors  spiral
+inductors  quality factor  layout in IC  mutual inductance  multilevel  measurement packaging
+RF System Design
+Link Design Fading design  protected and non protected microwave systems  path calculation
+ spread spectrum microwave system  compatibility  safety coordinate systems  Datams and
+GPS  receiver design  receiver architecture dynamic range  Frequency conversion and
+filtering Examples of Practical Receivers FM broadcast  digital cellular  multimeter wave
+point to point  Direct conversion GSM receiver RF MEMS Concept  implementation and
+applications
+REFERENCES
+1 Reinhold Ludwig and Pavel Bretchko RF Circuit Design Pearson Education 2007
+2 David Pozar Microwave and RF Design of Wireless Systems John Wiley 2008
+3 Josn Rogers and Calvin Plett Radio Frequency Integrated Circuit Design Artech
+House 2002
+4 Ferri Losee RF systems Components and Circuits Handbook Artech House 2002
+5 Joseph J Carr Secrets of RF Circuit Design Tata McGraw Hill 2004
+6 Vivek Varadhan K J Vinoy and Jose RF MEMS and Their Applications Wiley
+Eastern Edition 2003
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand the basic concepts of RF wireless communications
+2 Acquire the detail view of communication protocol
+3 Analyze and design various transmitters and receivers
+4 Understand the basics of radio system design and applications
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYC 104
+ADVANCED DIGITAL SIGNAL PROCESSING
+L
+4
+T
+0
+PO10
+P
+0
+COURSE OBJECTIVES
+To provide indepth treatment on methods and techniques in discretetime signal
+transforms digital filter design optimal filtering power spectrum estimation multirate
+digital signal processing
+To estimate the spectrum using parametric methods and non parametric methods and
+prediction using wiener FIR  IIR filters
+To study adaptive filtering techniques using LMS algorithm and to study the applications
+of adaptive filtering
+To apply multirate signal processing fundamentals
+Discrete Random Signal Processing
+Discrete Random Processes Expectations variance Covariance energy of discrete signals Parsevals theorem Wiener Khintchine relation  Power spectral density PeriodogramSample autocorrelationsum decomposition theorem spectral factorization theorem 
+Discrete random signal processing by linear systems  Simulations of white noise
+Spectrum Estimation
+Nonparametric methodscorrelation method covariance estimator  performance analysis of
+estimatorsunbiased consistent estimators Periodogram Estimator  Barlett spectrum estimation
+ Welch estimation  Model based approach AR MA ARMA Signal Modeling  Parameter
+estimation using YuleWalker method
+Linear Estimation and Prediction
+Maximum likelihood criterion efficiency of estimator  least mean squared error criterionWiener filter  Discrete WienerHoff equations  Recursive estimators  Kalman filter linear
+prediction prediction error whitening filter inverse filter  Levinson recursion and Levinson
+recursion algorithm for solving Toeplitz system of equations Lattice recursion Lattice
+realization
+Adaptive Filters
+FIR adaptive filters  Newtons Steepest Descent method  adaptive filter based on steepest
+descent method WidrowHoff LMS adaptive algorithm  Adaptive channel equalizationAdaptive Echo Canceller Adaptive noise cancellation RLS adaptive filtersExponentially
+weighted RLS sliding window RLSsimplified IIR LMS adaptive filter
+Multirate Signal Processing and Wavelet Transform
+Review of Decimation and Interpolation Process Sub band filter theory  Perfect Reconstruct
+PR condition  Cosine modulated filters  Paraunitary filters Application of wavelet
+transform with Sub band filter theory Wavelet transform as a correlator Multiresolution theory
+ Heisenberg uncertainty principle  Two dimensional wavelet transform
+REFERENCES
+1 John G Proakis Dimitris G Manolakis Digital Signal processing Prentice Hall
+of India Fourth Edition 2006
+2 Manson HHayes Statistical Digital Signal Processing and Modelling John Wiley
+and sons Inc New York 1996
+3 Sopocles J Orfanidis Optical Signal Processing McGraw Hill 1990
+4 Fliege N J Multirate Digital Signal Processing John Wiley  Sons 2000
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Acquire indepth treatment on methods and techniques in discretetime signal transforms
+digital filter design optimal filtering power spectrum estimation multirate digital signal
+processing
+2 Estimate the spectrum using parametric methods and non parametric methods and
+prediction using wiener FIR  IIR filters
+3 Analyse adaptive filtering techniques using LMS algorithm and to study the applications
+of adaptive filtering
+4 Understand clearly about multi rate signal processing fundamentals
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYC 107
+DESIGN AND SIMULATION OF COMMUNICATION
+SYSTEMS LAB  I
+COURSE OBJECTIVES
+ To understand underlying concepts in signal processing
+ To have a complete understanding of errorcontrol coding
+ To understand encoding and decoding of digital data streams
+ To provide a comprehensive analysis of spread spectrum systems
+ To have a knowledge of the basics of OFDM
+L
+0
+T
+0
+PO10
+P
+3
+List of Experiments
+1 Simulation of Convolutional Coding Techniques
+2 Simulation of Linear Block Coding Techniques
+3 Simulation of Arithmetic Coding Techniques
+4 Simulation of Huffman Coding
+5 Simulation of Turbo Coding
+6 Simulation of Direct Sequence Spread Spectrum System
+7 Simulation of Frequency Hopping Spread Spectrum System
+8 Study of QPSK and QAM Modulation Technique
+9 Simulation of Pulse Radar Parameter on Detection Range
+10 Simulation of OFDM System
+COURSE OUTCOMES
+1 Able to learn about signal processing concepts
+2 Able to understand the practical implementation issues such as Error control coding
+source coding
+3 Learn about design and simulation of modulation and coding techniques using software
+4 Understanding of application of OFDM for communication systems
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme Outcomes
+Course
+Outcomes PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+CO1
+CO2
+CO3
+CO4
+CSYC 201
+ADVANCED RADIATION SYSTEMS
+L
+4
+T
+0
+PO10
+P
+0
+COURSE OBJECTIVES
+ To introduce the fundamental principles of antenna and to apply them to the design and
+analysis of antenna systems
+ To study the various antenna array
+ To learn the antenna polarization
+ Different types of antennas and their applications will be introduced with focus on
+Frequency independent antenna Travelling Wave antennas microstrip patch antennas
+Vantenna Reflector antenna antenna arrays and the design considerations of using
+antennas in wireless communication systems
+Concepts of Radiation
+Physical Concept of Radiation Radiation from surface and line current distributions  radiation
+pattern  near and far field regions  reciprocity  directivity and gain  effective aperture polarization  input impedance  efficiency  Friss transmission equation  radiation integrals and
+auxiliary potential functions
+Aperture and Reflector Antennas
+Huygenss principle  radiation from rectangular and circular apertures  design considerations Babinets principle  radiation from sectoral  pyramidal  conical and corrugated horns  design
+concepts of parabolic reflectors and cassegrain antennas
+Broadband Antennas
+Principles  design and properties of log periodic  yagiuda  frequency independent antennas
+ loop antenna  helical antennas  biconical antennas  broadcast antenna  spiral antenna and
+slot antennas
+Microstrip Antennas
+Microstrip Antennas Radiation mechanism  parameters and applications  feeding methods method of analysis  design of rectangular and circular patch  impedance matching of microstrip
+antennas
+Applications
+Antennas for biomedical applications  smart antennas for mobile communications  antenna for
+infrared detectors  marine applications  plasma antennas
+REFERENCES
+1 Jordan EC Electromagnetic Waves and Radiating Systems Prentice Hall of India2003
+2 Balanis CA Antenna Theory 2nd Edition Wiley 2003
+3 JD Krauss Antennas Tata McGraw Hill 2006
+4 Elliot Antenna Theory and Design IEEE press 2003
+COURSE OUTCOMES
+On completing this course the students should be able to
+1 Understand the basic concepts and characteristics of antennas in the transmit and receive
+mode
+2 Understand the concepts of array antennas such as analysis and synthesis of radiation
+patterns
+3 Design and analyze frequency independent antenna Travelling Wave antennas
+microstrip patch antennas Vantenna Reflector antenna
+4 Analyze and design aperture antennas such as horns slots and microstrip patches
+5 Design and analyze reflector antennas using geometrical optics or physical optics
+techniques
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CO5
+PO10
+CSYC 202
+ADVANCED WIRELESS COMMUNICATION
+ENGINEERING
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To introduce various wireless channel models
+ To compare different diversity and combining technique
+ To make channel capacity for multiple antennas
+Mobile Radio Propagation Path Loss and Shadowing
+Radio Wave Propagation Transmit and Receive Signal Models FreeSpace Path Loss Ray
+Tracing TwoRay Model Dielectric Canyon TenRay Model General Ray Tracing Simplified
+Path Loss Model Empirical Path Loss Models Okumuras Model Hata Model Walfisch 
+Bertoni Model Piecewise Linear MultiSlope Model Indoor Propagation Models Shadow
+Fading Combined Path Loss and Shadowing Outage Probability under Path Loss and
+Shadowing Cell Coverage Area
+Statistical Multipath Channel Models
+TimeVarying Channel Impulse Response Narrowband fading models Autocorrelation Cross
+Correlation and Power Spectral Density Envelope and Power Distributions Level Crossing
+Rate and Average Fade Duration Finite State Markov Models Wideband Fading Models Power
+Delay Profile Coherence Band width Doppler Power Spectrum and Channel Coherence Time
+Transforms for Autocorrelation and Scattering Functions DiscreteTime Model SpatioTemporal Models
+Capacity of Wireless Channels
+Introduction Capacity in AWGN Capacity of FlatFading Channels  Channel and System
+Model Channel Distribution Information CDI Known Channel Side Information at Receiver
+Channel Side Information at the Transmitter and Receiver Capacity with Receiver Diversity
+Capacity Comparisons Capacity of FrequencySelective Fading TimeInvariant Channels
+TimeVarying Channels
+Diversity
+Realization of Independent Fading Paths Diversity System Model Selection Combining
+Threshold Combining Maximal Ratio Combining EqualGain Combining Moment Generating
+Functions in Diversity Analysis Diversity Analysis for MRC Diversity Analysis for EGC and
+SC Diversity Analysis for Non coherent and Differentially Coherent Modulation Transmitter
+Diversity
+MIMO Communications
+Narrow Band MIMO Model Parallel Decomposition of the MIMO Channel MIMO Channel
+Capacity MIMO Diversity Gain Beam forming Diversity Multiplexing Trade Off Space Time
+Modulation and Coding STBC STTC Spacial Multiplexing and BLAST Architecture
+REFERENCES
+1 Andrea Goldsmith Wireless Communications Cambridge University Press 2007
+2 Theodore S Rappaport  Wireless Communications Principles and Practices Second
+Edition Pearson Education Asia 2002
+3 David Tse and PramodViswanath Fundamentals of Wireless Communication
+Cambridge University Press 2005
+4 APaulraj RNabar DGore Introduction to Space Time Wireless Communications
+Cambridge University Press 2003
+COURSE OUTCOMES
+1 The student would have the diverse knowledge in wireless communication
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Course
+Programme OutcomesPOs
+Outcomes
+PO1 PO2 PO3 PO4 PO5 PO6 PO7
+PO8
+PO9
+COs
+CO1
+CSYC 203
+OPTICAL NETWORKS
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To develop an indepth understanding in terms of architecture protocols and
+applications of major optical networking technologies
+ To provide an exposure to solve numerical or analytical problems pertaining to the
+optical networking technologies
+ To initiate the necessary background to perform projects involving optical networks
+WDM Technology and Issue in WDM Optical Networks
+Introduction  Optical Networks  WDM  WDM Optical Networking Evolution  Enabling
+Technologies for WDM Optical Networks  WDM Optical Network  Architecture  Issues in
+Wave Length Routed Networks  Next Generation Optical Internet Networks
+Wavelength Routing Algorithms
+Introduction  Classification of RWA Algorithms Fairness and Admission Control  Disturbed
+Control Protocols  Permutation Routing and Wavelength Requirements  Wavelength rerouting
+algorithms  Introduction  Benefits of Wavelength Routing Issues in Wavelength Routing 
+Light Path Migration  Rerouting Schemes  Algorithm AG  Algorithm MWPG Rerouting in
+WDM Networks With Sparse Wavelength Conversion  Rerouting in Emulsifier Networks 
+Rerouting in Multifiber Unidirectional Ring Networks
+Wavelength Convertible Networks
+Introduction  Need For Wavelength Converters  Wavelength Convertible Architecture 
+Routing in Convertible Networks  Performance Evaluation of Convertible Networks 
+Networks With Sparse Wavelength Conversion  Converter Placement Problem  Converter
+Allocation Problem
+Virtual Topology Design
+Introduction  Virtual Topology Design Problem  Virtual Topology Design Sub Problems 
+Virtual Topology Design Heuristics  Regular Virtual Topology Design  Predetermined Virtual
+Topology and Light Path Routes  Design of Multifiber Networks Virtual Topology
+Reconfiguration  Introduction  Need for Virtual Topology Reconfiguration  Reconfiguration
+due to Traffic Changes Reconfiguration for Fault Restoration
+Network Survivability and Provisioning
+Failures and Recovery  Restoration Schemes  Multiplexing Techniques  Distributed Control
+Protocols Optical Multicast Routing  Next Generation Optical Internet Networks
+REFERENCES
+1 Siva Ram MurthyC and Mohan Gurusamy WDM Optical Networks Concepts
+Design and Algorithms  Prentice Hall India 2002
+2 Rajiv Ramasami and Kumar N Sivarajan Optical Networks A Practical Perspective A
+Harcourt publishers international company 2000
+3 Jun Zheng and Hussein T Mouftah Optical WDM Networks Concepts and Design
+Principles Wiley IEEE Press 2004
+4 Hemani Kaushal V K Jain and Subrat Kar Free Space Optical Communication
+Springer 2017
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 To got an indepth understanding in terms of architecture protocols and applications of
+major optical networking technologies
+2 Able to solve numerical or analytical problems pertaining to the optical networking
+technologies
+3 To understand the necessary background to perform projects involving optical networks
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CSYC 204
+WIRELESS SENSOR NETWORKS
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To study the characteristics of access mechanisms in wireless networks and Mobile IP
+and TCP routing protocols
+ To obtain a broad understanding of the technologies and applications for the emerging
+and exciting domain of wireless sensor networks
+ To study the challenges and latest research results related to the design and management
+of wireless sensor networks
+ To focus on network architectures energy management and security related issues
+Networks Fundamentals
+Introduction to wireless network and Mcomputing Fading and shadowing communication 
+Mobile IP  overview  Network elements  packet delivery  registration  Tunneling and
+encapsulation  optimization Traditional TCP and inspection on Mobility  indirect and
+snooping TCP  2G3G  Beyond 3G Networks
+Architecture
+Introduction to sensor networks  Architectures  design factor  sensor network classifications characteristics  Modeling of sensor network  WSN as Embedded system  Tiered architectures
+in sensor network  Forming of tiered network  Draw backs  Power efficient topology in
+WSN Issues  Assumptions
+Protocols
+MAC HiddenExposed terminals  NearFar terminals  SDMA FDMA TDMA and CDMA 
+infrared transmission  MAC Layer synchronization power management  roaming  SMACS
+and EAR algorithm  CSMA Hybrid TDMAFDMA  Adhoc networks  Clustering
+Algorithm  Leach  Teen  Peach Technique
+Security System
+Security Protocols Authentication  Network layer  Security techniques  Security in WSN 
+Adhoc network  Search Technique  Security management technique  Reliability issues in
+WSN  Distributed sensor systems  Distributed services  Dynamic adaption  Fault tolerance pre limiters  classic fault
+Energy Management
+Introduction  Different power management technology  Design in EEMAC  Reduce
+communication  Node level energy management  Node Level Processor Oriented Energy
+Management  Node level IO device oriented Energy Management  Energy aware routing
+REFERENCES
+1 Mohammed Ilyas and Imadmahgoub Handbook of sensor networks compact wireless
+and wired sensing systems CRC press 2005
+2 Rappaport TS Wireless Communication Principles and Practice Prentice
+Hall1996
+3 Jon SWilson Elsevier  Sensor technology handbook
+4 Taub H and Schilling DL Principle of Communication McGrawHill 1989
+5 Simon Haykin Communication Systems John Wiley 1995
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand the concepts of wireless communication
+2 Acquire knowledge about the various propagation methods and Channel models
+3 Have an enhanced understanding of various transceivers and its multiple access schemes
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+PO10
+CSYP 207
+DESIGN AND SIMULATION OF COMMUNICATION
+SYSTEMS LAB  II
+L
+0
+T
+0
+P
+3
+COURSE OBJECTIVES
+ To learn about the adaptive filtering algorithms
+ To study the basics of pitch estimation in speech signal and formulation of Linear
+Prediction
+ To learn the short term power spectrum of sound using MFC
+ To generate binary sequence using Gold Code Kasami code
+ To study the concepts of micro strip patch antenna
+ To analyze the spectral characteristics of AWGN noise and Colored noise
+List of Experiments
+1 Simulation of Adaptive Filters using LMS and RLS algorithm
+2 Pitch Estimation for Speech
+3 Linear Prediction Analysis of Speech Signal
+4 Mel Frequency Spectral Coefficients
+5 Simulation of Gold Cold Technique
+6 Simulation of Kasami Code Sequence
+7 Measurement of Frequency Response Directivity and Radiation Efficiency of Microstrip
+Square Patch Antenna
+8 Simulation of Spectral Analysis of AWGN and Colored Noise
+9 Spectral Characterization of communication signals using Spectrum Analyzer
+10 Wireless Channel simulation and characterization
+COURSE OUTCOMES
+1 Ability to design LMS and RLS adaptive filters for signal enhancement channel
+equalization
+2 The ability to analyze speech signal using of Linear Prediction
+3 Able to extract features speech using MFC
+4 Able to generate binary sequence for digital applications
+5 Able to handle the noise in any system
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme Outcomes
+Course
+Outcomes PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+CO1
+CO2
+CO3
+CO4
+CO5
+PO10
+CSYP 208
+SEMINAR
+L
+0
+T
+0
+P
+2
+COURSE OBJECTIVES
+ To work on a technical topic related to Communication and acquire the ability of written
+and oral presentation
+ To acquire the ability of writing technical papers for Conferences and Journals
+The students will work for two periods per week guided by student counsellor They will be
+asked to present a seminar of not less than fifteen minutes and not more than thirty minutes on
+any technical topic of students choice related to Communication and to engage in discussion
+with audience They will defend their presentation A brief copy of their presentation also should
+be submitted Evaluation will be done by the student counsellor based on the technical
+presentation and the report and also on the interaction shown during the seminar
+COURSE OUTCOMES
+1 The students will be getting the training to face the audience and to interact with the
+audience with confidence
+2 To tackle any problem during group discussion in the corporate interviews
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme Outcomes
+Course
+Outcomes PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CSYT 303
+THESIS PHASE I
+L
+0
+PO10
+T
+0
+P
+3
+COURSE OBJECTIVES
+ To apply the relevant knowledge and skills which are acquired within the technical area
+to the relevant problems in the area of communication
+A thesis work on a specialized topic in the area of communication should be taken at the
+beginning of the third semester in consultation with the Head of the Department A report must
+be submitted n the end of the third semester and there will be a vivavoce examination on the
+thesis
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Do the projects related to communication engineering
+2 Handle larger problems on the advanced level within the technical area
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme Outcomes
+Course
+Outcomes PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CSYT 304
+INDUSTRIAL TRAINING
+L
+0
+PO10
+T
+P
+0
+COURSE OBJECTIVES
+To train the students in the field work related to communication systems and to have a
+practical knowledge in carrying out related works
+ To train and develop skills in solving problems during execution of certain works related
+to communication
+The students individually undergo a training program in reputed concerns in the field of
+communication during the summer vacation at the end of second semester for full  time 
+fourth semester for part  time for a minimum stipulated period of four weeks At the end of the
+training the student has to submit a detailed report on the training they had within ten days from
+the commencement of the third semester for Fulltime  fifth semester for parttime The students
+will be evaluated by a team of staff members nominated by Head of the department through a
+vivavoce examination
+COURSE OUTCOMES
+1 The students can face the challenges in the field with confidence
+2 The students will be benefited by the training with managing the situation that arises
+during the execution of works related to communication
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme Outcomes
+Course
+Outcomes PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CSYT 401
+THESIS PHASE II
+L
+0
+PO10
+T
+0
+P
+3
+COURSE OBJECTIVES
+ To apply the relevant knowledge and skills which are acquired within the technical area
+to the relevant problems in the area of communication
+A thesis work on a specialized topic in the area of communication selected in the third semester
+will be continued in the fourth semester A report must be submitted at the end of the fourth
+semester and there will be a vivavoce examination on the thesis
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Prepare the final report of project work in standard format for satisfactory completion of
+the work
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme Outcomes
+Course
+Outcomes PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CSYE X0X
+SPEECH PROCESSING
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+To understand the mathematical foundations needed for speech processing
+To highlight the basic concepts and algorithms of speech processing and synthesis
+To familiarize the students with the various speech signal representation coding and
+recognition techniques
+To appreciate the use of speech processing in current technologies and to expose the
+students to real world applications of speech processing
+Fundamentals of Digital Speech Processing
+Introduction  Discrete Time Signals and Systems  Transform Representation of Signals and
+Systems  Ztransform  Fourier Transform  Discrete Fourier Transform
+Digital Models for Speech Signal The Process of Speech Production  Acoustic Theory of
+Speech Production  Lossless Tube Models  Digital Models for Speech Signals
+Time Domain Models for Speech Processing
+TimeDependent Processing of Speech  Short Time Average Zero Crossing Rate  Short Time
+Autocorrelation Function  Pitch Period Estimation using Autocorrelation Function  median
+Smoothing and Speech Processing
+Speech Coding
+IntroductionQuantizationSpeech quality measuretimedomain waveform codingLinear
+predictive coding  Linear Delta ModulationAdaptive Delta ModulationAdaptive differential
+Pulse Code ModulationLinear Predictive Coders Synthesis Based Linear Predictive AnalysisSpectral coders  Sub Band CodersAdaptive Transform Coders  Vocoders  Vector
+quantization codersCode Excited Linear prediction
+Automatic Speech Recognition
+Introduction  Basis Pattern Recognition Approach  Preprocessing  Parametric Representation
+Dynamic time warping  Networks for Speech Recognition  Hidden Markov model  Language
+models Artificial neural network  ExpertSystem approach to Automatic Speech Recognition
+Speech Synthesis
+Introduction  Principles of Speech Synthesis  Synthesizer Methods  Articulatory Synthesis 
+Formant Synthesis  Linear Predictive Coding Synthesis  Excitation Modeling  Synthesis of
+Intonation  Speech Synthesis for Different Speakers  Speech Synthesis in Other Languages 
+Evaluation of TTS Systems
+REFERENCES
+1 D OShaughnessy Speech communications Human and Machine Second Edition
+UniversityPress India 2001
+2 L R Rabiner and RW Schafer Digital Processing of Speech Signals Pearson
+Education 2007
+3 L Rabiner and RH Juang Fundamentals of Speech Recognition Pearson education
+2003
+4 Claudio Becchetti and Lucio Prina Ricotti Speech Recognition John Wiley and Sons
+1999
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand speech processing fundamentals
+2 Understand algorithms of speech processing and synthesis
+3 Represent various speech signals coding and recognition techniques
+4 Use speech processing in current applications
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYE X0X
+SPREAD SPECTRUM COMMUNICATION
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To introduce the basic concepts of spread spectrum communications
+ To familiarize with several spread spectrum techniques and its performance in jamming
+environments
+ To gain knowledge on spread spectrum receivers
+ To understand various applications of spread spectrum techniques
+Introduction
+Origin of Spread Spectrum communications  advantages of spectrum spreading  Types of
+techniques used for spread spectrum  processing gain and other fundamental parameters jamming methods  linear feedback shift register and sequence generation  Msequence and
+their statistical properties  correlation properties  nonlinear sequences  gold codes  Kasami
+sequences
+Direct Sequence Spread Spectrum System
+Coherent direct sequence systemsmodel of a DSBPSK system  uncoded bit error probability
+for arbitrary jammer waveforms  Cheruoff boundperformance under constant power broadband
+noise jammer  pulse jammer  partial band jammermultitone jammer  coded DSBPSK system
+Frequency Hopping Spread Spectrum System
+Noncoherent FH system model  coherent FH systems  frequency synthesis performance of
+FHQPSK and FHDPSK systems in partial band jamming  time hopping SS technique
+Synchronization of Spread Spectrum Receivers
+Acquisition and tracking in DS SS receivers and FH SS receivers  Sequential estimation 
+Matched filter techniques of acquisition and tracking  Delay locked loop  TauDither loop
+Applications
+Code division multiple access  satellite communication  antijam military communication  low
+probability of intercept communication  mobile communication
+REFERENCES
+1 RCDixion Spread spectrum systems John Wiley 1984
+2 MKSimon JKOmura RASchiltz and BKLevitt Spread Spectrum
+Communication VolI II  IV Computer Science Press USA 1985
+3 GRCooperand CDMcGillem Modern communications and spread spectrum
+McGraw Hill 1986
+4 Roger L Peterson Rodger E Ziemer and David E Borth Introduction to Spread
+Spectrum Communication Pearson Publication
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Describe the types and advantages of spread spectrum modulation formats
+2 Perform analysis on the performance of spread spectrum modulation formats
+3 Describe the differences and benefits of different types of spreading codes
+4 Analyze the performance of spread spectrum systems in the presence of interference
+5 Analyze the performance of spreading code acquisition and tracking circuits
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CO5
+PO10
+CSYE X0X
+MICROWAVE ANTENNAS AND INTEGRATED
+CIRCUITS
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To understand signal propagation at Radio frequencies  to study aperture and reflector
+antennas
+ To have a knowledge on the concept of Microstrip antennas
+ To introduce to the students the basics of Microstrip Patch Antennas and its analysis
+ To learn about the solid state active devices for MICs
+Aperture and Horn Antennas
+Huygens Equivalence Principle  Radiation from Rectangular and Circular Apertures EPlane
+And HPlane Sectoral Horns  Design Aspects Radiation From EPlane Sectoral HornOver
+View of Pyramidal Horn Conical Corrugated Horn Gain Measurement By Standard Horn
+Antennas
+Satellite Antennas
+Radiation and Impedance Properties of Parabolic Reflector Antenna And Cassegrain Antenna Spillover Loss  Corner Reflector  Lens Antenna
+Antenna Arrays Linear Array With NonUniform Current Distribution DolphTchebyscheff
+Distribution  Taylor Distribution Design ConsiderationsPlanar Array  Phased Array Adaptive Antenna Array
+Planar Transmission Lines  Fabrication Aspects of MMIC
+Planar Transmission Lines For MICS Different Types Micro Strip Line  CPW CPS FIN
+LineAnalysis Comparison of Micro Strip Line Fin Lines And Coplanar Lines  Analysis of Fin
+Lines Conductor Loss In Fin Lines Design Of Microstrip Lines Introduction To Coplanar
+Wave Guide And Coplanar Strips  MMIC Fabrication Techniques
+Microstrip Antennas
+Radiation From Micro Strip Patch  Electric And Magnetic Current Distributions  Feeding
+Techniques  Cavity Model Analysis Of Rectangular And Circular Microstrip Antennas Design Of Rectangular Circular Microstrip Patch AntennasDualFrequency Micro Strip
+Antennas  Circularly Polarized Micro Strip Antennas  Broadband And Ultra Wide Band Micro
+Strip Antennas  Basic Characteristics Of Stacked  Electromagnetic Coupled And Aperture
+Coupled Micro Strip Antennas  Aperture Coupled Stacked Micro Strip Antennas
+Microwave Solid  State Active Devices for MICS
+Thick and Thin Film Technologies and Materials  Encapsulation and Mounting of Active
+Devices Micro Strips on Semiconductor Substrates Applications of Mics Phased Array Radar
+System  Satellite TV System
+REFERENCES
+1 Balanis C A Antenna Theory Analysis  Design Harper  Row Publisher
+2 Collin R E  Antennas  Radiowave Propagation McgrawHill Intnl
+3 Garg R Bhartia P Bhal I  Ittipiboon A Microstrip Antenna Design Handbook
+4 Samuel Y LiaoMicrowave Devices  Circuits 3E
+5 Gupta KC Microwave Integrated Circuits
+6 Bhat B Koul S K StriplineLike Transmission Lines For Microwave Integrated Circuits
+Wiley Eastern Ltd New Delhi
+COURSE OUTCOMES
+At the end the student would be able to
+1 Understand signal propagation at Radio frequencies
+2 Acquire the knowledge about the Microstrip antennas
+3 Get the foundation about solid state active devices
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CSYE X0X
+RF MEMS FOR WIRELESS COMMUNICATION
+SYSTEMS
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To provide knowledge on Microsystems fabrication process and Micromachining
+ To understand the fundamentals of RF MEMS circuit elements MEMS based circuit
+design and its applications to wireless communications
+Introduction to RF MEMS Technologies
+Need for RF MEMS Components in Communications  Space and Defense Applications Materials and Fabrication Technologies  Special Consideration in RF MEMS Design
+Fabrication Process and Micromachining
+Markets for Microsystems and MEMS Substrates and material properties Doping Oxidation 
+Concepts of Bulk Micro machining and Surface Micro machining Additive ProcessesEvaporation and sputtering  Chemical vapor deposition CVD Lithography Wet etching
+Isotropic Anisotropic  Etch stops Dry etching Vapour  Plasma  RIE DRIE Other
+processing techniques and materials LIGA Liftoff Chemical Mechanical Polishing CMP
+Soft Lithography and polymers  Wafer Bonding  Design rules and Mask making
+RF MEMS Components
+MEMS Inductors and Capacitors Micromachined Inductor Effect of Inductor Layout 
+Modeling and Design Issues of Planar Inductor  Gap Tuning and Area Tuning Capacitors 
+Dielectric Tunable Capacitors
+MEMS Phase Shifters Types  Limitations  Switched Delay Lines  Micromachined
+Transmission Lines  Coplanar Lines  Micromachined Directional Coupler and Mixer
+RF MEMS Circuit Elements
+Enabled Circuit Elements  Capacitors  Inductors  Varactors  MEM Switch Shunt MEM
+Switch  Low Voltage Hinged MEM Switch Approaches  PushPull Series Switch  Folded 
+Beam  Springs  Suspension Series Switch  Resonators  Transmission Line Planar
+Resonators  Cavity Resonators  Micromechanical Resonators  Film Bulk Acoustics Wave
+Resonators  MEMS Modeling  Mechanical Modeling  Electromagnetic Modeling
+Advanced RF MEMS Circuits
+Enabled Circuit  Reconfigurable Circuits  The
+Resonant MEMS Switch  Capacitors 
+Inductors  Tunable CPW Resonator  MEMS Micro switch Arrays  Reconfigurable Circuits 
+Double  Stub Tuner  nth Stub Tuner  Filter Resonator Tuning System  Massively Parallel
+Switchable RF Front Ends  True Delay Digital Phase Shifters Reconfigurable Antennas 
+Tunable Dipole Antennas  Tunable Microstrip Patch  Array Antenna
+RF MEMS based Circuit Design
+Phase Shifters  Fundamentals XBand RF MEMS Phase Shifter For Phased Array Applications
+ KaBand and RF MEMS Phase Shifter For Radar Systems Applications RF MEMS Filters 
+KaBand Millimeter Wave Micro Machined Tunable Filter  HighQ 8MHz MEM Resonators
+Filter RF MEMS Oscillators  Fundamentals  14GHz MEM Oscillators  KaBand Micro
+Machined Cavity Oscillator 24 GHz MEMS Based Voltage Controlled Oscillator
+REFERENCES
+1 Hector J De Los Santros RF MEMS Circuit Design for Wireless Communication
+Artech House 2002
+2 Vijay K Varadan Vinoy KJ Jose kA RF MEMS and their Applications  John
+Wiley and Sons Ltd 2002
+3 Gabriel MRebeiz RF MEMS theory Design and Technology Wiley Interscience
+2002
+4 TaiRanHsu MEMS  Microsystems Design and Manufacture Tata McGraw Hill
+New Delhi 2002
+COURSE OUTCOMES
+At the end the student would be able to
+1 Familiarize with Microsystems fabrication process and Micromachining
+2 Understand physical aspects of RF circuit design
+3 Acquire knowledge on RF MEMS elements such as switches resonators antennas etc
+4 Design Practical RF MEMS devices
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+PO10
+CSYE X0X
+OFDM FOR WIRELESS COMMUNICATION
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To impart knowledge about OFDM principles and its Implementation
+ To understand coding and interleaving techniques to reduce channel effects
+ To study various synchronization procedures in OFDM
+ To understand various channel estimation techniques and PAPR reduction schemes in
+OFDM system
+ To gain knowledge on OFDM multiple access schemes and applications of OFDM
+Introduction
+Wireless channel fundamentals  Multicarrier transmission scheme OFDM Principles  System
+Model  Generation of Sub Carrier Using IFFT  Guard Time and Cyclic Extension Choice of
+OFDM Parameters  OFDM Signal Processing
+Coding Modulation and Synchronization Techniques
+Introduction  Forward Error Correction Coding  Interleaving  Quadrature Amplitude
+Modulation  Coded Modulation  Synchronization  Sensitivity to Phase Noise  Frequency
+Offset and Timing Errors  Synchronization Using Cyclic Extension and Special Training
+Symbols
+Channel Estimation and PAPR Reduction in OFDM System
+Coherent Detection  One and Two Dimensional Channel Estimators  Special Training Symbols
+Decision Directed Channel Estimation  Differential Detection  Differential Detection in the
+Time and Frequency DomainPeak to Average Power Ratio PAPR reduction in OFDM system
+Clipping and peak windowing PAPR reduction codes Selective Mapping and Partial Transmit
+Sequence
+Orthogonal Frequency Division Multiple Access
+Frequency Hopping in OFDMA  Difference between OFDMA and MCCDMA OFDMA
+System Description  Channel Coding  Modulation  Time and Frequency Synchronization
+Initial Modulation Timing and Frequency Offset Synchronization Accuracy  Power Control 
+Random Frequency Hopping Operation  Dynamic Channel Simple and Fast  Capacity of
+OFDMA
+Application of OFDM
+Digital Audio Broadcasting Terrestrial Digital Video Broadcasting Wireless LAN Standards
+IEEE 80211  Hyper LAN and MMAC Difference between IEEE 80211 Hyper LAN2 and
+MMAC Magic wand Wireless ATM project IEEE 80211 Hyper LAN 2 and MMAC
+Wireless LAN standards  OFDM parameters Channelization OFDM signal processing
+Training Difference between IEEE 80211 Hyper LAN 2 and MMAC
+REFERENCES
+1 Richard Van Nee and Ramjee Prasad OFDM for Wireless Multimedia
+Communication Artech House 2000
+2 Mare Engels Wireless OFDM systems Klumer Academic publishers 2002
+3 Ye Geoffrey Li Gordon L Stiiber  Orthogonal Frequency Division Multiplexing for
+Wireless Communications Springer 2006
+4 Yong SooCho Jaekwon KimWon Young Yang Chung G Kang MIMOOFDM
+Wireless Communications with MATLAB John wiley and sons 2010
+5 Ahmad R S Bahai Burton R Saltzberg Mustafa Ergen Multi carrier Digital
+communication Theory and applications of OFDM Second Edition Springer 2004
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Describe the principles of OFDM and its Implementation
+2 Implement the coding and interleaving procedure to mitigate the channel effects
+3 Analyze synchronization techniques channel estimation techniques and PAPR reduction
+techniques in OFDM
+4 Describe multiple accesses in OFDM and various applications of OFDM
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYE X0X
+MOBILE AD HOC NETWORKS
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To introduce the characteristic features of Adhoc wireless networks and their applications
+to the students
+ To enable the students to understand the functioning of different access and routing
+protocols that can be used for Adhoc networks
+ To make the students to realize the need for security and challenges and also the role of
+cross layer design in enhancing the network performance
+Introduction
+Introduction to Ad Hoc networks  definition characteristics features applications
+Characteristics of Wireless channel Adhoc Mobility Models  entity and group models
+Medium Access Protocols
+MAC Protocols design issues goals and classification Contention based protocols reservation
+based protocols scheduling algorithms protocols using directional antennas IEEE standards
+80211a 80211b 80211g 80215 HIPERLAN
+Network Protocols
+Addressing issues in ad hoc network Routing Protocols Design issues goals and classification
+Proactive Vs reactive routing Unicast routing algorithms Multicast routing algorithms hybrid
+routing algorithm Power Energy aware routing algorithm Hierarchical Routing QoS aware
+routing
+End to  End Delivery and Security
+Transport layer Issues in designing Transport layer classification adhoc transport protocols
+Security issues in adhoc networks issues and challenges network security attacks secure
+routing protocols
+Cross Layer Design and Integration of Adhoc for 4G
+Cross layer Design Need for cross layer design cross layer optimization parameter optimization
+techniques Cross layer cautionary perspective Cooperative networks Architecture methods
+of cooperation cooperative antennas Integration of ad hoc network with other wired and
+wireless networks
+REFERENCES
+1 CSiva Ram Murthy and BSManoj Ad hoc Wireless Networks Architectures and
+protocols 2nd edition Pearson Education 2007
+2 Charles E Perkins Ad hoc Networking Addison  Wesley 2000
+3 Stefano Basagni Marco Conti Silvia Giordano and Ivan Stojmenovic Mobile adhoc
+networking WileyIEEE press 2004
+4 T Camp J Boleng and V Davies A Survey of Mobility Models for Ad Hoc Network
+Research Wireless Communication and Mobile Comp Special Issue on Mobile Ad
+Hoc Networking Research Trends and Applications vol 2 no 5 2002 pp 483502
+5 VT Raisinhani and S Iyer Cross layer design optimization in wireless protocol stacks
+Computer communication vol 27 no 8 2004
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand the basics of mobile ADHOC networks
+2 Got the knowledge of MAC and network protocols
+3 Realize the need for security and challenges and also the role of cross layer design in
+enhancing the network performance
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CSYE X0X
+HIGH SPEED NETWORKS
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To learn about the ATM backbone and advanced network architecture for high
+performance communication networks
+To acquire knowledge about MPLS architecture signaling and routing protocols
+To study the types of VPN and tunneling protocols for security
+To learn about Recent Trends In High Speed Networks
+Introduction
+Evolution of high speed networking  Synchronous Digital Hierarchy SDH Fibre Optic
+Network Synchronous Optical Network SONET standards  Wave length division multiplexed
+WDM LAN  Basics of networking technologies  Fast Ethernet Gigabit Ethernet Frame
+relay DSL ATM MPLS wireless networks such as 8021180216WiMax 3G  4G networks
+Design considerations in high performance networking
+ATM
+ATM Protocol architecture  core aspects ATM Layers ATM Adaptation layersynchronous
+fast packet switching techniques and VPVC encapsulation ATM cells  ATM traffic
+Management  Connection management  Discrete time queue analysis and application to
+Connection Admission Control CAC  Peak Cell rate algorithm  Leaky Bucket algorithm
+MPLS
+Introduction to MPLS considerations in the choice of cells VS frames IP over MPLS
+architecture terminology MPLS forwarding operations MPLS encapsulation standards MPLS
+signaling and routing protocols research areas in MPLS
+Advanced Networks Concepts
+VPN  Remote Access VPN sitetosite VPN Tunneling to PPP Security in VPN MPLSoperation Routing tunneling and use of FEC Traffic Engineering MPLS based VPN overlay
+networksP2P Connections
+Recent Trends in High Speed Networks
+Enabling Differentiated Services Using Generalized Power Control Model in Optical
+Networks  Adaptive Quality of Service Based Power Management  New Worm Exploiting
+IPV6 and IPV4  IPV6  Dual stack Networks  Methodologies and Tools for Exploring
+Transport Protocols in the Context of High speed Networks  Endtoend Congestion Control for
+High Speed Networks Based on Population Ecology Models
+REFERENCES
+1 WStallings High Speed Networks and Internet Pearson ed 1999
+2 ROOnvural ATM NetworksPerformance Issues Artech House 1995
+3 David E McDysan Dave Paw ATM  MPLS Theory  Application Foundations of
+Multi Service Networking DOI101036 0072228377McGrawHill publication
+4 Walrand J Varatya High performance communication network Morganb Kaufmann 
+Harcourt Asia Pvt Ltd 2nd Edition 2000
+5 Jeffrey G Andrews AnuradhaGhosh RiasMUhamed Fundamentals of
+WiMAX understanding broadband Wireless NetworkingPrentice HallISBN0132225522
+6 Fred Halsall and Lingana Gouda Kulkarni Computer Networking and the Internet fifth
+edition Pearson education
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand various High speed networks
+2 Understand ATM Protocol architecture and Traffic Management
+3 Understand clearly the working of MPLS
+4 Acquire the basics of Advanced Network Concepts and Recent trends in High Speed
+Networks
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYE X0X
+VIRTUAL PRIVATE NETWORKS
+L
+4
+T
+0
+PO10
+P
+0
+COURSE OBJECTIVES
+ To study the types of VPN and tunneling protocols for security
+ To learn about network security in many layers and network management
+ To impart knowledge on VPN protocols and MPLS VPN
+Introduction
+Introduction to VPN VPN devices Types of VPN  Access VPN Intranet VPN Extranet VPN
+Overlay and Peertopeer VPNs Connectionoriented and connectionless VPNs Trusted and
+Secure VPNsVPN Provisioning  Service provider and customer provisioned VPNs
+Layer 2 and Layer 3 VPN
+Layer 2 Internetworking VPN Service  Benefits of L2VPN InterAS L2VPN Supported IETF
+StandardsTechnology OverviewIntranet CorporateInternet AccessScaling MPLS VPNs to
+MultiAS MultiProvider and Hierarchical NetworksHeterogeneous NetworksManaged
+Central Services
+VPN and Firewalls
+Secure VPN Technologies Trusted VPN Technologies VPNFirewall Architecture
+VPNFirewall Security Policy Advanced Security Policy and System Management Hybrid VPN
+Technologies SitetoSite VPN Remote Access VPN
+MPLS and MPLS VPN
+WAN Topologies Standard IP based Switching  CEF based MultiLayer switchingMPLS
+Characteristics Frame Mode MPLS Operation  MPLS VPN
+VPN Protocols
+VPN Protocols Layer 2 Tunneling Protocol Internet Protocol Security Internet Key Exchange
+IKE Protocol VPN Hacking Voice over IP Attack  Authentication HeaderEncapsulation
+Security Payload ESP IPSEC Protocol Suite  Generic Routing EncapsulationGRE
+REFERENCES
+1 Ruixi Yuan and Timothy Strayer W Virtual Private Networks Technologies and
+Solutions AddisonWesly 2001
+2 Thaddeus Fortenberry Windows 2000 Virtual Private Networking Macmillan
+Technical Pub 2007
+3 Roger J Sutton Secure Communications Applications and Management WILEY
+2002
+4 Don J Torrieri Principles of secure communication systems 2nd Eedition Artech
+House Publishers 1992
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand the types of VPN and tunneling protocols for security
+2 Familiarize about network security in many layers and network management
+3 Acquire knowledge on VPN protocols and MPLS VPN
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CSYE X0X
+ELECTROMAGNETIC INTERFERENCE AND
+COMPATIBILITY IN SYSTEM DESIGN
+L
+4
+T
+0
+PO10
+P
+0
+COURSE OBJECTIVES
+ To understand the concepts related to Electromagnetic interference in PCBs
+ To provide solutions for minimizing EMI in PCBs
+ To learn EMI standards in the design of PCBs
+ To learn various EMI coupling principles EMI standards and measurements
+ To provide knowledge on EMI control techniques and design procedures to make EMI
+compatible PCBs
+EMIEMC Concepts
+EMIEMC definitions and Units of parameters Sources and victim of EMI Conducted and
+Radiated EMI Emission and Susceptibility Transient EMI ESD Radiation Hazards
+EMI Coupling principles
+Conducted radiated and transient coupling Common ground impedance coupling  Common
+mode and ground loop coupling  Differential mode coupling  Near field cable to cable coupling
+cross talk  Field to cable coupling  Power mains and Power supply coupling
+EMI Control Techniques
+Shielding Filtering Grounding Bonding Isolation transformer Transient suppressors Cable
+routing Signal control
+EMC Design of PCBs
+Component selection and mounting PCB trace impedance Routing Cross talk control Power
+distribution decoupling Zoning Grounding VIAs connection Terminations
+EMI Measurements and Standards
+Open area test site TEM cell EMI test shielded chamber and shielded ferrite lined anechoic
+chamber Tx Rx Antennas Sensors Injectors  Couplers and coupling factors EMI Rx and
+spectrum analyzer Civilian standardsCISPR FCC IEC EN Military standards
+REFERENCES
+1 VPKodali Engineering EMC Principles Measurements and Technologies IEEE Press
+Newyork 1996
+2 Henry WOtt Noise Reduction Techniques in Electronic Systems A Wiley Inter Science
+Publications John Wiley and Sons Newyork 1988
+3 Bemhard Keiser Principles of Electromagnetic Compatibility 3rd Ed Artech house
+Norwood 1986
+4 CRPaul Introduction to Electromagnetic Compatibility John Wiley and Sons Inc
+1992
+5 Don RJWhite Consultant Incorporate Handbook of EMIEMC Vol IV 1988
+COURSE OUTCOMES
+1 Analyze Electromagnetic interference effects in PCBs
+2 Propose solutions for minimizing EMI in PCBs
+3 Analyze Electromagnetic environment EMI coupling standards measurement and
+control techniques
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+PO10
+CSYE X0X
+ADVANCED ELECTROMAGNETIC THEORY
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To introduce the students about the transmission lines and wave guides
+ To discuss about the theory of micro strips and strip lines
+ To obtain a broad understanding of surface waveguides and microwave cavities
+Transmission Lines
+General solutions for TEM TE and TM waves obtained from reduced Maxwells Equations In
+homogeneously filled parallel plate transmissionline Derivation of EM fields for the dominant
+Emode followed by lowfrequency and high frequency solutions
+Waveguides
+General solutions for Enm and Hnm modes in a rectangular waveguide including waveguide
+parameters Anisotropic dielectrics Power for Hnm modes Derivation of the attenuation constant
+for the Hio or H10modeTEmo modes of a partially loaded waveguide TEnm andTMnm modes in a
+circular waveguide TEnm modes in a coaxial transmission line
+Microstrips and Strip Lines
+Vector and scalar potential function formulation for microstrip transmission line with anisotropic
+substrate material  Low frequency solutions inductance per unit length capacitance per unit
+length propagation constant and the characteristic impedance  An approximate electrostatic
+solution for Microstrip Transmission line with perfectly conducting walls equivalent dielectric
+constant  Microstrip attenuation  An approximate electrostatic solution for an enclosed stripline
+Surface Waveguides
+TEn and TMn modes of a grounded dielectric slab surface waveguide Phase group and energy
+flow velocities An introduction to Ridge Waveguides and FIN lines EM fields Resonant
+frequencies and Q for TE10l modes of a rectangular cavity
+Microwave Cavities
+Electromagnetic fields resonant frequencies and Q for TEnml modes of a circular cavityTE01
+mode of the cylindrical dielectric resonatorFarbyPerot resonators  A general microwave cavity
+ Cavity field expansion in terms of short circuit modesElectric field expansion in a general
+cavity Orthogonality propertiesMagnetic field expansion in a general cavity Orthogonality
+properties
+REFERENCES
+1 Prof Robert E Collin Foundations for Microwave Engineering Second Edition
+McGraw Hill International Edition Second Edition 2000
+2 Prof David M Pozar Microwave Engineering  Second Edition John Wiley  Sons
+Inc Third Edition 2004
+3 Rakhesh Singh Kshetrimayum Electromagnetic Field Theory Cengaga Learning
+India 2012
+4 Rohit Khurana Electromagnetic Field Theory ITL ESL Vikas Publishing 2015
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand clearly about the transmission lines and wave guides
+2 Familiarize about the theory of micro strips and strip lines
+3 Understand broadly about surface waveguides and microwave cavities
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CSYE X0X
+RF COMMUNICATION
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To learn the fundamental concepts of RF wireless communications
+ To explore the students about the protocols and modulation techniques
+ To introduce transmitter and receiver system design techniques and analysis
+ To understand the basics of radio system design and applications
+Introduction
+Elements of Wireless communications  Mechanism of Radio wave propagationOpen field
+propagation  Diffraction  Scattering  Path loss  Multipath Phenomena  Flat fading Diversity technique  Noise
+Antennas and Transmission Lines Antenna characteristicsTypes of antennas Impedance
+matching  Measuring techniques
+Communication Protocols and Modulation
+Base band data format  protocol  Base band coding  RF frequency  Bandwidth 
+Modulation and Demodulation Phase shift keying  Nyquist bandwidth  QPSK constellation
+diagram and 16 QAM constellation diagramSpread spectrum Frequency hopping spread
+spectrum  direct sequence spread spectrum RFID
+Transmitters and Receivers
+Transmitters RF Source Saw resonators  oscillators Crystal oscillators Synthesizer control 
+Modulation ASK  FSK of Saw oscillators  Amplifiers  Filtering  Antenna Receivers Tuned radio frequency  Super regenerative receiver  Super heterodyne receiver  Direct
+conversion receiver  Digital receivers  Repeaters
+Radio System Design
+Range of radio system  Sensitivity  Finding range from sensitivity  Super heterodyne image 
+spurious response  Inter modulation distortion and dynamic range  Demodulation  Internal
+receiver noise  transmitter design  Bandwidth  Antenna Directivity  Power source
+Applications and Technologies
+Wireless local area network WLAN WiFi Network architecture IEEE 80211 a b
+HIPERLAN  Bluetooth Transceiver and timing  Zigbee Architecture characteristics Frame
+structure applications comparison of Bluetooth with Zigbee  Conflict and Compatibility 
+Ultra wideband technology
+REFERENCES
+1 Alan Bensky Short Range Wireless Communication Fundamentals of RF System
+Design and Application II edition 2004
+2 TS Rappaport Wireless Communications Pearson Education 2003
+3 Jon B Hagen Radio Frequency Electronics Cambridge University press Cambridge
+1996
+4 Ian Hickman RF HandBook Butter Worth Heinemann Ltd Oxford 1993
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand the basic concepts of RF wireless communications
+2 Acquire the detail view of communication protocol
+3 Analyze and design various transmitters and receivers
+4 Understand the basics of radio system design and applications
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYE X0X
+ADVANCED DIGITAL IMAGE PROCESSING
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To understand the image fundamentals and mathematical transforms necessary for image
+processing and to study the image enhancement techniques
+ To understand the image segmentation and representation techniques
+ To understand how image are analyzed to extract features of interest
+ To introduce the concepts of image registration and image fusion
+ To analyze the constraints in image processing when dealing with 3D data sets
+Fundamentals of Digital Image Processing
+Elements of visual perception brightness contrast hue saturation mach band effect 2D image
+transforms DFT DCT KLT and SVD Image enhancement in spatial and frequency domain
+Review of morphological image processing
+Segmentation
+Edge detection Thresholding Region growing Fuzzy clustering Watershed algorithm Active
+contour methods Texture feature based segmentation Model based segmentation Atlas based
+segmentation Wavelet based Segmentation methods
+Feature Extraction
+First and second order edge detection operators Phase congruency Localized feature Extraction
+detecting image curvature shape features Hough transform shape skeletonization Boundary
+descriptors Moments Texture descriptors Autocorrelation Cooccurrence features Run length
+features Fractal model based features Gabor filter wavelet features
+Registration and Image Fusion
+Registration Preprocessing Feature selection points lines regions and templates Feature
+correspondence Point pattern matching Line matching region matching Template matching
+Transformation functions Similarity transformation and Affine Transformation Resampling
+Nearest Neighbour and Cubic Splines Image Fusion Overview of image fusion pixel fusion
+Multiresolution based fusion discrete wavelet transform Curvelet transform Region based
+fusion
+3D Image Visualization
+Sources of 3D Data sets Slicing the Data set Arbitrary section planes The use of color
+Volumetric display Stereo Viewing Ray tracing Reflection Surfaces Multiply connected
+surfaces Image processing in 3D Measurements on 3D images
+REFERENCES
+1 Rafael C Gonzalez Richard E Woods Digital Image Processing Pearson Education
+Inc Second Edition 2004
+2 Anil K Jain Fundamentals of Digital Image Processing PearsonEducationInc 2002
+3 Rick SBlumZheng Liu Multisensor image fusion and itsApplicationsTaylor
+Francis2006
+4 S Sridhar  Digital Image Processing Second Edition Oxford Publications 2000
+COURSE OUTCOMES
+On completion of the course the students will be able to
+1 To understand image formation and the role human visual system play in perception of
+gray and color image data
+2 To apply image processing techniques in both the spatial and frequency domains
+3 To design image analysis techniques in the form of image segmentation and to evaluate
+the methodologies for segmentation
+4 To understand the concepts of image registration and image fusion
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYE X0X
+DIGITAL VIDEO PROCESSING
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To introduce the fundamentals of video processing
+ To study the concepts of motion estimation and its general methodologies
+ To learn the basics of video coding and its methods
+ To understand the error control techniques in video processing and its applications in the
+wireless networks
+Introduction to Video Processing
+Principles of colour video processing  Video display  Composite versus component video Progressive and interlaced scan  Sampling of video signals
+Motion Estimation
+Two dimensional  Optical flow  General methodologies  Pixel based motion estimation Block matching algorithm  Deformable block matching algorithm  Mesh based motion estimation  Global motion estimation  Region based motion estimation  Multiresolution motion estimation  Three dimensional  Feature based Motion Estimation  Direct motion 
+Estimation  Iterative model
+Basic of Video Coding
+Categorization of video coding schemes  Information Theory for source coding  Binary
+encoding  Scalar quantization  Vector quantization  Wave form based coding  Blockbased
+transform coding  Predictive coding  Temporal prediction and transform coding
+Error Control in Video Communications
+Overview of approaches  Video applications and communication  networks  Transport level
+error control  Error resilient encoding  Decoder error concealment  Encoderdecoder
+interactive error control  Error resilience Tools in H263 and MPEG4
+Streaming Video over the Internet and Wireless IP Networks
+Architecture for video streaming systems  Video compression  Application layer QoS control
+for streaming  video Continuous media Distribution services  Streaming servers  Media
+synchronization  Protocols for streaming video  Streaming video over wireless IP networks
+REFERENCES
+1 Yao Wang Jorn Ostermann YaQin Zhang Video Processing and Communications
+Prentice Hall 2002
+2 Alan C Bovik The Essential Guide to Video Processing Elsevier Science second
+edition 2009
+3 Jens R Ohm Multimedia Communication Technology Representation Transmission
+and Identification of Multimedia Signals  Springer 2004
+4 M E AlMualla C N Canagarajah and D R Bull Video Coding for Mobile
+5 Communications Efficiency Complexity and Resilience Elsevier Science Academic
+Press 2002
+6 A Murat Tekalp Digital Video Processing Prentice Hall edition 1 1996
+COURSE OUTCOMES
+On completing this course the students should be able to
+1 Understand the basic concepts and characteristics of video processing
+2 Understand the concepts of motion estimation and basics of video coding
+3 Analyze the error control in video communications and its applications
+4 Understand the basics of video compression and its applications in the wireless networks
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYE X0X
+WIRELESS COMMUNICATION NETWORKS
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To understand the various terminologies principles used in wireless communication
+networks
+ Overview of wireless communication networks area and its application
+ To appreciate the contribution of wireless communication networks to technological
+growth
+Physical and Wireless MAC Layer Alternatives
+Wired transmission techniques design of wireless modems power efficiency out of band
+radiation applied wireless transmission techniques short distance base band transmission
+UWB pulse transmission broad Modems for higher speeds diversity and smart receiving
+techniques random access for data oriented networks integration of voice and data traffic
+Wireless Network Planning and Operation
+Wireless networks topologies cellular topology cell fundamentals signal to interference ratio
+calculation capacity expansion techniques cell splitting use of directional antennas for cell
+sectoring micro cell method overload cells channels allocation techniques and channel
+borrowing techniques DCA mobility management radio resources and power management
+securities in wireless networks
+Wireless Personal Area Networks
+Introduction to Bluetooth WPAN Device Architecture Protocol Stack Network Connection
+Establishment Topology Applications Low Rate and High Rate WPAN Wireless Sensor
+Network Protocol Stack IEEE 802153Zig bee Technology  IEEE 802154 Ultra Wideband
+Wireless Local Area Networks
+Introduction to Wireless LANs LAN Equipment Topologies Technologies Architecture and
+Services MAC Sub Layer  IEEE 80211Standards Interference between Bluetooth and IEEE
+80211 HIPERLAN Introduction to IEEE 80216 80222 Rural Area Networks  WiMax
+Protocols
+AdHoc Wireless Networks
+Characteristics of Adhoc Networks Classifications of MAC ProtocolsTable driven and Source
+initiated On Demand routing protocols DSDV AODV DSR Hybrid Protocols TCP over Adhoc Wireless Networks
+REFERENCES
+1 KavehPahlavan PrashantKrishnamoorthy Principles of Wireless Networks A
+United Approach  Pearson Education 2002
+2 XWang and HVPoor Wireless Communication Systems Pearson education
+2004
+3 MMallick Mobile and Wireless design essentials Wiley Publishing Inc 2003
+4 PNicopolitidis MSObaidat GI papadimitria AS Pomportsis Wireless
+Networks John Wiley  Sons 2003
+5 TS Rappaport Wireless Communications Pearson Education 2003
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Analyze the design considerations of wireless MAC layer
+2 Formulate wireless network planning and operation techniques
+3 Discuss various WLAN and WWAN standards
+4 Analyze the design considerations of wireless networks
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+PO10
+CSYE X0X
+VLSI FOR WIRELESS COMMUNICATION
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To study the design concepts of low noise amplifiers
+ To study the various types of mixers designed for wireless communication
+ To study and design PLL and VCO
+ To understand the concepts of CDMA in wireless communication
+Components and Devices
+Integrated inductors resistors MOSFET and BJT AMPLIFIER DESIGN Low Noise
+Amplifier Design  Wideband LNA  Design Narrowband LNA  Impedance Matching Automatic Gain  Control Amplifiers  Power Amplifiers
+Mixers
+Balancing Mixer  Qualitative Description of the Gilbert Mixer  Conversion Gain  Distortion 
+Low Frequency Case Analysis of Gilbert Mixer  Distortion  HighFrequency Case  Noise 
+A Complete Active Mixer Switching Mixer  Distortion in Unbalanced Switching Mixer 
+Conversion Gain in Unbalanced Switching Mixer  Noise in Unbalanced Switching Mixer  A
+Practical Unbalanced Switching Mixer Sampling Mixer  Conversion Gain in Single Ended
+Sampling Mixer  Distortion in Single Ended Sampling Mixer  Intrinsic Noise in Single
+Ended Sampling Mixer  Extrinsic Noise in Single Ended Sampling Mixer
+Frequency Synthesizers
+Phase Locked Loops  Voltage Controlled Oscillators  Phase Detector  Analog Phase Detectors
+ Digital Phase Detectors  Frequency Dividers  LC Oscillators  Ring Oscillators  Phase Noise
+ A Complete Synthesizer Design Example DECT Application
+Sub Systems
+Data converters in communications adaptive Filters equalizers and transceivers
+Implementations
+VLSI architecture for Multitier Wireless System  Hardware Design Issues for a Next generation
+CDMA System
+REFERENCES
+1 BRazavi RF Microelectronics  PrenticeHall 1998
+2 Bosco H Leung VLSI for Wireless Communication Pearson Education 2002
+3 Thomas HLee The Design of CMOS Radio Frequency Integrated Circuits
+Cambridge University Press 2003
+4 Emad N Farag and Mohamed I Elmasry Mixed Signal VLSI Wireless Design Circuits and Systems Kluwer Academic Publishers 2000
+5 Behzad Razavi Design of Analog CMOS Integrated Circuits McGrawHill 1999
+6 J Crols and M Steyaert CMOS Wireless Transceiver Design Boston Kluwer
+Academic Pub 1997
+COURSE OUTCOMES
+Upon completion of the course the students will be able to
+1 Know the basics of MOSFET and BJT design
+2 Understand the types of mixtures and its characteristics
+3 Understand frequency synthesizers and sub systems
+4 Understand the hardware implementation in wireless systems
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYE X0X
+FPGA BASED WIRELESS COMMUNICATION
+SYSTEM DESIGN
+L
+4
+T
+0
+PO10
+P
+0
+COURSE OBJECTIVES
+ To enable the students to learn about the FPGA architecture and the programming
+technologies
+ To introduce to the students the modeling techniques of VHDL
+ To evaluate the performance using simulation and testing of systems
+ To study the concept behind software radio and the design of digital signal processing
+blocks
+FPGA Architecture and Programming Technologies
+Field Programmable gate arrays Logic blocks routing architecture Design flow technology mapping for FPGAs Xilinx XC4000  ALTERAs FLEX 800010000 ACTELs ACT123 and
+their speed performance Case studies Altera MAX 5000 and 7000  Altera MAX 9000  Spartan
+II and Virtex II FPGAs  Apex and Cyclone FPGAs Programming Technologies Antifuse 
+static RAM  EPROM and EEPROM technology
+Verilog HDL
+Data types and operators  Gate Level Modeling  Data Flow Modeling  Behavioral Modelingstructural modeling Design of combinational logic and sequential logic circuitsDesign of
+Memory module and Finite state machinestest benches
+Logic Synthesis Simulation and Testing
+Design systems  Logic Synthesis  types of simulation boundary scan test  fault simulation automatic test pattern generation
+Software Radio
+Block Diagram of Software Radio Numerically controlled oscillator  Digital Up converters 
+Down Converters  Sampling schemesCoherent Modulator and Demodulator  Incoherent
+Demodulation  digital approach for I and Q generationprocessing techniques
+Filter design CIC  baseband
+System Design
+Design of Digital signal processing blocks FFT IFFT FIR filters  crest factor reduction
+digital pre distortion blocks  Turbo coders  OFDM modulatorsdemodulators Network security
+ AES encryption  decryption modules  SOC DESIGN  Design Methodologies  Processes and
+Flows
+REFERENCES
+1 MJS Smith Application Specific Integrated Circuits Addison Wesley Longman
+Inc 1997
+2 ParagKLala Digital System Design using Programmable Logic Devices  BSP 2003
+3 Samir Palnitkar  Verilog HDL A Guide to Digital Design and Synthesis Prentice
+Hall 2003
+4 Jeffrey H Reed Software Radio A Modern Approach to Radio Engineering Prentice
+Hall  2002
+5 Uwe Meyer Baese Digital Signal Processing with Field Programmable Gate Arrays
+Springer 2007
+COURSE OUTCOMES
+On completion of the course the students will be able to
+1 Familiarize about the FPGA architecture and the programming technologies
+2 Understand syntax and semantics of Verilog HDL
+3 Evaluate the performance using simulation and testing of systems
+4 Acquire the concept behind software radio and the design of digital signal processing
+blocks
+Mapping Course OutcomesCOs with Programme OutcomesPOs
+Programme OutcomesPOs
+Course
+OutcomesCOs PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1
+CO2
+CO3
+CO4
+CSYE X0X
+WIRELESS INTELLIGENT NETWORKS
+L
+4
+PO10
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To enable the students to study the fundamentals of mobile communication concepts and
+wireless intelligent networking standards
+ To introduce the concept of intelligent networking and migration from point solutions to
+network based solutions
+ To expose the students to WIN services architectures and applications
+Fundamentals of Mobile Communications
+Fundamental Mobile Communication Concepts  Wireless System Architecture  Mobile
+Network Standards  Wireless Intelligent Networking Standards  Evolution to Third 
+Generation Wireless Standards  Overview of SS7 Network Signaling  Signaling in a Wireless
+Network  Intelligent Networking
+Introduction to Cellular Mobile Systems
+Spectrum Allocation basic Cellular Systems performance Criteria Operation of cellular
+systems analog cellular systems digital Cellular Systems Frequency Reuse channel
+assignment strategies handoff Strategies Interference and system capacity tracking and grade
+off service improving coverage and capacity
+Wireless Intelligent Networking
+Origins of Intelligent Networking  Wireless Intelligent Networking WIN CAMEL 
+Relationship of wireless Intelligent Networking Standards  Migration from Point solutions to
+Network Based Solutions  Impetus for Migration Advantages and Operational Challenges of
+Network  Based Solutions
+WIN Capabilities
+Intelligence in Telecommunication Networks  Fixed Network Intelligence  Mobile Network
+Intelligence Standardized Intelligence for Mobile Networks WIN CAMEL  Phased
+Development of Standards Pre WIN WIN Phase  I II III CAMEL  Phase I II Trigger
+detection points  WIN and CAMEL operational Issues
+WIN Services
+Intelligent Networking solutions to Wireless Fraud  Pre call Validation  Cloning Fraud 
+Roamer Verification and Reinstatement  Network Based HLR  Long term Strategic
+Advantages  Wireless and Wire line Services  Emulation of Basic Wireless Features 
+Emulation of Wire line IN Services  Integration of Wire line and Wireless Services 
+Emergence of Wireless Specific Services  Emergence of Data Prominence  Access to Web
+Information
+REFERENCES
+1 Jochen schiller Mobile CommunicationSecond Edition Pearson Education 2012
+2 Theodre S Rappaport  Wireless Communications Principles and Practices Pearson
+India 2009
+3 Gerry Christensen Paul GFlorack Robert Duncan Wireless Intelligent Networking
+Artech House Publishers 2001
+4 Johan Zuidweg Next generation Intelligent Networks Artech House Communication
+Library Edition I August 15 2002
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Acquire knowledge about fundamentals of mobile communication
+2 Understand the basic concepts in wireless intelligent networks
+3 Acquire the concepts in WIN capabilities services and architecture
+CSYE X0X
+SYSTEM MANAGEMENT AND SECURITY
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To discuss about the various models for defining the systems
+ To understand the concepts and terminology associated with SNMP
+ To learn to the concepts and architecture behind standards based network management
+ To explore the different encryption methods and security based mechanisms
+Network Management
+Organisational Model  Information Model  Communication Model  Encoding Structure 
+Macros Functional Model  Configuration management  Fault management  Performance
+management  Event Correlation techniques  Security Management  Accounting Management
+ Report Management  Policy based Management  Service Level management
+Internet Management
+SNMP  Organisational Model  System overview  Information Model  Communication
+model  Functional Model  SNMP Proxy Server  Management Information  Protocol Remote
+Monitoring
+Broad Band Network Management
+Broad band Networks and Services  ATM technology  VPVC ATM Packet  Integrated
+services  ATM LAN simulation  Virtual LAN  ATM network management  ATM network
+references Model  Integrated local management interface  ATM management information base
+ ATM management interface  ATM digital Exchange interface management
+Key Encryption
+Conventional Encryption Model  Stegnography  Block Cipher  Encryption algorithms  key
+distribution  RSA algorithm  Diffie  Hellman Key exchange  Elliptic curve Cryptology 
+Message Authentication  Digital Signatures  Key management
+System Security
+IP Security  Security Architecture  Security Pay load  Web Security requirement  Secure
+electronic transaction  Dual Signature  Intruders  Viruses  Worms  Trusted Systems 
+Antivirus Techniques  Digital Immune Systems
+REFERENCES
+1 Mani Subramanian Network Management Principles and Practice Addison Wesley
+Newyork  2000
+2 Salah Alidarous Thomas Plevayk Telecommunications network management
+technologies Implementations  Eastern Economy Edition IEEE Press New Delhi 1998
+3 Lakshmi G Raman Fundamentals of Telecommunication network Management
+Eastern Economy Edition IEEE Press New Delhi 1999
+4 William Stallings Cryptology and network security 2nd edition PHI New Delhi 1999
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand about the various models for defining the systems
+2 Understand the concepts and terminology associated with SNMP
+3 Acquire the concepts and architecture behind standards based network management
+4 Analyze the different encryption methods and security based mechanisms
+CSYE X0X
+EMBEDDED SYSTEM DESIGN
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To make the students to understand the issues and challenges in embedded system design
+ To know the concepts of embedded processor architecture and memory models
+ To explore the software platform for implementing the embedded system and different
+types of peripherals and bus devices
+Introduction
+Introduction to Embedded Computing Issues and Challenges in Embedded System Design
+Trends SoC custom designed chips configurable processors and multicore processors
+Embedded Processor Architecture
+General concepts  Instruction Set Architecture Levels in architecture Functional description 
+hardwaresoftware tradeoff Introduction to RISC architecture pipelining Instruction issue and
+execution Instruction formats Addressing modes Data alignment and byte ordering
+Introduction to VLIW and DSP processors
+Memory and Cache
+Memory model  hierarchy and management  virtual memory concepts protection cache and
+SPM Introduction to the cache coherency problem Programming with HCS12 C Programming
+examples for interrupts UART Input and Output in HCS12 processor
+Embedded System Software
+Components of an embedded software system system boot up and downloading code System
+memory map allocating sections through linker command file Programming peripherals and
+ISRs Embedded tool chain Mixing C and Assembly concurrent software memory management
+and system initialization
+Peripherals and Bus Devices
+SRAM DRAM SDRAM DDR NOR and NAND Flash Ethernet TPU UART USB I2C bus
+SPI bus CAN bus C Programming examples for Interrupts I2C CAN TPU and Ethernet in
+ColdFire processor Embedded Operating Systems OSless system Introduction to RTOSSpecial considerations in an RTOS CPU management
+REFERENCES
+1 John LHennessy and DavidAPatterson Computer Architecture Morgan Kaufmann
+publisher Fourth Edition 2007
+2 Sinha Muthukumar and Darshak Embedded System Design  A Practical Approach
+3 Frank Vahid and Tony Givargis Embedded system design John Wiley  Sons
+International Edition 2003
+4 HanWay Huang An Introduction to Hardware and Software Interfacing The
+HCS129S12Delmar cengage Learning First Edition 2005
+5 Michael Barr and Anthony Masasa Programming Embedded Systems Orelly 
+Associates Inc 2006
+COURSE OUTCOMES
+On completion of the course the students will be able to
+1 Understand the issues and challenges in embedded system design
+2 Acquired the concepts of embedded processor architecture and memory models
+3 Analyze the software platform for implementing the embedded system and different
+types of peripherals and bus devices
+CSYE X0X
+MULTIMEDIA COMMUNICATION
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To study the image fundamentals and mathematical transforms necessary for image
+processing
+ To know about the image enhancement techniques and the image compression
+procedures
+ To understand the basic concepts of VoIP technology and multimedia networking
+Multimedia Components
+Introduction  Multimedia skills  Multimedia components and their characteristics  Text sound
+images graphics animation video hardware
+Audio and Video Compression
+Audio compressionDPCMAdaptive PCM adaptive predictive codinglinear Predictive
+codingcode excited LPCperpetual coding MP3 Video compression  principlesH261H263MPEG 1 2 4
+Lossless Compression
+Compression principlessource encoders and destination encodersentropy encoding source
+encoding text compression static Huffman coding dynamic coding arithmetic coding Lempel
+ZivWelch Compression
+VOIP Technology
+Basics of IP transport VOIP challenges H323 SIP Network Architecture Protocols Call
+establishment and release VoIP and SS7 Quality of Service CODEC MethodsVOIP
+applicability
+Multimedia Networking
+Multimedia networking Applicationsstreamed stored and audiomaking the best Effort
+serviceprotocols for real time interactive Applicationsdistributing multimedia beyond best
+effort servicesecluding and policing Mechanismsintegrated services differentiated ServicesRSVP
+REFERENCES
+1 Fred Halshall Multimedia communication  applications networks protocols and
+standards Pearson education 2007
+2 Tay Vaughan Multimedia Making it work 7e TMH 2007
+3 Kurose and WRoss Computer Networking A top down approach Pearson education
+3rd edition 2005
+4 KR RaoZ S Bojkovic D A Milovanovic Multimedia Communication Systems
+Techniques Standards and Networks Pearson Education 2007
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Understand clearly about the fundamentals of image processing
+2 Gain knowledge of image enhancement techniques and the image compression
+procedures
+3 Understand about VOIP technology and multimedia networking
+CSYE X0X
+SOFT COMPUTING TECHNIQUES
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+Upon completion of this course the student should be able to get an idea on
+ Artificial Intelligence Various types of production systems characteristics of production
+systems
+ Neural Networks architecture functions and various algorithms involved
+ Fuzzy Logic Various fuzzy systems and their functions
+ Genetic algorithms its applications
+Soft Computing and Artificial Intelligence
+Introduction To Soft Computing Soft Computing Vs Hard Computing Various Types of Soft
+Computing Techniques Applications of Soft Computing
+Introduction to Artificial Intelligence Various Types of Production Systems Characteristics of
+Production Systems Breadth First Search Depth First Search Techniques Other Search
+Techniques Like Hill Climbing Best First Search A Algorithm AO Algorithms and Various
+Types of Control Strategies Knowledge Representation Issues Prepositional and Predicate
+Logic Monotonic and Non Monotonic Reasoning Forward Reasoning Backward Reasoning
+Weak  Strong Slot  Filler Structures NLP
+Neural Network
+Structure and Function of a Single Neuron Biological Neuron Artificial Neuron Definition of
+ANN Taxonomy of Neural Net Difference BW ANN and Human Brain Characteristic and
+Applications of ANN Single Layer Network
+Perceptron and Counter Propagation Network
+Perceptron Training Algorithm Linear Separability Widrow and Hebbs Learning RuleDelta
+Rule ADALINE MADALINE AI VS ANN Counter Propagation Network Architecture
+Functioning and Characteristics of Counter Propagation Network
+Fuzzy Logic Controller
+Functional Diagram  Fuzzification  Membership Value Assignments Using Intuition Membership Functions  Defuzzification MaxMembership Principle  Centroid Method Weighted Average Method  Inference Engine  Knowledge Base Rule Base  Case Studies
+Genetic Algorithm Hybrid Soft Computing Techniques and Applications
+Optimization  Traditional Optimization Methods  Concept of Evolutionary Algorithm 
+Genetic Algorithm  Encoding and Decoding of Variables  GA Operators  Reproductions 
+Cross Over  Mutation  Fitness Function Fitness Scaling
+NeuroFuzzy Hybrid Systems  Genetic Neuro Hybrid Systems  Genetic Fuzzy Hybrid and
+Fuzzy Genetic Hybrid Systems  Simplified Fuzzy ARTMAP  Applications A Fusion
+Approach of Multispectral Images With SAR Optimization of Traveling Salesman Problem
+Using Genetic Algorithm Approach Soft Computing Based Hybrid Fuzzy Controllers
+REFERENCES
+1 SN Sivanandam and SN Deepa Principles of Soft Computing Wiley Publications 2nd
+Edition 2011
+2 S Rajasekaran and GA Vijayalakshmi Pai Neural Networks Fuzzy Logic  Genetic
+Algorithms Synthesis  applications PHI Publication 1st Edition 2009
+3 George J Klir Bo Yuan Fuzzy sets  Fuzzy LogicTheory  Applications PHI
+Publication
+4 NKBose Ping Liang Neural Network fundamental with Graph Algorithms 
+ApplicationsTMH First Edition 1998
+5 Bart Kosko Neural Network  Fuzzy System PHI Publication First Edition 2009
+6 Rich E Knight K Artificial Intelligence TMH Third Edition 2012
+7 Martin T Hagen Neural Network Design Nelson Candad Second Edition 2008
+COURSE OUTCOMES
+At the end of the course the students can able to
+1 Learn about soft computing techniques and their applications
+2 Analyze various neural network architecture
+3 Define the fuzzy systems
+4 Analyze the genetic algorithms and their applications
+CSYE X0X
+CLOUD COMPUTING
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ Gives the idea of evolution of cloud computing
+ Provides knowledge about its services available today
+ Helps to the design and development of simple cloud service
+ Focused on some key challenges and issues around cloud computing
+Introduction
+CloudDefinition Benefits Usage Scenarios History of Cloud Computing  Cloud Architecture Types of Clouds  Business Models Around Clouds  Major Players in Cloud Computing Issues in Clouds  Eucalyptus  Nimbus  Open Nebula Cloud Sim
+Cloud Services
+Types of Cloud Services Software as a Service  Platform as a Service  Infrastructure as
+a Service  Database as a Service  Monitoring as a Service  Communication as Services
+Service Providers  Google Amazon Microsoft Azure IBM Sales Force
+Collaborating using Cloud Services
+Email Communication over the Cloud  CRM Management  Project ManagementEvent
+Management  Task Management  Calendar  Schedules  Word Processing  Presentation 
+Spreadsheet  Databases  Desktop  Social Networks and Groupware
+Virtualization for Cloud
+Need For Virtualization  Pros And Cons of Virtualization  Types of Virtualization System
+Vm Process VM Virtual Machine Monitor  Virtual Machine Properties  Interpretation And
+Binary Translation HLL VM  Hypervisors  Xen KVM  Vmware Virtual Box HyperV
+Security Standards and Applications
+Security in Clouds Cloud Security Challenges  Software as a Service Security Common
+Standards The Open Cloud Consortium  The Distributed Management Task Force  Standards
+for Application Developers  Standards for Messaging  Standards For Security End User
+Access to Cloud Computing Mobile Internet Devices and The Cloud
+REFERENCES
+1 John Rittinghouse  James Ransome Cloud Computing Implementation Management
+and Strategy CRC Press 2010
+2 Michael Miller Cloud Computing WebBased Applications That Change the Way You
+Work and Collaborate Que Publishing August 2008
+3 David EY Sarna Implementing and Developing Cloud Application CRC press 2011
+4 Lee Badger Tim Grance Robert PattCorner Jeff Voas NIST Draft cloud computing
+synopsis and recommendation May 2011
+5 Anthony T Velte Toby J Velte Robert Elsenpeter Cloud Computing  A Practical
+Approach Tata McGrawHill 2010
+COURSE OUTCOMES
+Upon Completion of the course the students will be able to
+1 Understand clearly about the introduction of cloud computing
+2 Acquired knowledge about its services
+3 Design and development of simple cloud service
+4 Implement Practical applications using cloud
+5 Gain knowledge on some key challenges and issues around cloud computing
+CSYE X0X
+CRYPTOGRAPHY SYSTEMS
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To explore the use of developments in cryptography systems for effective data transfer
+ To deal with the underlying principles of cryptography and network security
+ To provide an extensive coverage of the techniques and methods needed for the proper
+functioning of the ciphers
+ To study the concept of the construction and cryptanalysis of block ciphers stream
+ciphers and hash functions
+ To describe the IP security architecture and methods to overcome the ill effects of
+attacks
+Network Security Concepts
+Classical security  Techniques and Computer Network Security Concepts  Confidentiality and
+Security Security Policy and Operations Life Cycle Security System Development and
+Operations  The Attack Process  Attacker Types  Vulnerability Types  Attack Results Attack Taxonomy
+Encryption
+Basic encryption techniques  Concept of cryptanalysis  Shannons theory  Perfect secrecy Block ciphers  Cryptographic algorithms  Features of DES  Stream ciphers  Pseudo random
+sequence generators  linear complexity  Nonlinear combination of LFSRs  Boolean
+functions
+Crypto Systems
+Private key and Public key crypto systems  One way functions  Discrete log problem Factorization problem  RSA encryption  Diffie Hellmann key exchange  Message
+authentication and hash functions Digital signatures  Secret sharing  features of visual
+cryptography  other applications of cryptography
+Crypt Analysis
+Hash functions and message digests public key encryption authentication digital signatures
+zero knowledge interactive protocols elliptic curve cryptosystems formal verification hard
+problems
+IP Security
+Overview IP security architecture authentication header security payload security
+associations key management web security requirement secure sockets layer transport layer
+security secure electronic transaction dual signature intruders viruses worms firewall design
+trusted systems antivirus techniques digital immune systems
+REFERENCES
+1 Douglas A Stinson Cryptography Theory and Practice 2nd edition Chapman  Hall
+CRC Press Company Washington
+2 William Stallings Cryptography and Network Security 4th edition Prentice Hall of
+India New Delhi 2005
+3 Koblitz N A Course on Number Theory and Cryptography Springer Verlag 1986
+4 Menezes A et al Handbook of Applied Cryptography CRC Press 1996
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Implement the use of developments in cryptography systems for effective data transfer
+2 Work with the principles of cryptography and network security
+3 Design an extensive coverage of the techniques and methods needed for the proper
+functioning of the ciphers
+4 Understand the concept of the construction and cryptanalysis of block ciphers stream
+ciphers and hash functions
+CSYE X0X
+RESEARCH METHODOLOGY
+L
+4
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To understand some basic concepts of research and its methodologies
+ To identify appropriate research topics and define appropriate research problem and
+parameters
+ To organize and conduct research in a more appropriate manner
+ To write a research report and thesis
+Objectives and types of research
+Motivation and objectives  Research methods vs Methodology Types of Research  Descriptive
+vs Analytical Applied vs Fundamental Quantitative vs Qualitative Conceptual vs Empirical steps involved in research process criteria of good research Research problem  selecting the
+problem  defining the problem
+Literature review
+Primary and secondary sources  web as a source  searching the web Critical literature review Identifying gap areas from literature review
+Research Design need  features of a good design  concepts relating to research designresearch
+design for exploratory research descriptive and diagnostic research
+Hypothesis testing basis concepts procedure for hypothesis testing  tests of hypothesis testing based on means proportions variance
+Fundamentals of design of experiments  Taquchis methods  response surface methodology
+Quantitative Methods for problem solving
+Tabular and graphical representation of data
+Statistical Modeling and Analysis Probability Distributions  Binomial Poisson Norma
+Exponential Weibull Fundamentals of Statistical Analysis and Interface  measures of central
+tendency dispersion asymmetry
+Multivariate methods  Factor analysis  methods of factor analysis  centroid method principal
+components method maximum likehood criteria
+Concepts of single and multiple correlation and regression
+Algorithmic research problems Types of solution procedure  complete enumeration method
+Metaheuristics for combinatorial problems  Simulated annealing algorithm Genetic algorithm
+Tabu search neural networks  basic concepts
+Report writing Structure and components of Research Report significance of report writing
+steps in writing report  Types of Report Layout of Research Report Mechanism of writing a
+research report referencing in academic writing
+REFERENCES
+1 Kothari CR Research Methodology Methods and Techniques 2e New Age
+International P Limited Publishers New Delihi2010
+2 Panneerselvam R Research Methodology Prentice Hall of India Private Limited New
+Delhi2007
+3 Besterfield Total quality Managemen Pearson Education PteLtd New Delhi 2003
+4 McBurney DHand WhiteTL Research Methods Cengage Learning 2010
+COURSE OUTCOMES
+On completion of this course the students will be able to
+1 Identify the different types of research and recognize the importance of literature review
+2 Develop mathematical models for different problems
+3 Analyze the results using statistical methods
+4 Prepare technical reports

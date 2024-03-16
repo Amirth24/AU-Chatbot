@@ -1,0 +1,5372 @@
+ME CONSTRUCTION ENGINEERING AND MANAGEMENT
+FULL TIME
+COURSES OF STUDY AND SCHEME OF EXAMINATIONS
+SEMESTER I
+Sl
+No
+Course Code
+1
+23CZCMPC11
+PC  I
+2
+23CZCMPC12
+PC  II
+3
+23CZCMPE13
+PE  I
+4
+23CZCMPE14
+PE  II
+5
+23CZCMMC15
+MC
+6
+23CZCMCP16
+CP  I
+7
+23CZCMCP17
+CPII
+Research
+Methodology and IPR
+Construction Project
+Management Lab
+Advanced Concrete
+Lab
+8
+23CZCMAC18
+AC  I
+Audit CourseI
+Category
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+3
+25
+75
+100
+3
+3
+25
+75
+100
+3
+Program ElectiveI
+3
+25
+75
+100
+3
+Program ElectiveII
+3
+25
+75
+100
+3
+2
+25
+75
+100
+2
+3
+40
+60
+100
+2
+3
+40
+60
+100
+2
+205
+495
+700
+18
+Construction Project
+Management
+Quality control and
+Assurance in
+construction
+Total
+SEMESTER II
+Sl
+No
+Course Code
+1
+23CZCMPC21
+PC  III
+2
+23CZCMPC22
+PC  IV
+3
+23CZCMPE23
+4
+L
+T
+P
+CA
+FE
+Total
+Credits
+3
+25
+75
+100
+3
+Construction
+Equipment and
+Management
+3
+25
+75
+100
+3
+PE  III
+Program ElectiveIII
+3
+25
+75
+100
+3
+23CZCMPE24
+PE  IV
+Program ElectiveIV
+3
+25
+75
+100
+3
+5
+23CZCMOE25
+OE  I
+Open Elective  I
+3
+25
+75
+100
+3
+6
+23CZCMCP26
+CP  III
+3
+40
+60
+100
+2
+Tr
+S
+7
+23CZCMTS27
+40
+60
+100
+2
+2
+2
+0
+205
+495
+700
+19
+8
+23CZCMAC28
+Category
+Course
+Safety in Construction
+TS
+AC  II
+Numerical Analysis
+Lab  Model Testing
+Lab
+Industrial Training
+and Seminar Mini
+project
+Audit Course II
+Total
+12
+SEMESTER III
+Sl
+No
+Course Code
+Category
+1
+23CZCMPE31
+2
+3
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+PE  V
+Program Elective V
+3
+25
+75
+100
+3
+23CZCMOE32
+OE
+Open Elective
+3
+25
+75
+100
+3
+23CZCMPV33
+PVI
+Project work and
+VivaVoce Phase 1
+Pr
+S
+40
+60
+100
+10
+Audit Course  III
+16
+4
+90
+210
+300
+16
+CA
+FE
+Total
+Credits
+40
+60
+100
+16
+40
+60
+100
+16
+23CZCMAC34
+4
+AC  III
+Total
+SEMESTER IV
+Sl
+No
+Course Code
+Category
+3
+23CZCMPV41
+PVII
+Course
+L
+Project work and
+VivaVoce Phase II
+T
+P
+Pr
+S
+26
+4
+Total
+PC
+PE
+OE
+CP
+TS
+Program core
+Program Elective
+Open Elective
+Core Practical
+Industrial Training and Seminar
+L
+P
+T
+Lecture
+Practical
+Thesis
+CA
+FE
+MC
+AC
+PV
+EC
+CS
+Mandatory learning Course
+Audit Course
+Project work and Viva voce
+Branch code
+ME Specialisation code
+Continuous Assessment
+Final Examination
+13
+PROGRAM ELECTIVES
+Sl
+No
+Course code
+Regular
+List of Program Electives
+1
+23CZCMPE13
+System Integration in Construction Engineering
+2
+23CZCMPE14
+3
+23CZCMPE23
+Forensic Engineering and Retrofitting of
+Structures
+Contract Laws and Regulations
+4
+23CZCMPE24
+5
+6
+7
+8
+9
+Credits
+3
+3
+3
+Construction Workplace and Employees Behavior
+Economics
+and Finance
+23CZCMPE31 Construction
+Management
+23CZCMPEXX Project Formulation and Appraisal
+Management
+and
+Control in
+23CZCMPEXX Resource
+Construction
+3
+23CZCMPEXX Construction Planning Scheduling and Control
+23CZCMPEXX Advanced topics in Acoustics Lighting
+and Ventilation
+3
+10 23CZCMPEXX Information Technology for Construction
+Managers
+11 23CZCMPEXX Advanced Concrete Technology
+12 23CZCMPEXX Analytical and Numerical Methods for
+Construction Engineering
+13 23CZCMPEXX Advanced Construction Methods for
+Special Structures
+14 23CZCMPEXX Design of Form Work
+14
+3
+3
+3
+3
+3
+3
+3
+3
+3
+OPEN ELECTIVES
+SlNo
+Course Code
+Regular
+List of Open Electives
+Computer Application in Construction
+Engineering and Planning
+Geographic Information System in
+Construction Engineering and Management
+Credits
+1
+23CZCMOE25
+2
+23CZCMOE32
+3
+23CZCMOEXX
+Composite Construction
+3
+4
+23CZCMOEXX
+Shoring Scaffolding and Formwork
+3
+5
+6
+23CZCMOEXX
+3
+7
+23CZCMOEXX
+8
+3
+3
+23CZCMOEXX
+Value Engineering and Valuation
+Energy Conservation Techniques in building
+Construction
+Advanced Construction Engineering
+Techniques
+Prefabricated Structures
+9
+23CZCMOEXX
+Public Health Engineering Structures
+3
+10
+23CZCMOEXX
+Research Methodology
+3
+11
+23CZCMOEXX
+Construction Personnel Management
+3
+12
+23CZCMOEXX
+Industries Organizational Psychology
+3
+13
+23CZCMOEXX
+Composite Materials
+3
+14
+23CZCMOEXX
+Cost Management of Engineering Projects
+3
+15
+23CZCMOEXX
+Industrial Safety
+3
+23CZCMOEXX
+3
+3
+3
+AUDIT COURSES
+SlNo
+Course Code
+1
+23CZCMAC18
+List of Audit
+Courses
+Stress Management by Yoga
+2
+23CZCMAC28
+English for Research paper writing
+3
+23CZCMAC34
+Constitution of India
+4
+23CZCMACXX
+Disaster management
+5
+23CZCMACXX
+Sanskrit for Technical knowledge
+6
+23CZCMACXX
+Value education
+7
+23CZCMACXX
+8
+23CZCMACXX
+Pedagogy Studies
+Personality development through Life enlighten skills
+Regular
+15
+DEPARTMENT OF CIVIL  STRUCTURAL ENGINEERING
+VISION
+To impart high quality education and technical expertise to the students and inculcate in them
+humanistic attitude scientific temper sense of commitment to the profession and spirit of participation
+in nation building
+MISSION
+M1
+To provide quality education and knowledge base to the students in structural engineering
+M2
+To prepare the students as nationally competitive and trend setters for the future
+generation in the realm of technical education
+M3
+To assimilate the available theories explore new frontiers to propound new theories which
+will result in improving the quality of the life of the student community
+M4
+To develop personality of the students in a healthy way and to provide opportunity to acquire
+knowledge in stateoftheart research
+M5
+To provide service to the university engineering profession and the public through
+consultancy services
+ME CONSTRUCTION ENGINEERING AND MANAGEMENT
+PROGRAMME EDUCATIONAL OBJECTIVES PEOs
+PEO1
+To develop the technical and engineering skills of the students and to train them in
+applying fundamental principles in the domain feeding the needs of global
+expectations with professional competence
+PEO2
+To explore the students in the field of Civil and Structural Engineering areas both in
+theory and practice and tuning the academic programmes periodically to make the
+students fit for professional jobs research assignment or selfemployment
+PEO3
+To demonstrate their ability to deal effectively with ethical and professional issues
+taking into account the broader societal implications
+PEO4
+To impart communication analytical and soft skills for the students towards either
+placing them in a comfort zone in their profession or a path to pursue higher
+studies
+16
+ME CONSTRUCTION ENGINEERING AND MANAGEMENT
+PROGRAMME OUTCOMES POs
+PO1
+PO2
+PO3
+PO4
+Scholarship of Knowledge
+Acquire indepth knowledge of specific discipline or professional area including
+wider and global perspective with an ability to discriminate evaluate analyse
+andsynthesise existing and new knowledge and integration of the same for
+enhancement of knowledge
+Critical Thinking
+Analyse complex engineering problems critically apply independent judgement for
+synthesising information to make intellectual andor creative advances for
+conducting research in a wider theoretical practical and policy context
+Problem Solving
+Think laterally and originally conceptualise and solve engineering problems
+evaluate a wide range of potential solutions for those problems and arrive at
+feasible optimal solutions after considering public health and safety cultural
+societal and environmental factors in the core areas of expertise
+Research Skill
+Extract information pertinent to unfamiliar problems through literature survey and
+experiments apply appropriate research methodologies techniques and tools
+design conduct experiments analyse and interpret data demonstrate higher order
+skill and view things in a broader perspective contribute individuallyin groups to
+the development of scientifictechnological knowledge in one or more domains of
+engineering
+Usage of modern tools
+PO5
+Create select learn and apply appropriate techniques resources and modern
+engineering and IT tools including prediction and modelling to complex engineering
+activities with an understanding of the limitations
+Collaborative and Multidisciplinary work
+PO6
+Possess knowledge and understanding of group dynamics recognise opportunities
+and contribute positively to collaborativemultidisciplinary scientific research
+demonstrate a capacity for selfmanagement and teamwork decisionmaking based
+on openmindedness objectivity and rational analysis in order to achieve common
+goals and further the learning of themselves as well as others
+Project Management and Finance
+PO7
+Demonstrate knowledge and understanding of engineering and management
+principles and apply the same to ones own work as a member and leader in a
+team manage projects efficiently in respective disciplines and multidisciplinary
+environments after consideration of economical and financial factors
+Communication
+PO8
+PO9
+Communicate with the engineering community and with society at large regarding
+complex engineering activities confidently and effectively such as being able to
+comprehend and write effective reports and design documentation by adhering to
+appropriate standards make effective presentations and give and receive clear
+instructions
+Lifelong Learning
+Recognise the need for and have the preparation and ability to engage in lifelong
+learning independently with a high level of enthusiasm and commitment to improve
+knowledge and competence continuously
+17
+Ethical Practices and Social Responsibility
+Acquire professional and intellectual integrity professional code of conduct ethics of
+research and scholarship consideration of the impact of research outcomes on
+professional practices and an understanding of responsibility to contribute to the
+community for sustainable development of society
+PO10
+Independent and Reflective Learning
+Observe and examine critically the outcomes of ones actions and make corrective
+measures subsequently and learn from mistakes without depending on external
+feedback
+PO11
+Mapping PEO with Mission
+M1
+PEO1
+3
+M2
+1
+M3
+3
+M4
+1
+M5
+1
+PEO2
+3
+3
+1
+1
+1
+PEO3
+3
+3
+3
+3
+3
+PEO4
+1
+3
+1
+3
+1
+PEO5
+1
+1
+3
+3
+3
+Mapping PO with PEO
+PO1
+PO2
+PO3
+PEO1
+3
+3
+3
+PEO2
+3
+3
+3
+PEO3
+3
+3
+3
+PEO4
+3
+3
+3
+PO4
+3
+3
+PO5
+3
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+1
+1
+1
+3
+3
+1
+1
+1
+3
+3
+1
+1
+1
+3
+3
+2
+3
+3
+3
+3
+18
+SEMESTER I
+23CZCMPC11
+CONSTRUCTION PROJECT MANAGEMENT
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To understand the concept of Project management planning on construction projects
+ To manage the project team defining roles and responsibilities and fixing scope of the project
+ To know the time management of a construction project by proper scheduling using
+PERT CPM RPM etc Apply excel MSP PRIMAVERA Construction manager and
+other softwares to solve construction problems
+ To learn about project controlling
+ To study the site mobilization material and labor management
+Basics of Management
+Introduction to construction industries concepts and need of management in construction
+Modern scientific management Management Functions Management Styles
+Construction Project Planning
+Project life cycle identification preparation appraisal detailed planning
+implementation Project delivery system Leader ship and motivation for the project
+team effect of project risk on organization role and responsibilities of project Manager
+Role of Project Management Consultants Web based project management
+monitoring and control
+Project Scheduling
+Construction Scheduling Work break down structure activity cost and time
+estimation in CPM PERT RPM Repetitive Project Modelling techniques LOB
+technique Mass haul diagrams Precedence Network Analysis software in
+Construction scheduling MSP primavera Construction manager
+Project Controlling
+Monitoring and Control Crashing Resource Levelling Updating
+Construction Management
+Site Mobilization Demobilization aspects various Resources management
+based on funds availability Cocoordinating communicating  reporting techniques
+Application of MIS to construction Training of Construction Managers Material
+Management Scope importance objectives functions of material management
+classification and codification of material inventory control need function economic
+order quantity Labour Management Labour laws for construction projects welfare
+measures for labours Equipment Management Types of equipment and factors
+affecting selection Functions of equipment management owning and operating costs
+Timevalue of money concept Economic life safety maintenance and repair of
+equipment
+19
+REFERENCES
+Chitakara Construction Project Management Planning Scheduling and Controlling
+Tata McGraw Hill New Delhi 2009
+2 Kumar NeerajJha Construction Project Management Theory  Practice Pearson 2012
+3 Charles Patrick Construction Project planning  Scheduling Pearson 2012
+4 Chris Hendrickson Tung Au Project Management Construction  Fundamental
+Concepts for Owners Engineers Architects and Builders Prentice Hall Inc 2000
+1
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Have an idea about the concept of Project management planning on construction
+projects
+2 Understand the roles and responsibilities in project planning
+3 Find project duration and optimize the time and minimize the cost implement
+resource allocation and
+4 Understand the control techniques plan and implement
+5 Know about site mobilization material and labor management
+Mapping of COs
+with POs
+Mapping with PSOs
+CO1
+3
+1
+3
+3
+PO1
+PSO
+PO11
+0
+1
+3
+CO2
+3
+1
+3
+3
+3
+CO3
+3
+1
+3
+3
+3
+CO4
+3
+1
+3
+3
+3
+CO5
+3
+1
+3
+3
+3
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9
+20
+PSO
+2
+PSO
+3
+3
+3
+3
+3
+PSO
+4
+3
+3
+3
+3
+3
+23CZCMPC12
+QUALITY CONTROL AND ASSURANCE IN
+CONSTRUCTION
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To Know the quality plan and performance factors influencing construction quality
+ To provide a basic information about quality Management Guidelines
+ To Know the quality planning and taguchis conceptcodes
+ To examine the quality assurance appraisals and quality control by reliability testing
+ To find out how the quality techniques can be improved
+Introduction
+DefinitionConcept of qualitymeaning of qualitydesignconformanceperformance dimensionsfactors influencing construction quality
+Quality Management
+Fundamentals of quality managementfunctioninspection control and
+enforcementquality management system and methodquality circletotal quality
+managementquality management guidelinesresponsibilities and authority
+Quality Planning
+Quality policy objectives and methods consumers satisfactiontime
+completion documents process and products quality cost Taguchis conceptcodes and standards
+Quality Control and Assurance
+Objectives of quality controlappraisals needs and techniques of quality
+control critical major failure aspectsfailure mode and effect analysisstatistical
+process controlquality systems quality audit responsibilities and authorities in
+quality control and assurance
+Quality Improvement Techniques
+Selection of new materialsinfluencing drawings detailing specification
+standardizationbid preparation construction activity environmental safety social
+and environmental factorsnatural causes and speed of constructionlife cycle
+costing value engineering and value analysis
+REFERENCES
+1 James JOBrain Construction Inspection HandbookQuality Assurance and
+Quality control Van Nostrand New York 1989
+2 SP 28Hand Book of Statistical Quality Control Bureau of Indian Standards New Delhi
+3 Frank M Gryna Quality Planning and Analysis McGrawHill 2001
+4 International Standards Organization  ISO 9001 and ISO 9004
+5 Steven McCabe Quality Improvement Techniques in Construction Addison
+Wesley Longman Ltd 1998
+6 John L Ashford The Management of Quality in Construction E FNSpon1989
+21
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Understand the concept of quality plan
+2 Learn about quality Management Guidelines
+3 Use taguchis conceptcodes and standards
+4 Know quality assurance appraisals and quality control by reliability testing
+5 Implement the quality improvement techniques
+Mapping of COs
+with POs
+Mapping with PSOs
+CO1
+3
+1
+3
+3
+PO1
+PSO
+PO11
+0
+1
+3
+CO2
+3
+1
+3
+3
+3
+CO3
+3
+1
+3
+3
+3
+CO4
+3
+1
+3
+3
+3
+CO5
+3
+1
+3
+3
+3
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9
+22
+PSO
+2
+PSO
+3
+3
+3
+3
+3
+PSO
+4
+3
+3
+3
+3
+3
+23CZCMMC15
+RESEARCH METHODOLOGY AND IPR
+L
+2
+T
+0
+P
+0
+C
+2
+COURSE OBJECTIVES
+ To study the research problem and formulation
+ To Analyze the Plagiarism and Research ethics
+ To Know about Preparation of research proposal
+ To understand about Patenting
+ To learn about IPR
+Meaning of research problem Sources of research problem Criteria
+Characteristics of a good research problem Errors in selecting a research problem
+Scope and objectives of research problem Approaches of investigation of solutions
+for research problem data collection analysis interpretation Necessary
+instrumentations
+Effective literature studies approaches analysis Plagiarism Research
+ethicsEffective technical writing how to write report Paper Developing a
+Research Proposal Format of research proposal a presentation and
+assessment by a review committee
+Nature of Intellectual Property Patents Designs Trade and Copyright
+Process of Patenting and Development technological research innovation
+patenting development International Scenario International cooperation on
+Intellectual Property Procedure for grants of patents Patenting under PCT
+Patent Rights Scope of Patent Rights Licensing and transfer of technology
+Patent information and databases Geographical Indications
+New Developments in IPR Administration of Patent System New
+developments in IPR IPR of Biological Systems Computer Software etc
+Traditional knowledge Case Studies IPR and IITs
+REFERENCES
+1 Stuart Melville and Wayne Goddard Research methodology an
+introduction for science  engineeringstudents
+2 Wayne Goddard and Stuart Melville Research Methodology AnIntroduction
+3 Ranjit Kumar 2nd Edition  Research Methodology A Step by Step Guide
+forbeginners
+4 Halbert Resisting Intellectual Property Taylor  Francis Ltd2007
+5 Mayall  Industrial Design McGraw Hill1992
+6 Niebel  Product Design McGraw Hill1974
+7 Asimov  Introduction to Design Prentice Hall1962
+8 Robert P Merges Peter S Menell Mark A Lemley  Intellectual Property
+in New Technological Age2016
+23
+9 T Ramappa Intellectual Property Rights Under WTO S Chand2008
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Understand research problem formulation
+2 Analyze the Plagiarism and Research ethics
+3 Explain about Preparation of research proposal
+4 Learn about Patenting
+5 Understand IPR
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+2
+3
+3
+CO2
+3
+2
+3
+3
+CO3
+3
+2
+3
+3
+CO4
+3
+2
+3
+3
+CO5
+3
+2
+3
+3
+24
+3
+3
+3
+3
+3
+3
+3
+3
+3
+23CZCMCP16
+CONSTRUCTION PROJECT MANAGEMENT
+LABORATORY
+L
+0
+T
+0
+P
+3
+C
+2
+COURSE OBJECTIVES
+ To study the quantity take off preparation and delivery of the bid
+ To learn about the simple equipment information
+ To prepare proper scheduling for a small construction project using primavera
+ To prepare proper scheduling for a small construction project using tools like MS
+project
+ To analyse and study the project risk
+LIST OF EXPERIMENTS
+1 Quantity take off preparation and delivery of the bid or proposal of an
+Engineering construction project
+2 Design of a simple equipment information system of an Engineering construction
+project
+3 Scheduling of a small construction project using primavera Scheduling
+system including reports and tacking
+4 Scheduling of a small construction project using tools likes MS project
+Scheduling system including reports and tacking
+5 Simulation models for project risk analysis
+REFERENCES
+1 Chitakara Construction Project Management Planning Scheduling and
+Controlling Tata McGraw Hill New Delhi 2009
+2 Kumar NeerajJha Construction Project Management Theory  Practice Pearson
+2012
+3 Charles Patrick Construction Project planning  Scheduling Pearson 2012
+4 Chris Hendrickson Tung Au Project Management Construction 
+Fundamental Concepts for Owners Engineers Architects and Builders
+Prentice Hall Inc 2000
+5 Using PRIMAVERA and MS PROJECT software
+25
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Know about the Preparation and delivery of the bid or proposal of an
+Engineering construction project
+2 Learn about the Design of a simple equipment information system
+3 Understand the Computer application of using primavera scheduling system
+including reports and tacking
+4 Understand the Computer application of using primavera Scheduling system
+including reports and tacking
+5 Analyse the models for projects risk 
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+2
+3
+CO2
+3
+3
+3
+3
+2
+3
+CO3
+3
+3
+3
+3
+2
+3
+CO4
+3
+3
+3
+3
+2
+3
+CO5
+3
+3
+3
+3
+2
+3
+26
+3
+3
+3
+3
+23CZCMCP17
+ADVANCED CONCRETE LABORATORY
+L
+0
+T
+0
+P
+3
+C
+2
+COURSE OBJECTIVES
+ To Design high grade concrete and study the parameters affecting its performance
+ To study Non Destructive Tests on existing concrete structures
+ To understand engineering principles and behaviour of structural elements
+ To learn about the cyclic load testing
+ To learn about the durability tests on concrete
+LIST OF EXPERIMENTS
+1 Concrete mix design by ACI IS and BS methods
+2 Use of water reducing admixtures
+3 Use of accelerationretarding admixtures in concrete
+4 Nondestructing testing methodsuse of rebound hammer and ultrasonic pulse velocity
+tester
+5 Preparation of reinforcement grill and casting of RCC beams underreinforced and over reinforced and RCC columns
+6 Testing of reinforcement mild steel HYSD and High Tensile and prestressing strands
+7 Testing of masonry specimen as per IS 1905
+8 Test on clear specimen of timber
+9 Bituminous Mix Design
+10 Methods of sampling of construction material as per IS code
+REFERENCES
+th
+1 Properties of concrete Neville AM 5 edition prentice hall 2012
+2 Concrete technology Shetty MS Chand and Co 2006
+3 Concrete Mix design by ACI 211191 method IS code method as per
+10262 2019 456 2000 DOE method
+4 IS 91031999 specification for concrete admixtures
+5 Testing of masonry specimen as per IS 1905
+6 Nondestructive testing as per IS 133111 1992
+7 RCC code practice using IS 4562000
+8 Methods of sampling and analysis of concrete as per IS 1199
+27
+COURSE OUTCOMES
+At the completion of the course students will be able to
+1 Design high grade concrete and study the parameters affecting its performance
+2 Conduct Non Destructive Tests on existing concrete structures
+3 Apply engineering principles to understand behaviour of structural elements
+4 Know about the cyclic load testing
+5 Know about the durability tests on concrete
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+3
+28
+3
+3
+3
+3
+SEMESTER  II
+23CZCMPC21
+SAFETY IN CONSTRUCTION
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To Know about Accidents and their Causes and Legal Implications
+ To provide an information about duties and responsibilities of construction
+management
+ To study about the safety in constructions and their applications
+ To Understand the Various Safety Equipment And Gear Used On Site
+ To learn about the safety policies
+Construction Accidents
+Accidents and their Causes  Human Factors in Construction Safety  Costs
+of Construction Injuries  Occupational and Safety Hazard Assessment  Legal
+Implications
+Construction Safety Management
+Role of various parties duties and responsibilities of top management site
+managers supervisors etc role of safety officers responsibilities of general
+employees safety committee safety training incentives and monitoring Writing
+safety manuals preparing safety checklists and inspection reports
+Safety in Construction Operations
+Safety of accidents on various construction sites such as buildings dams
+tunnels bridges roads etc safety at various stages of construction Prevention of
+accidents Safety measures Safety in use of construction equipment eg vehicles
+cranes hoists and lifts etc safety of scaffolding and working platforms Safety while
+using electrical appliances Explosives used
+Various Safety Equipment And Gear Used On Site
+First aid on site Safety awareness program Labour laws legal requirement
+and cost aspects of accidents on site Incentive for safety practices
+Study of Safety Policies
+Methods equipment training provided on any ISO approved construction
+Company safety in office working on sites of high rise construction deep
+excavation
+REFERENCES
+1 Construction safety manual published by National Safety Commission of India
+2 Safety Management in Construction Industry  A manual for project
+managers NICMAR Mumbai
+3 Davies VSThomasin K Construction Safety Handbook Thomas Telford London
+4 ISI for safety in Construction  Bureau of Indian Standards
+5 Girimaldi and Simonds Safety management  AITBS New Delhi
+6 Jimmie Hinze Construction safety PrenticeHall 1997
+29
+7
+Herbert William Heinrich Industrial Accident Prevention McGrawHill 1950
+COURSE OUTCOMES
+1
+2
+3
+4
+5
+At the end of the course Student will be able to
+Know about Accidents and their Causes and Legal Implications
+Gain knowledge about duties and responsibilities of construction management
+Learn about the safety in and their applications
+Manage the Various Safety Equipment And Gear Used On Site
+Summarize the safety policies methods equipments training provided on
+any ISO approved construction company
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+30
+3
+3
+3
+3
+3
+3
+3
+3
+3
+23CZCMPC22
+CONSTRUCTION EQUIPMENT AND MANAGEMENT
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To know about the equipment in construction projects and its cost
+ To learn about construction equipment management
+ To provide an information about soil identification earth moving technique
+and equipments
+ To understand the working principles of construction Equipments
+ To study about the method of scheduling
+Construction Equipment Cost
+Introduction  Role of Construction Equipment  From Tools to Machines Development of Earthmoving Excavating and Lifting Machines  Future of Heavy
+Construction Equipment Cost of Owning and Operating Construction Equipment Ownership Cost  Initial Cost  Depreciation  Investment or Interest Cost Insurance Tax and Storage Costs  Total Ownership Cost  Cost of Operating
+Construction Equipment  Maintenance and Repair Cost  Tire Cost  Consumable
+Costs  Mobilization and Demobilization Cost  Equipment Operator Cost  Special
+Items Cost  Methods of Calculating Ownership and Operating Cost  Caterpillar
+Method  Corps of Engineers Method  Associated General Contractors of America
+AGC Method PeurifoySchexnayder Method  Comparison of Costs Calculated
+by Different Methods
+Construction Equipment Management
+Acquiring Construction Equipment  Financing Methods  Outright Cash
+Purchase  Conventional Financing Purchase  Leasing  Renting  RenttoOwn
+Rental Purchase  Equipment Financing Comparison  Acquisition Comparison Rental and Lease Contract  The Buy Lease or Rent Decision Equipment Life and
+Replacement Procedures  Equipment Life  Physical Life  Profit Life  Economic
+Life  Replacement Analysis  Theoretical Methods  Practical Methods  Sensitivity
+Analysis on Theoretical Methods  Comparison and Discussion of Sensitivity
+Analysis Results  Replacement Equipment Selection  Replacement Decision
+Making
+Equipment for Earthwork
+Introduction to Earthmoving  Earthmoving Materials Soil Identification and
+Classification  Soil VolumeChange Characteristics  Spoil Banks  Estimating
+Earthwork Volume  Construction Use of the Mass Diagram  Problems Selection of
+construction equipment  Tractors  Classification of
+equipment  Excavating and Lifting Introduction  Hydraulic Excavators  Shovels
+ Draglines  Clamshells  Trenching and Trenchless Technology  Cranes 
+Problems Loading and Hauling  Estimating Equipment Travel Time  Dozers 
+Loaders  Scrapers  Trucks and Wagons  Problems Compacting and Finishing 31
+Principles of Compaction Compaction Equipment and Procedures  Ground
+Modification  Grading and Finishing  Problems Rock Excavation  Introduction Drilling Blasting Rock Ripping  Estimating Production and Cost  Problems
+Equipment for Other Works
+Production of Aggregate Concrete and Asphalt Mixes  Production of Aggregate Crushers
+ Feeders  Screening Equipment  Handling Equipment Production of Concrete Batching and Mixing Equipment  Hauling Pouring and Pumping Equipment Production of Asphalt Mixes  Problems Paving and Surface Treatments Concrete
+Paving Asphalt Paving and Surface Treatments  Pavement Repair and
+Rehabilitation  Problems Compressed Air and Water Systems  Introduction 
+Compressed Air Systems  Water Supply Systems  Problems Drilling Blasting
+And Tunnelling Equipment Definition of terms bits Jackhammers Drifters wagon
+drills che drills piston drills blast hole drills shot drills diamond drills tunnelling
+equipment selecting the drilling method equipment selecting drilling pattern Rates
+for drilling rock compressors Pile driving equipment Pile hammers selecting a pile
+hammer loss of energy due to impact Energy losses due to causes other than
+impact
+Equipment Scheduling
+Horizontal Construction Projects  Introduction  Background  Precedence
+Diagramming Method  Determining the Critical Path  Critical Resource
+Identification  Resource Loading the Schedule  Cost Loading the Schedule Linear
+Scheduling Method  Identifying ProductionDriven Activities  Establishing
+Production Rates  Lines Bars and Blocks  Converting to PDM  Developing
+Equipment Resource Packages Crews  Rules for Developing Crew Sizes Developing Crew Costs
+ Establishing Project Management Assessment Parameters  Minimum Required
+Daily Production  Expected Daily Production  Allowable Cycle Time Variation  Cost
+and Unit Targets
+Vertical Construction  Introduction Lifting and Vertical Constructions Lifting Productivity  Scheduling Lifting for HighRise Work  Lifting Strategy Typical Lifting Activities for HighRise Construction  ConcretePlacing Cranes Bucket Pouring  Pumping  Scheduling and Ordering Concrete Tower Crane
+Erection and Dismantling
+REFERENCES
+1 Peurifoy RL Ledbetter WB and Schexnayder C Construction Planning
+Equipment and Methods 6th Edition Tata McGrawHill New Delhi 2003
+2 Sharma SC Construction equipment and management Khanna
+Publishers New Delhi 2011
+3 Douglas D Gransberg Calin M Popescu Richard C Ryan Construction
+Equipment
+Management for Engineers Estimators and Owners Taylor  Francis
+Group New York 2006
+4 S W Nunnally Construction Methods and Management Pearson Prentice
+32
+Hall New Jersey 2007
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Manage the equipment cost control and maintenance of a project
+2 Identify and understand the working principle of earthwork equipments
+3 Identify and understand the working of various equipments for different construction
+process
+4 Identify and understand the working principle of material handling equipments
+5 Understand the concept of scheduling
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+33
+3
+3
+3
+3
+3
+3
+3
+3
+3
+23CZCMCP26
+NUMERICAL ANALYSIS LAB AND
+MODEL TESTING LAB
+L
+Tr
+S
+C
+0
+2
+2
+2
+COURSE OBJECTIVES
+ To find roots of nonlinear equations by bisection method and newtons method
+ To study the system of linear equations using gauss eliminationgaussSeidal Iteration gaussJorden method
+ To integrate using trapezoidal and Simpsons rules
+ To find the numerical solution of ordinary differential equations by Eulers
+method Runge kutta method
+ To learn response of structural models under static and dynamic conditions
+LIST OF EXPERIMENTS  NUMERICAL ANALYSIS LAB
+1 Find the roots of NonLinear Equation Using Bisection methods
+2 Find the roots of NonLinear Equation Using Newtons methods
+3 Curve fitting by least square approximation
+4 Solve the system of Linear Equation Using Gausselimination Method
+5 Solve the system of Linear Equation Using Gaussseidal iteration Method
+6 Solve the system of Linear Equation Using GaussJorden Method
+7 Integrate numerically using Trapezoidal rule
+8 Integrate numerically using Simpsons rule
+9 Numerical solutions of ordinary Differential equations by Eulers methods
+10 Numerical solutions of ordinary Differential equations by Runge  Kutta method
+LIST OF EXPERIMENTS  MODEL TESTING LAB
+1 Model Analysis  Continuous beam
+2 Model Analysis  Portal frame
+3 Model Analysis Plate
+4 Free vibration analysis of wooden cantilever beam model
+5 Free vibration analysis of steel cantilever beam model
+6 Free vibration analysis of aluminum cantilever beam model
+7 Free vibration analysis of glass cantilever beam model
+8 Determination of viscous damping coefficient for wooden beam model
+9 Determination of viscous damping coefficient for steel beam model
+10 Determination of viscous damping coefficient for aluminum beam model
+11 Determination of viscous damping coefficient for glass beam model
+12 Free vibration Analysis of Simply Supported Steel Beam model
+13 Forced vibration Analysis of Simply Supported Steel Beam model
+34
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Understand roots of non linear equations by bisection method and newtons method
+2 Solve the system of linear equations using gauss eliminationgaussSeidal
+Iteration gauss Jorden method
+3 Integrate numerically using trapezoidal and simpsons rules
+4 Solve the numerical solution of ordinary differential equations by Eulers
+method Rungekutta method
+5 To understand the response of structures under static and dynamic
+conditions
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+35
+3
+3
+3
+3
+23CZCMTS27
+INDUSTRIAL TRAINING AND SEMINAR MINI PROJECT
+L
+Tr
+S
+C
+0
+2
+2
+2
+COURSE OBJECTIVES
+ To study the response of structures
+ To understand the models
+ To know about model testing for static loading
+ To know about model testing for free and forced vibrations
+ To learn about Evaluation of dynamic modulus
+The students individually undergo a training program in reputed concerns in
+the field of Construction Engineering and Management during the summer vacation
+at the end of second semester for full  time  fourth semester for part  time for a
+minimum stipulated period of four weeks At the end of the training the student has
+to submit a detailed report on the training he had within ten days from the
+commencement of the third semester for Fulltime  fifth semester for part time The
+students will be evaluated by a team of staff members nominated by head of the
+department through a vivavoce examination
+COURSE OUTCOMES
+At the end of the course student will be able to
+1 Understand the response of structures
+2 Prepare the models
+3 Conduct model testing for static loading
+4 Conduct model testing for free and forced vibrations
+5 Evaluate of dynamic modulus
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7
+PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+3
+3
+3
+2
+3
+3
+3
+CO4
+3
+3
+3
+3
+2
+3
+3
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+36
+2
+3
+2
+3
+2
+3
+2
+3
+3
+3
+3
+3
+3
+SEMESTER III
+23CZCMPV33
+L
+0
+PROJECT WORK AND VIVAVOCE PHASE I
+Pr
+16
+S
+4
+C
+10
+COURSE OBJECTIVES
+ To study structural engineering problems reviewing available literature
+ To study different techniques used to analyze complex structural systems
+ To evaluate given and present solution by using hisher technique
+applying engineering principles
+ To learn about contemporary  emerging technology
+ To manage effectively in oral and written form and formulate documents
+The student individually works on a specific topic approved by the Head of
+the Department under the guidance of a faculty member who is familiar in this area
+of interest The student can select any topic which is relevant to the area of
+construction engineering and management The topic may be theoretical or case
+studies At the end of the semester a detailed report on the work done should be
+submitted which contains clear definition of the identified problem detailed literature
+review related to the area of work and methodology for carrying out the work The
+students will be evaluated through a vivavoce examination by a panel of examiners
+including one external examiner
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Identify structural engineering problems reviewing available literature
+2 Understand different techniques used to analyze complex structural systems
+3 Work on the solutions given and present solution by using hisher technique
+applying engineering principles
+4 Understand of contemporary  emerging technology
+5 Share knowledge effectively in oral and written form and formulate documents
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+CO2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+CO3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+CO4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+CO5
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+37
+2
+3
+2
+3
+2
+3
+2
+3
+3
+3
+3
+3
+3
+SEMESTER IV
+23CZCMPV41
+L
+0
+PROJECT WORK AND VIVAVOCE PHASE II
+T
+3
+P
+0
+C
+16
+COURSE OBJECTIVES
+ To learn about the final report of project work in standard format
+ To study about knowledge and skills indepth and execution of new technical problem
+ To analyze suitable research design from different methodologies
+ To present the findings of their technical solution in a written report
+ To provide an information about presenting the work in InternationalNational
+conference or reputed journals
+The student should continue the phase I work on the selected topic as per
+the formulated methodology under the same supervisor At the end of the semester
+after completing the work to the satisfaction of the supervisor and review committee
+a detailed report should be prepared and submitted to the head of the department
+The students will be evaluated through based on the report and the vivavoce
+examination by a panel of examiners including one external examiner
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Prepare the final report of project work in standard format for satisfactory
+completion of the work
+2 Synthesize knowledge and skills previously gained and applied to an indepth study and execution of new technical problem
+3 Capable to select from different methodologies methods and forms of
+analysis to produce a suitable research design and justify their design
+4 Find technical solution in a written report
+5 Present the work in InternationalNational conference or reputed journals
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+CO2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+CO3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+CO4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+CO5
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+1
+2
+38
+2
+3
+2
+3
+2
+3
+2
+3
+3
+3
+3
+3
+3
+39
+PROGRAM ELECTIVES
+23CZCMPE13
+SYSTEM INTEGRATION IN CONSTRUCTION
+ENGINEERING
+L
+T
+P
+3
+0
+0
+C
+3
+COURSE OBJECTIVES
+ To introduce the basics of structural integration and systems
+ To learn about the environmental factors and its relevant structural integration
+ To know the services regarding plumbing and electricity
+ To study the maintenance techniques and the materials involved
+ To understand the safety and preventive systems
+Structural Integration
+Structural System Systems for enclosing Buildings Functional aesthetic
+system Materials Selection and Specification
+Environmental Factors
+Qualities of enclosure necessary to maintain a specified level of interior environmental
+quality
+ weather resistance  Thermal infiltration  Acoustic Control  Transmission reduction  Air
+quality  illumination  Relevant systems integration with structural systems
+Services
+Plumbing  Electricity  Vertical circulation and their interaction  HVAC
+Maintenance
+Component longevity in terms of operation performance and resistance to
+deleterious forces  Planning systems for least maintenance materials and
+construction  access for maintenance  Feasibility for replacement of damaged
+components  equal life elemental design  maintenance free exposed and finished
+surfaces
+Safety
+Ability of systems to protect fire  Preventive systems  fire escape system
+design  Planning for pollution free construction environmental  Hazard free
+Construction execution
+REFERENCES
+1 AJElder and MartizVindenBarg Handbook of Building Enclosure
+McGrawHill Book Company 1983
+2 David VChadderton Building Services Engineering Taylar and Francis 2007
+3 Jane Taylor and Gordin Cooke the Fire Precautions Act in Practices 1987
+4 Peter R Smith and Warren G Julian Building Services Applied Science
+Publishers Ltd London 1993
+5 William T Mayer Energy Economics and Building Design McGrawHill
+Book Company 1983
+40
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Have an idea about the system integration
+2 Understand the influence of environmental factors
+3 Learn about the Plumbing and Electricity services in construction Engineering
+4 Know about the maintenance in construction Engineering
+5 Attain knowledge about the safety systems in construction Engineering
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+2
+CO2
+3
+3
+3
+2
+CO3
+3
+3
+3
+2
+CO4
+3
+3
+3
+2
+CO5
+3
+3
+3
+2
+3
+3
+3
+3
+41
+23CZCMPE14
+FORENSIC ENGINEERING AND RETROFITTING OF
+STRUCTURES
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To know about Durability criteria of concrete structures
+ To find out the methods of investigation and Diagnosis of concrete structures
+ To examine about the repair materials
+ To provide an information about the strategies for repair and retrofitting of structures
+ To evaluate protection techniques of structures
+Durability and Deterioration of Concrete
+Plastic Shrinkage  Plastic Settlement  Drying Shrinkage  Thermal
+Movement  Freez and Thaw  Weathering  Carbonation  Sulphate Action  AlkaliAggregate Reaction
+Acids  Crazing  Honey Combing  Popouts  Creep  Abrasion  Erosion and
+Cavitation  Fire
+ Subgrade Movement  Formwork Movement  Premature Removal of Forms 
+Shores  Rebar Corrosion  Poor Design Details  Errors in Design
+Investigation and Diagnosis
+General Considerations  Observation  Questioning  Field and Laboratory
+Testing  Destructive Testing  NonDestructive Testing  Rebound Hammer Ultrasonic Pulse Velocity  Pachometer  SemiDestructive Testing  Probe Test PullOut Test  PullOff Test  BreakOff Test  Core Test  HalfCell Potential
+Measurements  Resistivity Measurements  Dust Sampling  Carbonation Depth
+Testing  Tests for determining cement content chloride content and sulphate
+content
+Repair Materials
+Patching Materials  Resurfacing Materials  Sealing Materials  WaterProofing Materials  Admixtures  Substrate Preparation
+Refurbishment Techniques
+Routing and Sealing  Stitching  External Stressing  Resin Injection Grouting  Blanketing  Overlays  Sprayed Concrete  Prepacked Concrete  Dry
+packing  Jacketing  Plate Bonding Protection Techniques
+Protective Coatings  Autogenous Healing  Vacuum Impregnation  Chloride
+Extraction  Realkalization of Concrete  Cathodic Protection
+42
+REFERENCES
+1 Peter HEmmons Concrete Repair and Maintenance Galgotia Publishers 2001
+2 SChampion Failure and Repair of Concrete Structures John Wiley  Sons 1990
+3 Ted Kay Assessment and Renovation of Concrete Structures Longman
+Scientific  Technical 1992
+4 RTLAllen and SCEdwards The Repair of Concrete Structures Blackie
+Son LtdVK1987
+5 Sidney MJohnson Deterioration Maintenance and Repair of Concrete
+Structures McGraw Hill Book Company 1992
+6 PHPerkins Repair Protection and Waterproofing of Concrete Structures
+E  FN Spon 1997
+7 RNRaikar Diagnosis and Treatment of Structures in Distress Structwel D  C Pvt
+Ltd
+8 NPMailvaganam Repair and Protection of Concrete Structures CRC Press 1992
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Understand the concepts of durability criteria
+2 Investigate the methods and Diagnosis of concrete structures
+3 Know about the repair materials
+4 Manage strategies for repair and retrofitting of structures
+5 Know the protection techniques of structures
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+2
+CO2
+3
+3
+3
+2
+CO3
+3
+3
+3
+2
+CO4
+3
+3
+3
+2
+CO5
+3
+3
+3
+2
+3
+3
+3
+3
+43
+23CZCMPE23
+CONTRACT LAWS AND REGULATIONS
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To introduce types of contract Indian contract and International contract
+ To analyze World Bank Procedures and Guidelines  Tamilnadu
+Transparency in Tenders Act
+ To find out the Powers and Duties of Arbitrator
+ To understand about the legal requirements for contracts and construction activities
+ To know about Labour regulationsIndian Factory Act  Tamilnadu Factory Act
+Construction Contracts
+Indian Contracts Act  Elements of Contracts  Types of Contracts 
+Features  Suitability  Design of Contract Documents  International Contract
+Document  Standard Contract Document  Law of Torts
+Tenders
+Prequalification  Bidding  Accepting  Evaluation of Tender from Technical
+Contractual and Commercial Points of View  Contract Formation and Interpretation
+ Potential Contractual Problems  World Bank Procedures and Guidelines 
+Tamilnadu Transparency in Tenders Act
+Arbitration
+Comparison of Actions and Laws  Agreements  Subject Matter  Violations
+ Appointment of Arbitrators  Conditions of Arbitration  Powers and Duties of
+Arbitrator  Rules of Evidence  Enforcement of Award  Costs
+Legal Requirements
+Insurance and Bonding  Laws Governing Sale Purchase and Use of Urban and Rural
+Land
+ Land Revenue Codes  Tax Laws  Income Tax Sales Tax Excise and Custom
+Duties and their Influence on Construction Costs  Legal Requirements for
+Planning  Property Law  Agency Law  Local Government Laws for Approval 
+Statutory Regulations
+Labour Regulations
+Social Security  Welfare Legislation  Laws relating to Wages Bonus and
+Industrial Disputes Labor Administration  Insurance and Safety Regulations 
+Workmens Compensation Act
+ Indian Factory Act  Tamilnadu Factory Act  Child Labor Act  Other Labor Laws
+44
+REFERENCES
+1 Gajaria GT Laws Relating to Building and Engineering Contracts in India
+2 Jimmie Hinze Construction Contracts McGraw Hill 2001
+3 Joseph T Bockrath Contracts and the Legal Environment for Engineers
+and Architects McGraw Hill 2000
+4 Kwaku A Tenah PE Jose MGuevara PE Fundamentals of Construction
+Management
+and Organisation Printice Hall 1985MMTripathi Private Ltd Bombay 1982
+5 Patil BS Civil Engineering Contracts and Estimates Universities Press
+India Private Limited 2006
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Identify and understand the types of contract
+2 Implement the various processes involved in tenders
+3 Achieve awareness on powers and duty of an arbitrator
+4 Assess the legal requirements and the corresponding government laws
+5 Achieve awareness about the Labour regulationsIndian Factory Act 
+Tamilnadu Factory Act
+Mapping of COs with
+POs
+PO1
+PO2
+CO1
+3
+3
+2
+CO2
+3
+3
+2
+CO3
+3
+3
+2
+CO4
+3
+3
+2
+CO5
+3
+3
+2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+3
+3
+3
+3
+45
+23CZCMPE24
+CONSTRUCTION WORKPLACE AND EMPLOYEES
+BEHAVIOUR
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To study about the Industrial Health and Psychological problems of Employees
+ To Know about Occupational Stresses
+ To learn about the individual stress factors and career planning
+ To study about the factors influencing personality and emotions
+ To know about formation of Group in organizations and decision making techniques
+Industrial Health Safety
+Causes of Accidents  Prevention  Safety Provisions  Industrial Health and
+Hygiene  Importance  Problems  Occupational Hazards  Diseases 
+Psychological problems  Counselling Stress in the Workplace
+Job Stress  Occupational Stresses  Self Assessment Exercise 
+Organizational Stressors  Individual Stressors in the Workplace  Environmental
+Stresses
+Common Stress Factors Time and Career Planning
+Works Related Stress  Individual Stress  Reducing Stress  Burnout  Time
+Management  Techniques  Importance of planning the day  Time management
+schedule  Developing concentration  Organizing the Work Area  Prioritizing
+Individual Behaviour
+Personality  types  Factors influencing personality  Theories  Types of
+learners  The learning process  Learning theories  Organizational behavior
+modification Misbehavior  Types  Management Intervention Emotions Emotional Labour  Emotional Intelligence  Theories
+Group Behaviour
+Organization structure  Formation  Groups in organizations  Influence 
+Group dynamics  Emergence of informal leaders and working norms  Group
+decision making techniques  Teambuilding  Interpersonal relations 
+Communication  Control
+REFERENCE
+1 ArunMonappa RanjeetNambudiri PatturajaSelvaraj Industrial relations
+and Labour Laws Tata
+2 Fred Luthans Organisational Behavior McGraw Hill 11th Edition 2001
+3 House New Delhi 2007
+4 Mamoria CB and SathishMamoria Dynamics of Industrial Relations Himalaya
+Publishing
+5 McGraw Hill 2012
+6 PNSingh Neeraj Kumar Employee relations Management Pearson 2011
+7 PRN Sinha InduBala Sinha SeemaPriyardarshiniShekhar Industrial
+Relations Trade Unions and Labour Legislation Pearson 2004
+8 Srivastava Industrial Relations and Labour laws Vikas 2007
+9 Stephen P Robins Organisational Behavior PHI Learning  Pearson
+Education 11th edition 2008
+46
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Assess Industrial Health and Psychological problems of Employees
+2 Understand occupational Stresses
+3 Manage individual stress factors and career planning
+4 Solve the factors influencing personality and emotions
+5 Achieve awareness about formation of Group in organizations and
+decision making techniques
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+2
+3
+1
+CO2
+3
+3
+2
+3
+1
+CO3
+3
+3
+2
+3
+1
+CO4
+3
+3
+2
+3
+1
+CO5
+3
+3
+2
+3
+1
+47
+3
+3
+3
+3
+23CZCMPE31
+CONSTRUCTION ECONOMICS AND FINANCE
+MANAGEMENT
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To introduce about the Construction Economics
+ To study about the Finance management
+ To find about the financial control and the need of financial management
+ To evaluate the Accounting for tax reporting purposes and financial reporting purposes
+ To learn about subcontracting and purchasing
+Economics
+Interests and time value considerationdepreciation tax inflationlifecycle
+cost analysis approached to asset valuationresource allocation decision for asset
+managementcost of construction resourcescost of construction land and
+administrationcontingencies provisions and management
+Financing
+Need for financial managementtypes of financingshort term borrowinglong
+term borrowing leasingequity financinginternal generation of fundsexternal
+commercial borrowingassistance from government budgeting support and
+international finance corporation
+Analysis of Finance
+Analysis of financial statementsbalance sheetprofit and loss accountcash
+flow and fund flow analysisratio analysisinvestment and financingfinancial controljob control and centralized management
+Accounting Method
+Basics of accounting method  budget and budgeting  site accountsjoint
+venture project financial packaging fund mobilization  accounting for tax reporting
+purposes and financial reporting purpose
+Lending to Contractors
+Loans to contractorswork package breakdownsubcontracting and purchasing
+REFERENCES
+1 CormicanD Construction Management Planning and Finance Construction
+press London 1985
+2 G J ThuesenW J Fabrycky Engineering Economy Prentice Hall 2001
+3 Anthony J Tarquin Leland T Blank Engineering EconomyA Behavioral
+Approach McGraw Hill 1976
+4 R L Peurifoy Solutions to Problems in Estimating Construction Costs McGraw Hill
+1975
+48
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Have an idea about the Construction Economics
+2 Understand Finance management
+3 Analyze the financial control and the need of financial management
+4 Prepare accounting for tax reporting and financial reporting purposes
+5 Know about subcontracting and purchasing
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+CO1
+3
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+3
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+3
+3
+49
+3
+3
+3
+3
+23CZCMPEXX
+PROJECT FORMULATION AND APPRAISAL
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To learn about the formulation
+ To study about the costing of construction projects appraisal finance and
+private sector participation in construction Industry
+ To examine different project appraisal methods
+ To know about project finance
+ To find about Technology Transfer
+Project Formulation
+Project  Concepts  Capital investments  Generation and Screening of
+Project Ideas  Project identification  Preliminary Analysis Market Technical
+Financial Economic and Ecological  PreFeasibility Report and its Clearance
+Project Estimates and TechnoEconomic Feasibility Report Detailed Project Report
+ Different Project Clearances required
+Project Costing
+Project Cash Flows  Time Value of Money  Cost of Capital
+Project Appraisal
+NPV  BCR  IRR  ARR  Urgency  Pay Back Period  Assessment of
+Various Methods  Indian Practice of Investment Appraisal  International Practice
+of Appraisal  Analysis of Risk  Different Methods  Selection of a Project and Risk
+Analysis in Practice
+Project Financing
+Project Financing  Means of Finance  Financial Institutions  Special
+Schemes  Key Financial Indicators  Ratios
+Private Sector Participation
+Private sector participation in Infrastructure Development Projects  BOT
+BOLT BOOT  Technology Transfer and Foreign Collaboration  Scope of
+Technology Transfer
+REFERENCES
+1 Barcus SW and WilkinsonJW Hand Book of Management Consulting
+Services McGraw Hill New York 1986
+2 Joy PK Total Project Management  The Indian Context New Delhi
+Macmillan India Ltd 1992
+3 Prasanna Chandra Projects  Planning Analysis Selection
+Implementation Review McGraw Hill Publishing Company Ltd New Delhi
+2006
+4
+United Nations Industrial Development Organisation UNIDO Manual for the
+Preparation of Industrial Feasibility Studies IDBI Reproduction Bombay
+1987
+50
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Formulate and generate the project and prepare reports for executing the work
+2 Understand the costing and cash flows of a project
+3 Assess various methods of project appraisal
+4 Understand the project financing and special schemes
+5 Know about private sector participation in Infrastructure Development Projects
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+3
+3
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+3
+3
+CO1
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+51
+3
+3
+3
+3
+23CZCMPEXX
+RESOURCE MANAGEMENTAND CONTROL
+INCONSTRUCTION
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To introduce the concept of resource planning
+ To know about the resource allocation and leveling techniques in single and multiprojects
+ To study the various Systems approach in resource management
+ To evaluate the resources  material equipment labour and time
+ To know about the Skill in management of Time
+Resource Planning
+Resource Planning Procurement identification Personnel Planning for
+material Labour time schedule and cost control Types of resources manpower
+Equipment Material Money Time Resource Allocation and Levelling
+Timecost trade of Computer application in resource leveling examples
+resource list resource allocation graph Resource loading Cumulative cost ETC 
+Value Management
+Resources Management
+Systems approach in resource management characteristics of resources
+Resources Utilization measurement of actual resources required Tools for
+measurement of resources Labour classes of LabourCost of Labour Labour
+Schedule optimum use Labour
+Materials and Equipment
+Time of purchase Quantity of material sources Transportation Delivery and Distribution
+Planning and selecting by optimistic choice with respect to cost Time Source and handling
+Time
+Personnel time Management and planning  Managing time on the project forecasting the future  Critical path measuring the changes and their effects
+Cost control Cash flow and cost control  objectives of cost  Time and Quality
+REFERENCES
+1 Andrew D Szilagg Hand Book of Engineering Management 1982
+2 Richard H Clough Glenn A Sears Construction Project Management 2nd
+Edition Wiley  1979
+3 Harvey A Levine Project Management using Microcomputers Osborne
+4 McGrawHill 1986
+5 James J Adrian Quantitative Methods in Construction Management
+Construction Systems Pub Co 1973
+6 R Oxley J Poskitt Management Techniques Applied to the Construction
+Industry Blackwell Science 1996
+52
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Understand the Resource Planning Procurement and Identification
+2 Use the resource allocation and leveling techniques in single and multiprojects
+3 Implement various Systems approach in resource management
+4 Assess the resources  material equipment labour and time
+5 Manage time on the project and forecasting the future
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+3
+3
+53
+3
+3
+3
+3
+23CZCMPEXX
+CONSTRUCTION PLANNING SCHEDULING AND
+CONTROL
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To provide an information about the basic concepts in development of construction
+planning
+ To evaluate the elements of scheduling and to apply appropriate tools and techniques
+ To study about the monitoring and accounting of projects through cost control
+ To know about the concept of organizing and Use of Project Information
+Construction Planning
+Basic Concepts in the Development of Construction Plans  Choice of
+Technology and Construction Method  Defining Work Tasks  Defining Precedence
+Relationships among Activities  Estimating Activity Durations  Estimating
+Resource Requirements for Work Activities  Coding Systems
+Scheduling Procedures
+Construction Schedules  Critical Path Method  Scheduling Calculations 
+Float  Presenting Project Schedules  Scheduling for ActivityonNode and with
+Leads Lags and Windows
+ Scheduling with Resource Constraints and Precedence
+Scheduling Techniques
+Use of Advanced Scheduling Techniques  Scheduling with Uncertain
+Durations  Calculations for Monte Carlo Schedule Simulation  Crashing and
+TimeCost Tradeoffs  Improving the Scheduling Process
+Cost Control Monitoring and Accounting
+The Cost Control Problem  The Project Budget  Forecasting for Activity
+Cost Control  Financial Accounting Systems and Cost Accounts  Control of Project
+Cash Flows Schedule Control
+ Schedule and Budget Updates  Relating Cost and Schedule Information
+Organization and Use of Project Information
+Types of Project Information  Accuracy and Use of Information 
+Computerized Organization and Use of Information  Organizing Information in
+Databases  Relational Model of Databases  Other Conceptual Models of
+Databases  Centralized Database Management Systems  Databases and
+Applications Programs  Information Transfer and Flow
+REFERENCES
+1 Calin M Popescu ChotchaiCharoenngam Project Planning Scheduling
+and Control in Construction An Encyclopedia of terms and Applications
+Wiley New York 1995
+2 Chitkara KK Construction Project Management Planning Scheduling
+and Control McGrawHill Publishing Company New Delhi 1998
+3 Chris Hendrickson and Tung Au Project Management for Construction 
+Fundamental Concepts for Owners Engineers Architects and Builders
+Prentice Hall Pittsburgh 2000
+54
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Understand the basic concepts in development of construction planning
+2 Understand the concepts in scheduling procedures
+3 Apply appropriate tools and techniques for scheduling
+4 Gain knowledge about the monitoring and accounting of projects through cost control
+5 Apply the concept of organization and Use of Project Information
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+3
+3
+2
+55
+3
+3
+3
+3
+23CZCMPEXX
+ADVANCED TOPICS IN ACOUSTICS LIGHTING AND
+VENTILATION
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To examine the effects of acoustics in buildings
+ To analyze the concepts of day lighting and components of daylight factor
+ To study about the concept of ventilation and calculation of natural ventilation
+Acoustics
+Sound  Velocity of sound  Frequency and intensityof sound  Reflection of
+sound  Reverberation Absorption of sound  Sabins equation 
+Absorptionmaterials  Conditions for good acoustics
+Design of an auditorium  Defects in an auditorium and their remedies
+Acoustics of studies  Noise and its effects  Type of noises  Transmission of noise
+ Sound insulation Transmission loss
+ Acceptable noise levels  Method of sound insulation
+Lighting
+Day lighting or Natural lighting  Design of windows Orientation of
+buildings  Lighting for industrial structure  Supplementary illumination  Artificial
+illumination  Summary
+Ventilation
+Ventilation due to wind  Ventilation due to stack effect  Ventilation due to
+combined effect  Infiltration Ventilation of industrial building  Calculation of
+Natural Ventilation
+Mechanical Ventilation  Examples Building regulation  Air Conditioning  Summary
+REFERENCES
+1 Percy L Marks A Handbook for Architects and Engineers 1940
+2 Leo L Beranek Music Acoustics  Architecture 1962
+3 Frederick S Merritt Standard Handbook for Civil Engineers Third edition 1986
+4 Hopkinson RG Architectural Physics Lighting 1963
+5 George AHool SB  Nathan Handbook of Building Construction 1929
+6 Andrews FT Building Mechanical Systems 1966
+56
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Learn about the effects of acoustics in buildings
+2 Learn about the design of an auditorium
+3 Understand the concepts of day lighting and components of daylight factor
+4 Understand the concept of ventilation and calculation of natural ventilation
+5 Understand the concept of mechanical ventilation and air conditioning
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+CO2
+3
+3
+3
+CO3
+3
+3
+3
+CO4
+3
+3
+3
+CO5
+3
+3
+3
+57
+3
+3
+3
+3
+2
+2
+2
+2
+2
+23CZCMPEXX
+INFORMATION TECHNOLOGY FOR CONSTRUCTION
+MANAGERS
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To introduce about computer networking and use of network
+ To learn about the Database application in construction industry
+ To study about the role and types of information systems
+ To analyze the development and planning of information systems
+ Know about Computer aided design and issues in information systems
+Networking and Internet
+Introduction to computer networking  Uses of a network  Types of networks
+ Network topologies Internet Intranet World Wide Web  E Commerce
+Applications  Emailing Chatting Surfing Blog  Browsers Search Engines
+Concepts of Web upload download  Threats  Spyware Adware SPAM
+Database Application
+Creating Database Using MS Access Tables Relationships Queries Forms
+Reports
+Management Information System Introduction Responsibilities of a Property
+Systems Manager MIS Security Issues Information Protection and Problems
+caused by the use of PCs  Selecting and Implementing a Computer System 
+Installation Introduction to Point of Sale Computerized Reservation System Global
+Distribution System
+Information Systems for Strategic Management
+Meaning and Role of Information Systems Types of Information Systems
+Operations Support Systems Management Support Systems Office Automation
+System Decision Support Systems Expert Systems and Knowledge Management
+Systems Competitive Strategy Concepts Strategic Role of Information Systems
+Integrating Information Systems with Business Strategy Value Chain Analysis
+Computer Applications for cost control scheduling and time management
+Planning for Information Systems
+System Development Process Identification of Applications Resource
+Requirements for Information Systems Hardware and Capacity Planning Software
+Needs Implementation Risks in Information Systems Procurement Options 
+Make or Buy decisions IS Outsourcing
+Emerging Concepts and Issues in Information Systems
+Enterprise Resource Planning electronic business Supply Chain
+Management Customer Relationship Management GIS Applications in Real
+Estate Introduction to Data Warehousing Data Mining and its Applications
+Computer aided design and visualization  building engineering application 
+computer aided cost estimation  planning scheduling site management 
+computer aided facilities management  integration  business and information
+management
+58
+REFERENCES
+1 SJXavier Alphonse Computer Made EasyA textbook on Basic Computing
+Skills ICRDCE Publications 2011
+7th
+2 Peter Norton Introduction to computers
+Edition Tata McGraw Hill2010
+3 Henry CLucas Information Technology for Management Tata McGraw  Hill2001
+4 Elmasri R NavatheS Fundamentals of Database systems Third
+Edition Addison Wesley2000
+5 Prasanna Chandra A management guide to PERTCPM Project planning
+ analysis and selection2011
+6 Tim Pyron Using Microsoft Project2003
+7 David A Marchman Construction scheduling with Primavera2003
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Have an idea about computer networking and use of network
+2 Use database application in construction industry
+3 Implement the role and types of information systems
+4 Identify the development and planning of information systems
+5 Formulate and generate computer aided design and issues in information systems
+Mapping of COs with
+POs
+PO1
+PO2
+CO1
+3
+3
+3
+2
+1
+2
+CO2
+3
+3
+3
+2
+1
+2
+CO3
+3
+3
+3
+2
+1
+2
+CO4
+3
+3
+3
+2
+1
+2
+CO5
+3
+3
+3
+2
+1
+2
+23CZCMPEXX
+PO3
+Mapping with PSOs
+PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+ADVANCED CONCRETE TECHNOLOGY
+59
+2
+2
+2
+2
+2
+2
+2
+2
+2
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To learn about the cementitious material and its properties
+ To study mix design for different types of concrete
+ To Understand the properties of fresh and hardened concrete
+ To Know the special types of concrete
+ To study the various concreting methods
+Constituents of concrete  Portland cement  composition  types  codal
+standards  hydration  structure of hydrated cement paste  factors influencing
+cement quality  supplementary Cementitious materials and their characterization 
+admixtures  construction chemicals  classification  mechanism  performance 
+application  aggregates  shape  properties  absorption  chemical stability 
+packing characteristics  effect of aggregate on concrete properties
+ conventional and nonconventional aggregates  light weight and heavy weight
+aggregates  significance of aggregate characterization
+Concrete mixture proportion  concrete constituents  relevant parameters 
+relationships of mix Composition and properties of concrete  Principles of concrete
+mix design Methods of concrete mix design IS Method ACI Method DOE Method
+Statistical quality controlSampling and acceptance criteria High Performance 
+Entropy and Shack locks Empirical graphs particle packing theory
+Properties of fresh concrete  Workability  factors influencing  loss of workability 
+setting
+ hardening  plastic and thermal cracking  Interfacial Transition Zone  fracture
+strength  mechanical properties  shrinkage  creep  temperature effects Durability of concrete  basic considerations  stability of constituents  permeation
+characteristics  testing  chemical attack  freeze and thaw action  efflorescence
+ Testing of fresh and hardened concrete  nondestructive testing
+Special concretes Fibre reinforced concrete  aerated concrete  no fines
+concrete  SIFCON  SIMCON  spun concrete  polymer concrete  lightweight
+concrete  high density concrete  high performance concrete HPC  self
+compacting concrete SCC vacuum concrete Fly ash concrete Fibre reinforced
+concrete Sulphur impregnated concrete Polymer ConcreteHigh performance
+concrete High performance fiber reinforced concrete Self CompactingConcrete
+Geo Polymer Concrete Waste material based concreteReady mixed concrete 
+Testing methods Codal standards principle  mechanism  properties 
+applications
+Process of manufacturing of ready mix concrete methods of transportation
+placing and curing Extreme weather concreting special concreting methods
+Vacuum dewateringUnderwater Concrete
+REFERENCES
+1 Mehta PK and Montero PJM Concrete Microstructure Properties and
+60
+Materials Indian Concrete Institute Chennai 1999
+2
+3
+4
+5
+6
+7
+Neville AM Properties of Concrete 4th Edition Longman 1995
+Mindess and Young Concrete Prentice Hall 1998
+John Newman and Ban Seng Choo Concrete Technology Vol I to IV Elsevier 2003
+Francois de Larrard Concrete Mixture Proportioning  Scientific Approach
+E FN SPON London 1999
+Jan P Skalny Material Science of Concrete Vol I to IV The American
+Ceramic Society Inc Westerville OH 1989
+Krishna Raju N Design of Concrete Mixes CBS Publishers Delhi 2000
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Understand the cementitious material and its properties
+2 Carry out mix design for different types of concrete
+3 Assess the properties of fresh and hardened concrete
+4 Gain knowledge about the special types of concrete
+5 Adopt various concreting methods
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+CO2
+3
+CO3
+3
+3
+CO4
+3
+3
+CO5
+3
+3
+23CZCMPEXX
+3
+2
+3
+3
+ANALYTICAL AND NUMERICAL METHODS FOR
+CONSTRUCTION ENGINEERS
+61
+3
+3
+3
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To introduce basic concepts of numerical methods applicable to construction problems
+ To learn a written computer program for solving a mathematical problem
+Fundamentals of Numerical Methods Error Analysis Polynomial
+Approximations and Interpolations
+Curve Fitting Interpolation and extrapolation
+Solution of Nonlinear Algebraic and Transcendental Equations
+Elements of Matrix Algebra Solution of Systems of Linear Equations Eigen
+Value Problems Numerical Differentiation  Integration Solution of
+Ordinary and Partial Differential Equations
+Finite Difference scheme Implicit  Explicit scheme
+Computer Algorithms Numerical Solutions for Different Structural Problems
+Fuzzy Logic and Neural Network
+REFERENCES
+1 An Introduction to Numerical Analysis AtkinsonKE J Wiley and Sons 1989
+2 Theory and Problems of Numerical Analysis Scheid F McGraw Hill
+Book Company Shaum Series1988
+3 Introductory Methods of Numerical Analysis Sastry S S Prentice Hall of India
+COURSE OUTCOMES
+At the end of the course students will be able to
+1 Solve ordinary and partial differential equations in structural mechanics
+using numerical methods
+2 Gain the knowledge about the solution of nonlinear equations
+3 Understand the solution of differential equations
+4 Solve the problems using finite difference scheme
+5 Write a program to solve a mathematical problem using software
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+23CZCMPEXX
+ADVANCED CONSTRUCTION METHODS FOR SPECIAL
+STRUCTURES
+62
+L
+3
+3
+3
+3
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To study about the special structures and their applications
+ To learn about the construction methods of Bridge structures
+ To know about the construction methods of tunnelling and underground structures
+ To analyze the construction methods of marine structures
+ To study about Construction methods and techniques for highrise buildings
+and power plant structures
+Introduction
+Types of Special Structures According to  locationenvironment design
+strength radiation shielding shape aesthetic appearance type of construction
+methods and techniques
+Bridge Structures
+Bridges steel bridges arch bridges cantilever bridges box girders
+Construction of special type of bridges  cable stayed bridge suspension and prestressed bridge Segmental construction cantilever construction incremental
+construction successive launching and pushing of box decks
+Underground Structures
+Pipe lines bedding of conduits Trenchless technology Tunnelling methods 
+mechanical boring cut and cover construction drilling and blasting tunnel driving in
+hard  soft strata and TBM tunnelling Tunnel forming components safety in
+tunnelling operations
+Construction of Metro Railway structures  Underground and over ground structures Viaduct
+Ground anchoring  diaphragm walls launching gantry crane Problems and
+solutions during maintenance and upkeep of structures Fire Ventilation
+Dewatering power supply Subsidence Vibration
+Marine Structures
+Off shore structures  beacons oil drilling platforms jetties and break water
+structures Dredging equipments and techniques for construction of channels and
+islands Laying operations for built up offshore system Underwater concreting
+using tremie method underwater construction problems encountered caisson well
+sinking methods  conventional and jack down methods
+High Rise Structures and Power Plant Structures
+Construction methods and techniques for highrise buildings continuous
+concreting erection of prefabricated components on tall structures tunnel form
+launching techniques for heavy decks Slip form jump form dry wall technology
+Fire fighting and safety Construction Sequence and methods in Cooling towers
+Silos Chimney
+Construction methods for power generating structures Thermal power
+stations Atomic power stations Windmills chimneys single and multiflue Cooling
+towers  Natural Draft Cooling Towers NDCT  Induced Draft Cooling Tower
+IDCT Ash handling system containment structure Electro Static Precipitator
+ESP Installing major components inside the reactor and containment building
+Energy management  power factor management of maximum demand energy
+savings inpumps equipments compressed air systems fans lighting system air
+63
+conditioning system construction projects
+REFERENCES
+1 Jerry Irvine Advanced Construction Techniques California Rocketry 1984
+2 Illingworh J R Construction Methods and Planning E FN Spon 2000
+3 Peurifoy RL Ledbetter WB and Schexnayder C Construction Planning
+Equipment and Methods McGraw Hill Singapore 2006
+4 SankarSK and SaraswatiSConstruction Technology Oxford University
+Press NewDelhi 2008
+5 National Building Code of India PartIV and VII  2006
+COURSE OUTCOMES
+At the completion of the course students will be able to
+1 Understand the special structures and their applications
+2 Assess construction methods of Bridge structures
+3 Evaluate the construction methods of tunneling and underground structures
+4 Gain knowledge about the construction methods of marine structures
+5 Get an exposure on construction methods and techniques for highrise
+buildings and power plant structures
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+CO2
+3
+CO3
+3
+3
+CO4
+3
+3
+CO5
+3
+3
+23CZCMPEXX
+3
+2
+3
+3
+DESIGN OF FORMWORK
+64
+3
+3
+3
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To provide the basic concepts understand the design of form work
+ To familiarise the students with deferent types of form work
+Introduction
+Requirements and Selection of Formwork  Formwork Materials Timber Plywood
+Steel Aluminum Plastic and Accessories Horizontal and Vertical Formwork Supports
+Formwork Design
+Concepts Formwork Systems and Design for Foundations Walls Columns Slab and
+Beams
+Formwork Design for Special Structures
+Shells Domes Folded Plates Overhead Water Tanks Natural Draft
+Cooling TowerBridges
+Flying Formwork
+Table Form Tunnel Form Slip Form Formwork for Precast Concrete
+FormworkManagement Issues Pre and PostAward
+Formwork Failures
+Causes and Case studies in Formwork Failure Formwork
+Issues in MultiStory Building Construction
+REFERENCES
+1 Peurify Formwork for Concrete Structures McGraw Hill India 2015
+2 Kumar Neeraj Jha Formwork for Concrete Structures Tata McGraw Hill Education 2012
+3 IS 14687 1999 False work for Concrete Structures  Guidelines BIS
+COURSE OUTCOMES
+At the end of the course students will be able to
+65
+1
+2
+3
+4
+5
+Select proper formwork accessories and material
+Design the form work for Beams Slabs columns Walls and Foundations
+Design the form work for Special Structures
+Understand the working of flying formwork
+Judge the formwork failures through case studies
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+CO2
+3
+3
+3
+CO3
+3
+3
+3
+CO4
+3
+3
+3
+CO5
+3
+3
+3
+3
+3
+3
+3
+OPEN ELECTIVES
+23CZCMOE25
+COMPUTER APPLICATION IN CONSTRUCTION
+66
+L
+T
+P
+C
+ENGINEERING AND PLANNING
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To evaluate Computer aided Cost Estimation
+ To know about the techniques of linear dynamic and integer programming
+ To learn about Inventory models
+ To study about advanced planning and scheduling concepts
+ To learn about Sequencing problems
+Introduction
+Overview of IT Applications in Construction  Construction process 
+Computerization in Construction  Computer aided Cost Estimation  Developing
+application with database software
+Optimization Techniques
+Linear Dynamic and Integer Programming  Branch and Bound Techniques 
+Application to Production Scheduling Equipment Replacement Material
+Transportation and Work Assignment Problems  Software applications
+Inventory Models
+Deterministic and Probabilistic Inventory Models  Software applications
+Scheduling Application
+PERT and CPM  Advanced planning and scheduling concepts  Computer
+applications  Case study
+Other Problems
+Sequencing problems  Simulation  Enterprises  Introduction to ERP systems
+REFERENCES
+1 Boyd C Paulson Computer Applications in Construction McGrawHill 1995
+2 Billy E Gillett Introduction to Operations ResearchA ComputerOriented
+Algorithmic Approach McGrawHill 1990
+3 Leslie Feigenbaum Construction Scheduling with Primavera Project planner
+Prentice Hall  2002
+COURSE OUTCOMES
+At the completion of the course students will be able to
+67
+1
+2
+3
+4
+5
+Use Computer aided Cost Estimation
+Apply the techniques of linear dynamic and integer programming
+Generate inventory models
+Understand advanced planning and scheduling concepts
+Develop skills on sequencing problems
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+CO2
+3
+3
+3
+CO3
+3
+3
+3
+CO4
+3
+3
+3
+CO5
+3
+3
+3
+68
+3
+3
+3
+3
+23CZCMOE32
+GEOGRAPHIC INFORMATION SYSTEM IN
+CONSTRUCTION ENGINEERING AND MANAGEMENT
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To provide an information about the application of GIS software in construction
+projects
+ To Know about Geo reference data and data access
+ To Know about Data structure and Database Management system
+ To learn about Data Quality and its output
+Introduction to GIS
+GIS  Definition  Components of GIS Maps  Definition  Types of Maps 
+Characteristics of Maps  Map Projections  Hardware Software and
+Organizational Context  GIS software
+Types of Data
+Data Types  Spatial and NonSpatial  Spatial Data  Points Lines and
+areas Nonspatial data  Types of Map scale Nominal Ordinal Interval and Ratio
+ Digitizer  Scanner  Editing and Cleaning  Geo reference data File and data
+access
+Data Structure
+Raster and Vector Data Structure  Raster data storage  Methods of data
+compressionRun length Chain and Block Coding  Vector Data Storage 
+Topology  Topological Models  Arc Node Structure  Surface Data  DEM 
+Grid DEM and TIN structure Applications of DEM Database Management system
+Data Quality and Output
+Reclassification  Measurement  Buffering  Overlaying  SQL for Queries
+ Neighborhood and Zonal operations  Data Quality  Components of data quality Sources of errors in GIS  Meta data Output  Maps Graphs Charts Plots 
+Reports  Printers  Plotters
+Fields of applicationconstruction management Parcel based AMFM
+applications examples  Case study
+REFERENCES
+1 Burrough PA Principles of GIS for Land Resources Assessment Oxford Publication
+2008
+2 Robert Laurini and Derek Thompson Fundamentals of Spatial Information
+Systems Academic Press 2006
+3 Anji Reddy Remote Sensing and Geographical Information Systems BS Publications
+2001
+4 Srinivas MG Edited by Remote Sensing Applications Narosa Publishing House
+2001
+5 Rhind D Understanding of GIS the ARC  INFO Method ESRI Press 2000
+69
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Understand the application of GIS software in construction projects
+2 Analyze Geo reference data and data access
+3 Gain knowledge about data structure and database management system
+4 Assess the Data Quality and its output
+5 Apply in the field for management and from case studies
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+2
+CO2
+3
+3
+2
+CO3
+3
+3
+2
+CO4
+3
+3
+2
+CO5
+3
+3
+2
+70
+3
+3
+3
+3
+23CZCMOEXX
+SHORING SCAFFOLDING AND FORMWORK
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To study the detailed planning of formwork and materials associated with formwork
+ To learn about the design aspects of formwork under various requirements
+ To know the design of forms and shores
+ To evaluate the planning and erection aspects of form work for buildings
+ To know the latest methods of form construction
+Planning Site Equipment and Plant for Form Work
+Introduction  Forms for foundations columns beams walls etc General
+objectives of formwork building  Planning for safety  Development of a Basic
+System  Key Areas of cost reduction  Planning examples Overall Planning Detailed planning  Standard units  Corner units  Pass units  Calculation of labour
+constants  Formwork hours  Labour Requirement  Overall programme  Detailed
+programme  Costing  Planning crane arrangements  Site layout plan Transporting plant  Formwork beams  Scaffold frames  Framed panel formwork Formwork accessories
+Materials Accessories Proprietary Products and Pressures
+Lumber  Types  Finish  Sheathing boards working stresses  Repetitive
+member stress  Plywood  Types and grades  Jointing Boarding  Textured
+surfaces and strength  Reconstituted wood  Steel  Aluminum  Hardware and
+fasteners  Nails in Plywood  Allowable withdrawal load and lateral load Pressures
+on formwork  Examples  Vertical loads for design of slab forms  Uplift on shores Laterals loads on slabs and walls
+Design of Forms and Shores
+Basic simplification  Beam formulae  Allowable stresses  Deflection
+Bending  Lateral stability  Shear Bearing  Design of Wall forms  Slab forms Beam forms  Column forms  Examples in each Simple wood stresses Slenderness ratio  Allowable load vs length behaviour of wood shores  Form lining
+Design Tables for Wall formwork  Slab Formwork  Column Formwork  Slab props
+ Stacking Towers  Free standing and restrained  Rosett Shoring  Shoring Tower
+ Heavy Duty props
+Building and Erecting the Form Work
+Carpentry Shop and job mill  Forms for Footings  Wall footings  Column
+footings  Sloped footing forms  Strap footing  Stepped footing  Slab form
+systems  Sky deck and Multiflex  Customized slab table  Standard Table module
+forms  Swivel head and uniportal head  Assembly sequence  Cycling with lifting
+fork  Moving with table trolley and table prop Various causes of failures  ACI Design deficiencies  Permitted and gradual irregularities
+Forms for Domes and Tunnels Slip Forms and Scaffolds
+Hemispherical Parabolic Translational shells  Typical barrel vaults Folded
+71
+plate roof details  Forms for Thin Shell roof slabs design considerations  Building
+the forms  Placing concrete  Form removed Strength requirements Tunnel
+forming components  Curb forms invert forms  Arch forms
+ Concrete placement methods  Cut and cover construction  Bulk head method Pressures on tunnels  Continuous Advancing Slope method  Form construction Shafts Slip Forms  Principles  Types  advantages  Functions of various
+components  Planning Desirable characteristics of concrete  Common problems
+faced  Safety in slip forms special structures built with slip form Technique  Types
+of scaffolds  Putlog and independent scaffold Single pole scaffolds  Truss
+suspended  Gantry and system scaffolds
+REFERENCES
+1 Austin CK Formwork for Concrete Cleaver Hume Press Ltd London 1996
+2 Hurd MK Formwork for Concrete Special Publication No4 American
+Concrete Institute Detroit 1996
+3 Robert L Peurifoy and Garold D Oberlender Formwork For Concrete Structures
+McGraw Hill  1996
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Have an idea about the detailed planning of formwork
+2 Understand the design aspects of formwork under various requirements
+3 Formulate the design of forms and shores
+4 Identify the planning and erection aspects of form work for buildings
+5 Share knowledge about the latest methods of form construction
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+1
+2
+CO2
+3
+3
+1
+2
+CO3
+3
+3
+1
+2
+CO4
+3
+3
+1
+2
+CO5
+3
+3
+1
+2
+72
+3
+3
+3
+3
+23CZCMOEXX
+VALUE ENGINEERING AND VALUATION
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To provide a basic information about value engineering
+ To learn about the various value analysis
+ To examine different methods of performing value engineering
+ To study about the types purpose and factors affecting valuation
+ To learn about valuation report
+Value
+Value  Meaning of value basic and secondary functions factor contributing to value
+such as
+aesthetic ergonomic technical economic identifying reasons or unnecessary
+costs 
+Value Analysis
+10 Commandments of value analysis value analysis team principles of value
+analysis elements of a job plan viz orientation Information presentation
+Implementation follow up action benefits of value analysis various applications
+assessing effectiveness of value analysis
+Life Cycle Costing
+Life cycle costing  Forecasting of Capital as well as operating 
+maintenance costs time value present worth analysis DCF methods ROR
+analysis sensitivity analysis Different methods of performing value engineering
+Valuation
+Types of value purposes of valuation factors affecting value Different
+methods of valuation for different types of assets such as land and building
+horticulture historical places
+Valuation Report
+Valuation Report contents standard formats Case study of any one Report
+REFERENCES
+1 Del YounkeValue Engineering Analysis And Methodology
+2 OPKhannaIndustrialEngg  Mgt DhanpatRai Publ
+3 TRBanga SCSharmaIndustrial Organization Engg Economics Khanna Publ
+4 BN DuttaEstimating and Costing in Civil Engineering Theory and Practice
+5 MChakrabortyEstimating Costing Specifications  valuation in Civil Engineering
+6 GSBirdieEstimating and Costing
+7 CharotarRangwalaEstimating and CostingPublishedby Publishing House
+8 PTJoglekarPractical Information for Quantity Surveyors Property valuers
+Architects Engineers andBuilders PuneVidyarthiGrihaPrakashan 2008
+reprint
+73
+COURSE OUTCOMES
+At the end of the courseStudent will be able to
+1 Know about value engineering
+2 Understand the various value analysis
+3 Analyze different methods of performing value engineering
+4 Explain about the types purpose and factors affecting valuation
+5 Generate valuation report
+Mapping of COs with
+POs
+PO1
+CO1
+3
+CO2
+3
+CO3
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+3
+3
+74
+3
+2
+3
+2
+3
+2
+3
+2
+23CZCMOEXX
+ENERGY CONSERVATION TECHNIQUES
+INBUILDING CONSTRUCTION
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To evaluate energy production systems and energy economic analysis
+ To understand the environmental aspect and resource conservation
+ To introduce smart buildings and energy efficient design strategies
+ To study about the energy efficient and environment friendly building
+ To learn about the concepts of energy management of electrical equipment
+Introduction
+Fundamentals of energy  Energy Production Systems  Heating Ventilating
+and air conditioning  Solar Energy and Conservation  Energy Economic Analysis 
+Energy conservation and audits  Domestic energy consumption  savings Energy
+use in buildings  Residential  commercial buildings
+Environmental
+Energy and Resource conservation  Design of green buildings  Evaluation
+tools for building energy  Embodied and operating energy  Peak demand 
+Comfort and Indoor air quality  Visual and acoustical quality  Land water and
+materials  Airborne emissions and waste management
+Design
+Natural building design consideration  Energy efficient design strategies  Contextual
+factors
+ Longevity and process Assessment Renewable energy sources and designAdvanced building Technologies  Smart buildings  Economies and cost analysis
+Services
+Energy in building design  Energy efficient and environment friendly building
+ Thermal phenomena  thermal comfort  Indoor Air quality  Climate sun and Solar
+radiations  Psychometrics
+ passive heating and cooling systems  Energy Analysis  Active HVAC systems Preliminary Investigation  Goals and policies  Energy audit  Types of energy audit
+ Analysis of results  Energy flow diagram  Energy consumption Unit production Identification of wastage  Priority of conservative measures  Maintenance of
+management programme
+Energy Management
+Energy management of electrical equipment  Improvement of power factor management of maximum demand  Energy savings in pumps  Fans  Compressed
+air systems  Energy savings in Lighting systems  Air conditioning systems 
+Applications
+75
+REFERENCES
+1 Fuller Moore Environmental Control Systems  Heating Cooling Lighting Tata
+McGrawHill
+ 1993
+2 G Z Brown Mark DeKay Sun Wind  Light  Architectural Design Strategies Wiley
+2001
+3 Cook J Award  Winning passive Solar Design Mc Graw Hill 1984
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Have an idea about energy production systems and energy economic analysis
+2 Know the environmental aspect and resource conservation
+3 Share knowledge about smart buildings and energy efficient design strategies
+4 Get an exposure on the energy efficient and environment friendly building
+5 Understand the concepts of energy management of electrical equipment
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+1
+2
+CO2
+3
+3
+1
+2
+CO3
+3
+3
+1
+2
+CO4
+3
+3
+1
+2
+CO5
+3
+3
+1
+2
+76
+3
+3
+3
+3
+23CZCMOEXX
+COMPOSITE CONSTRUCTION
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To introduce the concept of composite structures and sandwich construction
+ To know about the design of composite members
+ To study about the types and design of connections
+ To know about the design of box girder bridges
+ To find out the seismic behaviour of composite structures
+Introduction
+Introduction to steel  concrete composite construction  theory of composite
+structures  Introduction to steel  concrete  steel sandwich construction
+Design of Composite Members
+Behaviour of composite beams columns design of composite beams
+steel composite columns  design of composite trusses
+Design of Connections
+Types of connections Design of connections in the composite structures
+ shear connections Design of connections in composite trusses
+Composite Box Girder Bridges
+Introduction  behaviour of box girder bridges  design concepts
+Case Studies
+Case studies on steelconcrete composite construction in buildings 
+Seismic behaviour of composite structures
+REFERENCES
+1 R P Johnson Composite Structures of Steel and Concrete Beams Slabs
+Columns and Frames for Buildings  Page 1 Blackwell Publishing 2004
+2 Graham W Owens P R Knowles P J Dowling Steel Designers Manual
+Steel Construction Institute Great Britain Blackwell Scientific Publications
+1994
+77
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Assess the concept of composite structures and sandwich construction
+2 Formulate the design of composite members
+3 Identify the types and design of connections
+4 Formulate know about the design of box girder bridges
+5 Understand seismic behaviour of composite structures
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+CO1
+3
+3
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+1
+2
+CO2
+3
+3
+1
+2
+CO3
+3
+3
+1
+2
+CO4
+3
+3
+1
+2
+CO5
+3
+3
+1
+2
+78
+3
+3
+3
+3
+23CZCMOEXX
+ADVANCED CONSTRUCTION ENGINEERING
+TECHNIQUES
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To know about design of underwater construction
+ To study about the construction techniques of high rise and large span structures
+ To study about the construction techniques of special structures like Silo chimney etc
+ To learn about seismic retrofitting and strengthening techniques
+ To know about demolition and dismantling techniques
+Sub Structure Construction
+Box jacking  Pipe jacking  Under water construction of diaphragm walls and
+basement  Tunneling techniques  Piling techniques  Driving well and caisson sinking cofferdam  cable anchoring and grouting  Driving diaphragm walls Sheet
+piles  Laying operations for built up offshore system  Shoring for deep cutting Large reservoir construction  well points  Dewatering for underground open
+excavation
+Super Structure Construction for Buildings
+Vacuum dewatering of concrete flooring  Concrete paving technology 
+Techniques of construction for continuous concreting operation in tall buildings of
+various shapes and varying sections  Erection techniques of tall structures Large
+span structures  launching techniques for heavy decks  insitu prestressing in high
+rise structures Post tensioning of slab aerial transporting  Handling and erecting
+lightweight components on tall structures
+Construction of Special Structures and Demolition
+Erection of lattice towers  Rigging of transmission line structures 
+Construction sequence in cooling towers Silos chimney sky scrapers  Bow string
+bridges Cable stayed bridges  Launching and pushing of box decks  Construction
+of jetties and break water structures  Construction sequence and methods in
+domes  Support structure for heavy equipment and machinery in heavy industries
+ Erection of articulated structures and space decks
+Rehabilitation and Strengthening Techniques
+Seismic retrofitting  Strengthening of beams  Strengthening of columns Strengthening of slab  Strengthening of masonry wall Protection methods of
+structures Mud jacking and grouting for foundation  Micro piling and underpinning
+for strengthening floor and shallow profile  Sub grade water proofing Soil
+Stabilization techniques
+Demolition
+Demolition Techniques Demolition by Machines Demolition by Explosives
+Advanced techniques using Robotic Machines Demolition Sequence Dismantling
+Techniques Safety precaution in Demolition and Dismantling
+79
+REFERENCES
+1 Jerry Irvine Advanced Construction Techniques CA Rocketr 1984
+2 Patrick Powers J Construction Dewatering New Methods and
+Applications John Wiley  Sons 1992
+3 PeterHEmmons Concrete repair and maintenance illustrated Galgotia
+Publications Pvt Ltd 2001Press 2008
+4 Robertwade Brown Practical foundation engineering hand book McGraw
+Hill Publications 1995
+5 Sankar SK and Saraswati S Construction Technology Oxford
+University Press New Delhi 2008
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Formulate the design of underwater construction
+2 Use the construction techniques of high rise and large span structures
+3 Use the construction techniques of special structures like Silo chimney etc
+4 Achieve awareness about seismic retrofitting and strengthening techniques
+5 Learn about demolition and dismantling techniques
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+1
+2
+CO2
+3
+3
+1
+2
+CO3
+3
+3
+1
+2
+CO4
+3
+3
+1
+2
+CO5
+3
+3
+1
+2
+80
+3
+3
+3
+3
+23CZCMOEXX
+PREFABRICATED STRUCTURES
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To know about planning and layout of prefabrication plant and IS Code specifications
+ To learn about prefabricated structures and its connections
+ To analyze the design of roof slab Stair case floor slab
+ To study about various types of wall
+ To study about industrial buildings and shell roofs
+Design Principles
+General Civil Engineering requirements specific requirements for planning
+and layout of prefabrication plant IS Code specifications Modular coordination
+standardization Disuniting of Prefabricates production transportation erection
+stages of loading and code provisions safety factors material properties Deflection
+control Lateral load resistance Location and types of shear walls
+Reinforced Concrete
+Prefabricated structures  Long wall and crosswall large panel buildings one
+way and two way prefabricated slabs Framed buildings with partial and curtain
+walls Connections  Beam to column and column to column
+Floors Stairs and Roofs
+Types of floor slabs analysis and design example of cored and panel types
+and twoway systems staircase slab design types of roof slabs and insulation
+requirements Description of joints their behaviour and reinforcement requirements
+Deflection control for short term and long term loads Ultimate strength calculations in
+shear and flexure
+Walls
+Types of wall panels Blocks and large panels Curtain Partition and load
+bearing walls load transfer from floor to wall panels vertical loads Eccentricity and
+stability of wall panels Design Curves types of wall joints their behaviour and
+design Leak prevention joint sealants sandwich wall panels approximate design of
+shear walls
+Industrial Buildings and Shell Roofs
+Components of singlestorey industrial sheds with crane gantry systems
+RC Roof Trusses Roof Panels corbels and columns wind bracing design
+Cylindrical Folded plate and hyper prefabricated shells Erection and jointing joint
+design hand book based design
+81
+REFERENCES
+1 KonczT Manual of Precast Concrete Construction VolI II and III  IV
+Bauverlag GMBH 1971
+2 Laszlo Mokk Prefabricated Concrete for Industrial and Public Structures
+AkademiaiKiado Budapest 2007
+3 LewickiB Building with Large Prefabricates Elsevier Publishing
+Company Amsterdam LondonNew York 1998
+4 Structural Design Manual Precast Concrete Connection Details Society for
+the Studies in the use of Precase Concrete Netherland BetorVerlag 2009
+5 Warszawski A Industrialization and Robotics in Building  A managerial
+approach Harper and Row 1990
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Have an idea about the planning and layout of prefabrication plant and IS
+Code specifications
+2 Identify prefabricated structures and its connections
+3 Generate the design of roof slab Stair case floor slab
+4 Know about various types of wall
+5 Gain knowledge about industrial buildings and shell roofs
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+3
+3
+1
+2
+CO2
+3
+3
+1
+2
+CO3
+3
+3
+1
+2
+CO4
+3
+3
+1
+2
+CO5
+3
+3
+1
+2
+CO1
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+82
+3
+3
+3
+3
+23CZCMOEXX
+PUBLIC HEALTH ENGINEERING STRUCTURES
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To know about water treatment and waste treatment systems
+ To evaluate structural designs  construction below ground level
+ To learn about the functional design of overhead water tanks
+ To learn about the functional aspects of ground level water retaining structures
+ To study about the design of conduits and appurtenances
+Introduction
+Review of the principle of design in respect of water treatment and waste
+treatment systems  criteria considered important structurally in the case of each
+component  consideration of soil bearing capacity under different combinations of
+soil types
+Factors Relevant to Structural Design
+Ultimate load theory  plastic analysis  consideration on impact due to live
+and dead loads  considerations of corrosion effects on structural aspects 
+structural designs  construction below ground level
+Design of Overhead Water Tanks
+Functional design  structural design  architectural design  cost aspects
+Design of Ground Level Water Retaining Structures
+Functional aspects  maintenance factors
+Miscellaneous Structural Works
+Design of conduits and appurtenances  foundation and jointing works in
+pipe lines  prestressed concrete tanks  elevated steel tanks  rectangular and
+circular framed structures used in water supply and sewage treatment systems 
+construction of raw water intake towers
+REFERENCES
+1 Gray C Reservoirs and Tanks
+2 Reynolds RC Designers Hand Book
+3 Abeles and Turner Prestressed Concrete Designers Hand Book
+4 Proceedings of the Refresher Course on Public Health Engineering
+Structures Centre for Environmental Studies Anna University 1976
+83
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Get an exposure on water treatment and waste treatment systems
+2 Understand structural designs  construction below ground level
+3 Assess the design of overhead water tanks
+4 Understand the functional aspects of ground level water retaining structures
+5 Assess the design of conduits and appurtenances
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+1
+2
+CO2
+3
+3
+1
+2
+CO3
+3
+3
+1
+2
+CO4
+3
+3
+1
+2
+CO5
+3
+3
+1
+2
+84
+3
+3
+3
+3
+23CZCMOEXX
+RESEARCH METHODOLOGY
+L
+T
+P
+C
+2
+0
+0
+2
+COURSE OBJECTIVES
+ To train the students towards identifying research problems
+ To familiarise the students with technical paper and research proposal writing
+ To familiarise the students with patenting
+ To make the students understand the patent rights
+ To familiarise the students with new developments in IPR
+Meaning of research problem Sources of research problem Criteria
+Characteristics of a good research problem Errors in selecting a research problem
+Scope and objectives of research problem Approaches of investigation of solutions for
+research problem data collection analysis interpretation Necessary instrumentations
+Effective literature studies approaches analysis Plagiarism Research ethics
+Effective technical writing how to write report Paper Developing a Research Proposal
+Format of research proposal a presentation and assessment by a review committee
+Nature of Intellectual Property Patents Designs Trade and Copyright  Process of
+Patenting and Development technological research innovation patenting and
+development International Scenario International cooperation on Intellectual
+Property Procedure for grants of patents Patenting under PCT
+Patent Rights Scope of Patent Rights Licensing and transfer of technology
+Patent information and databases Geographical Indications
+New Developments in IPR Administration of Patent System New developments
+in IPR IPRof Biological Systems Computer Software etc Traditional knowledge Case
+Studies IPR and IITs
+REFERENCES
+1 Stuart Melville and Wayne Goddard Research methodology an introduction for
+science  engineering students
+2 Wayne Goddard and Stuart Melville Research Methodology An Introduction
+Ranjit Kumar2nd Edition Research Methodology A Step by Step Guide for
+beginners
+3 Halbert Resisting Intellectual Property Taylor  Francis Ltd 2007
+4 Mayall  Industrial Design McGraw Hill 1992
+5 Niebel  Product Design McGraw Hill 1974
+6 Asimov Introduction to Design Prentice Hall 1962
+7 Robert P Merges Peter S Menell Mark A Lemley Intellectual
+Property in NewTechnological Age 2016
+8 T Ramappa Intellectual Property Rights Under WTO S Chand 2008
+85
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Identify good research problems
+2 Write sound technical papers and research proposals
+3 Understand the concepts of patenting
+4 Understand the patent rights
+5 Utilise the new developments in IPR
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+2
+3
+3
+CO2
+3
+2
+3
+3
+CO3
+3
+2
+3
+3
+CO4
+3
+2
+3
+3
+CO5
+3
+2
+3
+3
+86
+3
+3
+3
+3
+3
+3
+3
+3
+3
+23CZCMOEXX
+CONSTRUCTION PERSONNEL MANAGEMENT
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To know about the Leadership Power Leadership Styles Leadership in Administration
+ To provide a basic information about the stress and its causes performance
+appraisal and time management
+ To learn about HRM
+ To study the Relations and CompensationManagement
+ To understand the Labors Training and Development
+Leadership Interpersonal and Communication
+Introduction to Leadership Leadership Power Leadership Styles Leadership
+in Administration Introduction to Interpersonal Relations Analysis Relations of
+different ego states Analysis of Transactions Analysis of Strokes Analysis of Life
+position Introduction to Communication Flow of Communication Listening
+Barriers of Communication How to overcome barriers of communication Group
+Dynamics  Importance of groups in organization and Team Interactions in group
+Group Building Decision Taking Team Building Interaction with the Team How to
+build a good team
+Stress Conflict Performance Time and Motivation
+Introduction to Stress Causes of Stress Impact Management Stress
+Managing Stress Introduction to Conflict Causes of Conflict Management
+Managing Conflict Introduction to
+Performance Appraisal Appraisal Vertical Appraisal Horizontal Appraisal 360
+Performance Appraisal Methods of improving Techniques of Performance
+Appraisal
+Time as a Resource  Identify Important Time Management Wasters  Individual
+Time Management Styles  Techniques for better Time Management Introduction to
+Motivation Relevance and types of Motivation  Motivating the subordinates Analysis of Motivation
+Manpower Management
+Human Resources Management Importance of Human Resources Sources
+of Personnel Staffing  Recruitments Job Analysis Job Specification Recruitments
+Tests Selection  Placement Training Need For Training Training Objectives
+Strategies and Methods Training Assessment Performance Appraisal
+Compensation Basic Pay Variable Pay Merit Rating Job Evaluation Human
+resources planning  Importance  HRP ProcessManpower Evolutiondifference
+between Personnel Management and HRM Strategic HRM role of a HR Manager EstimationJob analysisJob DescriptionJob Specification RecruitmentSources of
+RecruitmentSelection ProcessPlacement and InductionRetention of Employees
+87
+Relations and Compensation Management
+Strikes Lockouts Layoffs Grievance Functions Meaning Grievance
+Redressal Procedures Collective Bargaining Trade Unions Overview of Statutory
+Measures for Labour Welfare Grievance Procedurecollective BargainingSettlement
+of Disputes Compensation Management Concepts and ComponentsJob
+EvaluationIncentives and Benefits
+Training and Development
+Training and Development Objectives and NeedsTraining ProcessMethods
+of Training Tools and Aids Evaluation of Training Programs Labour Issues and
+Career Planning  Labour Definition Of Labour And Labour Welfare Contract
+Labour  Temporary Labour Various Theories Historical Development Agencies
+For Labour Welfare Career Planning Succession Planning
+REFERENCES
+1 1 Carleton Counter II and Jill Justice Coulter The Complete Standard Hand
+Book of Construction Personnel Management  Prentice Hall Inc New
+Jersey 1989
+2 Memoria CB Personnel Management  Himalaya Publishing Co 1992
+3 Josy J Familaro Handbook of Human Resources Administration 
+McGraw Hill International Edition 1987
+4 Andrew Dainty Martin Loosemore Human Resource Management in
+Construction Projects Routledge2012
+5 Sanjay Kumar and PushpaLata  Communication Skills  Oxford University
+Press2011
+6 Krishna Mohan MeeraBanerji Basic Managerial Skills E H McGrath
+Eastern Economy Edition Prentice hall India2014
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Gain knowledge aboutLeadership
+Power
+Leadership Styles
+and Leadership
+in Administration
+2 Have an idea about the stress and its causes performance appraisal and time
+management
+3 Understand the HRM
+4 Know about Relations andCompensation Management
+5 Learn about Labours Training and Development
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+3
+3
+2
+1
+CO2
+3
+3
+3
+3
+3
+3
+2
+1
+CO3
+3
+3
+3
+3
+3
+3
+2
+1
+CO4
+3
+3
+3
+3
+3
+3
+2
+1
+CO5
+3
+3
+3
+3
+3
+3
+2
+1
+88
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+23CZCMOEXX
+INDUSTRIES ORGANIZATIONAL PHSYCOLOGY
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To provide an information about the importance and scope of industrial and
+organizational psychology
+ To understand the types of psychology and its effect on the efficiency and productivity
+ To study Organizational Psychology
+ To evaluate Individual and Group Behavior of workers
+ To learn about Occupational Stress
+Conceptual Awareness of Industrial Organizational Psychology
+Introduction of the terms Industry Organization and Psychology Definition
+ Nature  Industrial Organizational Psychology  Importance  Scope of its
+application  How IOPsychology is different  Psychological factors responsible for
+behavior of an individual at work place Industrial Organizational Psychology on the
+job and in Everyday Life
+Characteristics Psychology
+Types and characteristics of psychology Impacting factors and their effects
+on the behavior  Human psychology  Differentiating male  female psychology Determining factors impacting work efficiency and productivity
+Organizational Psychology
+Monitoring Industrial Organizational Psychology  Different tools for testing
+psychology  Problems with Using Psychological Tests  Measuring effectiveness of
+these tests  Usage of tests for improving the employee psychology  Challenges for
+IO Psychology
+Workers Behavior
+Individual and Group Behavior  Interaction as Individuals and as Groups Determining factors for improving their psychology Group Dynamics Characteristics of Group Dynamics  Necessary steps in Group Dynamics to
+enhance efficiency  productivity
+Occupational Stress
+Approaches and Terminology  Occupational Stress Terminology 
+Occupational Stress Models  Workplace Stressors  Reducing the Impact of
+Workplace Stressors  Cross Cultural Occupational Stress Research
+89
+REFERENCES
+1 Anderson N Ones DS Sinangil HK Viswesvaran C Eds 2002
+Handbook of industrial work and organizational psychology Volume 2
+Organizational psychology Thousand Oaks CA Sage Publications Ltd
+2 Fred Luthans 2006 Organisational Behavior 11th Ed McGraw HillIrwin
+3 Harrel Thomas W 1964 Industrial Psychology Revised Edition Oxford 
+IBH Publishing Co India
+4 Koppes LL Ed 2007 Historical perspectives in industrial and organizational
+psychology
+Mahwah NJ Lawrence Erlbaum Rogelberg SG Ed 2002
+5 Maier R F Norman 1970 Psychology in Industry 3rded Oxford  IBH
+Publishing Co India
+6 Paul Hersey Kenneth H Blanchard Dewey E Johnson 2008
+Management of
+organizational behavior leading human resources Pearson Prentice Hall
+7 Rogelberg SG Ed 2002 Handbook of research methods in industrial
+and organizational psychology Malden MA Blackwell
+COURSE OUTCOMES
+At the end of the course Student will be able to
+1 Understand the importance and scope of industrial and organizational psychology
+2 Know about the types of psychology and its effect on the efficiency and productivity
+3 Have an idea about Organizational Psychology
+4 Manage Individual and Group Behavior of workers
+5 Learn about Occupational Stress
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+3
+3
+2
+1
+CO2
+3
+3
+3
+3
+3
+3
+2
+1
+CO3
+3
+3
+3
+3
+3
+3
+2
+1
+CO4
+3
+3
+3
+3
+3
+3
+2
+1
+CO5
+3
+3
+3
+3
+3
+3
+2
+1
+90
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+23CZCMOEXX
+COMPOSITE MATERIALS
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To familiarise the students with the constituents of composite materials
+To train the students in designing with composite materials
+Introduction
+Definition  Classification and characteristics of Composite materials
+Advantages and application of composites Functional requirements of reinforcement
+and matrix Effect of reinforcement size shape distribution volume fraction on overall
+composite performance
+Reinforcements
+Preparationlayup curing properties and applications of glass fibers carbon
+fibers Kevlar fibers and Boron fibers Properties and applications of whiskers particle
+reinforcements Mechanical Behavior of composites Rule of mixtures Inverse rule of
+mixtures Isostrain and Isostress conditions
+Manufacturing of Metal Matrix Composites
+Casting  Solid State diffusion technique Cladding  Hot isostatic pressing
+Properties and applications Manufacturing of Ceramic Matrix Composites Liquid Metal
+Infiltration  Liquid phase sintering Manufacturing of Carbon  Carbon composites
+Knitting Braiding Weaving Properties and applications
+Manufacturing of Polymer Matrix Composites
+Preparation of Moulding compounds and prepress  hand layup method  Autoclave
+method
+ Filament winding method  Compression moulding  Reaction injection moulding
+Properties and applications
+Strength
+Laminar Failure Criteriastrength ratio maximum stress criteria maximum
+strain criteria interacting failure criteria hygro thermal failure Laminate first play failureinsight strength Laminate
+strengthply discount truncated maximum strain criterion strength design using caplet plots
+stress concentrations
+REFERENCES
+1 Cahn RW  Material Science and Technology  Vol 13  Composites VCH
+West Germany
+2 WD Callister Jr Adapted R Balasubramaniam Materials Science and
+Engineering An introduction John Wiley  Sons NY Indian edition 2007
+3 Hand Book of Composite MaterialsedLubin
+4 Chawla KK Composite Materials
+5 Composite Materials Science and Applications  Deborah DL Chung
+6 Danial Gay Suong V Hoa and StephenWTasi  Composite Materials
+Design and Applications
+91
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Understand mechanical behavior of composites
+2 Familiar with manufacturing of polymer matrix composites
+3 Do the design with composites
+4 Know about the manufacturing of metal matrix composites
+5 Determine stresses and strains relation in composite materials
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+1
+3
+2
+2
+3
+CO2
+3
+3
+1
+3
+2
+2
+3
+CO3
+3
+3
+1
+3
+2
+2
+3
+CO4
+3
+3
+1
+3
+2
+2
+3
+CO5
+3
+3
+1
+3
+2
+2
+3
+92
+2
+2
+2
+2
+23CZCMOEXX
+COST MANAGEMENT OF ENGINEERING
+PROJECTS
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To introduce the strategic cost management processes
+ To familiarise the students with various quantitative techniques for cost managements
+Introduction and Overview of the Strategic Cost Management Process
+Cost concepts in decisionmaking relevant cost Differential cost Incremental
+cost and Opportunity cost Objectives of a Costing System Inventory valuation
+Creation of a Database foroperational control Provision of data for DecisionMaking
+Project
+Meaning Different types why to manage cost overruns centres various stages
+of project execution conception to commissioning Project execution as conglomeration
+of technical and non technical activities Detailed Engineering activities Pre project
+execution main clearances and documents
+Project team
+Role of each member Importance Project site Data required with significance
+Project contracts Types and contents Project execution Project cost control Bar
+charts and Network diagram Project commissioning mechanical and process
+Cost Behavior and Profit Planning Marginal Costing
+Distinction between Marginal Costing and Absorption Costing Breakeven
+Analysis Cost VolumeProfit Analysis Various decisionmaking problems Standard
+Costing and Variance Analysis Pricing strategies Pareto Analysis Target costing Life
+Cycle Costing Costing of service sector Justintime approach Material Requirement
+Planning Enterprise Resource Planning Total Quality Management and Theory of
+constraints ActivityBased Cost Management Bench Marking Balanced Score Card
+and ValueChain Analysis
+Budgetary Control
+Flexible Budgets Performance budgets Zerobased budgets Measurement of
+Divisional profitability pricing decisions including transfer pricing
+Quantitative techniques for cost management Linear Programming PERTCPM
+Transportation problems Assignment problems Simulation Learning Curve Theory
+REFERENCES
+1 Cost Accounting A Managerial Emphasis Prentice Hall of India New Delhi
+2 Charles T Horngren and George Foster Advanced Management Accounting
+3 Robert S Kaplan Anthony A Alkinson Management  Cost Accounting
+4 Ashish K Bhattacharya Principles  Practices of Cost Accounting A H Wheeler publisher
+5 ND Vohra Quantitative Techniques in Management Tata McGraw Hill Book Co Ltd
+93
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Understand cost accounting knowledge such as terminology and fundamental
+principlesand methods
+2 Plan project execution
+3 Plan project cost control
+4 Apply TQM practices
+5 Apply course material to new situations
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+3
+3
+94
+3
+3
+23CZCMOEXX
+INDUSTRIAL SAFETY
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To make the students understand the importance of maintenance
+ To make the students understand the importance of safety
+Industrial safety
+Accident causes types results and control mechanical and electrical
+hazards types causes and preventive stepsprocedure describe salient points of
+factories act 1948for health and safety wash rooms drinking water layouts light
+cleanliness fire guarding pressure vessels etc Safety color codes Fire prevention and
+firefighting equipment and methods
+Fundamentals of maintenance engineering
+Definition and aim of maintenance engineering Primary and secondary
+functions and responsibility of maintenance department Types of maintenance Types
+and applications of tools used for maintenance Maintenance cost  its relation with
+replacement economy Service life of equipment
+Wear and Corrosion and their prevention
+Wear types causes effects wear reduction methods lubricantstypes and
+applications Lubrication methods general sketch working and applications i
+Screw down grease cup ii
+Pressure grease gun iii Splash lubrication iv Gravity lubrication v Wick feed
+lubrication vi Side feed lubrication vii Ring lubrication Definition principle and factors
+affecting the corrosion Types ofcorrosion corrosion prevention methods
+Fault tracing
+Fault tracingconcept and importance decision tree concept need and
+applications sequence of fault finding activities show as decision tree draw decision
+tree for problems in machine tools hydraulic pneumatic automotive thermal and
+electrical equipments like I Any one machine tool ii Pump iii Air compressor iv
+Internal combustion engine v Boilervi Electrical motors Types of faults in machine
+tools and their general causes
+Periodic and preventive maintenance
+Periodic inspectionconcept and need degreasing cleaning and repairing
+schemes overhauling of mechanical components overhauling of electrical motor
+common troubles and remedies of electric motor repair complexities and its use
+definition need steps and advantages of preventive maintenance Stepsprocedure for
+periodic and preventive maintenance of I Machine tools ii Pumps iii Air
+compressors iv Diesel generating DG sets Program and schedule of preventive
+maintenance of mechanical and electrical equipment advantages of preventive
+maintenance Repair cycle concept and importance
+95
+REFERENCES
+1 Higgins  Morrow Maintenance Engineering Handbook Da Information Services
+2 H P Garg Maintenance Engineering S Chand and Company
+3 Audels Pumphydraulic Compressors Mc grew Hill Publication
+4 Winterkorn Hans Foundation Engineering Handbook Chapman  Hall London
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Apply safety practices
+2 Inspect maintenance operations
+3 Trace faults in equipments
+4 Do event tree and fault tree analyse
+5 Understand the concept and importance of repair recycle
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+2
+2
+1
+1
+1
+2
+2
+CO2
+3
+3
+2
+2
+1
+1
+1
+2
+2
+CO3
+3
+3
+2
+2
+1
+1
+1
+2
+2
+CO4
+3
+3
+2
+2
+1
+1
+1
+2
+CO5
+3
+3
+2
+2
+1
+1
+1
+2
+96
+2
+2
+AUDIT COURSES
+23CZCMAC18
+STRESS MANAGEMENT BY YOGA
+L
+2
+T
+0
+P
+0
+C
+0
+COURSE OBJECTIVES
+ To achieve overall health of body and mind
+ To overcome stress
+Definitions of Eight parts of yog  Ashtanga 
+Yam and Niyam
+Dos and Donts in life
+Ahinsa satya astheya bramhacharya
+and aparigraha Shaucha santosh tapa
+swadhyay ishwarpranidhan
+Asan and Pranayam
+Various yoga poses and their benefits for mind  body
+Regularization of breathing techniques and its effectsTypes of pranayam
+REFERENCES
+1 Yogic Asanas for Group TariningPartI Janardan Swami YogabhyasiMandal Nagpur
+2 Rajayoga or conquering the Internal Nature by Swami Vivekananda Advaita
+Ashrama Publication Department Kolkata
+COURSE OUTCOMES
+At the end of the course Students will be able to
+1 Develop healthy mind in a healthy body thus improving social health also
+2 Improve efficiency
+3 Understand the various Yoga poses
+4 Know about the regulation of breathings
+5 Know about the types of pranayama
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+CO2
+3
+3
+3
+CO3
+3
+3
+3
+CO4
+3
+3
+CO5
+3
+3
+3
+3
+97
+23CZCMAC28
+ENGLISH FOR RESEARCH PAPER WRITING
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+ Understand that how to improve your writing skills and level of readability
+ Learn about what to write in each section
+ Understand the skills needed when writing a Title
+Planning and Preparation Word Order Breaking up long sentences
+Structuring Paragraphs and Sentences Being Concise and Removing Redundancy
+Avoiding Ambiguity and Vagueness
+Clarifying Who Did What Highlighting Your Findings Hedging and Criticising
+Paraphrasing and Plagiarism Sections of a Paper Abstracts Introduction
+Review of the Literature Methods Results Discussion Conclusions The Final Check
+key skills are needed when writing a Title key skills are needed when writing
+an Abstract
+key skills are needed when writing an Introduction skills needed when writing a
+Review of the Literature
+skills are needed when writing the Methods skills needed when writing the
+Results skills are needed when writing the Discussion skills are needed when writing
+the Conclusions
+useful phrases how to ensure paper is as good as it could possibly be the firsttime submission
+REFERENCES
+1
+2
+3
+4
+Goldbort R Writing for Science Yale University Press available on Google Books 2006
+Day R How to Write and Publish a Scientific Paper Cambridge University Press 2006
+Highman N Handbook of Writing for the Mathematical Sciences SIAM 1998
+Highmansbook  Adrian Wallwork  English for Writing Research Papers Springer
+New YorkDordrecht Heidelberg London 2011
+98
+COURSE OUTCOMES
+At the end of the course Students will be able to
+1 Understand that how to improve your writing skills and level of readability
+2 Learn about what to write in each section
+3 Understand the skills needed when writing a Title
+4 Understand the skills when writing the discussion
+5 Ensure the good quality of paper at very firsttime submission
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+CO2
+3
+3
+3
+CO3
+3
+3
+3
+CO4
+3
+3
+CO5
+3
+3
+99
+3
+3
+23CZCMAC34
+CONSTITUTION OF INDIA
+L
+2
+T
+0
+P
+0
+COURSE OBJECTIVES
+Understand the premises informing the twin themes of liberty and freedom from a
+civil rightsperspective
+To address the growth of Indian opinion regarding modern Indian intellectuals
+constitutional role and entitlement to civil and economic rights as well as the
+emergence of nationhood in the early years of Indian nationalism
+To address the role of socialism in India after the commencement of the
+Bolshevik Revolution in 1917 and its impact on the initial drafting of the Indian
+Constitution
+History of Making of the Indian Constitution History  Drafting Committee
+CompositionWorking  Philosophy of the Indian Constitution Preamble  Salient
+Features
+Contours of Constitutional Rights  Duties Fundamental Rights  Right to Equality
+ Right to Freedom  Right against Exploitation  Right to Freedom of Religion Cultural and EducationalRights  Right to Constitutional Remedies  Directive
+Principles of State Policy  Fundamental Duties
+Organs of Governance Parliament  Composition  Qualifications and
+Disqualifications  Powers and Functions  Executive  President  Governor  Council
+of Ministers  Judiciary  Appointment and Transfer of Judges Qualifications  Powers
+and Functions
+Local Administration Districts Administration head Role and Importance Municipalities Introduction Mayor and role of Elected Representative CEO of
+Municipal Corporation  Pachayati raj Introduction PRI ZilaPachayat  Elected officials
+and their roles CEO ZilaPachayat Position and role  Block level Organizational
+Hierarchy Different departments  Village level Role of Elected and Appointed officials
+ Importance of grass root democracy
+Election Commission Election Commission Role and Functioning  Chief Election
+Commissioner and Election Commissioners  State Election Commission Role and
+Functioning  Institute and Bodies for the welfare of SCSTOBC and women
+REFERENCES
+1 The Constitution of India 1950 Bare Act Government Publication
+2 Dr S N Busi Dr B R Ambedkar framing of Indian Constitution 1st Edition 2015
+3 M P Jain Indian Constitution Law 7th Edn Lexis Nexis 2014
+4 DD Basu Introduction to the Constitution of India Lexis Nexis 2015
+100
+C
+0
+COURSE OUTCOMES
+At the end of the course Students will be able to
+1 Discuss the growth of the demand for civil rights in India for the bulk of Indians
+before the arrival of Gandhi in Indian politics
+2 Discuss the intellectual origins of the framework of argument that informed the
+conceptualization of social reforms leading to revolution in India
+3 Discuss the circumstances surrounding the foundation of the Congress Socialist
+Party CSP under the leadership of Jawaharlal Nehru and the eventual failure of
+the proposal of direct elections through adult suffrage in the Indian Constitution
+4 Discuss the passage of the Hindu Code Bill of 1956
+5 Understand the role of election commission
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+1
+CO2
+3
+3
+1
+CO3
+3
+3
+1
+CO4
+3
+3
+1
+CO5
+3
+3
+1
+101
+2
+2
+2
+2
+3
+3
+3
+3
+3
+23CZCMACXX
+DISASTER MANAGEMENT
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+ Learn to demonstrate a critical understanding of key concepts in disaster risk
+reduction
+andHumanitarian response
+ Critically evaluate disaster risk reduction and humanitarian response policy and
+practice frommultiple perspectives
+ Develop an understanding of standards of humanitarian response and practical
+relevance inspecific types of disasters and conflict situations
+ Critically understand the strengths and weaknesses of disaster management
+approaches planning and programming in different countries particularly their
+home country or thecountries they work
+Repercussions of Disasters And Hazards
+Introduction Disaster Definition Factors And Significance Difference Between
+Hazard And Disaster Natural And Manmade Disasters Difference Nature Types And
+Magnitude
+Economic Damage Loss Of Human And Animal Life Destruction Of Ecosystem
+Natural Disasters Earthquakes Volcanisms Cyclones Tsunamis Floods Droughts
+And Famines Landslides And Avalanches Manmade disaster Nuclear Reactor
+Meltdown Industrial Accidents Oil Slicks And Spills Outbreaks Of Disease And
+Epidemics War And Conflicts
+Disaster Prone Areas In India
+Study Of Seismic Zones Areas Prone To Floods And Droughts Landslides And
+Avalanches Areas Prone To Cyclonic And Coastal Hazards With Special Reference
+To Tsunami PostDisasterDiseases And Epidemics
+Disaster Preparedness and Management
+Preparedness Monitoring Of Phenomena Triggering A Disaster Or Hazard
+Evaluation Of Risk Application Of Remote Sensing Data From Meteorological And
+Other Agencies Media Reports Governmental And Community Preparedness
+Risk Assessment
+Disaster Risk Concept And Elements Disaster Risk Reduction Global And
+National Disaster Risk Situation Techniques of Risk Assessment Global CoOperation In Risk Assessment and Warning Peoples Participation in Risk Assessment
+Strategies for Survival
+Disaster Mitigation
+Meaning Concept and Strategies of Disaster Mitigation Emerging Trends In Mitigation
+Structural Mitigation and NonStructural Mitigation Programs Of Disaster Mitigation in India
+102
+REFERENCES
+1 R Nishith Singh AK Disaster Management in India Perspectives issues and
+strategies New Royal book Company
+2 Sahni Pardeep EtAl Eds Disaster Mitigation Experiences And
+Reflections Prentice Hall Of India New Delhi
+3 Goel S L Disaster Administration And Management Text And Case Studies
+Deep DeepPublication Pvt Ltd New Delhi
+OURSE OUTCOMES
+At the end of the course Students will be able to
+1 Demonstrate a critical understanding of key concepts in disaster risk reduction
+and humanitarian response
+2 Evaluate disaster risk reduction and humanitarian response policy and practice
+from multipleperspectives
+3 Understand the standards of humanitarian response and practical relevance in
+specific typesof disasters and conflict situations
+4 Understand the strengths of disaster management approaches planning and
+programming in different countries particularly their home country or the countries
+they work in
+5 Understand the weaknesses of disaster management approaches planning
+and programming in different countries particularly their home country or the
+countries they workin
+Mapping of COs with
+POs
+Mapping with PSOs
+PO1
+PO2
+CO1
+3
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+3
+3
+3
+3
+3
+3
+3
+2
+CO2
+3
+3
+3
+3
+3
+3
+3
+3
+2
+CO3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+CO4
+3
+3
+3
+3
+3
+3
+3
+3
+2
+CO5
+3
+3
+3
+3
+3
+3
+3
+3
+2
+103
+2
+2
+2
+2
+3
+3
+3
+3
+3
+23CZCMACXX
+SANSKRIT FOR TECHNICAL KNOWLEDGE
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+ To get a working knowledge in illustrious Sanskrit the scientific language in the world
+ Learning of Sanskrit to improve brain functioning
+ Learning of Sanskrit to develop the logic in mathematics science  other subjects
+enhancingthe memory power
+ The engineering scholars equipped with Sanskrit will be able to explore the huge
+knowledgefrom ancient literature
+Alphabets in Sanskrit  PastPresentFuture Tense  Simple Sentences Order
+Introduction of roots
+Technical information about Sanskrit Literature
+Technical concepts of EngineeringElectrical Mechanical Architecture Mathematics
+REFERENCES
+1 Abhyaspustakam  DrVishwas SamskritaBharti Publication New Delhi
+2 Teach Yourself Sanskrit PrathamaDeekshaVempati
+Kutumb
+shastri RashtriyaSanskritSansthanam New Delhi Publication
+3 Indias Glorious Scientific Tradition Suresh Soni Ocean books P Ltd New Delhi
+104
+COURSE OUTCOMES
+At the end of the course Students will be able to
+1 Understanding basic Sanskrit language
+2 Ancient Sanskrit literature about science  technology can be understood
+3 Being a logical language will help to develop logic in students
+4 Understand the technical information about Sanskrit Literature
+5 Understand the Technical concepts of other language
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+CO2
+3
+3
+CO3
+3
+3
+CO4
+3
+3
+CO5
+3
+3
+105
+2
+2
+2
+2
+3
+3
+3
+3
+3
+23CZCMACXX
+L
+2
+VALUE EDUCATION
+T
+0
+P
+0
+C
+0
+COURSE OBJECTIVES
+ Understand value of education and self development
+ Imbibe good values in students
+ Let the should know about the importance of character
+Values and selfdevelopment Social values and individual attitudes  Work ethics
+Indian vision of humanism  Moral and non moral valuation  Standards and principles Value judgments
+Importance of cultivation of values  Sense of duty Devotion Selfreliance Confidence
+Concentration  Truthfulness  Cleanliness Honesty Humanity  Power of faith
+National Unity Patriotism  Love for nature  Discipline
+Personality and Behavior Development  Soul and Scientific attitude  Positive
+Thinking Integrity and discipline Punctuality Love and Kindness  Avoid fault Thinking
+ Free from anger Dignity of labour  Universal brotherhood and religious tolerance True friendship  Happiness Vs suffering love for truth  Aware of selfdestructive habits Association and Cooperation  Doing best for savingnature
+Character and Competence Holy books vs Blind faith  Selfmanagement and Good
+health  Science of reincarnation  Equality Nonviolence Humility Role of Women  All
+religions and same message  Mind your Mind Selfcontrol  Honesty Studying effectively
+REFERENCES
+1 Chakroborty SK Values and Ethics for organizations Theory and practice
+Oxford University Press New Delhi
+COURSE OUTCOMES
+At the end of the course Students will be able to
+1 Knowledge of selfdevelopment
+2 Learn the importance of Human values
+3 Developing the overall personality
+4 Understand the selfdestructive habits
+5 Know about the selfmanagement and good health
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+2
+CO2
+3
+3
+3
+2
+CO3
+3
+3
+3
+2
+CO4
+3
+3
+3
+2
+CO5
+3
+3
+3
+2
+106
+2
+2
+2
+2
+3
+3
+3
+3
+3
+23CZCMACXX
+PEDAGOGY STUDIES
+L
+2
+T
+0
+P
+0
+C
+0
+COURSE OBJECTIVES
+Review existing evidence on the review topic to inform programme design and
+policy makingundertaken by the DfID other agencies and researchers
+Identify critical evidence gaps to guide the development Syllabus Units Content Hours 
+Introduction and Methodology Aims and rationale Policy background
+Conceptual framework and terminology  Theories of learning Curriculum
+Teacher education  Conceptual framework Research questions  Overview of
+methodology and Searching
+Thematic overview Pedagogical practices are being used by teachers in formal
+and informal classrooms in developing countries  Curriculum Teacher education
+Evidence on the effectiveness of pedagogical practices  Methodology for the in
+depth stage quality assessment of included studies How can teacher education
+curriculum and practicum and the school curriculum and guidance materials best
+support effective pedagogy Theory of change  Strength and nature of the body of
+evidence for effective pedagogical practices  Pedagogic theory and pedagogical
+approaches  Teachers attitudes and beliefs and Pedagogic strategies
+Professional development alignment with classroom practices and followup
+support  Peer support  Support from the head teacher and the community Curriculum and assessment  Barriers to learning limited resources and large class
+sizes
+Research gaps and future directions  Research design  Contexts  Pedagogy Teacher education  Curriculum and assessment  Dissemination and research
+impact
+REFERENCES
+1 Ackers J Hardman F 2001 Classroom interaction in Kenyan primary schools
+Compare 31 2 245261
+2 Agrawal M 2004 Curricular reform in schools The importance of evaluation
+Journal of Curriculum Studies 36 3 361379
+3 Akyeampong K 2003 Teacher training in Ghana  does it count Multisite
+teacher education research project MUSTER country report 1 London DFID
+4 Akyeampong K Lussier K Pryor J Westbrook J 2013 Improving teaching and
+learning of basic maths and reading in Africa Does teacher preparation count
+International Journal Educational Development 33 3 272282
+5 Alexander RJ 2001 Culture and pedagogy International comparisons in primary
+educationOxford and Boston Blackwell
+6 Chavan M 2003 Read India A mass scale rapid learning to read campaign
+7 wwwprathamorgimagesresource20working20paper202pdf
+107
+COURSE OUTCOMES
+At the end of the course Students will be able to understand
+1 Pedagogical practices being used by teachers in formal and informal
+classrooms in developing countries
+2 Evidence on the effectiveness of these pedagogical practices
+3 Teacher education curriculum and practicum and the school curriculum and
+guidance materials that best support effective pedagogy
+4 The barriers to learning
+5 The research gaps and future directions
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+CO2
+3
+3
+CO3
+3
+3
+CO4
+3
+3
+CO5
+3
+3
+108
+2
+2
+2
+2
+3
+3
+3
+3
+3
+23CZCMACXX
+PERSONALITY DEVELOPMENT THROUGH LIFE
+ENLIGHTENMENT SKILLS
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+To learn to achieve the highest goal happily
+To become a person with stable mind pleasing personality and determination
+NeetisatakamHolistic development of personality  Verses 19202122
+wisdom  Verses 293132 pride  heroism  Verses 26286365 virtue Verses 525359 donts  Verses 71737578 dos
+Approach to day to day work and duties ShrimadBhagwadGeeta Chapter
+2Verses 41 4748  Chapter 3Verses 13 21 27 35 Chapter 6Verses 51317 23
+35  Chapter 18Verses 45
+46 48
+Statements of basic knowledge Shrimad Bhagwad Geeta Chapter2Verses
+56 62 68  Chapter 12 Verses 13 14 15 1617 18  Personality of Role model
+ShrimadBhagwadGeeta
+Chapter2Verses 17 Chapter 3Verses 363742  Chapter 4Verses 18
+3839
+Chapter18  Verses 373863
+REFERENCES
+1 Srimad Bhagavad Gita by Swami Swarupananda Advaita Ashram Publication
+DepartmentKolkata
+2 Bhartriharis Three Satakam Nitisringarvairagya by PGopinath Rashtriya
+Sanskrit Sansthanam New Delhi
+COURSE OUTCOMES
+109
+At the end of the course Students will be able to
+1 Study of ShrimadBhagwadGeeta will help the student in developing his
+personality and achieve the highest goal in life
+2 The person who has studied Geeta will lead the nation and mankind to peace and
+prosperity
+3 Study of Neetishatakam will help in developing versatile personality of students
+4 Understand the ability to do day to day duty and work
+5 Study of Neetishatakam will help in developing rise himself in society
+Mapping of COs with
+POs
+PO1
+PO2
+Mapping with PSOs
+PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PSO1 PSO2 PSO3 PSO4
+CO1
+3
+3
+3
+3
+CO2
+3
+3
+3
+3
+CO3
+3
+3
+3
+3
+CO4
+3
+3
+3
+3
+CO5
+3
+3
+3
+3
+110
+2
+2
+2
+2
+3
+3
+3
+3
+3

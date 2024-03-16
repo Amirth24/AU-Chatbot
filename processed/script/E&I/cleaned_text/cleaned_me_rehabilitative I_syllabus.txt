@@ -1,0 +1,2892 @@
+7
+To foster higher quality of education with equivocal focus in theory and practical
+areas of Electronics Control and Instrumentation Engineering Biomedical
+Engineering and Microelectronics and MEMS
+To ensure that the dissemination of knowledge reaches the stakeholders and
+forge the opening of a fresh flair of human resources
+To create opportunities for advancements in different facets of this discipline
+and offer avenues to reach the citadels of ones career
+PROGRAMME EDUCATIONAL OBJECTIVES PEO
+The major objectives of the ME Rehabilitative Instrumentation programme are
+to implement Science and Engineering principles in the broad area of medical
+instrumentation to improve healthcare delivery to human in association with
+physicians and surgeons and prepare them for
+Comprehend the fundamental concepts in Bio Medical Engineering
+Apply knowledge of Engineering biology and Biomechanical principles to the
+design development and evaluation of various medical devices for cost effective
+diagnosis and treatment of various ailments
+To help the society and specifically the physically challenged person for their
+comfortable life style
+PROGRAMME OUTCOMES PO
+A student who has undergone the ME Rehabilitative Instrumentation program
+would have acquired abilities to
+1 Possess a good knowledge of basic science including medicine
+mathematics  Engineering required for specific topics in Rehabilitation
+Engineering
+2 Have skill to use of different types of sensors and measurement of various
+physiological parameters
+3 Possess ability to provide effective solutions through data interpretation
+design  implementation as applicable to a given topicscenario
+4 Able to identify the latest tools hardware or softwareprogram or
+materials available towards an effective biomedical solution to a given
+problem
+5 Understand the current healthcare necessities  the associated
+multidisciplinary environment and sustainability and an ability to provide
+appropriate engineeringsolutions especially for Physically Challenged
+persons
+6 Able to take leadership in investigating complex healthcare problems by
+putting together a cohesive multidisciplinary team
+7 Able to understand about various imaging modalities used in the Hospitals
+8 Learn some of the latest techniques that can be applied to research
+9 Focuss the experience through Hospital training and projects in one or more
+areas of advanced research
+8
+MAPPING OF PEO WITH PO
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+PEO1 
+PEO2 
+PEO3 
+ME REHABILITATIVE INSTRUMENTATION FULLTIME
+COURSES OF STUDY AND SCHEME OF EXAMINATIONS REGULATION  2019
+SEMESTER I
+Course Code
+Category
+19EIRIPC11
+PC
+19EIRIPC12
+L
+T
+P
+CA
+FE Total Credits
+Medical Physiology
+3
+25
+75 100
+3
+PC
+Impairment Engineering
+3
+25
+75
+100
+3
+19EIRIPE13
+PE
+Professional ElectiveI
+3
+25
+75 100
+3
+19EIRIPE14
+PE
+Professional ElectiveII
+3
+25
+75 100
+3
+MC
+19EIRIMC15
+Course
+Research Methodology and IPR
+2
+25
+75 100
+2
+19EIRICP16
+CP
+Biosignal and Image Processing Lab
+3
+40
+60 100
+2
+19EIRICP17
+CP
+Biosensors and Transducers Lab
+3
+40
+60 100
+2
+19EIRIAC18
+AC
+Audit CourseI
+2
+0
+Total
+205 495 700
+18
+L
+T
+P
+CA
+FE Total Credits
+SEMESTER II
+Course
+Code
+Category
+19EIRIPC21
+PC
+Modelling and Control of Biological
+Systems
+3
+25
+75 100
+3
+19EIRIPC22
+PC
+Artificial Organ Systems
+3
+25
+75 100
+3
+19EIRIPE23
+PE
+Professional ElectiveIII
+3
+25
+75 100
+3
+19EIRIPE24
+PE
+Professional ElectiveIV
+3
+25
+75 100
+3
+19EIRIOE25
+OE
+Open Elective I
+3
+25
+75 100
+3
+19EIRICP26
+CP
+Bio Instrumentation Lab
+3
+40
+60 100
+2
+19EIRITS27
+TS
+Industrial Training  Seminar
+Tr
+S
+40
+60 100
+2
+2
+2
+19EIRIAC28
+AC
+Course
+Audit CourseII
+2
+Total
+0
+205 495 700
+19
+SEMESTER III
+Course Code
+Category
+19EIRIPE31
+PE
+19EIRIOE32
+19EIRIPV33
+Course
+L
+T
+P
+CA
+FE Total Credits
+Professional ElectiveV
+3
+25
+75
+100
+3
+OE
+Open Elective II
+3
+25
+75
+100
+3
+PVI
+Project work  Vivavoce
+PhaseI
+40
+60
+100
+10
+90
+210
+300
+16
+Pr
+S
+16
+4
+Total
+9
+SEMESTER IV
+Course
+Code
+Category
+Course
+19EIRIPV41
+PVII
+Project work  Vivavoce PhaseII
+L
+T
+P
+Pr
+S
+24
+6
+Total
+CA
+FE
+Total
+Credits
+40
+60
+100
+15
+40
+60
+100
+15
+Note   Four weeks during the summer vacation at the end of IInd Semester
+L Lecture  P Practical T Tutorial CA Continuous Assessment FE Final
+Examination Tr Training S Seminar Pr Project work
+PC Programme Core
+CP Core Practical
+AC
+Audit Course
+PE Professional Elective
+OE Open Elective
+TS Industrial Training and Seminar
+MC Mandatory Learning Course
+PV
+EI
+RI
+Project work  Vivavoce
+Branch code
+ME Specialization Code
+ME REHABILITATIVE INSTRUMENTATION PARTTIME
+COURSES OF STUDY AND SCHEME OF EXAMINATIONS REGULATION  2019
+SEMESTER I
+Course
+L
+T
+P
+CA
+Equivalent
+FE Total Credits course Code in
+ME FullTime
+PC
+Medical
+Physiology
+3
+25
+75
+100
+3
+19EIRIPC11
+19PEIRIPC12
+PC
+Impairment
+Engineering
+3
+25
+75
+100
+3
+19EIRIPC12
+19PEIRIMC13
+MC
+Research
+Methodology
+and IPR
+2
+25
+75
+100
+2
+19EIRIMC15
+Biosignal and
+Image
+Processing Lab
+3
+40
+60
+100
+2
+19EIRICP16
+115 285 400
+10
+Course Code
+Category
+19PEIRIPC11
+19PEIRICP14
+CP
+Total
+SEMESTER II
+Equivalent
+Course Code
+Category
+Course
+L
+T
+P
+CA
+FE Total Credits course Code in
+ME FullTime
+19PEIRIPC21
+PC
+Modelling and
+Control of
+Biological
+Systems
+3
+25
+75
+100
+3
+19EIRIPC21
+19PEIRIPC22
+PC
+Artificial Organ
+Systems
+3
+25
+75
+100
+3
+19EIRIPC22
+19PEIRIOE23
+OE
+Open Elective
+3
+25
+75
+100
+3
+19EIRIOE25
+19PEIRICP24
+CP
+Bio
+Instrumentation
+Lab
+3
+40
+60
+100
+2
+19EIRICP26
+115
+285 400
+11
+Total
+10
+SEMESTER III
+Course
+L
+T
+P
+CA
+Equivalent
+FE Total Credits course Code in
+ME FullTime
+PE
+Professional
+ElectiveI
+3
+25
+75
+100
+3
+19EIRIPE13
+19PEIRIPE32
+PE
+Professional
+ElectiveII
+3
+25
+75
+100
+3
+19EIRIPE14
+19PEIRICP33
+CP
+Biosensors and
+Transducers Lab
+3
+40
+60
+100
+2
+19EIRICP17
+90
+210 300
+8
+Course Code
+Category
+19PEIRIPE31
+Total
+SEMESTER IV
+Course Code
+Category
+19PEIRIPE41
+PE
+19PEIRIPE42
+PE
+19PEIRITS43
+TS
+Course
+Professional
+ElectiveIII
+Professional
+ElectiveIV
+Industrial
+Training 
+Seminar
+L
+T
+P
+CA
+Equivalent
+course
+Code in
+FE Total Credits
+ME FullTime
+3
+25
+75
+100
+3
+19EIRIPE23
+3
+25
+75
+100
+3
+19EIRIPE24
+Tr
+S
+2
+2
+40
+60
+100
+2
+19EIRITS27
+90
+210 300
+8
+Total
+SEMESTER V
+Course Code
+Category
+Course
+L
+T
+P
+CA
+Equivalent
+FE Total Credits course Code in
+ME FullTime
+19PEIRIPE51
+PE
+Professional
+ElectiveV
+3
+25
+75
+100
+3
+19PEIRIOE52
+OE
+Open Elective 
+II
+3
+25
+75
+100
+3
+S
+PVI
+Project work 
+Vivavoce
+PhaseI
+Pr
+19PEIRIPV53
+16
+4
+40
+60
+100
+10
+90
+210 300
+16
+CA
+Equivalent
+FE Total Credits course Code in
+ME FullTime
+40
+60
+Total
+19EIRIPE31
+19EIRIOE32
+19EIRIPV33
+SEMESTER VI
+Course Code
+Category
+Course
+L
+19PEIRIPV61
+PVII
+Project work 
+Vivavoce
+PhaseII
+T
+P
+Pr
+S
+24
+6
+Total
+100
+15
+15
+19EIRIPV41
+11
+LIST OF ELECTIVES
+SNo
+Professional Electives
+1
+Medical Image Processing
+2
+Medical Diagnostic Instrumentation
+3
+Computational Neuro Engineering
+4
+Computational Methods and Cancer Modelling
+5
+Biosignal Processing
+6
+Transportation in Living Systems
+7
+Cancer Biology
+8
+Computational Methods and Bone Modelling
+9
+Medical Imaging Systems and Radio Theraphy
+10
+Wavelet Transforms and its applications
+11
+Bioinformatics
+12
+Medical Ethics and Standards
+SNo
+Open Electives
+1
+Computers in Medicine
+2
+Tissue and Stem Cell Engineering
+3
+Radiological Equipments
+4
+Sports medicine
+5
+Computational Bioengineering
+6
+Healthcare Systems
+7
+Telemedicine
+8
+Modeling of Physiological Systems
+9
+Biomechanics
+10
+Troubleshooting of Medical Equipments
+11
+Design of Medical Equipments
+LIST OF AUDIT COURSES FOR ME FULLTIME
+SNo
+Audit Courses
+1
+English for Research paper writing
+2
+Disaster Management
+3
+Sanskrit for Technical Knowledge
+4
+Value Education
+5
+Constitution of India
+6
+Pedagogy Studies
+7
+Stress Management by Yoga
+8
+Personality Development through life Enlightenment Skills
+12
+SYLLABUS
+19EIRIPC11  19PEIRIPC11
+MEDICAL PHYSIOLOGY
+L
+T P C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To understand basics of Human Anatomy and Physiology
+To understand different physiological processes taking place inside human
+body
+To impart knowledge on cell divisions blood vascular system
+ductlessendocrine glands digestive system and nervous system and familiarize
+medical physiology to the students
+To apply this knowledge into biomedical engineering field
+Cell divisions and development of human body Cell structure  functions
+Tissues Types of tissues epithelial  connective muscle and nervous
+Classification of epithelial and connective tissues with their locations Muscular
+architecture Structure of skeletal smooth and cardiac muscles  differences
+Single unit and multi  unit smooth muscle  properties of muscle  muscle
+contraction sterling laws  mechanisms  E C coupling  muscle fatigue  rigor
+mortis  sliding filament theory  slow and fast muscle fibres  isotonic and
+isometric contraction
+Blood Vascular System Composition and functions of blood coagulation 
+actionof platelets functions mechanisms Hemoglobin functions  compounds and
+derivatives Erythrocyte Sedimentation Rate ESR  significance Blood coagulation
+ factors  process  anticoagulants  prothrombin time  clotting time  bleeding
+time  blood groups  ABO systems and Rh factors  Ultra structure and functions
+of blood vessels artery and vein
+Ductlessendocrine glands various ductless glands pituitary glands 
+hypothalamus and adenohypohysis Hormone secretion  actions of hormone and
+related applied physiology  thyroid gland  histology  blood and hormone
+secretion  action of hormone  Parathyroid gland and adrenal gland
+Digestive System Anatomy  histology of gastro intestinal tract  oral cavity
+mouth  teeth  salivary glands  structure composition and functions of saliva
+Circulatory system Anatomy  functions  heart valves  heart rhythm 
+conducting system of heart  blood supply  properties of cardiac muscles  action
+potential of single cardiac fiber  special junctionaltissue of heart  myogenic and
+neurogenic heart  conducting system of heart  ECG
+Nervous system Anatomy  classification  structure of a typical neuron 
+synapse  synaptic transmission neuro transmitter Central Nervous System CNS
+ anatomy of brain and its sub divisions Functions of brain  central canal of the
+spinal cord  thalamus and hypothalamus  spinal cord and transverse section
+effects Peripheral nervous system  classifications of motor nerves  description 
+voluntary and involuntary action  Autonomic nervous system  classifications 
+13
+functions Neural Transmission Introduction  sympathetic and parasympathetic
+responseCNS synaptic electrical and chemical transmissions Neuro muscular
+Junction Structure  events in transmission  end  plate potential  post tetanic
+potential
+REFERENCES
+1 Arthur C Guyton and John E Hall Text book of Medical Physiology Saunders
+Elsevier NJ 11th Edition 2005
+2 BG King WJ Showers Human Anatomy  Physiology WBSaunders Co
+NY 6th edition 1969
+3 Ross and Wilson Anatomy and Physiology in health and illness Churchill
+Living Stone 11th edition 2010
+COURSE OUTCOMES
+By successfully completing this course students will be able to
+1 Describe and explain specific parts and key terms applied in anatomy and
+physiology
+2 Describe important physiological mechanisms involved in cell tissue and
+organ
+3 Understand organisation and functions of each organs and systems in
+human body
+4 Correlate the knowledge of medicine and engineering for the development of
+various instruments
+5 Understand the diseases associated with various parts of the body
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIPC12  19PEIRIPC12
+IMPAIRMENT ENGINEERING
+L T P C
+3 0 0
+3
+COURSE OBJECTIVES
+To impart knowledge on impairment sensory and auditory rehabilitation
+orthopaedic prosthetics and orthotics in rehabilitation
+To study basics of Rehabilitation Engineering
+To study various orthotic  prosthetic devices
+To understand various assistive technology for vision  hearing
+Impairment Introduction  impairment types  handicaps  measurements 
+assessment and characterization concepts in sensory and motor rehabilitation
+14
+Anthropometry Static and dynamic Measurements
+measurement of Muscular Strength and Capabilities
+Area
+movement
+Measurement tools and processes Fundamental principles  structure 
+functioning  performance and behaviour  Subjective and objective Ergonomic
+aspects in designating devices Design of information devices  traditional Devices 
+VDU s Using colour and Control designs
+Sensory and Auditory rehabilitation Sensory augmentation and substitution
+Visual system Visual augmentation  tactual vision substitution and Auditory
+vision substitution Auditory system Auditory augmentation  Audiometer 
+Hearing aids  cochlear implantation  visual auditory substitution  tactual
+auditory substitution Tactual system Tactual augmentation and substitution
+Orthopedic Prosthetics and Orthotics in rehabilitation Motor rehabilitation
+Introduction  concepts  applications Intelligent prosthetic knee  hierarchically
+controlled prosthetic hand  self  aligning orthotic knee joint Externally powered
+and controlled Orthotics and Prosthetics FES systems  restoration of hand
+function standing and walking  Hybrid Assistive Systems HAS Active
+Prostheses Active above knee prostheses  myoelectric hand and arm prostheses 
+different types The MARCUS intelligent Hand prostheses
+Computer applications in Rehabilitation and Robotic Manipulation Aids
+Modes of operation and control  interfaces in compensation for visual perception 
+improvement of orientation and mobility Computer assisted lipreading  Brain
+computer interface  concepts
+REFERENCES
+1 Joseph D Bronzino Handbook of biomedical engineering CRC Press
+3rd edition 2006
+2 Robinson CJ Rehabilitation engineering CRC press 2003
+3 Horia  Nicolai L Teodorescu LC Jain Intelligent systems and technologies in
+rehabilitation engineering CRC Press December 2000
+4 Etienne Grandjean Harold Oldroyd Fitting the task to the man London Taylor
+ Francis 4th edition 1988
+COURSE OUTCOMES
+By the end of this course the student will be able
+1 To design rehabilitation aid and apply them with confidence to help the
+challenged people
+2 To build foundation for learners enabling the learners to pursue higher studies
+with specialization in Rehabilitation Engineering
+3 To design rehabilitation aids and its understanding
+4 To have a thorough understanding of aids which can be useful with the societal
+needs
+5 To apply and test the developed products and automate it
+15
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIMC15
+19PEIRIMC 13
+RESEARCH METHODOLOGY AND IPR
+L T P C
+2
+0
+0
+2
+COURSE OBJECTIVES
+To understand the research problem formulation and analyze research related
+information
+Research Problem Meaning of research problem Sources of research problem
+Criteria Characteristics of a good research problem Errors in selecting a research
+problem Scope and objectives of research problem Approaches of investigation of
+solutions for research problem data collection analysis interpretation Necessary
+instrumentations
+Effective literature studies Approaches analysis Plagiarism Research ethics
+Effective technical writing How to write report Paper Developing a Research
+Proposal Format of research proposal a presentation and assessment by a review
+committee
+Nature of Intellectual Property Patents Designs Trade and Copyright
+Process of Patenting and Development technological research innovation
+patenting development International Scenario International cooperation on
+Intellectual Property Procedure for grants of patents Patenting under PCT
+Patent Rights Scope of Patent Rights Licensing and transfer of technology
+Patent information and databases Geographical Indications
+New Developments in IPR Administration of Patent System New
+developments in IPR IPR of Biological Systems Computer Software etc Traditional
+knowledge Case Studies IPR and IITs
+References
+1 Stuart Melville and Wayne Goddard Research methodology an introduction for
+science  engineering students
+2 Wayne Goddard and Stuart Melville Research Methodology An Introduction
+Ranjit Kumar 2 nd Edition  Research Methodology A Step by Step Guide for
+beginners
+3 Halbert Resisting Intellectual Property Taylor  Francis Ltd 2007
+4 Mayall  Industrial Design McGraw Hill 1992
+5 Niebel  Product Design McGraw Hill 1974
+6 Asimov  Introduction to Design Prentice Hall 1962
+16
+7 Robert P Merges Peter S Menell Mark A Lemley  Intellectual Property in New
+Technological Age 2016
+8 T Ramappa Intellectual Property Rights Under WTO S Chand 2008
+Course Outcomes At the end of this course students will be able to
+Understand research problem formulation
+Analyze research related information
+Follow research ethics
+Understand that todays world is controlled by Computer Information
+Technology but tomorrow world will be ruled by ideas concept and
+creativity
+Understanding that when IPR would take such important place in growth
+of individuals  nation it is needless to emphasis the need of
+information about Intellectual Property Right to be promoted among
+students in general  engineering in particular
+Understand that IPR protection provides an incentive to inventors for
+further research work and investment in R  D which leads to creation
+of new and better products and in turn brings about economic growth
+and social benefits
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11
+CO1 
+CO2 
+CO3
+CO4
+CO5
+19EIRICP16 
+19PEIRICP14
+BIOSIGNAL AND IMAGE PROCESSING LAB
+LIST OF EXPERIMENTS
+1 Representation of basic signals
+2 Linear convolution
+3 Autocorrelation and cross correlation
+4 Development of FFT and IFFT Techniques
+5 Difference equation Representation of systems using Matlab
+6 Digital IIR Butterworth filter  LPF  HPF
+7 Digital IIR chebychev filter  LPF  HPF
+8 Design of FIR filter using windowing technique
+9 Upsampling and downsampling of Biosignals
+10 Analysis of ECG
+11 Analysis of EEG
+L
+T
+P
+C
+0
+0
+3
+2
+17
+12 Analysis of PCG
+19EIRICP17  19PEIRICP33
+BIOSENSORS AND TRANSDUCERS LAB
+L T P C
+0 0 3 2
+LIST OF EXPERIMENTS
+1 Temperature measurement using AD590 IC sensor
+2 Displacement measurement by using a capacitive transducer
+3 Study of the characteristics of a LDR
+4 Pressure and displacement measurement by using LVDT
+5 Study of a load cell with tensile and compressive load
+6 Torque measurement Strain gauge transducer
+7 Study  characterization of Biotransducers  Pressure Temparature Humidity
+8 Study  characterization of Bioelectrodes  ECG EMG EEG
+9 Study  characterization of Biotransducers  Tactile Respiration eyeball
+movement
+10 Study of Giat Analysis
+19EIRIPC21  19PEIRIPC21
+MODELLING AND CONTROL OF
+BIOLOGICAL SYSTEMS
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To gain basic knowledge about the concepts of control systems and study its
+application in physiological modeling
+To understand the system concepts and different mathematical modelling
+techniques applied in analyzing any given system
+To understand basic concepts of modeling for designing biological model
+To train and motivate students for pursuing higher education and research for
+developing cutting edge technologies
+Feedback system Basic feedback concepts  effect of feedback on noise 
+distortion analysis  open loop control system  control system with feed Back
+Mathematical descriptions of systems transfer function matriXstate space
+representation  state  variable description  mathematical description of
+composite systems Solution of dynamical equation state transition matriX
+impulse response matriXcontrollability and observability
+Biological control system Introduction  dynamical systems  modelling 
+similarities between biological and engineering control system  biological receptors
+and receptor characteristicsThe pupil control systemsGeneral structure  dynamic
+response characteristics  open and closed loop instability  automatic aperture
+control
+Human thermal system Basic concepts  modelling  thermo regulation  cold
+and warm bloodedness  lumped and partial differential equations Case Study
+Heat transfer example Modeling the body as compartment behavior in simple
+18
+compartmental system  pharmaco kinetic model  urea distribution model Multi
+compartmental system Dissolution of drugs in solid form  distribution and
+accessibility of body water and tissue compartments  basis for zero and first order
+chemical kinetic behavior in the biological system
+Modeling of human thermal regulatory system Parameters involved  control
+system model  biochemistry of digestion  types of heat loss from body  heat
+transfer models  subsystems of human body like skin core
+Case Study Applications Cardiac rate  blood pressure  respiratory rate 
+mass balancing of lungs  oxygen uptake by RBC and pulmonary capillaries 
+oxygen and carbon dioxide transport in blood and tissues
+REFERENCES
+1 Benjamin C Kuo FaridGolnaraghi Automatic Control Systems John Wiley 
+Sons Inc NY 9th edition 2009
+2 MGopal Digital Control and State Variable Analysis Tata McGraw Hill 2008
+3 David O Cooney Biomedical Engineering Principles  An introduction to Fluid
+Heat and Mass transport processes CRC Press 1976
+4 John H Milsum Biological Control Systems McGraw Hill 1966
+5 Howard T Milhorn The application of control theory to physiological systems
+Saunders Philadelphia 1966
+6 E Carson E Salzsieder Modelling and Control in Biomedical Systems 2000
+including Biological Systems IFAC Proceedings Volumes Paperback
+Pergamon Publishing January 2001
+COURSE OUTCOMES
+Students will be able to
+1 Understand the concepts of modeling
+2 Design control strategies for various organ functioning
+3 Analyse the causes for malfunctioning of organs
+4 Analyse and do research in the micro level for diagnosing the diseases
+5 Theoritically diagnose the kind of diseases for their understanding from the
+case studies
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19
+19EIRIPC22  19PEIRIPC22
+ARTIFICIAL ORGAN SYSTEM
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To understand the principles and biology underlying the design of implants and
+artificial organs
+To understand the fundamentals of materials used for manufacturing implants
+prosthesis and orthoses that has wide application in healthcare industry
+Bio materials Definition of biomaterials  Requirements of biomaterials 
+classification of biomaterials  Comparison of properties of some common
+biomaterials  Effects of physiological fluid on the properties of biomaterials 
+Biological responses extra and intra  vascular system Surface properties of
+materials  physical properties of materials  mechanical properties  Biomaterial
+outlook for organ transplant design considerations
+Introduction to artificial organs Biomaterials used in artificial organs and
+prostheses  inflammation rejection correction Rheological properties of blood 
+blood viscosity variation  effect of shear rate  hematocrit  temperature and
+protein contents  Casson equation  flow properties of blood through the blood
+vessels  problems associated with extracorporeal blood flow
+Artificial Heart and circulatory assist devices Engineering design of artificial
+heart and circulatory assist devices Artificial kidney Structure  function 
+filtration  basic methods of artificial waste removal  hemo dialysis  equation for
+artificial kidney  middle molecule hypothesis Hemo dialysers flat plate type  coil
+type  hollow fiber  analysis of mass transfer in dialysers  regeneration of
+dialysate  membrane configuration  wearable artificial kidney machine 
+separation of antigens from blood in ESRD patients
+Artificial heart  lung machine Introduction  gaseous exchange  transport 
+artificial heart  lung devices Oxygenators bubble film oxygenators and
+membrane oxygenators  gas flow rate and area for membrane oxygenators Liver
+support system  artificial pancreas  blood  skin
+Audiometry air conduction  bone conduction  masking  diagram Hearing
+aids Types  receiver amplifiers  opthalmoscope  retinoscope  IABP principle
+and application Rehabilitation Engineering Rehabs for locomotion visual speech
+and hearing  artificial limb and hands  prosthetic heart valves  gait study 
+spinal rehabilitation
+REFERENCES
+1 Joseph D Bronzino The Biomedical Engineering Handbook CRC Press 2000
+2 Khandpur R S Hand Book of Biomedical Instrumentation Tata McGraw Hill
+Pub Co Ltd New Delhi 2nd ed 2003
+3 ErieDBlom and HowardBRothman Artificial Organs 1994
+4 David O Cooney Biomedical Engineering Principles Volume  II Marcel Dekker
+Inc New York 1976
+20
+5 Rory A Cooper
+Rehabiliation
+HisaichiOnabe
+Douglas
+A
+Hobson
+Introduction
+to
+6 Engineering CRC press 2006
+7 EBallabio Rehabilitation Engineering IOS press 1993
+COURSE OUTCOMES
+Student will be able to
+1 Understand the concept of biocompatibility and the methods of biomaterial
+testing
+2 Awareness about the testing of the biomaterials done biologically before
+implantation in the human body
+3 Gain knowledge in the existing designs of artificial organs
+4 Understanding the applications of the organs implants
+5 Develop additional features in the exsisting instruments
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRICP26  19PEIRICP24
+BIO INSTRUMENTATION LAB
+L T P C
+0 0 3 2
+LIST OF EXPERIMENTS
+1 Respiratory system analysis using Spirometer
+2 ECG wave analysis using simulator
+3 Real time patient monitoring system
+4 12  lead ECG measurement System
+5 EMG Biofeedback with NCV
+6 EMG Measurement system
+7 Auditory system check up using Audiometer
+8 ECG heart rate system with HRV
+9 Heart sound measurement using PCG
+10 Measurement of BP Pulse and SPO2
+11 Measurement of Giat Analysis
+12 Design of Medical Amplifier
+19EIRITS27  19PEIRITS43
+INDUSTRIAL TRAINING  SEMINAR
+L T PC
+0 2 2 2
+COURSE OBJECTIVES
+To train the students in the field work related to Rehabilitative Instrumentation
+and to have a practical knowledge in carrying out Rehabilitative
+Instrumentation field related works
+21
+To train and develop skills in solving problems during execution of certain
+works related to Rehabilitative Instrumentation
+The students individually undergo a training program in reputed concerns in
+the field of Rehabilitative Instrumentation during the summer vacation at the end
+of second semester for fulltimefourth semester for parttime for a minimum
+stipulated period of four weeks At the end of the training the student has to
+submit a detailed report on the training they had within ten days from the
+commencement of the third semester for Fulltimefifth semester for parttime
+The students will be evaluated by a team of staff members nominated by head of
+the department through a vivavoce examination
+COURSE OUTCOMES
+1 The students can face the challenges in the practice with confidence
+2 The student will be benefited by the training with managing the situation arises
+during the execution of works related to Rehabilitative Instrumentation
+19EIRIPV33  19PEIRIPV53
+PROJECT WORK AND VIVAVOCE PHASE  I
+L T P C
+0 16 4 10
+COURSE OBJECTIVES
+To develop the ability to solve a specific problem right from its identification and
+literature review till the successful solution of the same
+To train the students in preparing project reports and to face reviews and viva
+voce examination
+COURSE OUTCOMES
+Upon completion of this course the students will be able to
+1 Take up any challenging practical problems and find solution
+2 Learn to adopt systematic and stepbystep problem solving methodology
+MAPPING OF COs WITH POs
+COS PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+19EIRIPV41  19PEIRIPV61
+PROJECT WORK AND VIVAVOCE PHASE  II
+L T P C
+0 24 6 15
+COURSE OBJECTIVES
+To develop the ability to solve a specific problem right from its identification and
+literature review till the successful solution of the same
+To train the students in preparing project reports and to face reviews and viva
+voce examination
+COURSE OUTCOMES
+Upon completion of this course the students will be able to
+1 Take up any challenging practical problems and find solution
+22
+2 Learn to adopt systematic and stepbystep problem solving methodology
+MAPPING OF COs WITH POs
+COS PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+PE  PROFESSIONAL ELECTIVES
+19EIRIPEXX  19PEIRIPEXX
+MEDICAL IMAGE PROCESSING
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To study the production of Xrays and its application to different medical
+Imaging techniques
+To study the different types of Radio diagnostic techniques
+To study the special imaging techniques used for visualizing the cross sections
+of the body
+To study the imaging of soft tissues using ultrasound technique
+Introduction to Driving problems in biomedical imaging Signal input 
+image matrix digital image quality  digital image processing  picture archiving
+and communication system PACS  sources of imaging data acquisition and noise
+ elementary image processing  Grenanders Pattern Theory
+Xrays Production Xrays  various components of radiographic systems 
+Xray tube design  Xray spectrum  rating charts of Xray tubes Electrical circuit
+for Xray machine  filament circuits and mA control  HT circuits  KV control 
+control of exposure timers  collimators scatter and grids  absorbed dose  basics
+of tables and arms  properties of Xray films and screens  dark room accessories
+ types of Xray tubes for various medical applications
+Fluoroscopy and angiography Fluoroscopic imaging system  principle 
+specific system design Digitalfluoroscopy  c  arm system  Digital Subtraction
+Angiography DSA  digital subtraction programming Ultra Sound in Medicine
+Introduction  generation  acoustic impedance  ultrasonic transducers and types
+ transmitter and detector principles  probe design  principles of image formation
+Display system Principles of A  mode B  mode and M  mode display  scan
+conversion  image processing  Doppler Ultrasound and Colour flow mapping 
+application of diagnostic ultra sound
+Magnetic Resonance Imaging MRI Introduction  principles 
+instrumentation  magnets  gradient system  RF coils receiver system  pulse
+sequence  image acquisition and reconstruction techniques  functional MRI 
+application of MRI Radio isotope imagingNuclear medicine Radio nuclides for
+imaging  radionuclide production cyclotron production reactor production
+23
+generator production Rectilinear scanners  Linear scanners  SPECT  PET 
+Gamma Camera  Comparison of other tomographic techniques
+Infra red Imaging Physics of thermography  imaging systems  clinical
+themography  liquid crystal thermography Special imaging techniques
+Cineradiography  cinefluorography  stereoscopic radiography  magnification
+radiography  microradiography  tomography  neutron radiography
+REFERENCES
+1 David J Dowsett Patrick A Kenny R Eugene Johnston The Physics of
+Diagnostic Imaging Chapman  Hall Medical MadrasLondon2nd edition
+2006
+2 S Webb The Physics of Medical Imaging Adam Hilger Bristol Taylor and
+Francis group New York 1988
+3 Rangaraj M Rangayyan Biomedical Image Analysis CRC press 2005
+COURSE OUTCOMES
+Student will
+1 Get the clear domain knowledge about the various Medical Imaging
+techniques
+2 To understand the various diagnostic applications of the medical imaging
+techniques
+3 To apply the imaging modalities in the medical hospitals
+4 To use the advanced techniques to diagnose the health problems
+5 Use their knowledge to use advanced Instruments for imaging
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIPEXX  19PEIRIPEXX
+MEDICAL DIAGNOSTIC INSTRUMENTATION
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To understand the basic principle working and design of various automated
+diagnostic equipments
+To develop skills enabling Biomedical Engineers to serve Hospitals National and
+International Industries and Government Agencies
+To develop core competency in the field of Biomedical Engineering to gain
+technical expertise in biology and medicine for effective contribution in the
+development and improvement of health care solutions
+24
+To study various medical instrumentation systems drug delivery systems and
+health management systems
+Electrocardiograph Fibrillators and Defibrillators  Pacemakers  Arrhythmia
+Simulator Ventilators Basic principles  generators  inspiratory phase  cycling
+mechanisms  expiratory phase  ventilatory adjuncts  anaesthetic machines
+Electro EncephaloGraph Multi channel EEG recording system  epilepsy 
+evokedpotential  Visual Auditory and Somatosensory  MEG Magneto Encephalon
+Graph  EEG bio feedback instrumentation Sliding theory of contraction
+Recording and analysis of EMG waveforms  fatigue characteristics  Muscle
+stimulators  nerve stimulators  nerve conduction velocity measurement
+Measurement of mechanics of breathing Spirometer  Lung volumeand vital
+capacity  measurements of residual volume  pneumotachometer  airway
+resistance measurement  whole body plethysmography  intra  alveolar and
+thoracic pressure measurements  apnea Monitor  types of ventilators  pressure 
+volume and time controlled  flow  patient cycle ventilators  humidifiers 
+nebulizers  inhalators
+Diagnosis Basic principles of echo technique  display techniques A B and
+M mode  ultrasound as diagnostic tool  echocardiogram  abdomen  obstetrics 
+gynaecology  ophthalmology
+Heart lung machine Disc and membrane type oxygenerators  finger pump 
+roller pump  Haemo Dialyser unit  Lithotripsy  principles of cryogenic technique
+ application  endoscopy  laproscopy Patient monitoring system ICU  post
+operative  ICCU  single and multichannel telemetry Transmission of Biosignals
+over telephone lines  digital central monitoring systems for patient monitoring
+REFERENCES
+1 Joseph J Carr and John M Brown Introduction to Biomedical equipment
+technology Pearson education 4th edition 2008
+2 John GWebster Medical Instrumentation Application and Design Wiley India
+Edition 3rd edition 2007
+3 LA Geddes and LE Baker Principles of Applied Biomedical Instrumentation
+John Wiley Publications 3rd Edition 2008
+COURSE OUTCOMES
+Student will be able to
+1 Demonstrate the principles of electronics used in designing various
+diagnostic equipment
+2 Have indepth knowledge about different streams in Biomedical Engineering
+with greater emphasis on health care equipments and the advanced
+technologies such as Telemedicine Telemetry Medical Imaging etc
+3 Provide a better technical support with exposure to the hospitals and health
+care industry
+25
+4 Understand the various techniques and applying for the betterment of the
+patients
+5 Understand critical care units and its importance
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+19EIRIPEXX  19PEIRIPEXX
+COMPUTATIONAL NEURO ENGINEERING
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+Neural engineering and rehabilitation research applies neuroscience and
+engineering methods to analyze central and peripheral nervous system function
+and to design clinical solutions to neurological disorders or injury
+To study the basics of Nervous system
+To understand the development and arrangement of neural tissue
+To study the neuronal disorders and injuries
+To study the repairing and reconstruction mechanism of nervous system
+Introduction to computational neuroscience  motivation for biophysical
+modeling Theory and modeling in neuroscience Descriptive Vs Functional models
+ Turing Vs Neural computation Introduction to anatomy and cellular basis of
+nervous systemIntroduction to differential equations and theory of dynamical
+systems
+Equivalent circuit model Electromotive resistive and capacitive properties of
+cell membrane change in membrane potential with distance voltage clamp
+experiment and Hodgkin and Huxleys model of action potential
+Ionic channels  ionic currnets  experimental techniques  voltage and space
+clamp experiments The Hodgkin  Huxley formalism  activation and inactivation
+kinetics  complete model for action potential generation Hodgkin  Huxley Vs
+Markov models
+Qualitative Hodgkin  Huxley theory  voltage clamp techniques  Hodgkin 
+Huxley equations methods Simplified neuron models Simplifications of the
+Hodgkin  Huxley model FitzHugh  Nagumo  Rinzel model Abstract Models
+phase model  rate model  McCulloch  Pitts neuron  integrate and fire neuron
+model
+Synapses and synaptic plasticity  simplified and phenomenological models of
+synaptic functionssynaptic transmission electrical and chemical Gated
+transmission at the nerve muscle synapse and central synapses 
+neurotransmitters Cellular basis of learning synaptic plasticity  The Hebbian rule
+26
+of learning  variations for the Hebbian rule Long term synaptic potentiation and
+depression Synaptic plasticity on different time scales
+Basics of modeling neural networks The two or three levels of neural
+dynamics Supervised learning rules Perceptron learning rule  Adaptation in
+linear neurons Widrow  Hoff rule  objective functions and gradient descent 
+multilayer networks and back propagation Unsupervised learning rules Principle
+Component Analysis  decorrelation  Winner  take  all networks and clustering
+Basic neural network architectures feed  forward  feedback  lateral connections
+REFERENCES
+1 Dayan P and LF Abbott Theoretical Neuroscience Computational and
+Mathematical modeling of neural systems MIT Press 2001
+2 W Gerstner and WM Kistler Spiking Neuron Models Cambridge University
+Press 2002
+3 Arabib MA Erdi P and Szentagothai J Neural Organization Structure
+functions and dynamics MIT Press 1997
+4 Lauren Fausett Fundamentals of Neural Networks Prentice Hall New Jersey
+1994
+5 VZ Marmarelis Advanced methods of physiological system modeling Springer
+1989
+COURSE OUTCOMES
+Through this course of study students will be able to
+1 Understand the application of basic science and engineering techniques
+2 Develop methods to record from and exert control over the nervous system
+3 Understand and develop the models of associated organ systems
+4 Can carryout research in the analysis of memory of physiological systems
+5 Apply clinically for validation through research
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIPEXX  19PEIRIPEXX
+COMPUTATIONAL METHODS AND CANCER MODELLING
+L TPC
+3 0 0 3
+COURSE OBJECTIVES
+Cancer Modelling is to analyze the origin of cancer and basics of Molecular
+Biology
+To study the cause for Cancer
+To understand the depth understanding of development of Cancer
+27
+To study the various types of cancer and its treatment methods
+To study and design the mathematical models of various cancer
+Cancer Definition Benign Tumors Vs Malignant Tumors Types of Cancer
+Common Symptoms Molecular Hallmarks of Cancer  Growth Signal Autonomy
+Evasion of Growth Inhibitory Signals Evasion of Apoptosis Programmed Cell
+Death Unlimited Replicative Potential Angiogenesis Formation of New Blood
+Vessels Invasion and Metastasis Molecular Basis of Cancer  Cancer Genes
+Oncogenes and Tumor Suppressor Genes Carcinogenesis  A Multistep Process
+Evidences for Multistage Models of Carcinogenesis
+Global Cancer Incidence and Mortality Data Source and Measurements
+Overall Cancer Risk Incidence and Mortality Patterns for Common Cancers Issues
+in Interpreting Temporal Trends Analytical Methods for Epidemiological Studies 
+Ecological Studies Cross  Sectional Studies Cohort Studies Case  Control
+Studies Interpretation of Epidemiology Findings Molecular Epidemiology
+Introduction to computational neuroscience  motivation for biophysical
+modeling Theory and modeling in neuroscience Descriptive vs functional models 
+Turing vs neural computation Introduction to anatomy and cellular basis of
+nervous system Introduction to differential equations and theory of dynamical
+systemsEquivalent circuit model Electromotive resistive and capacitive properties
+of cell membrane change in membrane potential with distance voltage clamp
+experiment and Hodgkin and Huxleys model of action potential
+Ionic channels  ionic currnets  experimental techniques  voltage and
+space clamp experiments The Hodgkin  Huxley formalism  activation and
+inactivation kinetics  complete model for action potential generationHodgkin 
+Huxley vs Markov modelsQualitative Hodgkin  Huxley theory  voltage clamp
+techniques  Hodgkin  Huxley equations methods Simplified neuron models
+Simplifications of the Hodgkin  Huxley model FitzHugh  Nagumo  Rinzel model
+Abstract Models phase model  rate model  McCulloch  Pitts neuron 
+integrate and fire neuron modelSynapses and synaptic plasticity  simplified and
+phenomenological models of synaptic functionssynaptic transmission electrical
+and chemical Gated transmission  at the nerve muscle synapse and central
+synapses  neurotransmitters
+REFERENCES
+1 Dayan P and LF Abbott Theoretical Neuroscience Computational and
+Mathematical modeling of neural systems MIT Press 2001
+2 W Gerstner and WMKistler Spiking Neuron Models Cambridge University
+Press 2002
+3 Arabib MA Erdi P and Szentagothai J Neural Organization Structure
+functions and dynamics MIT Press 1997
+4 Teicher Beverly A Tumor Models in Cancer Research Series Cancer Drug
+Discovery and Development 2nd ed Springer 2011
+28
+5 VZ Marmarelis Advanced methods of physiological system modeling Springer
+1989
+COURSE OUTCOMES
+Through this course of study students can able to
+1 Understand the basics of molecular biology and cancer
+2 Analyse how Cancer develops and progresses
+3 Design the mathematical modelling and the causes of cancer can be
+analysed
+4 Understandvarious treatments methods and Imaging of cancer and the
+research problems can be solved to the extent
+5 Do research in the area of cancer modeling
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+19EIRIPEXX  19PEIRIPEXX
+BIOSIGNAL PROCESSING
+L T P C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To build a strong base for developing algorithms for signal processing systems
+and Imaging systems
+To develop competency in terms of logical thinking programming and
+application skills
+To train and motivate students for pursuing higher education and research for
+developing cutting edge technologies
+Signals and Systems Introduction to discrete time signals and systems 
+Properties  LTI system Signal conversion Conversion requirement for biomedical
+signals  signal conversion circuits Discrete Fourier Transform DFT  properties 
+circular convolution  FFT computation using DIT and DIF algorithms
+FIR design Windowing techniques  need and choice of windows  Linear
+phase characteristics IIR design Analog filter design  approximation methods 
+Warping  prewarping  Frequency transformation Wavelet transformation
+Introduction  basic principles
+Spectral analysis Estimation of power density spectrum  periodogram 
+parametric model based spectral linear prediction theory  estimation using Auto
+Regressive AR Moving Average MA andAuto Regressive Moving Average ARMA
+models Estimation of parameters  spectral error measure  EEG analysis
+Adaptive filters Principle noise canceller model  50 Hz adaptive cancelling
+using a sine wave model  maternal ECG cancellation in fetal electrocardiography 
+29
+ECG QRS detection techniques  estimation of RR interval  estimation of
+ST segment inclination  arrhythmia analysis monitoring  long term
+ECG recording  basics of ECG data reductiontechniques
+Electromuscular Signal Processing Basic electromyography EMG data
+acquisition rectification and averaging Neurological signal processing The EEG
+Signals and its Characteristics  EEG Analysis  time frequency domain method 
+detection of spikes and spindles  detection of alpha beta and gamma waves Least
+squares and polynomial modelling The Markov model and Markov chain 
+dynamics of sleep  wake Transition  hypnogram Model Parameters
+REFERENCES
+1 Rangaraj M Rangayyan Biomedical Signal Analysis John Wiley 2002
+2 John G Proakis Dimitris G Manolakis Digital Signal Processing  Principles
+Algorithms and Applications Prentice Hall of India 4th edition 2005
+3 P Ramesh Babu Digital Signal Processing Scitech Publications India
+4th edition 2007
+4 John LSemmlow Biosignal and Medical Image Processing  Matlab Based
+Applications Marcel Dekker Inc New York 2nd edition 2009
+5 D C Reddy Biomedical Signal Processing  Principles and Techniques Tata
+McGraw Hill Publishing company Ltd 2nd reprint 2006
+COURSE OUTCOMES
+Student will be able to
+1 Understand the fundamental techniques and applications of digital signal
+processing with emphasis on biomedical signals
+2 Implement algorithms based on discrete time signals
+3 Understand Circular and linear convolution and their implementation using
+DFT analyse signals using discrete Fourier transform
+4 Understand efficient computation techniques such as DIT and DIF FFT
+algorithms
+5 Analyse the biological signls for the scope of diagnosis
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIPEXX  19PEIRIPEXX
+TRANSPORTATION IN LIVING SYSTEMS
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To familiarize the student with various transportation mechanism in living
+systems
+30
+To understand the concepts of organs
+To study about the internal organs
+Introduction
+Organization of the human body  cells  tissues  different organs
+Heat transport Body temperature regulation based on thermostat principle
+and its operation  transportation in tissues  muscle skin and other organs in
+different environmental temperatures
+Transportation of fluids Blood transport through
+urogenitary  cardio pulmonary and central nervous system
+internal
+organs
+Gastro intestine system Diffusion  osmosis  electro osmosis  ultra filtration
+ reverse osmosis through natural membrane and artificial synthetic membranes
+Lymph Transportation through internal organs urogenitary cardio
+pulmonary central nervous and gastro intestine systems Problems on lymph
+transfer in human body
+Mass transfer Constituents of blood urine mass transfer in kidney skeletal
+nervous gastro intestine and cardio pulmonary systems Comparison with artificial
+organs
+REFERENCES
+1 David OCooney An introduction to fluid heat  mass transport process 
+Principles Vol1 Marcel Dekker Inc Newyork 1976
+2 William F Ganong Review of Medical Physiology McGraw Hill Medical
+22nd edition 2005
+3 Charles Herbert Best Norman Burke Taylor John Burnard West Best and
+Taylors physiological basis of medical practiceWilliams and Wilkins Baltimore
+12th edition 1991
+COURSE OUTCOMES
+Student will be able to
+1 Understand the internal organs
+2 Understand the organs functioning in detail
+3 Know the Physics involved in the body fluids
+4 Understand in depth knowledge of human systems
+5 Know about the minarels and liquids present in the body
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+31
+19EIRIPEXX  19PEIRIPEXX
+CANCER BIOLOGY
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To familiarize the student with cancer and Molecular biology
+Fundamentals of cancer biology  Regulation of cell cycle  Mutations that
+cause changes in signal molecules  Effect on receptor  Signal switches  Tumor
+suppressor genes  Modulation of cell cycle in cancer  Different forms of cancers
+diet and cancer  Cancer screening and early detection  Detection using
+biochemical assays  Tumor markers  Molecular tools for early diagnosis of cancer
+Principles of carcinogenesis Theory of carcinogenesis  Chemical
+carcinogenesis  Metabolism of carcinogenesis  Xray radiation  Mechanism of
+radiation carcinogenesis
+Principles Of Molecular Cell Biology Of Cancer Signal targets and cancer 
+Activation of kinases  Oncogenes  Identification of oncogenes  Retroviruses and
+oncogenes  Detection of oncogenes  Oncogenesproto oncogene activity  Growth
+factors related to transformation  Telomerases
+Principles of cancer metastasis Clinical significances of invasion 
+Heterogeneity of metastatic phenotype  Metastatic phenotype  Metastatic cascade
+ Basement membrane disruption  Three step theory of invasion  Proteinases and
+tumor cell invasion
+New molecules for cancer therapy Different forms of therapy  Chemotherapy
+ Radiation therapy  Detection of cancers  Prediction of aggressiveness of cancer 
+Advances in cancer detection  Use of signal targets towards therapy of cancer
+REFERENCES
+1 Weinberg RA The Biology of Cancer Garland Science 2007
+2 Pelengaris S and Khan M The Molecular Biology of Cancer Blackwell
+Publishing 2006
+3 Macdonald F and Ford CHJ Molecular Biology of Cancer BIOS Scientific
+Publication 2005
+4 Roger John Benjamin King Mike W Robins Cancer Biology Pearson prentice
+hall 3rd edition 2006
+5 Ruddon RW Cancer Biology Oxford University Press 2nd Edition 1995
+COURSE OUTCOMES
+Student will be able to
+1 Have clear understanding of basics of cancer and its types
+2 Understand the causes of Cancer
+3 Analyse the modalities for the detection of Cancer
+32
+4 Develop cancer detecting modules
+5 Help the society by the developed products
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIPEXX  19PEIRIPEXX
+COMPUTATIONAL METHODS AND BONE MODELLING
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To study about the Mathematical Modelling
+To have knowledge on the Anatomy and physiology of Bones
+To know how Cancer developes in Bones and affects its function
+Introduction to Bone Tissues  structure of bone tissues  primary and
+secondary bone  compact and cancellous bones  other types Mechanical
+properties of materials and bones  elastic properties  strength  fracture
+mechanics properties  Modelling fracture in tension  as a composite  micro
+damage  Modelling and reconstruction need for feedback control  Bone Modelling
+of cancellous bone  functions of internal remodeling  changing the grain
+Techniques associated with the study of bone  new material on computational
+methods imaging of bone structure  strain gauging of live animals  Clinically
+related issues  elementary stress analysis of bone  bone prostheses and implants
+ non  invasive measurement of bone integrity
+Introduction to computational neuroscience  motivation for biophysical
+modeling Theory and modeling in neuroscience Descriptive vs functional models 
+Turing vs neural computation Introduction to anatomy and cellular basis of
+nervous systemIntroduction to differential equations and theory of dynamical
+systemsEquivalent circuit model Electromotive resistive and capacitive properties
+of cell membrane change in membrane potential with distance voltage clamp
+experiment and Hodgkin and Huxleys model of action potential
+Ionic channels  ionic currents  experimental techniques voltage and space
+clamp experiments The Hodgkin  Huxley formalism  activation and inactivation
+kinetics  complete model for action potential generationHodgkin  Huxley vs
+Markov modelsQualitative Hodgkin  Huxley theory  voltage clamp techniques 
+Hodgkin  Huxley equations methods Simplified neuron models Simplifications of
+the Hodgkin  Huxley model FitzHugh  Nagumo  Rinzel model
+Abstract Models phase model  rate model  McCulloch  Pitts neuron 
+integrate and fire neuron model Synapses and synaptic plasticity  simplified and
+phenomenological models of synaptic functions Synaptic transmission electrical
+33
+and chemical Gated transmission at the nerve muscle synapse and central
+synapses  neurotransmitters
+REFERENCES
+1 Stephen C Cowin Bone Mechanics Handbook Second Edition CRC Press
+2001
+2 John D Currey Bones structure and mechanics Princeton University Press
+2002
+3 Arabib MA Erdi P and Szentagothai J Neural Organization Structure
+functions and dynamics MIT Press 1997
+4 Teicher Beverly A Tumor Models in Cancer Research Series Cancer Drug
+Discovery and Development 2nd ed Springer 2011
+COURSE OUTCOMES
+Student will be able to
+1 Understand the types of bone tissues and its structures
+2 Analyse the causes of Bone Cancer
+3 Model the different types of bones and Cancer affected Bones
+4 Do research on the theraptics on Bone Cancer
+5 Design new modalities for diagnosis with study analysis
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3
+CO4 
+CO5 
+19EIRIPEXX  19PEIRIPEXX
+MEDICAL IMAGING SYSTEMS AND RADIO THERAPY
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To acquire knowledge about the various medical imaging techniques
+To understand the fundamental principle and working of the medical imaging
+systems involved in the diagnosis of health care
+XRays Principle and production of soft XRays Selection of anodes heel
+pattern Scattered Radiation Porter  Bucky systems Cooling System Testing for
+various parameters of the unit principles of Angiography and Fluoroscopic
+Techniques Image Intensifiers Single plane and bi plane recording units digital
+subtraction angiography mammography dental Xray units
+Tomography Principle Plane of Movement Multisection Radiography
+Computerised Axial Tomography Type of Detection image reconstruction Spiral
+CT Transverse Tomography 3D Imaging
+Emission Imaging Alpha Beta Gamma Emission different types of Radiation
+Detectors GM  Proportional Counters Pulse Height Analysers Isotopic
+Scanners Isotopic Diagnosis of RBC Destruction Rate GI Bleedings Iron
+34
+Concentration Liver Functions Functions of Gamma Camera PET SPECT
+PETCT
+Magnetic Resonance Imaging Principle of MRI MRI instrumentation Imaging
+Different Sections of the Body Tissue Characterization MR Spectroscopy
+Functional MRI
+Therapy Using XRays and Isotopes 9 Direct and Indirect effects of high energy
+radiation Units for radiation Exposure Depth Dose curves Linear Accelerator
+Betatron Cobalt and Cesium Therapy Computation of Absorbed Dose Level
+Automatic Treatment Planning Hazardous Effects of Radiation Radiation
+measuring units Allowed Levels ICRP regulation Protection Methods
+REFERENCES
+1 Chesney DN and Chesney MO XRay Equipments
+Radiographer Blackwell Scientific Publications Oxford 1971
+for
+Students
+2 Alexander Kalender and Linke Computer Tomography John Wiley Chichster
+1986
+3 Steve Webb The Physics of Medical Imaging Adam Hilger Philadelpia 1988
+4 Peggy W RogerDFerimarch MRI for Technologists McGraw Hill Publications
+New York 1995
+5 Donald Graham Paul Cloke Martin Vosper Principles of Radiological physics
+Churchill Livingston 5th Edition
+6 Donald W McRobbice Elizabeth A Moore Martin J Grave and Martin R
+Prince MRI from picture to proton Cambridge University press New York
+2006
+7 Jerry L Prince and JnathanM Links Medical Imaging Signals and Systems
+Pearson Education Inc 2006
+COURSE OUTCOMES
+Student will be able to
+1 Understand the different methods and modalities used for medical imaging
+2 Learn the preferred medical imaging methods for routine clinical
+applications
+3 Understand the engineering models used to describe and analyze medical
+images
+4 Apply these tools to different problems in medical imaging
+5 Develop drugs with the research Analysis
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIPEXX  19PEIRIPEXX
+WAVELET TRANSFORMS AND ITS APPLICATIONS
+L T P C
+3 0 0 3
+35
+COURSE OBJECTIVES
+To learn the fundamental concepts of wavelet
+To apply the wavelet techniques for various biomedical signals
+To do analysis with the signals and processing
+Introduction to Wavelets Introduction to Multirate signal processing 
+Decimation and Interpolation Quadrature Mirror Filters Subband coding
+Limitations of Fourier transform Short time Fourier transform and its drawbacks
+Continuous Wavelet transform Time frequency representation Wavelet System and
+its characteristics Orthogonal and Orthonormal functions and function spaces
+Multiresolution Concept and Discrete Wavelet Transform Multiresolution
+formulation of wavelet systems  signal spaces scaling function wavelet function
+and its properties Multiresolution analysis Haar scaling and wavelet function
+Filter banks  Analysis and Synthesis 1D and 2D Discrete wavelet transform
+Wavelet Packets Tree structured filter bank Multichannel filter bank Undecimated
+wavelet transform
+Wavelet System Design Refinement relation for orthogonal wavelet systems
+Restrictions on filter coefficients Design of Daubechies orthogonal wavelet system
+coefficients Design of Coiflet and Symlet wavelets
+Wavelet Families Continuous Wavelets  Properties of Mexican hat wavelet
+Morlet Gaussian and Meyer wavelets Orthogonal wavelets  Properties of Haar
+wavelets Daubechies wavelets Symlets Coiflets and Discrete Meyer wavelets
+Properties of Biorthogonal wavelets Applications of wavelet families
+Wavelet Applications Denoising of Signals and Images Image enhancement
+Edge detection Image Fusion Image compression Wavelet based feature
+extraction Analysis of phonocardiogram signals Analysis of EEG signals Speech
+enhancement for hearing aids
+REFERENCES
+1 M Vetterli and J Kovacevic Wavelets and sub band coding Prentice Hall
+1995
+2 CSidneyBurrus Ramesh GopinathHaitoGuo Introduction to wavelets and
+wavelet transform Prentice Hall 1998
+3 MetinAkay Time frequency and wavelets in biomedical signal processing Wiley
+ IEEE Press October 1997
+4 Raguveer m RaoAjith S Bopardikar Wavelet transforms  Introduction to
+theory and applications Addison Wesley 1998
+5 SMallet A Wavelet tour of signal processing Academic Press 1998
+6 GStrang and TNguyen Wavelet and filter banks Wesley and Cambridge Press
+7 PPVaidyanathan Multi rate systems and filter banks Prentice Hall 1993
+COURSE OUTCOMES
+Student will be able to
+1 Understand an indepth knowledge about the basic concepts of wavelet and
+speech analysis
+36
+2
+3
+4
+5
+Apply wavelet for various physiological signals
+Analyse the signal features and its functions
+Do mathematical analysis on various types of Bio signals
+Develop new algorithms for early diagnosis
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+19EIRIPEXX  19PEIRIPEXX
+BIOINFORMATICS
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To impart knowledge on various aspects of bioinformatics
+To study in detail about DNA and its formation
+Basic Concepts of Molecular Biology Cells  Chromosomes DNA RNA
+Proteins Central dogma of molecular biology Genomes and Genes  Genetic code
+Transcription Translation and Protein synthesis Web based genomic and
+proteomic data bases NCBI Gen Bank
+Sequence alignments Dot plot  Pair  wise sequence alignments  local and
+global  Sequence similarity and distance measures  Smith  Waterman algorithm
+Needleman  Wunch algorithm Multiple sequence alignment  Sum  of  Pairs
+measure  Star and tree alignments  PAM and BLOSUM Phylogenetic analysis
+Informational view of Genomic data Genomic Signal Processing  DNA
+Spectrograms  Identification of protein coding regions  Gene expression 
+Microarrays Microarray image analysis
+Gene structure in Prokaryotes and Eukaryotes Molecular Structure Prediction
+ Basic concepts and terminologies related to molecular structures  Basic molecular
+Visualization  RNA secondary structure prediction  Protein folding problem 
+Protein Threading  Protein Visualization  Introduction to Drug Discovery
+Software Tools Use of Tools for basic and specialized sequence processing
+such as BLAST FASTA RasMol Phylip Clustal W
+REFERENCES
+1 Setubal Meidanis Introduction to Computational Molecular Biology Thomson
+BrooksCole International Student Edition 2003
+2 Jean  Michel Claverie Cedric NotredameBioinformatics  A Beginners Guide
+Wiley  Dreamtech India Pvt Ltd 2nd edition 2007
+3 Lesk Introduction to Bioinformatics Oxford University Press Indian Edition
+3rd edition 2008
+37
+4 Higgins and Taylor Des Higgins Willie R Taylor Bioinformatics Sequence
+structure and databanks Oxford University Press Indian Edition 2003
+5 Bryan P Bergeron Bioinformatics Computing Prentice Hall of India 2003
+6 Jiang Xu and Zhang Current topics in Computational Molecular Biology Ane
+Books New Delhi 2004
+COURSE OUTCOMES
+Student will be able to
+1 Understand the concept of Gene structures
+2 Acquire awareness about the computational biology
+3 Work with various software tools
+4 Understands the various aspects of informatics applied in health industry so
+that quality of health care is improved
+5 Analyse the gene formations and diseases
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIPEXX  19PEIRIPEXX
+MEDICAL ETHICS AND STANDARDS
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+Achieve familiarity with some basic ethical framework understand how these
+ethical frame works can help us to think through contemporary questions in
+medical ethics
+Students will be able to know about the legal and ethical principles and
+application of these principles in health care settings  gain knowledge about the
+medical standards that to be followed in hospitals
+Introduction to Medical Ethics Definition of Medical ethics Scope of ethics in
+medicine American medical Association code of ethics CMA code of ethics 
+Fundamental Responsibilities The Doctor and The Patient The Doctor and The
+Profession Professional Independence The Doctor And Society
+Ethical Theories  Moral Principles Theories  Deontology Utilitarianism
+Casuist theory Virtue theory The Right Theory Principles  Non Maleficence
+Beneficence Autonomy Veracity Justice Autonomy  Confidentiality issues in
+medical practice Ethical Issues in biomedical research Bioethical issues in Human
+Genetics  Reproductive Medicine
+Hospital Accreditation Standrads Accrediation  JCI Accreditation  its
+Policies Patient centered standards Healthcare Organization management
+standards
+38
+Hospital Safety Standards Life Safety Standards  Protecting Occupants
+Protecting the Hospital From Fire Smoke and Heat Protecting Individuals From
+Fire and Smoke Providing and Maintaining Fire Alarm Systems Systems for
+Extinguishing Fires Environment of Care Standards  Minimizing EC Risks
+Smoking Prohibitions Managing Hazardous Material and Waste Maintaining Fire
+Safety Equipment Features Testing Maintaining and Inspecting Medical
+Equipment
+Medical Equipment Safety Standards General requirements for basic safety 
+essential performance of medical equipmentsIEC 60601 standards  Base
+Standard  general requirement of electrical medical devices Collateral Standards
+EMC radiation protection programmable medical device system Particular
+Standards  type of medical device
+REFERENCES
+1 Domiel A Vallero Biomedical Ethics for Engineers Elsevier Pub1st edition
+2007
+2 Biomedical Ethics A Canadian Focus Johnna Fisher ed Oxford University
+Press Canada 2009
+3 Robert M Veatch Basics of Bio Ethics Second Edition Prentice Hall Inc
+2003
+4 Physical Environment Online A Guide to The Joint Commissions Safety
+Standards is published by HC Pro Inc 2010
+5 Joint Commission Accreditation Standards for Hospitals 2nd edition 2003
+6 Ben Mepham Bioethics  An Introduction for the Biosciences 2nd edition
+2008 Oxford
+COURSE OUTCOMES
+Upon completion of this course the student should be able to demonstrate a
+measurable increase in their knowledge skills and abilities related to
+1 Legal and professional guidelines for the health professions
+2 Public duties and consent
+3 Guidelines to obtain medical standards in hospitals
+4 Medical ethics legal ethics and the differences associated with the medical
+society
+5 Standards for the devices
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+39
+OE  OPEN ELECTIVES
+19EIRIOEXX 19PEIRIOEXX
+COMPUTERS IN MEDICINE
+L T P C
+3 0 0
+3
+COURSE OBJECTIVES
+To familiarize the student with use of computers in medicine
+To use computers for bio signal analysis
+To automate the hospitals with the help of computers
+Introduction Computer hardware and software  programming languages 
+use in medical field  need of computing hospitals  cost effectiveness  help of
+computerization to physicians
+Patient data base management Computerized medical records  security
+Computer in clinical laboratory  database approach  automated clinical
+laboratory and analysis  computerized specimen analysis  analysis of ECG EEG
+and EMG Chromosome analysis by computer  computerized cytology and
+histogram  automated scanning for cervical cancer
+Basics of computer assisted medical imaging Nuclear medicine  digital
+subtraction radiography  computerized ultra sonography  Xray CT Nuclear
+magnetic resonance Basics of computer assisted medical decision making  general
+model algorithms  fuzzy set theory  cognitive set theory  cognitive models  QMR
+KES and TIA
+Computer in intensive care units metabolic balance up keeping  pulmonary
+function evaluation  Cardio vascular evaluation  Computer assisted therapy 
+computer for case of renal disorders
+Computer aids for the handicapped basic discussion with examples 
+introduction to computer assisted instruction in medicine  ISDN in medicine
+REFERENCE
+RD Lele Computers in medicine Tata McGraw Hill Publishing Company
+Limited 2nd reprint 2008
+COURSE OUTCOMES
+Student will be able to
+1
+2
+3
+4
+5
+Exposed to PC hardware as well as various microprocessor family
+Hardware behind data acquisition
+Scope of virtual reality in health care
+Develop insight knowledge about the biometrics and network security
+Automate the existing systems with computers
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+40
+CO3 
+CO4 
+CO5
+19EIRIOEXX 19PEIRIOEXX
+TISSUE AND STEM CELL ENGINEERING
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To understand basics of Tissue Engineering
+To understand fundamentals of cell mechanisms
+To teach the Physical  biological principles that serve as the scientific basis for
+understanding the interactions of biological molecules and cells with biomaterials
+employed for the fabrication of permanent implantable prostheses and as matrices
+for tissue engineering
+To understand application of Tissue Engineering
+Tissue Definition  structure  organization and types Vascularity and
+angiogenesis  basic wound healing  cell migration  therapeutic and in  vitro
+testing
+Cell Types  differentiations  different kind of matriXcell  cell interaction
+Cell culture expansion  transfer  storage  characterization Molecular biology
+Cell signalling molecules  hormone  growth factor and delivery in tissue
+engineering Cell attachment differential cell adhesion  receptor  ligand binding 
+cell surface markers
+Scaffold and transplant Biomaterials for tissue engineering  degradable
+materials collagen silk and polylactic acid  porosity  mechanical strength  3 
+D architecture  cell incorporation Tissues for replacing bone  cartilage  tendons
+ ligaments  skin and liverBasic transplant immunology  stems cells 
+introduction  haematopoiesis
+Case study cell transplantation for liver  musculoskeletal  cardiovascular
+and neural systems Ethical  FDA and regulatory issues of tissue engineering
+Stem Cells Origin characterization potential applications of human stem cells
+ Protocols for isolation and identification of stem cells  Differentiation of cells from
+human  neurospheres into neurons  astrocytes and oligodendrocytes  Immuno
+labelling Gene therapy immune rejection in stem cell therapy  new therapy for
+autoimmune disease  prenatal diagnosis of genetic abnormalities using fetal
+CD34 stem cells
+REFERENCES
+1 Sameul E Lynch De Robertis J Geng Tissue Engineering Elsevier 3rd
+Edition 2007
+2 Clemens van Blitterswijk Tissue Engineering Academic Press 2008
+3 Robert PLanza Robert Langer  William L Chick Principles of Tissue
+Engineering Academic Press 2007
+41
+4 B Palsson JA Hubbell R Plonsey and JD Bronzino Tissue Engineering
+CRC Press 2003
+5 Kursad and Purksen Embryonic Stemcell Humana Press 2002
+COURSE OUTCOMES
+By successfully completing this course students will be able to
+1 Understand the importance of tissue engineering in the field of biomedical
+engineering
+2 Understand the mechanisms involved in interaction of different materials
+with cells and tissues
+3 Explain different methods involved in characterization and preparation of
+biomaterials in tissue engineering
+4 Apply the knowledge in creating new models in drug delivery systems using
+synthetic and basic knowledge on stem cells and its various functional
+applications and therapy
+5 Design an implant for tissue replacement
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIOEXX 19PEIRIOEXX
+RADIOLOGICAL EQUIPMENTS
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To understand the generation of Xray and its uses in imaging
+To know the techniques used for visualizing various sections of the body
+To learn the principles of different radio diagnostic equipment in Imaging
+To discuss the radiation therapy techniques and radiation safety
+X  Rays  Production of Xrays  Various components of radiographic systems
+ Electrical circuit for Xray unit  filament circuits and mA control HT circuits KV
+control exposure switching and control of exposure timers types of Xray tubes for
+various medical applications Rating charts of Xray tubes
+Radiation Techniques Scattered radiation and its control in radiography 
+collimators  pinky grids  absorbed dose  Basics of tables  arms Fluoroscopy
+systems  TV chain for fluroscopy  Properties of X ray films screens Characteristics of imaging system by modulation transfer function
+Exposure Controls Automatic exposure controls  Photo timers  types limitations  performance  serial film chargers  types  radiographic
+considerations  film exposure time  photo timer applications  automatic
+brightness control system
+Angiogrphy Basic of digital angiography  Image processors for digital
+angiography  processor architecture  Temporal integration techniques for digital
+angiography digital subtraction angiography
+42
+Radiotherapy Physical principles of radiotherapy Dosage data for clinical
+applications Measurement of output and use of ISODOSE charts Collimators and
+beam direction devices Telemetry sources and acceptance calibration Safety
+protocols  protection Principles of linear accelerators for radiation therapy
+Radiation therapy planning
+REFERENCES
+1 Chesneys  Equipment for Student Radiographers 4th Edition WileyBlackwell
+Publiishers 1994
+2 Carr  Brown Introduction to Biomedical Equipment Technology Pearson
+Education Asia 1993
+3 R S Khandpur Handbook of BioMedical Instrumentation Tata McGraw Hill
+1989
+4 JWebster Bioinstrumentation Wiley  Sons 2004
+COURSE OUTCOMES
+The student is exposed to the
+1 Basics of radiation and its effects
+2 Various imaging modalities and current techniques
+3 Radiation safety and precautions to be followe in the Hospitals
+4 Advanced radiation theraphy for cancer treatment
+5 Knowledge of radiation and its effects
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+19EIRIOEXX 19PEIRIOEXX
+SPORTS MEDICINE
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To teach the key principles of sports medicine education
+To enable the students with the knowledge of Biomechanics for the muscles an
+bones
+To elaborate about the classification of sport injuries an physiological exercices
+Meaning and concept of sports medicine scope of sports medicine in physical
+education and sports History of Sports Medicine in India Prevention of sports
+injuries Role of Physical Educators and Coaches in the prevention of sports
+injuries Preconditioning injury prevention exercises and drives Static Stretching
+exercises Therapeutic exercise and their classification
+Sports Injuries  Terminology and classification of common sports soft tissue
+injuries Pathological changes in sprains strain and contusion and their
+43
+management Regional injuries and their management injuries of head ears eyes
+nose back shoulders elbows hand abdomen thighs knee leg and ankle
+Rehabilitation procedures of sports injuries Principles of rehabilitation of
+injuries Therapeutic modelties ie cryotherapy  hydrotherapy electrotherapy and
+lesser therapy Massage and its techniques
+Physiology of exercise short and long term effects of exercise on muscular
+tissues Physiological principles of development of strength endurance speed and
+flexibility
+Heart role and exercise Threshold for training effects on heart Cardiac reserve
+capacity blood pressure and exercise Lungs ventilation during rest and exercise
+change in lungs diffusions during muscular activities
+REFERENCES
+1 Armstrong and Tuckler Injuries in Sports Staples Press London 1964
+2 Bolan JP and Rasch PJ  Treatment and Prevention of Athletic Injuries The
+Interstate Printers and Publishers 1967
+3 Morehouse LE and Rasch PJ Sports Medicine for Trainers Philadephia
+WB Saunder CO1963
+4 Ryans AllanMedical Care of the Athlete McGraw Hill 2003
+5 Pande PK  Know How Sports Medicine AP Publications Jalandhar 2014
+COURSE OUTCOMES
+The student is exposed to the
+1 Awareness in sport Medicine
+2 Techniques to be applied for sports injuries
+3 Applications of Medical techniques for athelette
+4 Physiological exercices for various human systems and developmental strength
+5 New ideas for design projects
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIOEXX 19PEIRIOEXX
+COMPUTATIONAL BIOENGINEERING
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+Neural engineering and rehabilitation research applies neuroscience and
+engineering methods to analyze central and peripheral nervous system function
+and to design clinical solutions to neurological disorders or injury
+To study the basics of Nervous system
+To understand the development and arrangement of neural tissue
+To study the neuronal disorders and injuries
+44
+To study the repairing and reconstruction mechanism of nervous system
+Introduction to Computational Neuroscience  motivation for biophysical
+modeling Theory and modeling in neuroscience  Descriptive vs functional models
+Turing vs neural computation Introduction to anatomy and cellular basis of
+nervous systemIntroduction to differential equations and theory of dynamical
+systems
+Equivalent circuit model Electromotive resistive and capacitive properties of
+cell membrane change in membrane potential with distance voltage clamp
+experiment and Hodgkin and Huxleys model of action potential
+Ionic channels  ionic currnets experimental techniques  voltage and space
+clamp experiments The HodgkinHuxley formalism  activation and inactivation
+kinetics  complete model for action potential generationHodgkinHuxley vs
+Markov models
+Qualitative HodgkinHuxley theory  voltage clamp techniques  HodgkinHuxley equations methods Simplified neuron models Simplifications of the
+HodgkinHuxley model FitzHugh  Nagumo Rinzel model Abstract Models phase
+model  rate model  McCullochPitts neuron  integrate and fire neuron model
+Synapses and synaptic plasticity  simplified and phenomenological models of
+synaptic functionssynaptic transmission electrical and chemical Gated
+transmission at the nerve muscle synapse and central synapses 
+neurotransmittersCellular basis of learning synaptic plasticity  The Hebbian rule
+of learning  variations for the Hebbian rule Long term synaptic potentiation and
+depression Synaptic plasticity on different time scales
+Basics of modeling neural networks The two or three levels of neural
+dynamics Supervised learning rules  Perceptron learning rule  Adaptation in
+linear neurons WidrowHoff rule  objective functions and gradient descent 
+multilayer networks and back propagation Unsupervised learning rules  Principle
+Component Analysis  decorrelation  Winnertakeall networks and clustering
+Basic neural network architectures feedforward  feedback  lateral connections
+REFERENCES
+1 Dayan P and LFAbbott Theoretical Neuroscience Computational and
+Mathematical modeling of neural systems MIT Press 2001
+2 W Gerstner and WMKistler Spiking Neuron Models Cambridge University
+Press 2002
+3 Arabib MA Erdi P and Szentagothai J Neural Organization Structure
+functions and dynamics MIT Press 1997
+4 Lauren Fausett Fundamentals of Neural Networks Prentice Hall New Jersey
+1994
+5 VZ Marmarelis Advanced methods of physiological system modeling Springer
+1989
+COURSE OUTCOMES
+Through this course of study students will be able to
+45
+1 Understand the application of basic science and engineering techniques
+2 Develop methods to record from and exert control over the nervous system
+3 Understand and develop the models of associated organ systems
+4 Can carryout research in the analysis of memory of physiological systems
+5 Apply neural networks for detection and analysis of diseases
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+19EIRIOEXX 19PEIRIOEXX
+HEALTH CARE SYSTEMS
+L T P C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To make the student to understand health care sector
+To give awareness about hospital set up in a larger perspective with an
+emphasis on the systems
+Environmental Issues Introduction Theoretical frame work  Environment Internal and External  Environmental Scanning  Economic Environment 
+Competitive Environment  Natural Environment  Politico Legal Environment 
+Socio Cultural Environment  International and Technological Environment
+Introduction to Health Care A Conceptual Approach to Understanding the
+Health Care Systems Evolution  Institutional Settings  Out Patient services 
+Medical Services  Surgical Services  Operating department  Pediatric services 
+Dental services  Psychiatric services  Casualty  Emergency services  Hospital
+Laboratory services  Anesthesia services  Obstetrics and Gynecology services 
+Neuro  Surgery service  Neurology services
+Overview of Health Care Sector in India Primary care  Secondary care 
+Tertiary care  Rural Medical care  urban medical care  curative care  Preventive
+care  General  special HospitalsUnderstanding the Hospital Management  Role
+of Medical Nursing Staff Paramedical and Supporting Staff  Health Policy Population Policy  Drug Policy  Medical Education Policy
+Health Care RegulationWHO International Health regulations IMA MCI
+State Medical Council Bodies Health universities and Teaching Hospitals and other
+Health care Delivery Systems
+Epidemiology Issues Epidemiology Aims  Principles  Descriptive Analytical
+and Experimental Epidemiology  Methods  Uses
+REFERENCES
+1 ZweifelPeter Breyer Friedrich and MathiasKifmann Health economics
+Springer 2009
+46
+2 YShanmugasundaram Theory and practice of health economics in India
+Institute for Advanced Studies  Research 1994
+COURSE OUTCOMES
+The student is exposed to the
+1 Hospital administration
+2 Various environmental challenges in Health care domain
+3 History and overview of healthcare system in the country
+4 Understands the regulation and standards
+5 Epidemiology Principles
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIOEXX 19PEIRIOEXX
+TELEMEDICINE
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To teach the key principles for telemedicine and health
+To enable the students with the knowledge of telemedical standards mobile
+telemedicine and its applications
+Telemedicine telehealth and telecare History of telemedicine  Main phases
+of telemedicine  Pre electronic telemedicine Electronic telemedicine Technical
+Requirements  Type of information and standards audio data Fax Video Types of
+communications and networking  networking architecture POTS ISDN ATM
+Other Fixed networks  Airairless communications RF Microwaves Satellite
+GSM CDPD Cellular Digital Packet Data Acquisition displays  Acquisition
+systems Cameras Scanners Other medical specialized acquisition system
+Display systems Analogue devices LCD Laser displays Holographic
+representations Virtual screen devices Computation  storage systems Magnetic
+Mixed Optical laser devices only brief description required
+Telemedicine applications Teleradiology Basic parts of a teleradiography
+system Image acquisition and management display communication
+interpretation
+Telepathology
+Applications
+requirements
+security
+and
+confidentiality tools telequantitation at distance Telecytology Applications
+Telecardiology requirements portable solutions Telehome  Care Home based
+applications
+Teleoncology
+Applications
+Telesurgery
+telepsychiatry
+Teledermatology Techniques
+47
+Internet in telemedicine Basic concepts  Security  secure socket layer 
+Firewalls  proxies Personal Communication Medical data sharing needs for
+telemedicine  Internet problems Distant training teleworking and telecasting
+Ethical and legal aspects of telemedicine confidentiality patient rights and consent
+ ethical and legal aspects of internet  telemedical malpractice
+Constraints for the wide spread use of telemedicine constraints linked to
+economy social acceptance Strategic planning for telemedicine implementation
+Analysis of the present situation and the demand Objectives and strategies  Plan
+of implementation Forces affecting technology transfer scenarios for telemedicine
+REFERENCES
+1 Olga Ferrer Roca M Sosa Marcelo C Hand Book of Telemedicine IOS Press
+3rd edition 2002
+2 Ling Guan Multimedia image and video processing CRC Press 2000
+3 Thorsten M Buzug Heinz Handels Dietrich Holz Telemedicine Medicine and
+Communication Springer  Verlag 2001
+4 Douglas V Goldstein eHealthcare Harness the
+ecommerce and ecare Jones and Barlett Publishers
+power
+of
+Internet
+5 C Norris Essentials of Telemedicine and Telecare John Wiley Sons 2002
+COURSE OUTCOMES
+The student is exposed to the
+1 Technologies applied in multimedia using telemedicine
+2 Protocols behind encryption techniques for secure transmission of data
+3 Applications of telehealth in healthcare
+4 Concept of the fundamental concepts necessary to for any telemedicine and
+telehealth activity
+5 Telemedicine and ways of connecting nodal hospitals
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIOEXX 19PEIRIOEXX
+MODELLING OF PHYSIOLOGICAL SYSTEMS
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To understand the fundamental engineering aspects of modelling Physiological
+systems
+To utilize concepts derived from biomedical research to aid in the design of
+engineering systems
+To apply system techniques and methods to biomedical problems
+48
+Biological control system similarities and differences  components of living
+control system  Model and Analog  system properties  resistance  storage 
+distributed and lumped systems Mathematical approach  electrical analogues
+Approaches to modelling Mathematical modelling  classification of models 
+characteristics of models Purpose of physiological modeling and signal analysis 
+linearization of nonlinear models  model formulation  identification  validation
+and Simulation Different approaches of modeling physiological systems  linear
+modeling  distributed modeling  nonlinear modeling  time  varying modeling
+Nonparametric modeling Volterra models  Wienermodels  efficient volterra
+kernel estimation  analysis of estimation errors Parametric modeling Basic
+parametric model forms  estimation procedures  Volterra kernels of nonlinear
+differential equations  discrete  time volterra kernels of NARMAX models  from
+Volterra kernel measurements to Parametric models  equivalence between
+continuous and Discrete  parametric modelsIntroduction to various process
+controls like cardiac rate  blood pressure  respiratory rate  blood  glucose
+regulation  pharmacokinetic modeling  compartmental models  blood  tissue
+models
+Equivalent circuit model Electromotive resistive and capacitive properties of
+cell membrane  change in membrane potential with distance  voltage clamp
+experiment  voltage dependent membrane constant and simulation of the model 
+model for strength  duration curve  model of the whole neuron  Huxley model of
+isotonic muscle contraction  modeling of EMG  motor unit firing  amplitude
+measurement  motor unit and frequency analysis
+Physiological modelling Electrical analog of blood vessels  model of
+systematic blood flow  model of coronary circulation  transfer of solutes between
+physiological compartments by fluid flow  counter current model of urine
+formation  model of Henles loop  linearized model of the immune response 
+Germ Plasma cell Antibody system equation and stability criteria
+Electrical circuit model of oxygenation A model of immune response to
+disease Block Diagram  modelling of multi inputmulti output systems The two 
+input case  Applications of two  input modelling to physiological systems  Multi 
+input case spatiotemporal and spectro temporal modelling Respiratory system
+Modeling oxygen uptake by RBC and pulmonary capillaries mass balancing by
+lungs  gas transport mechanism of lungs and O2 and CO2 transport in blood and
+tissues
+Case studies on modeling of physiological system Modeling of nerve action
+potential Hodgkin  Huxley model
+Modeling of skeletal muscle contraction Huxley Cross Bridge model
+Modeling of myoelectrical activity
+Modeling of cardiovascular system Block diagram representation of cardio
+vascular system
+REFERENCES
+1 David T Westwick Robert E Kearney Identification of Nonlinear Physiological
+Systems Wiley  IEEE Press 2003
+49
+2 Michael C K Khoo Physiological Control Systems  Analysis simulation and
+estimation Prentice Hall of India 2001
+3 J Enderle S Blanchard J Bronzino Introduction to Biomedical Engineering
+Academic Press 3rd edition 2012
+4 SureshRDevasahayam Signals  Systems in Biomedical Engineering
+Springer 2000
+5 VZ Marmarelis Advanced methods of physiological system modeling Springer
+1999
+6 James V Candy Signal Processing The Model Based approach John Wiley
+sons Newyork 2006
+7 LStark Neurological Control System Plenum Press New York 1968
+8 RB Stein Nerve and Muscle Plenum Press New York 1980
+COURSE OUTCOMES
+Student will be able to
+1 Acquire an insight into and understanding of the utilization of models
+system analysis and analog simulation in the field of bioengineering
+2 Understand basic concepts of modeling for designing biological model
+3 Model and simulate physiological processes for better understanding
+4 Use various simulation softwares for modeling biological systems
+5 Understand micro level analysis of cell signaling
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+19EIRIOEXX 19PEIRIOEXX
+BIOMECHANICS
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To provide the knowledge of mechanical concepts as applied to human
+movement
+ To study about the bone structure and cartilage
+ To study the structure movements and loads applied to spine shoulder and
+hip
+ To study about the fluid mechanic system applied to human body
+Basic Biological Principles Diffusion  surface tension and viscosity 
+characteristics  influencingfactors  biological applications Introduction to
+mechanics Review of principles of mechanics  vector mechanics  Resultant forces
+of Coplanar and Non  coplanar  Concurrent and non  concurrent forces 
+parallel force in space  Equilibrium of coplanar forces  Newtons laws of motion 
+work and energy  moment of inertia Fluid mechanics Introduction  viscosity and
+capillary viscometer  rheological properties of blood  laminar flow  Couette flow
+and Hagen  poiseuille equation  turbulent flow
+50
+Hard tissues Bone structure  composition and mechanical properties of bone
+  viscoelastic properties  Maxwell and Voight models  anisotropy  electrical
+properties of bone  fracture mechanism and crack propagation in bones  fracture
+fixators  repairing of bones  mechanical properties of collagen rich tissues teeth
+and its properties
+Soft tissues Structure and functions of cartilages tendons  ligaments  stress
+ strain relationship  soft tissue mechanics  mechanical testing of soft tissues
+standard sample preparation  cross  section measurement  clamping of the
+specimen  strain measurement  environmental control time dependent properties
+of testing
+Bones joints and loco motor systems Joints  classification based on
+structural functional and regional  characters  mechanism of lubrication of
+synovial joints Bone  composition  classification Biomechanics of joints Skeletal
+joints  basic considerations  basic assumption and limitations  forces and
+stresses  mechanics of the elbow shoulder spinal column hip knee and ankle
+Locomotion Basis  gait analysis and goniometry  ergonomics  foot pressure
+measurements  force platform  mechanics of foot Total Hip Prosthesis
+requirements  types of components  Stress analysis and instrumentation Knee
+Prosthesis Cardiovascular mechanics Heart valves  artificial valves  biological
+and mechanical valves development  testing
+REFERENCES
+1 Donald R Peterson and Joseph D Bronzino Biomechanics Principles and
+applications CRC press Taylor  Francis Group LLC 2008
+2 Duane Knudson
+2nd Edition 2007
+Fundamentals
+of
+Biomechanics
+Springer
+publication
+3 R McNeill Alexander Biomechanics Chapman and Hall New York 1975
+4 D NGhista Biomechanics of Medical Devices Marcel Dekker New York 1982
+5 AZ Tohen and CT Thomas Manual of Mechanical Orthopaedics
+6 DN Ghista and Roaf Orthopaedic Mechanics Procedures and Devices
+Academic Press London 1978
+7 VC Mow and WC Hayes Basic Orthopedic Biomechanics Lippincott  Raven
+Publishers Philadelphia 1997
+COURSE OUTCOMES
+Student will be able to
+1 Understand the definition of biomechanics prostheses orthoses and its
+classification and design principles
+2 Develop a better understanding of how mechanical principles influence
+human motion during everyday life
+3 Analyze the forces at joints for various static and dynamic human activities
+analyze the stresses and strains in biological tissues
+4 Understand the principles of mechanics that is used to analyze human
+movement
+5 Analyse the mechanism of joints and bones
+51
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5 
+19EIRIOEXX 19PEIRIOEXX
+TROUBLESHOOTING OF MEDICAL EQUIPMENTS
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To provide knowledge to students to enable them to troubleshoot the
+various equipments used in hospitals
+Troubleshooting Procedures  Fundamental troubleshooting procedures
+Making of an Electronic Equipment causes of Equipment Failure Troubleshooting
+Process  Fault finding Aids Troubleshooting Techniques and Grounding Systems
+in Electronic Equipment Temperature Sensitive Intermittent Problems and
+correction Action to repair the Equipment
+Testing of passive components and semiconductor devices 
+Testing of passive components  semiconductor devices resistors capacitors 
+inductors causes of failure for electronic components testing procedure for
+semiconductor devices special diodes bipolar transistors field effect transistor
+FET and thyristor
+Fault Diagnosis In Integrated Circuits Fault Diagnosis In Analog Digital
+Integrated circuits Fault Diagnosis in OpAmp Circuits Digital Troubleshooting
+Methods Digital IC Troubleshooters Circuit board Troubleshooting
+Troubleshooting Of Biomedical Instruments  Trouble shooting of ECG
+Machine EEG Machine Defibrillator Electrosurgical unit Anaesthesia machine
+Autoclaves  sterilizers Endoscope
+Troubleshooting Of Biomedical Equipments  Troubleshooting of Incubators
+Nebulizer Oxygen Concentrators Oxygen cylinders  flow meters Pulse Oximeter
+Sphygmomanometers Suction MachineXRay Machine Troubleshooting
+REFERENCES
+1 RSKhandpur Troubleshooting Electronic Equipment Includes Repair 
+Maintenance Tata McGrawHill Second Edition 2009
+2 Dan Tomal and Neal Widmer Electronic Troubleshooting McGraw Hill
+3rdEdition 2004
+3 Nicholas Cram  Selby Holder Basic Electronic Troubleshooting forBiomedical
+Technicians TSTC Publishing 2nd Edition 2010
+4 World Health Organisation Maintenance  Repair of Laboratory
+Diagnosticimaging  Hospital Equipment Geneva 1994
+52
+COURSE OUTCOMES
+Students will be able to
+1
+2
+3
+4
+5
+Understand the concepts of Medical Equipments
+Understand the functioning of equipments and usage in Hospitals
+Techniques about various electronic circuits in medical equipments
+Troubleshoot the medical devices
+Applying the service concepts in developing new features
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+19EIRIOEXX 19PEIRIOEXX
+DESIGN OF MEDICAL EQUIPMENTS
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To equip students with basics of design construction and development process
+of devices which are used in medical clinical or laboratory practice
+Introduction to Medical Equipments  Define medical device Classification of
+medical device Medical devices medical instrumentation Origin of biopotential
+Physiological signal Human machine interface Input output and control signal
+Data acquisition Sensor Amplification Medical electrical stimulator
+Minimally Invasive Device and Technique  Laparosopic instrumentation
+surgical instrumentation in ophthalmology Phacoemulsification Instrument and
+system  Vitrorectomy Instrument and system Human machine interface
+Diagnostic Equipment Design  System description of diagnostic equipment
+Patient monitoring system ECG EEG Blood pressure monitor Digital stethoscope
+Thermometer System description and diagram of pulse oximeter optical fiber
+optics for circulatory and respiratory system measurement
+Therapeutic Equipment Design  System description of therapeutic
+equipment Pacemaker External cardio vector defibrillator Implantable cardio
+vector defibrillator Deep brain stimulation Functional electrical stimulator
+FESHemodialysis delivery system Mechanical ventilator
+Implant and Prosthesis  System description of various implant and
+prosthesis Total hip prosthesis Joint replacement Design of artificial pancreas
+Drug elutingstent and its engineering design  Intraocular lens implant Cochlear
+implants Heart valves
+REFERENCES
+1 Gail Baura Medical Device Technologies A Systems Based Overview
+UsingEngineering Elsevier science 2002
+2 Martin Culjat Rahul Singh Hua LeeMedical Devices Surgical and ImageGuided Technologies John Wiley  Sons Reinaldo perez Design ofmedical
+electronic device Elsevier science 2002
+53
+3 CRichard Fries Handbook of Medical Device Design Marcel DekkerAG
+2ndedition 2005
+4 Anthony Y K Chan Biomedical device technology principles and
+designCharles Thomas 2008
+5 Theodore R Kucklick The Medical Device RampD HandbookTaylorFrancis
+Group LLC 3rd edition 2013
+6 David Prutchi Michael Norris Design and Development of Medical Electronic
+Instrumentation A Practical perspective of the design construction and test of
+medical devices John Wiley  Sons 2005
+COURSE OUTCOMES
+Students will be able to
+1 Understand the basic design of medical devices
+2 Learn various acquisition modules in Medical devices
+3 Learn various theraptic equipments
+4 Understand the design of implants
+5 Understand more about joint replacements
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+CO3 
+CO4 
+CO5
+AUDIT COURSES
+19EIRIACXX
+L T P C
+ENGLISH FOR RESEARCH PAPER WRITING
+2 0 0
+0
+COURSE OBJECTIVES
+Students will be able to
+Understand that how to improve your writing skills and level of readability
+Learn about what to write in each section
+Understand the skills needed when writing a Title Ensure the good quality of
+paper at very firsttime submission syllabus
+Structuring Paragraphs and Sentences Being
+Redundancy Avoiding Ambiguity and Vagueness
+Concise
+and
+Removing
+Clarifying Who Did What Highlighting Your Findings Hedging and Criticising
+Paraphrasing and Plagiarism Sections of a Paper Abstracts Introduction
+Review of the Literature Methods Results Discussion Conclusions The Final
+Check
+Key skills are needed when writing a Title key skills are needed when writing an
+Abstract key skills are needed when writing an Introduction skills needed when
+writing a Review of the Literature
+54
+Skills are needed when writing the Methods skills needed when writing the
+Results skills are needed when writing the Discussion skills are needed when
+writing the conclusion
+Useful phrases how to ensure paper is as good as it could possibly be the firsttime submission
+REFERENCES
+1 Goldbort R 2006 Writing for Science Yale University Press available on Google
+Books Model Curriculum of Engineering  Technology PG Courses VolumeI
+41
+2 Day R 2006 How to Write and Publish a Scientific Paper Cambridge University
+Press 3 Highman N 1998 Handbook of Writing for the Mathematical Sciences
+SIAM Highmansbook 4 Adrian Wallwork English
+19EIRIACXX
+DISASTER MANAGEMENT
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+Students will be able to
+Learn to demonstrate a critical understanding of key concepts in disaster
+risk reduction and humanitarian response
+Critically evaluate disaster risk reduction and humanitarian response policy
+and practice from multiple perspectives
+Develop an understanding of standards of humanitarian response and
+practical relevance in specific types of disasters and conflict situations
+Critically understand the strengths and weaknesses of disaster management
+approaches planning and programming
+Introduction Disaster
+Definition Factors And Significance Difference Between Hazard And Disaster
+Natural And Manmade Disasters Difference Nature Types And Magnitude
+Repercussions Of Disasters And Hazards
+Economic Damage Loss Of Human And Animal Life Destruction Of Ecosystem
+Natural Disasters Earthquakes Volcanisms Cyclones Tsunamis Floods
+Droughts And Famines Landslides And Avalanches Manmade disaster Nuclear
+Reactor Meltdown Industrial Accidents Oil Slicks And Spills Outbreaks Of
+Disease And Epidemics War And Conflicts
+Disaster Prone Areas In India
+Study Of Seismic Zones Areas Prone To Floods And Droughts Landslides And
+Avalanches Areas Prone To Cyclonic And Coastal Hazards With Special Reference
+To Tsunami PostDisaster Diseases And Epidemics
+Disaster Preparedness And Management
+Preparedness Monitoring Of Phenomena Triggering A Disaster Or Hazard
+Evaluation Of Risk Application Of Remote Sensing Data From Meteorological And
+Other Agencies Media Reports Governmental And Community Preparedness
+55
+Risk Assessment
+Disaster Risk Concept And Elements Disaster Risk Reduction Global And
+National Disaster Risk Situation Techniques Of Risk Assessment Global CoOperation In Risk Assessment And Warning Peoples Participation In Risk
+Assessment Strategies for Survival
+Disaster Mitigation Meaning
+Concept And Strategies Of Disaster Mitigation Emerging Trends In Mitigation
+Structural Mitigation And NonStructural Mitigation Programs Of Disaster
+Mitigation In India
+REFERENCES
+1 R Nishith Singh AK Disaster Management in India Perspectives issues and
+strategies New Royal book Company
+2 Sahni PardeepEtAl Eds Disaster Mitigation Experiences And Reflections
+Prentice Hall Of India New Delhi 3 Goel S L Disaster Administration And
+Management Text And Case StudiesDeep Deep Publication Pvt Ltd New
+Delhi
+19EIRIACXX
+L T P C
+SANSKRIT FOR TECHNICAL KNOWLEDGE
+2 0 0
+0
+COURSE OBJECTIVES
+To get a working knowledge in illustrious Sanskrit the scientific language in the
+world
+Learning of Sanskrit to improve brain functioning
+Learning of Sanskrit to develop the logic in mathematics science  other
+subjects
+Enhancing the memory power
+The engineering Scholars equipped with the Sanskrit will be able to explode the
+huge knowledge from ancient literature
+Alphabets in Sanskrit past present future tense simple sentences Order
+introduction of roots technical information about Sanskrit literature Technical
+concepts of Engineering  electrical mechanical architecture mathematics
+REFERENCES
+1 Abhyaspustakam  DrVishwas SamskritaBharti Publication New Delhi
+2 Teach Yourself Sanskrit Prathama DeekshaVempatiKutumbshastri Rashtriya
+Sanskrit Sansthanam New Delhi Publication
+3 Indias Glorious Scientific Tradition Suresh Soni Ocean books P Ltd New
+Delhi
+COURSE OUTCOMES
+Students will be able to
+1 Understanding basic Sanskrit language
+2 Ancient Sanskrit literature about science  technology can be understood
+3 Being a global language will help to develop logic in students
+19EIRIACXX
+VALUE EDUCATION
+L
+T
+P
+C
+56
+2
+0
+0
+0
+COURSE OBJECTIVES
+Understand value of education and self development
+Imbibe good values in students
+Let the should know about the importance of character
+Values and selfdevelopment Social values and individual attitude and work
+ethics Indian vision of humanism Moral and non moral valuation Standards and
+principles Value judgements
+Importance of cultivation of values Sense of duty Devotion Selfreliance
+Confidence Concentration Truthfulness Cleanliness
+Honesty Humanity Power of faith National Unity Patriotism Love for nature
+Discipline
+Personality and Behavior Development  Soul and Scientific attitude Positive
+Thinking Integrity and discipline Punctuality Love and Kindness Avoid fault
+Thinking Free from anger Dignity of labour Universal brotherhood and religious
+tolerance True friendship Happiness Vs suffering love for truth Aware of selfdestructive habits Association and Cooperation Doing best for saving nature
+Character and Competence Holy books vs Blind faith Selfmanagement and
+Good health Science of reincarnation Equality NonviolenceHumility Role of
+Women All religions and same message Mind your Mind Selfcontrol Honesty
+Studying effectively
+REFERENCES
+1
+Chakroborty SK Values and Ethics for organizations Theory and practice
+Oxford University Press New Delhi
+COURSE OUTCOMES
+Students will be able to
+1 Knowledge of selfdevelopment
+2 Learn the importance of Human values
+3 Developing the overall personality
+19EIRIACXX
+CONSTITUTION OF INDIA
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+Students will be able to
+Understand the premises informing the twin themes of liberty and freedom
+from a civil rights perspective
+To address the growth of Indian opinion regarding modern Indian
+intellectualsconstitutional role and entitlement to civil and economic rights
+as well as the emergence of nationhood in the early years of Indian
+nationalism
+57
+To address the role of socialism in India after the commencement of the
+Bolshevik Revolution in 1917 and its impact on the initial drafting of the
+Indian Constitution
+History of Making of the Indian Constitution
+History Drafting Committee  Composition  Working
+Philosophy of the Indian Constitution
+Preamble Salient Features
+Contours of Constitutional Rights  Duties
+Fundamental Rights Right to Equality Right to Freedom Right against
+Exploitation Right to Freedom of Religion Cultural and Educational Rights Right
+to Constitutional Remedies Directive Principles of State Policy Fundamental
+Duties
+Organs of Governance
+Parliament Composition Qualifications and Disqualifications Powers and
+Functions Executive President Governor Council of Ministers Judiciary
+Appointment and Transfer of Judges Qualifications Powers and Functions
+Local Administration
+Districts Administration head Role and Importance Municipalities
+Introduction Mayor and role of Elected Representative CEO of Municipal
+Corporation
+Pachayati raj Introduction PRI ZilaPachayat Elected officials and their roles
+CEO ZilaPachayat Position and role Block level Organizational Hierarchy
+Different departments
+Village level Role of Elected and Appointed officials Importance of grass root
+democracy
+Election Commission
+Election Commission Role and Functioning Chief Election Commissioner and
+Election Commissioners State Election Commission Role and Functioning
+Institute and Bodies for the welfare of SCSTOBC and women
+References
+1
+The Constitution of India 1950 Bare Act Government Publication
+2
+Dr S N Busi Dr B R Ambedkar framing of Indian Constitution 1st Edition
+2015
+3
+M P Jain Indian Constitution Law 7th Edn Lexis Nexis 2014
+4
+DD Basu Introduction to the Constitution of India Lexis Nexis 2015
+COURSE OUTCOMES
+Students will be able to
+1 Discuss the growth of the demand for civil rights in India for the bulk of Indians
+before the arrival of Gandhi in Indian politics
+2 Discuss the intellectual origins of the framework of argument that informed the
+conceptualization of social reforms leading to revolution in India
+58
+3 Discuss the circumstances surrounding the foundation of the Congress
+Socialist Party CSP under the leadership of Jawaharlal Nehru and the eventual
+failure of the proposal of direct elections through adult suffrage in the Indian
+Constitution
+4 Discuss the passage of the Hindu Code Bill of 1956
+19EIRIACXX
+PEDAGOGY STUDIES
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+Students will be able to
+Review existing evidence on the review topic to inform programme design
+and policy making undertaken by the DfID other agencies and researchers
+Identify critical evidence gaps to guide the development
+Introduction and Methodology
+Aims and rationale Policy background Conceptual framework and terminology
+Theories of learning Curriculum Teacher education Conceptual framework
+Research questions Overview of methodology and Searching
+Thematic overview
+Pedagogical practices are being used by teachers in formal and informal
+classrooms in developing countries Curriculum Teacher education
+Evidence on the effectiveness of pedagogical practices
+Methodology for the in depth stage quality assessment of included studies
+How can teacher education curriculum and practicum and the school curriculum
+and guidance materials best support effective pedagogy Theory of change Strength
+and nature of the body of evidence for effective pedagogical practices Pedagogic
+theory and pedagogical approaches eachers attitudes and beliefs and Pedagogic
+strategies
+Professional development alignment with classroom practices and followup
+support Peer support Support from the head teacher and the community
+Curriculum and assessment Barriers to learning limited resources and large class
+sizes
+Research gaps and future directions
+Research design Contexts Pedagogy Teacher education Curriculum and
+assessment Dissemination and research impact
+REFERENCES
+1 Ackers J Hardman F 2001 Classroom interaction in Kenyan primary schools
+Compare 31 2 245261
+2 Agrawal M 2004 Curricular reform in schools The importance of evaluation
+Journal of Curriculum Studies 36 3 361379
+3 Akyeampong K 2003 Teacher training in Ghana  does it count Multisite
+teacher Education research project MUSTER country report 1 London DFID
+59
+4 Akyeampong K Lussier K Pryor J Westbrook J 2013 Improving teaching and
+learning of basic maths and reading in Africa Does teacher preparation count
+International Journal Educational Development 33 3 272282
+5 Alexander RJ 2001 Culture and pedagogy International comparisons in
+primary Education Oxford and Boston Blackwell
+6 Chavan M 2003 Read India A mass scale rapid learning to read campaign
+7 wwwprathamorgimagesresource20working20paper202pdf
+COURSE OUTCOMES
+Students will be able to understand
+1 What pedagogical practices are being used by teachers in formal and
+informal classrooms in developing countries
+2 What is the evidence on the effectiveness of these pedagogical practices in
+what conditions and with what population of learners
+3 How can teacher education curriculum and practicum and the school
+curriculum and guidance materials best support effective pedagogy
+19EIRIACXX
+STRESS MANAGEMENT BY YOGA
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+To achieve overall health of body and mind
+To overcome stress
+Definitions of Eight parts of yog  Ashtanga 
+Yam and Niyam
+Dos and Donts in life
+i Ahinsa satya astheya bramhacharya and aparigraha
+ii Shaucha santosh tapa swadhyay ishwarpranidhan
+Asan and Pranayam
+i Various yog poses and their benefits for mind  body
+ii Regularization of breathing techniques and its effectsTypes of pranayam
+REFERENCES
+1 Yogic Asanas for Group TariningPartI Janardan Swami Yogabhyasi Mandal
+Nagpur
+2 Rajayoga or conquering the Internal Nature by Swami Vivekananda
+AdvaitaAshrama Publication Department Kolkata
+COURSE OUTCOMES
+Students will be able to
+1
+Develop healthy mind in a healthy body thus improving social health also
+2
+Improve efficiency
+19EIRIACXX PERSONALITY DEVELOPMENT THROUGH LIFE ENLIGHTENMENT SKILLS
+COURSE OBJECTIVES
+To learn to achieve the highest goal happily
+L T P C
+2 0 0
+0
+60
+To become a person with stable mind pleasing personality and determination
+To awaken wisdom in students
+NeetisatakamHolistic development of personality
+Verses 19202122 wisdom
+Verses 293132 pride  heroism
+Verses 26286365 virtue
+Verses 525359 donts
+Verses 71737578 dos
+Approach to day to day work and duties
+Shrimad Bhagwad Geeta  Chapter 2Verses 41 4748
+Chapter 3Verses 13 21 27 35 Chapter 6Verses 51317 23 35
+Chapter 18Verses 45 46 48
+Statements of basic knowledge
+Shrimad Bhagwad Geeta
+Chapter2Verses 56 62 68
+Chapter 12 Verses 13 14 15 1617 18
+Personality of Role model Shrimad Bhagwad Geeta
+Chapter2Verses 17 Chapter 3Verses 363742
+Chapter 4Verses 18 3839
+Chapter18  Verses 373863
+61
+REFERENCES
+1
+Srimad Bhagavad Gita by Swami SwarupanandaAdvaita Ashram Publication
+2
+Department Kolkata
+3
+Bhartriharis Three Satakam Nitisringarvairagya by PGopinath
+4
+Rashtriya Sanskrit Sansthanam New Delhi
+COURSE OUTCOMES
+Students will be able to
+1
+Study of ShrimadBhagwadGeeta will help the student in developing his
+personality and achieve the highest goal in life
+2
+The person who has studied Geeta will lead the nation and mankind to
+peace and prosperity
+3
+Study of Neetishatakam will help in developing versatile personality of
+students
+ME RHI  C 35
+ANNAMALAI UNIVERSITY PRESS  2019  2020

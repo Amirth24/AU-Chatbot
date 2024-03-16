@@ -1,0 +1,3263 @@
+7
+To ensure that the dissemination of knowledge reaches the stakeholders and
+forge the opening of a fresh flair of human resources
+To create opportunities for advancements in different facets of this discipline
+and offer avenues to reach the citadels of ones career
+PROGRAMME EDUCATIONAL OBJECTIVES
+PEO1 To provide a pool of post graduate engineers who are specialists in the
+modeling and design of basic and advanced semiconductor devices
+PEO2 To create a knowledge society in the area of design fabrication and
+characterization of micro electro mechanical systems such as microsensors and
+micro actuators by introducing various simulation tools and micro fabrication
+technologies
+PEO3 To train a group of engineers who would be capable of supporting Indian
+electronics industry to develop advanced and indigenous microsystems for the
+modern society
+PEO4 To train engineers who would design and develop nano electronic circuits
+and nano electro mechanical systems for the future world
+PEO5 To inculcate students a professional approach to problem solving using
+analytical academic and communication skills effectively with special emphasis
+on working in teams
+PEO6 To encourage students to acquire breadth of knowledge including the
+multidisciplinary nature of microelectronic engineering as well as the broad social
+ethical safety and environmental issues within which engineering is practiced
+PEO7 To lay the foundation for a strong desire to achieve leadership positions in
+industry or academia
+PROGRAMME OUTCOMES
+After the successful completion of the ME Microelectronics and MEMS degree
+programme the students will be able to
+PO1 Understand the fundamental scientific principles governing semiconductor
+electronic devices modelling of such devices and their incorporation into modern
+integrated circuits
+PO2 Provide the knowledge of semiconductor manufacturing process to utilize
+thin film processing methods to fabricate and packaging electronic components
+communication devices and micromechanical devices Understand the relevance of
+a process or device either proposed or existing to current manufacturing practices
+PO3 Develop indepth knowledge in existing or emerging areas of the field of
+Nano electronics such as device engineering circuit design lithography materials
+and processes yield and manufacturing
+PO4 Understand the basic concepts of MEMS technology an interdisciplinary
+field related to technologies used to fabricate nano to micro scale devices and
+systemonachip that embed electrical mechanical chemical and hybrid
+mechanisms to realize devices and systems for a broad array of applications such
+as physical sensors biomedical systems and complex multifunctional nanomicro
+systems
+8
+PO5 Introduce students to the techniques of micro and nanomanufacturing
+design and multiphysical simulation tools for the analysis of micro and nanostructures and study of their behaviour and the classification of micro and nano
+sensors and actuators in integrated technology
+PO6 Produce Engineers with the highly specialized knowledge and expertise
+that they need to design fabricate test and package sensors and actuators of micro
+and nano scale using conventional semiconductor technologies and other emerging
+technologies
+PO7 Develop process engineer to understand electrical engineering design
+rules electronic material properties and the physics using modern VLSI design
+tools
+PO8 Produce post graduates who have strong engineering knowledge and
+technical competence to use techniques skills and modern engineering tools that
+allow them to work effectively on the design of VLSI circuits that process Analog
+Digital and mixed signals for Communications Signal Processing and Control
+Systems
+PO9 Induce an enthusiasm for learning and develop continuous improvement
+of skills throughout ones career to adopt and accept changes within the field
+Mapping PO with PEO
+PEO1
+PO1
+PO2
+PO3
+PO4
+PO6
+PO8
+PO9
+PEO3
+PEO4
+PEO5
+PO7
+PEO2
+PO5
+PEO6
+PEO7
+ME MICROELECTRONICS AND MEMS FULLTIME
+Courses of Study and Scheme of Examination
+SEMESTER I
+Sl
+Course Code
+No
+Category
+1
+19EIMMPC11
+PC
+2
+19EIMMPC12
+PC
+3
+4
+19EIMMPE13
+19EIMMPE14
+PE
+PE
+5
+19EIMMMC15
+MC
+6
+19EIMMCP16
+CP
+7
+8
+19EIMMCP17
+19EIMMAC18
+CP
+AC
+Course
+L
+T
+P
+CA
+FE
+Semiconductor Devices and
+Modelling
+VLSI Fabrication
+Techniques
+Professional ElectiveI
+Professional ElectiveII
+Research Methodology and
+IPR
+Semiconductor Devices
+Simulation Laboratory
+VLSI Fabrication Laboratory
+Audit CourseI
+Total
+3
+25
+75
+Tota
+l
+100
+3
+25
+75
+100
+3
+3
+3
+2
+25
+25
+25
+75
+75
+75
+100
+100
+100
+3
+3
+2
+3
+40
+60
+100
+2
+2
+3
+40 60
+205 495
+100
+700
+2
+0
+18
+Credits
+3
+9
+SEMESTER II
+Sl
+Course Code
+No
+1 19EIMMPC21
+2
+3
+4
+5
+6
+7
+8
+Categor
+y
+PC
+Course
+L
+T
+P
+CA
+FE
+MEMS Technology
+3
+25
+75
+Tota
+l
+100
+3
+25
+75
+100
+3
+3
+3
+2
+25
+25
+25
+75
+75
+75
+100
+100
+100
+3
+3
+3
+3
+40
+60
+100
+2
+S
+2
+40
+60
+100
+2
+2
+Tr
+2
+20
+5
+495
+700
+0
+19
+L
+T
+P
+CA
+FE
+Total
+Credits
+19EIMMPC22
+PC
+19EIMMPE23
+19EIMMPE24
+PE
+PE
+19EIMMOE25
+OE
+19EIMMCP26
+CP
+19EIMMTS27
+TS
+MOS Devices and
+Modelling
+Professional ElectiveIII
+Professional ElectiveIV
+Open ElectiveI Inter
+Faculty
+MEMS Simulation
+Laboratory
+Industrial Training 
+Seminar
+19EIMMAC28
+AC
+Audit CourseII
+Total
+Credits
+3
+SEMESTER III
+Sl
+No
+1
+2
+Course Code
+Categor
+y
+19EIMMPE31
+PE
+Professional ElectiveV
+3
+25
+75
+100
+3
+19EIMMOE32
+OE
+Open ElectiveII inter
+faculty
+3
+25
+75
+100
+3
+Pr
+1
+6
+S
+4
+40
+60
+100
+10
+90
+210
+300
+16
+CA
+FE
+Total
+Credits
+40
+60
+100
+15
+40
+60
+100
+15
+3
+THI
+19EIMMTH33
+Course
+Project work  Vivavoce
+PhaseI
+Total
+SEMESTER IV
+Sl
+No
+Course
+Code
+Category
+1
+19EIMMTH41
+THII
+Course
+L
+Project work  Vivavoce
+PhaseII
+T
+P
+Pr
+S
+26
+6
+Total
+Note   Four weeks during the summer vacation at the end of II Semester
+L Lecture P Practical TH Thesis CA Continuous Assessment FE Final
+Examination
+PC Programme Core
+CP Core Practical
+AC
+Audit Course
+PE Professional Elective
+OE Open Elective
+TS Industrial Training and Seminar
+MC Mandatory Learning Course
+PV
+EI
+RI
+Project work  Vivavoce
+Branch code
+ME Specialization Code
+10
+ME MICROELECTRONICS AND MEMS PARTTIME
+COURSES OF STUDY AND SCHEME OF EXAMINATION REGULATION2019
+SEMESTER I
+Sl
+Course Code
+No
+1 19PEIMMPC11
+Category
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+PC
+Semiconductor Devices
+and Modelling
+VLSI Fabrication
+Techniques
+Research Methodology
+and IPR
+Semiconductor Devices
+Simulation Laboratory
+3
+25
+75
+100
+3
+3
+25
+75
+100
+3
+2
+25
+75
+100
+2
+3
+40
+60
+100
+2
+2
+19PEIMMPC12
+PC
+3
+19PEIMMMC13
+MC
+4
+19PEIMMCP14
+CPI
+Total
+115 285 400
+10
+SEMESTER II
+Sl
+Course
+No
+Code
+1 19PEIMMPC21
+2 19PEIMMPC22
+Category
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+PC
+PC
+MEMS Technology
+MOS Devices and
+Modelling
+Open ElectiveI From the
+Dept
+MEMS Simulation
+Laboratory
+Total
+3
+3
+25
+25
+75
+75
+100
+100
+3
+3
+2
+25
+75
+100
+3
+3
+40
+60
+100
+2
+115 285
+400
+11
+3
+19PEIMMOE23
+OE
+4
+19PEIMMCP24
+CPIII
+SEMESTER III
+Sl
+Course Code
+No
+1 19PEIMMPE31
+2 19PEIMMPE32
+3
+19PEIMMCP33
+Category
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+PE
+PE
+Professional ElectiveI
+Professional ElectiveII
+VLSI Fabrication
+Laboratory
+3
+3
+3
+25
+25
+40
+75
+75
+60
+100
+100
+100
+3
+3
+2
+90
+210
+300
+8
+CPII
+Total
+SEMESTER IV
+Sl
+Course Code
+No
+1 19PEIMMPE41
+2 19PEIMMPE42
+3 19PEIMMTS43
+Category
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+PE
+PE
+TS
+Professional ElectiveIII
+Professional ElectiveIV
+Industrial Training 
+Seminar
+3
+3
+Tr
+S
+25
+25
+40
+75
+75
+60
+100
+100
+100
+3
+3
+2
+2
+2
+90
+210
+300
+8
+Total
+SEMESTER V
+Sl
+Course Code
+No
+1 19PEIMMPE51
+2 19PEIMMPE52
+3
+19PEIMMTH53
+Category
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+PE
+OE
+Professional ElectiveV
+Open ElectiveII From
+the Dept
+Project work  Vivavoce
+PhaseI
+3
+3
+25
+25
+75
+75
+100
+100
+3
+3
+Tr
+S
+40
+60
+100
+10
+2
+2
+90
+210
+300
+16
+THI
+Total
+11
+SEMESTER VI
+Sl
+No
+Course Code
+Category
+19PEIMMTH61
+1
+THII
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+Project work  Vivavoce
+PhaseII
+Pr
+26
+S
+6
+40
+60
+100
+15
+40
+60
+100
+15
+Total
+L Lecture P PracticalTHThesis CA Continuous Assessment FE Final Examination
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+LIST OF PROFESSIONAL ELECTIVES
+RF MEMS
+Semiconductor Power Devices and Modelling
+Finite Element Analysis for MEMS
+Polysilicon Technology
+Microfluidics and Bio MEMS
+VLSI Design
+Digital Integrated Circuit Design
+Advanced VLSI System Design
+Fundamentals of IC Packaging Assembly and Test
+Mixed Signal IC Design
+Digital System Design with HDL Verilog
+Fundamentals of Nanoelectronics
+Photovoltaic devices technology
+Solar cell design and fabrication
+Introduction to nanomaterials
+Design and synthesis of nanomaterials
+Characterization techniques of nanomaterials
+Nano fabrication Techniques
+LIST OF OPEN ELECTIVES
+1 Optoelectronic Materials and Devices
+2 MEMS Design and Fabrication
+1
+2
+3
+4
+5
+6
+7
+LIST OF AUDIT COURSES
+English for Research Paper Writing
+Disaster Management
+Value Education
+Constitution of India
+Pedagogy Studies
+Stress Management by Yoga
+Personality Development through Life Enlightenment Skills
+19EIMMPC11
+SEMICONDUCTOR DEVICES AND MODELLING
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+To introduce the basics of semiconductor materials their electrical properties
+and quantitative analysis of such materials based on energy band diagrams
+To acquaint the students with the construction theory and operation of the
+PN junction diode its characteristics and quantitative analysis of PN junction
+diodes
+To teach the concepts of Bipolar Junction Transistors and quantitative analysis
+to estimate the performance factors
+To make the students understand the effect of junction capacitance their effect
+on the performance of diodes and BJTs and Breakdown characteristics of these
+devices
+12
+To impart knowledge of the operation and characteristics of Photodiodes and
+phototransistors and qualitative analysis of these devices
+Quantitative analysis of Semiconductors Atomic picture of Silicon and
+Germanium  Electric current free electron density and mobility in Semiconductors
+ Effect of doping on minority carrier density in Semiconductors  Energy band
+picture of P and N type Semiconductors  Temperature dependence of conductivity
+ Degeneracy Calculation of free electron density and hole density in a
+Semiconductor  Determination of position of Fermi level for a given Semiconductor
+ Carrier density expressed in terms of departure of Fermi level from intrinsic Fermi
+level  Fermi level in Ntype and Ptype samples as measured from intrinsic Fermi
+level  Very lightly doped samples  representation of energy band diagram in terms
+of potential  Equation governing potential distribution in a Semiconductor 
+Equation governing distribution of hole density and electron density  Continuity
+equation for Semiconductors  Determination of steady state excess carrier density
+ Concepts of Quasi Fermi level
+Quantitative analysis of PN junction Diode PN junction under thermal
+equilibrium  PN junction under Forward bias  PN junction under Reverse bias 
+Behavior under large forward voltage  Temperature dependence of PN junction
+characteristics  Break down under reverse bias  Thermal Break down Zener
+Break down and Avalanche Break down  Transition capacitance of a PN junction
+Band diagram for a Semiconductor with an applied voltage  PN junction in
+thermal equilibrium  Minority carrier densities in a PN junction under Forward
+bias  Expression for total current in a PN junction  Calculation of carrier density
+and current in a reverse biased junction NPN junction behavior in terms of
+minority carrier stored charge  Calculation of electric field and voltage drop in the
+bulk
+Quantitative analysis of Bipolar Junction Transistor Operation of a BJT 
+Performance parameters  Effect of collector junction voltage on current 
+Dependence of IC on VE and IE Uniform Base PNP transistor with Forward biased
+BE junction and Reverse biased CB junction  Calculation of performance
+parameters  Transit time of minority carriers through base  Effect of floating
+collector on transistor VI characteristics  Effect of floating emitter junction
+characteristics  Collector current with base floating  Temperature effects in
+Transistors  Effect of device geometry on the transistor performance  Ebermolls
+equation
+Junction Transition capacitance and junction Break down voltages Electric
+field and potential distribution in PN junction at thermal equilibrium  transition
+capacitance and Break down voltages in linearly graded junction and an abrupt
+junction  CT in PIN Diode  Break down voltage in transistor
+Quantitative analysis of Photo diodes and Photo transistors Carrier
+generation by light in a uniform piece of semiconductor  PN junction photo diode
+for light detection  Open circuit photo voltages  Short circuit current in photo
+diode  Photo diode current under combined action of light and reverse bias  Photo
+13
+diode current under combined action of light and forward bias  Photo transistor 
+Expression for current in photo transistor  Solar cells using photo diodes
+REFERENCES
+1 MK Achuthan and K N Bhat Fundamentals of Semiconductor devices Tata
+McGraw Hill New Delhi 2007
+2 Ben G Streetman Solid State Electronics Prentice Hall 1999
+3 SMSze Modern Semiconductor Devices Physics John Wiley and Sons 1998
+4 Donald A Meamen Semiconductor Physics and Devices  Basic Principles
+McGraw Hill 2003
+COURSE OUTCOMES
+On successful completion of the course the students will be able to
+1 Describe the equations based on energy band diagrams acceptable
+approximations and for intrinsic p and N type semiconductors
+2 Explain the operation of pn junction diodes quantitatively and qualitatively
+3 Describe the fabrication device operation of a BJT quantitatively and model
+its characteristics from basic principles
+4 Understand the effects of junction capacitance and break down voltages on
+the performance of PN junction diodes and BJTs the Classify and describe
+the semiconductor devices for special applications
+5 To analyze and develop models of optoelectronic devices such as Solar Cells
+and LEDs
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+PO2
+19EIMMPC12
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+VLSI FABRICATION TECHNIQUES
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To introduce the basic concepts of micro systems and advantages of
+miniaturization
+ To teach the fundamentals of micromachining and micro fabrication techniques
+ To train the students on the design of micro sensors and actuators and
+fabrication flow process
+ To bring both circuits and system views on design together
+ To understand MOS transistor as a switch and its capacitance
+Properties of silicon Crystal structure  Orientation effects  crystal defects 
+Impurities in Silicon  Properties of Silicon and Gallium Arsenide  Starting
+materials  Bridgeman techniques for crystal growth  Czochralski technique 
+Requirements for proper crystal growth
+Diffusion Nature of diffusion  Diffusion in a concentration gradient  Diffusion
+coefficient  Field aided motion  Impurities for Silicon  Substitutional Diffusers 
+Interstitial
+and
+Substitutional
+Diffusers
+Diffusion
+equation
+DConstant case  Diffusion from a constant source  Diffusion from a limited
+14
+source  Two step diffusion Diffusion systems  Choice of dopant source 
+Diffusion systems for Silicon  Special problems in Silicon diffusion  Redistribution
+ohmic oxide growth  Emitter push effect
+Thermal oxidation of Silicon Oxide formation  Kinetics of Oxide growth 
+Initial growth phase  Doping dependence effects  Orientation dependence effects 
+Oxidation systems  Properties of thermal oxides  Anodic oxidation  Oxide growth
+in anodic oxidation  Properties of anodic oxides
+Wet chemical etching Isotropic etching  Anisotropic etching  Etching of
+crystalline materials  Silicon etching using HNO3 KOH TMAH and EDP etching 
+SiO2 etching  PSG etching  Silicon Nitric etching  Poly Silicon etching  Plasma
+etching  Wafer cleaning
+Lithographic Process Optical techniques  Ebeam techniques  Printing and
+engraving  Optical printing  Liftoff techniques  Photo resist  Mask defects 
+Printing and engraving defect Ion implantation Penetration range  Nuclear
+stoping  Implantation domestic  Annealing  Ion implantation systems
+PolySilicon deposition using LPCVD  PECVD techniques  Metallization  Process
+flow for BJT fabrication  Process flow for self aligned MOSFET fabrication  Process
+flow for SOI MOSFET fabrication
+REFERENCES
+1 Sorab K Ghandhi VLSI Fabrication Principles Wiley Inter Science
+Publication New York 1994
+2 Sami Franssila Introduction to Microfabrication John Wiley and Sons
+2004
+3 Sze SM VLSI Technology McGraw Hill Publishers 1988
+4 Sze SM ULSI Technology McGraw Hill Publishers 1996
+COURSE OUTCOMES
+Upon completing the course the students will be able to
+1 Know the basic concepts of micro systems and advantages of
+miniaturization
+2 Understand the fundamentals of micromachining and micro fabrication
+techniques
+3 To be aware about the trends in semiconductor technology and how it
+impacts scaling and performance
+4 Expertise the knowledge in design of micro sensors and actuators
+fabrication
+5 Able to learn Layout Stick diagrams Fabrication steps Static and Switching
+characteristics of inverters
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+PO2
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+15
+19EIMMMC15
+RESEARCH METHODOLOGY AND IPR
+L T P C
+2 0 0
+2
+COURSE OBJECTIVES
+To understand the research problem formulation and analyze research related
+information
+Research Problem Meaning of research problem Sources of research problem
+Criteria Characteristics of a good research problem Errors in selecting a research
+problem Scope and objectives of research problem Approaches of investigation of
+solutions for research problem data collection analysis interpretation Necessary
+instrumentations
+Effective literature studies Approaches analysis Plagiarism Research ethics
+Effective technical writing How to write report Paper Developing a Research
+Proposal Format of research proposal a presentation and assessment by a review
+committee
+Nature of Intellectual Property Patents Designs Trade and Copyright
+Process of Patenting and Development technological research innovation
+patenting development International Scenario International cooperation on
+Intellectual Property Procedure for grants of patents Patenting under PCT
+Patent Rights Scope of Patent Rights Licensing and transfer of technology
+Patent information and databases Geographical Indications
+New Developments in IPR Administration of Patent System New
+developments in IPR IPR of Biological Systems Computer Software etc Traditional
+knowledge Case Studies IPR and IITs
+REFERENCES
+1 Stuart Melville and Wayne Goddard Research methodology an introduction
+for science  engineering students
+2 Wayne Goddard and Stuart Melville Research Methodology An Introduction
+Ranjit Kumar 2 nd Edition  Research Methodology A Step by Step Guide for
+beginners
+3 Halbert Resisting Intellectual Property Taylor  Francis Ltd 2007
+4 Mayall  Industrial Design McGraw Hill 1992
+5 Niebel  Product Design McGraw Hill 1974
+6 Asimov  Introduction to Design Prentice Hall 1962
+7 Robert P Merges Peter S Menell Mark A Lemley  Intellectual Property in
+New Technological Age 2016
+8 T Ramappa Intellectual Property Rights Under WTO S Chand 2008
+COURSE OUTCOMES
+At the end of this course students will be able to
+Understand research problem formulation
+Analyze research related information
+Follow research ethics
+16
+Understand that todays world is controlled by Computer Information
+Technology but tomorrow world will be ruled by ideas concept and
+creativity
+Understanding that when IPR would take such important place in growth of
+individuals  nation it is needless to emphasis the need of information
+about Intellectual Property Right to be promoted among students in general
+ engineering in particular
+Understand that IPR protection provides an incentive to inventors for further
+research work and investment in R  D which leads to creation of new and
+better products and in turn brings about economic growth and social
+benefits
+MAPPING OF COs WITH POs
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11
+CO1 
+CO2 
+CO3
+CO4
+CO5
+19EIMMCP16
+SEMICONDUCTOR DEVICES SIMULATION LABORATORY
+L T P C
+0 0 3 2
+COURSE OBJECTIVES
+ To teach the students the basic concepts of semiconductors with appropriate
+simulation experiments
+ To make them learn the operation of basic PN junction diode and BJT
+ To make them correlate the results obtained in simulation with the theoretical
+model
+ To educate the students to develop MATLAB programs for simulating basic
+electronic devices
+LIST OF EXPERIMENTS
+Discrete energy levels possessed by electrons in an isolated atom
+Temperature dependence of intrinsic carrier concentration in semiconductor
+Electron and hole concentration in semiconductor doped at different levels
+Conductivity and resistivity of semiconductor doped at different levels
+Temperature effects on the probability of occupation of energy levels in a
+semiconductor
+ Effect of Doping concentration on the contact potential Vcp in a PN junction
+semiconductor diode
+ Determination of the forward and reverse characteristics of a PN junction
+diode parameter like conductivity of P and N region and their Dimension
+ Estimation of BJT performance parameters        for a given device
+ Analysis of the collector current in P  NP and N  PN transistors for
+different device parameters
+ Simulation studies on diffusion process and estimation of diffusivity at
+different temperatures
+17
+COURSE OUTCOMES
+At the end of the practical course the students will be able to
+1 Understand the concepts they have learnt in the semiconductor devices
+modeling course
+2 Develop programs to simulate semiconductors PN junction diode and BJT
+and verify their operation under different conditions
+3 Develop models for semiconductor devices
+4 Develop MATLAB programs for simulating basic electronic devices
+5 Work as a software developer for semiconductor devices simulation
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+PO2
+19EIMMCP17
+Mapping of COs with POs
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+VLSI FABRICATION LABORATORY
+L
+T
+P
+C
+0
+0
+3
+2
+COURSE OBJECTIVES
+ To teach the students the practical aspects of oxidation  metal evaporation and
+spinning in clean room environment
+ To make them correlate the experimental results obtained in the VLSI
+fabrication processes
+ To make them learn the characterization of packaged electronic devices using
+advanced semiconductor parametric analyzer
+ To educate the students the wafer level testing of fabricated semiconductor
+devices and MEMS structures
+LIST OF EXPERIMENTS
+1 Determination of IV characteristics of PV cell at wafer level
+2 Thin film coating of aluminium on Si substrate using Evaporation technique
+3 Thin film coating using spinner at various speeds and standardization
+4 Oxidation of silicon wafer using dry and wet oxidation processes
+5 IV characterization of resistors and LED using Semiconductor parametric
+analyser
+6 IV characterization of Semiconductor and Zener diodes with the help of
+Semiconductor parametric analyser
+7 Determination of IV characteristics of BJT and MOSFET with the help of
+Semiconductor parametric analyser
+8 Wafer level device characterization of MOSCAP and MOSFET using Probe
+station
+COURSE OUTCOMES
+On successful completion of the course the students will be able to
+18
+1 Obtain and analyze IV characteristics of any electronic component using
+Semiconductor parametric analyser
+2 Observe the IV characteristics for different pacakaged MEMS devices using
+Semiconductor parametric analyser
+3 Perform wafer level testing of any Integrated circuits or MEMS structure
+using probe station and semiconductor parameter analyser
+4 Conduct thin film metal deposition and thin film coating in clean room
+environment
+5 Work in any semiconductor industry environment
+PO1
+CO1
+PO2
+Mapping of COs with POs
+PO3
+PO4
+PO5
+PO6
+CO2
+CO3
+CO4
+CO5
+19EIMMPC21
+PO7
+MEMS TECHNOLOGY
+PO8
+PO9
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To introduce the basic concepts of micro systems and advantages of
+miniaturization
+ To study the various materials and their properties used for micromachining
+techniques
+ To teach the fundamentals of micromachining and micro fabrication techniques
+ To impart knowledge of the basic concept of electromechanical effects thermal
+effects Micro fluidics and Integrated fluidic systems
+ To teach the fundamentals of pressure sensors and accelerometer sensors
+through design and modeling
+ To give exposure to different MEMS devices
+Properties of silicon Crystal structure  Orientation effects  crystal defects 
+Impurities in Silicon  Properties of Silicon and Gallium Arsenide  Starting
+materials  Bridgeman techniques for crystal growth
+Bulk MicroMachining wet etching of siliconIsotropic etchinganisotropic
+etchingalkali hydroxide etchantsammonium hydroxidetetra methyl ammonium
+hydroxide TMAHethylene diamine pyrochatechol EDPultrasonic agitation in wet
+etching stop layers for dopant elective etchants Poroussilicon formation 
+anistrophic wet etching of porous aluminumanistrophic wet etching  quartzvapour phase etches RLElaser driven bulk processing
+Surface Micromachining Thin film processesnonmetallic thin film for
+micromachining silicon dioxide  silicon nitride  silicon carbide  polycrystalline
+diamond  polysilicon and other semiconductors and thin film transition  wet
+etching of nonmetallic thin filmmetallic thin film for micromachining  Resistive
+evaporation  E  beam evaporationsputter depositioncomparison of evaporation
+19
+and sputtering  CVD of metals  adhesion layer for metals  electro deposition E
+plating  Electrodeposition mechanism  DC electroplatingpulsed electroplatingAgitation for electroplatingblack metal filmelectro less plating
+Bonding Processes Anodic BondingAnodic bonding using deposited glasssilicon fusion bondingother bonding and techniquescompound processes using
+bonding
+Sacrificial Processes and Other Techniques Sticking problem during wet
+releasingprevention of stickingphase change release methodsgeometryexamples
+of sacrificial processes  Sacrificial LIGA process
+Advanced MEMS for Sensing and Actuation Electromechanical effects
+Piezoresistance  Piezoelectricity  Shape memory alloyThermal effects
+Temperature coefficient of resistance  Thermoelectricity  Thermocouples  Micro
+fluidics  Squeeze film damping  Surface tension and bubbles Devices pumps
+valves mixers Integrated fluidic systems BioMEMS
+Design of Pressure Sensors Piezoreistive Pressure Sensor Sensing Pressure
+Piezoresistance Analytic Formulation in Cubic MaterialsLongitudinal and
+Transverse Piezoresistance Piezoresistive Coefficients of Silicon Structural
+Examples Signal Conditioning and Calibration Design of Capacitive
+Accelerometer
+Fundamentals
+of
+QuasiStatic
+Accelerometers
+Position
+Measurement with Capacitance Circuits for Capacitance MeasurementDemodulation Methods Case Study Specifications Sensor Design and ModelingFabrication and Packaging
+REFERENCES
+1 GK Ananthasuresh KJ Vinoy S Gopalakrishnan KN Bhat VK Aatre
+Micro and Smart Systems Wiley India First Edition 2010
+2 Chang Liu Foundations of MEMS ILLINOIS ECE Series Pearson Education
+International 2006
+3 Gregory TA Kovacs Micro machined Transducers Source Book WCB McGraw
+Hill Singapore 1998
+4 TaiRanHsu MEMS  Microsystems Design and Manufacture TATA
+McGrawHill New Delhi 2002
+5 Sorab KGhandhi VLSI Fabrication Principles Wiley Inter Science
+Publication New York 1994
+6 MHBao Micromechanical transducers Pressure sensors accelerometers and
+gyroscopes Elsevier Newyork 2000
+COURSE OUTCOMES
+On successful completion of the course the students will be able to
+1 Gain thorough knowledge of materials used for micromachining techniques
+2 Understand the process of Bulk Micro Machining techniques
+3 Acquire the knowledge of Electromechanical effects Thermal effects Micro
+fluidics Devices such as pumps valves mixers Integrated fluidic systems
+and BioMEMS
+4 Analyze and develop models for different types of Pressure Sensors and
+acclereometers
+20
+5 Acquire expertise in the design of sensors for any practical applications
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+PO2
+19EIMMPC22
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+MOS DEVICES AND MODELLING
+PO7
+PO8
+PO9
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+To introduce the basic concepts of MOS structure under different modes of
+operation and characteristics
+To educate on solving the problem based on MOS structure
+To teach the fundamentals of MOSFET operation under various SPICE level
+models
+ To impart knowledge aboutshort and long channel effects
+ To provide an overview on the design of SOI MOSFETs and High Speed
+Devices
+MOS Structure Ideal MOS structure and different modes of operation  Ideal
+MOS structure under thermal equilibrium accumulation mode depletion mode
+and inversion mode  small signal capacitance of MOS structure in depletion 
+Threshold voltage of ideal MOS structure  CV characteristics of MOS capacitor 
+Effects of non  idealities on MOS characteristics  effect of work function charges
+on oxide like fixed oxide charge mobile ionic charge oxide trapped charge and
+interface trap density  threshold voltage including non  idealities
+MOSFET Operation Qualitative operation of square law model and for static
+characteristics  SPICE level 1 for MOSFET characteristics  Bulk charge model
+SPICE  level 2 model  SPICE level 3 model  body effect or substrate bias effect 
+Subthreshold conduction in MOSFET  small signal model for MOSFETs
+Short Channel Effects Short channels effects on threshold voltage  channel
+length modulation  velocity saturation  breakdown voltage  scaling and types of
+scaling  short channel devices modeling
+SOLAR CELLOPTOSOI MOSFETS Advantages of SOI MOSFETs  SOI wafer
+fabrication techniques  partially depleted SOI MOSFET  Threshold voltage of a
+partially depleted SOI MOSFETs  kink effect  fully depleted SOI MOSFET 
+threshold voltage of fully depleted SOI MOSFET
+High Speed Devices Metal Semiconductor contacts  metal conducts on N type
+semiconductor and P type semiconductor  Surface states and their effects 
+Schottky barrier function MESFETs  Structure of GaAs MESFETS  pinch off
+voltage and threshold voltage  MESFET modelling
+REFERENCES
+1 Achuthan MK and Bhat KN Fundamentals of Semiconductor devices Tata
+McGraw Hill New Delhi 2007
+21
+2 Nandita Dasgupta and Amitava Dasgupta Semiconductors Devices Modelling
+and Technology Prentice Hall India 2004
+3 Narain Arora MOSFET Models for VLSI Circuits Simulation  Theory and
+Practice Springer Verlag New York 1993
+4 Sze SM Modern Semiconductor Devices Physics John Wiley and Sons 1998
+5 Ben G Streetman Solid State Electronics Prentice Hall 1999
+COURSE OUTCOMES
+At the end of the course the students will be able to
+Know the basic concepts of MOS structure under different modes of operation
+and characteristics
+Understand the fundamentals on solving the problem based on MOS structure
+Gain the expertise on fundamentals of MOSFET Operation under various SPICE
+level models and problem solving
+Understand the design concepts about short and long channel effects
+Acquire knowledge on the SOI MOSFETS and High Speed Devices
+1
+2
+3
+4
+5
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+Mapping of COs with POs
+PO3
+PO4
+PO5
+PO2
+19EIMMCP26
+PO6
+PO7
+PO8
+MEMS SIMULATION LABORATORY
+L
+0
+T
+0
+PO9
+P
+3
+C
+2
+COURSE OBJECTIVES
+To teach the students the existing industrial standard software tools available
+for MEMS design
+ To make them learn the simulation Pressure Sensors and piezo resistors RF
+MEMS swithces
+ To make them correlate the results obtained in simulation with the theoretical
+model
+ To educate the students to design MEMS sensors and actuators using
+IntelliSuite CoventorWare and COMSOL
+LIST OF EXPERIMENTS
+1 Study of IntelliSuite Software for the design and fabrication process of MEMS
+devices
+2 Deflection Response of SOI Silicon  On  Insulator Pressure Sensor
+3 Construction and Simulation of RF Switch
+4 Determination of Capacitance change in Capacitive Pressure Sensor
+5 Studies on effect of Air Gap on Pull  in Voltage of Cantilever beam employed RF
+Switch
+6 Estimation of Resistance change in SOI Piezo  resistive Pressure Sensor
+7 Studies on effect of Air Gap on Pull  in voltage of fixed beam employed in RF
+Switch
+8 Design and Construction of different types of Accelerometer and determination
+of its natural frequency
+a Design and Analysis of Piezoresistive Accelerometer using CoventorWare
+software
+22
+b Design and Analysis of Comb drive type Capacitive Accelerometer using
+IntelliSuite software
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Know the basic concepts of MEMS structures under different modes of
+operation and characteristics
+2 Understand the fundamentals on solving the problem based on MEMS
+structure
+3 Gain the expertise on fundamentals of MEMS design and operation
+4 Understand the design concepts of MEMS sensors and actuator for practical
+applications
+5 Work in any MEMS design industry
+PO1
+PO2
+CO1
+CO2
+CO3
+CO4
+CO5
+19EIMMTS27  19PEIMMTS43
+Mapping of COs with POs
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+INDUSTRIAL TRAINING  SEMINAR
+PO9
+L T PC
+0 2 2 2
+COURSE OBJECTIVES
+To train the students in the field work related to Microelectronics and MEMS to
+have a practical knowledge in carrying out Microelectronics and MEMS field
+related works
+To train and develop skills in solving problems during execution of certain
+works related to Microelectronics and MEMS
+The students individually undergo a training program in reputed concerns in
+the field of Microelectronics and MEMS during the summer vacation at the end of
+second semester for fulltimefourth semester for parttime for a minimum
+stipulated period of four weeks At the end of the training the student has to
+submit a detailed report on the training they had within ten days from the
+commencement of the third semester for Fulltimefifth semester for parttime
+The students will be evaluated by a team of staff members nominated by head of
+the department through a vivavoce examination
+COURSE OUTCOMES
+1 The students can face the challenges in the practice with confidence
+2 The student will be benefited by the training with managing the situation arises
+during the execution of works related to Microelectronics and MEMS
+23
+19EIMMTH33  19PEIMMTH53
+PROJECT WORK AND VIVAVOCE PHASE  I
+L T P C
+0 16 4 10
+COURSE OBJECTIVES
+To develop the ability to solve a specific problem right from its identification and
+literature review till the successful solution of the same
+To train the students in preparing project reports and to face reviews and viva
+voce examination
+COURSE OUTCOMES
+Upon completion of this course the students will be able to
+1 Take up any challenging practical problems and find solution
+2 Learn to adopt systematic and stepbystep problem solving methodology
+MAPPING OF COs WITH POs
+COS PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+19EIMMTH41  19PEIMMTH61
+PROJECT WORK AND VIVAVOCE PHASE  II
+L T P C
+0 24 6 15
+COURSE OBJECTIVES
+To develop the ability to solve a specific problem right from its identification and
+literature review till the successful solution of the same
+To train the students in preparing project reports and to face reviews and viva
+voce examination
+COURSE OUTCOMES
+Upon completion of this course the students will be able to
+1 Take up any challenging practical problems and find solution
+2 Learn to adopt systematic and stepbystep problem solving methodology
+MAPPING OF COs WITH POs
+COS PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9
+CO1 
+CO2 
+24
+PE  PROFESSIONAL ELECTIVES
+19EIMMPEXX
+RF MEMS
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+To impart knowledge on RF Circuits and associated parameters
+To educate on RF MEMS Circuit Elements and modelling
+To provide an overview on reconfigurable circuit and circuit elements
+To introduce the concepts and working of reconfigurable antennas
+To give an overview of the RF MEMS based phase shifter and oscillator
+Motivation for RF MEMS Advantages of developing MEMS based RF passive
+components and RF circuits  Physical aspects of RF design  Skin effect 
+Transmission lines on thin substrate  self resonance frequency  Quality factor 
+Packaging  Practical aspects of RF circuit design  DC biasing  Impedance
+mismatch effects in RF MEMS
+RF MEMS enabled circuit elements RFMicrowave substrate properties 
+micromechanical enhanced elements  Capacitors  Inductors  Varactors  RF
+MEMS switches  Shunt MEM switch  Low voltage hinged MEM switch  Push pull
+series switch  folded beam spring suspension series switch
+RF MEMS based Circuit Elements Resonators  Transmission line planar
+resonator  Cavity resonators  Micromechanical resonators  Film acoustic wave
+resonator MEMS modeling  MEMS mechanical modeling  MEMS electromagnetic
+modeling
+Reconfigurable circuit elements The resonant MEMS switch  Capacitors 
+Inductors  Tunable CPW resonator  MEMS micro switch arrays Reconfigurable
+circuit Double stub tuner  nth stub tuner  Filters  Resonator tuning system 
+Massively parallel switchable RF front ends  True time delay digital phase shifters
+Reconfigurable antenna Tunable dipole antenna  Tunable micro strip patch 
+Array antenna
+Phase shifter X band and Ka band millimeter wave micromachined tunable
+filter  A high 8 MHz MEMS resonator filter RF MEMS oscillator 14 MHz MEMS
+oscillator  Case study and a Ka band micromachined cavity oscillator
+REFERENCES
+1 Santos Hector JDL RF MEMS circuit design for wireless communication
+Artech house MEMS series 2002
+2 Kovacs GTA Micromachined Transducers WCB McGraw Hill 1998
+3 Sze SM Semiconductor Sensors John Wiley and Sons 1994
+4 Mahalik NP MEMS Tata McGraw Hill 2007
+COURSE OUTCOMES
+Upon completing the course the student should
+1 Understand the basic concepts of RF MEMS
+2 Acquire the working concepts of RF MEMS Circuit Elements
+3 Understand the concepts and structure of RF MEMS Circuits reconfigurable
+RF MEMS circuits and elements and their modelling
+25
+4 Acquire the working knowledge of RF MEMS based reconfigurable antenna
+5 Understand the concepts and working of RF MEMS based phase shifter and
+oscillators
+PO1
+PO2
+CO1
+CO2
+CO3
+CO4
+CO5
+19EIMMPEXX
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+SEMICONDUCTOR POWER DEVICES AND MODELLING
+PO8
+PO9
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To introduce the basics of semiconductor devices used in the power
+electronics
+ To acquaint the students with the construction theory and operation of the
+power diodes its characteristics and quantitative analysis
+ To teach the concepts of power JFET and quantitative analysis to estimate the
+performance factors
+ To make the students understand the structure function and application of
+power MOSFET in power electronics
+ To impart knowledge of the operation and characteristics of power field control
+devices and IGBT
+Power Diodes Breakdown voltage  Avalanche Breakdown  Breakdown voltage
+in an abrupt junction diode  Punch through diode  Linearly graded junction 
+Diffused junction diode  Junction termination  Planar diffused termination 
+Cylindrical termination  Spherical junction  Floating field rings  Multiple floating
+rings  Beveled edge termination  Positively beveled junction  Negatively beveled
+junction  Comparison of termination
+Power JFETs Basic structure and operation  Basic device characteristics 
+Field independent and dependent mobility analysis  Space charge limited current
+flow  Triode  Pentode transition  Effect of the drift region  Punch through
+structure  Frequency response
+Power Field Controlled Diodes Basic structure and characteristics  Forward
+conduction  Dynamic characteristics  Turnon analysis  Reverse recovery  Gate
+turnoff  Frequency response  Gate turn off time  Forward conducting
+characteristics  High temperature response  Reverse blocking capability 
+Forward blocking capability  Gating methods
+Power MOSFETs Basic Structure and operation  Basic device characteristics 
+Device analysis  Doping profile  Cell spacing  V groove corner  Forward
+conduction characteristics  Threshold voltage  Channel conductance  ON
+resistance  Frequency response  Input Capacitance  Switching performance 
+dvdt capability  Control of switching speed  DMOS structure and VMOS
+structure technologies
+26
+IGBT Basic structure and operation  Device analysis  Reverse blocking
+capability  Forward blocking capability  IGBT modelling  Frequency response 
+High temperature Performance
+REFERENCES
+1 Jayanth Baliga Modern Power Devices PWS Publications Co 1995
+2 SK Ghandhi Semiconductor Power Devices John Wiley Publications 1977
+3 MK Achuthan and K N Bhat Fundamentals of Semiconductor devices Tata
+McGraw Hill New Delhi 2007
+COURSE OUTCOMES
+On successful completion of the course the students will be able to
+1 Understand the function and application of power diodes
+2 Explain the operation of Power JFET quantitatively and qualitatively
+3 Describe the device operation of power field controlled diodes quantitatively and
+model its characteristics from basic principles
+4 Understand the structure and chracteristics operation of the power MOSFET
+5 Understand the basic structure and modelling of IGBT
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+PO2
+19EIMMPEXX
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+FINITE ELEMENT ANALYSIS FOR MEMS
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To equip the students with the Finite Element Analysis fundamentals
+ To model and analyze 1D and 2D finite elements for structural elements like
+beam frame and plane elements
+ To introduce basic aspects of finite element technology including domain
+discretization Polynomial interpolation application of boundary conditions
+assembly of global arrays and solution of the resulting algebraic systems
+ To help the students use FEA method and commercial software package to
+solve problems in heat transfer mechanics of materials and machine design
+ To familiarize students with professional  level finite element software like
+ANSYS
+Introduction Basic Principles of Finite Element Method  Modern Concepts in
+Simulation and Modelling Behavioral Modelling Modelling Levels such as device
+and system  level  Some basic but important mathematical and physical
+concepts in FEA  Concepts such as elements and nodes Discretization and other
+Approximations
+1D FEA and 2D FEA One  Dimensional FEs eg beams bars cables and
+springs Stiffness and load vector formulations and boundary conditions Two
+27
+Dimensional Finite Elements Discussion includes plane elements plane  stress
+and plane  strain and plate elements
+Thermal Analysis Basic Equations FEs for thermal analysis Thermal
+transients Discussion on Modelling Numerical Errors and Accuracy Discussion
+includes tests for elements sources and detection of numerical errors convergence
+study and adaptive techniques Basic Electromagnetics Basic Electromagnetic
+Equations FEs for field equations transients
+Dynamic Analysis  Free vibration and dynamic problems Include response
+spectra analysis Computational Fluid Dynamics CFD Basic Navier  Stokes
+Equations FEs for fluids elements of CFD  Microfluidics Discussion on stability
+analysis and nonlinear analysis Solution algorithms and convergence
+ANSYS  Introduction Build ANSYS Model for one dimensional and two
+dimensional elements plane stress problem thermal problem electromagnetic
+problem dynamic problem and a model for CFD problem FE modelling and
+analysis of Microelectro  Mechanical Systems MEMS using ANSYS Coupled Field
+Analysis Modelling mass and condensation technique Build ANSYS Model for a
+MEMS problem
+REFERENCES
+1 Robert D Cook Finite Element Modeling for Stress Analysis John Wiley and
+Sons 1995
+2 Vince Admas and Abraham Askenazi Building Better Products with Finite
+Element Analysis On Word Press 1998
+3 Chandrupatla RT and Belegundu A D Introduction to Finite Elements in
+Engineering Second Edition Prentice Hall of India 1997
+4 Moaveni S Finite Element Analysis Theory and Application with ANSYS
+Prentice Hall Inc 1999
+5 JN Reddy Introduction to the Finite Element Method McGraw Hill Publishers
+2nd Edition
+6 KJ Bathe Finite Element Procedures in Engineering Analysis Prentice Hall
+2nd Edition 1997
+COURSE OUTCOMES
+Upon completing the course the student should have
+1 The ability to identify mathematical model for solution of common
+engineering problems and formulate finite elements model to obtain the
+solutions
+2 Familiarity to use professional  level finite element software to solve
+engineering problems in solid mechanics fluid mechanics and heat transfer
+3 The capability to derive element matrix equation by different methods based
+on basic laws in mechanics and integration by parts
+4 Learnt the formulation of one  dimensional two  dimensional and three
+dimensional elements used in MEMS sensors and actuators
+5 Exposure to conduct FEA using commercial FEM software
+28
+CO1
+CO2
+CO3
+CO4
+CO5
+Mapping of COs with POs
+PO4
+PO5
+PO6
+19EIMMPEXX
+POLYSILICON TECHNOLOGY
+PO1
+PO2
+PO3
+PO7
+PO8
+PO9
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To introduce on polysilicon deposition and various processes
+ To explain electrical properties Carrier Transport Effective mobility and
+different passivation techniques of polysilicon
+ To teach the vital applications of Polysilicon
+ To make the students understand modelling of PSOI MOSFETs and threshold
+voltage model for various modes of PSOI MOSFETs
+ To educate the concepts of Polysilicon for MEMS applications and motivate the
+students to design different devices
+Polysilicon Deposition  Deposition Process  LPCVD process for polysilicon
+deposition  Grain size  Grain orientatioNPhysical properties of polysilicon 
+Influence of deposition condition on the polysilicon structure  recrystallization
+technique  Dopant diffusion and segregation in polysilicon  Oxidation of
+polysilicon films
+Electrical Properties  Undoped polysilicon  Moderately doped polysilicon 
+Carrier trapping at grain boundaries  Grain boundary trap density  Potential
+barrier  Carrier Transport  Effective mobility  Passivation in polysilicon 
+Different passivation techniques
+Polysilicon applications As resistor  Zero temperature coefficient resistor
+using polysilicon  High value resistors  Polysilicon links  Polysilicon diodes 
+Polysilicon solar cells  Self aligned gate technology using polysilicon
+PSOI MOSFETs finite elemntComparison of single crystal silicon MOSFETs and
+polysilicon MOSFETs  Application of polysilicon TFT for AMLCDs and SRAM 
+Inversion mode PSOI MOSFETs  Modelling of PSOI MOSFETs  Threshold voltage
+model of inversion mode PSOI MOSFETs  Passivation and its influence on the
+transistor parameters  Effect of doping on threshold voltage in PSOI MOSFETs 
+Accumulation mode PSOI MOSFETs  Advantage of accumulation mode PSOI
+MOSFETs  Threshold voltage model for accumulation mode PSOI MOSFETs
+Polysilicon for MEMS applications  Polysilicon mechanical properties 
+Polysilicon cantilever structures  MEMS switches using polysilicoNPolysilicon
+piezo resistor for MEMS pressure sensor application  Floating gate transistor for
+gas sensing applications  MEMS integration using polysilicon TFTs with polysilicon
+structures
+29
+REFERENCES
+1
+2
+3
+4
+Ted Kamins Polycrystalline Silicon for IC Applications Kluwer academic
+Publishers Second Edition 1998
+Sze SM Semiconductor Sensors John Wiley and Sons 1994
+Sorab KGhandhi VLSI Fabrication Principles Wiley Inter Science Publication
+New York 1994
+5 Sami Franssila Introduction to Microfabrication John Wiley and Sons 2004
+COURSE OUTCOMES
+Upon completing the course the student should have
+1 Understood the concept of polysilicon deposition and various processes
+2 Acquired the expertise on electrical properties Carrier Transport Effective
+mobility and Different passivation techniques of polysilicon
+3 Understood the vital applications of Polysilicon
+4 Understood the modelling of PSOI MOSFETs and threshold voltage model for
+various modes of PSOI MOSFETs
+5 Acquired the complete knowledge of the design of Polysilicon for MEMS
+applications
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+PO2
+19EIMMPEXX
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+MICROFLUIDICS AND BIO MEMS
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To impart knowledge on microfluidics and fluidic sensors
+ To educate on the design of micropumbs
+ To provide an overview on chemical sensors and transducers
+ To introduce the concept of work function based sensors
+ To give an overview of the sensors application in the field of biology
+Fluidics Fundamentals Basic fluid properties and equations  Types of flow 
+Bubbles and particles in microstructures  Capillary forces  Fluidic resistance 
+Fluidic inductance  Bulk micromachined channels  Surface micromachined
+channels
+Fluidic channel application Mixers  Laminating mixers  Plume mixers 
+Active mixers  Diffusion based extractors  Fluidic amplifiers and logic Fluidic
+Sensors Flow sensors  Viscosity sensors  Valves  Passive valves  Active valves 
+Pneumatic valve action  Thermopneumatic valve actuation  Phase change valve
+action  Solid expansion valve actuation  Piezoelectric valve actuation  Electrostatic
+valve actuation  Electromagnetic valve actuation  Bistable valve actuation
+30
+Micropumps Membrane pumps  Diffuser pumps  Rotary pumps  Electro
+hydro dynamic EHD pumps  Injection type and noninjection type EHD 
+Microfluidic system issues  Interconnect packing and system integration  Design
+for disposable or reuse
+Passive
+chemical
+sensors
+Chemiresistors
+Chemicapacitors
+Chemomechanical sensors  Calorimetric sensors  Metal Oxide gas sensors
+Work function based Sensors ADFET gas sensors  Platinide based hydrogen
+sensors  Ion sensitive FETS ISFETS and CHEMFETS
+Electrochemical Transducers Ionic Capacitance  Charge transfer  Resistive
+mechanisms  Spreading resistance and Warburg impedance  Basic electrode
+circuit model  Electrochemical sensing using micro electrodes
+Biosensors Resonant biosensors  Optical detection biosensors  Thermal
+detection biosensors  ISFET biosensors  Other pH based biosensors 
+Electrochemical detection biosensors  CMOS compatible biosensor process 
+Enzyme based sensors  Protein based sensors  Immuno sensors  DNA probes
+and array  DNA amplification
+REFERENCES
+1 Gregory Kovacs TA Micromachined Transducers WCB McGraw Hill 1998
+2 Marc Madou Fundamentals of Microfabrication The Science of Miniaturization
+Series Second Edition CRC Press 2002
+3 Albert Folch Introduction to BioMEMS 1st Edition CRC Press
+4 Nam  Trung Nguyen and Steve Wereley Fundamentals and Applications of
+Microfluidics 2nd Edition Artech House
+5 Terrence Conlisk Essential of Micro and nanofluidics with applications to
+biological and chemical sciences Cambridge University Press 2012
+COURSE OUTCOMES
+Upon completing the course the student should
+1
+2
+3
+4
+Understand the basic properties of microfluids
+Acquire the working concepts of fluidic sensors
+Understand the concepts and structure of micropumbs
+Acquire the working knowledge of Passive chemical sensors Work function
+based Sensors Electrochemical Transducers
+5 Understand the application of sensors for various biological applications
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+PO2
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+31
+19EIMMPEXX
+VLSI DESIGN
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ To introduce the basic theories and techniques of digital VLSI design in CMOS
+technology
+ To describe the general steps required for processing of CMOS integrated
+circuits
+ To understand the concept behind ASIC Application Specific Integrated
+Circuits design and the different implementation approaches used in
+industry
+ To bring both Circuits and System views on design together
+ To analyze performance issues and the inherent trade  offs involved in system
+design
+Introduction to VLSI Digital systems and VLSI  Gate Arrays  Standard Cells
+ Functional Blocks  CMOS Logic Programmable ASICs The Antifuse  Static
+RAM  EPROM and EEPROM Technology  Practical Issues Specifications  PREP
+Benchmarks  FPGA Economics
+Hardware Description Languages VHDL A Counter  A 4bit Multiplier 
+Syntax and Semantics of VHDL  Identifiers and Literals Entities and Architectures
+ Packages and Libraries  Interface Declarations  Type Declarations  Other
+Declarations  Sequential Statements  Operators  Arithmetic Concurrent
+Statements  Execution  Configurations and Specifications  An Engine Controller
+Simulation Types of Simulation  The ComparatorMUX Example  Logic
+Systems  How Logic Simulation Works  Cell Models  Delay Models  Static
+Timing Analysis  Formal Verification  Switch  Level Simulation  Transistor Level
+Simulation  Summary
+Logic Synthesis Logic Synthesis  A Logic  Synthesis Example 
+A ComparatorMUX  Inside a Logic Synthesizer  VHDL and Logic Synthesis 
+Finite  State Machine Synthesis  Memory Synthesis  The Multiplier  The Engine
+Controller  Performance  Driven Synthesis  Optimization of the Viterbi Decoder
+Tests Design for Testability  Test Program Development  Prototype
+Evaluation ASIC Construction Interconnects and Routing Floorplanning 
+Placement  Physical Design Flow  Information Formats
+REFERENCES
+1 M John and S Smith Application  Specific Integrated Circuits Addison 
+Wesley 1997
+2 Jan M Rabaey Anantha Chandrakasan and Borivoje Nikolic Digital Integrated
+Circuits  A Design Perspective Prentice Hall 2002
+3 Wayne Wolf Modern VLSI Design  System  on  Chip Design Prentice Hall
+2002
+4 Neil H E Weste Kamran Eshraghian and Micheal John Sebastian Principles
+of CMOS VLSI Design  A Systems Perspective Addison Wesley 2001
+5 J Smith HDL Chip Design A Practical Guide for Designing Synthesizing 
+Simulating ASICs and FPGAs using VHDL or Verilog Donne Publishing 1996
+32
+COURSE OUTCOMES
+Upon completing the course
+1 Student will be able to design digital systems using CMOS circuits
+2 Be able to use mathematical methods and circuit analysis models in
+analysis of CMOS digital electronics circuits
+3 Student will be able to learn Layout Stick diagrams Fabrication steps
+4 It offers a profound understanding of the design of complex digital VLSI
+circuits computer aided simulation and synthesis tool for hardware design
+5 Student will be able to understand the concept behind ASIC Application
+Specific Integrated Circuits design and the different implementation
+approaches used in industry
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+Mapping of COs with POs
+PO3
+PO4
+PO5
+PO6
+PO2
+19EIMMPEXX
+PO7
+DIGITAL INTEGRATED CIRCUIT DESIGN
+PO8
+PO9
+L T P C
+3 0 0
+3
+COURSE OBJECTIVES
+ To introduce the fundamentals of digital integrated circuits and expose them
+to examples of applications
+ To give the ability to analyze design and optimize digital circuits with respect
+to different quality metrics cost speed power dissipation and reliability
+ To give the basic background to go through a complete digital design cycle
+analysis design simulation layout and verification
+ To analyze and design of static sequential circuits and understand basic
+clocking issues
+ To know the basics of semiconductor memories
+Introduction Design of static CMOS nMOS and BiCMOS inverters  
+Calculation of noise margins power dissipation and gate delays  Review of Logic
+Design Fundamentals Combinational Logic Design  Logic Simplification and
+Synthesis  Sequential Logic Design  Finite State Machine Design and
+Implementation
+Design of Combinational Circuits Static CMOS Design  Dynamic CMOS
+Design  Power Consumption in CMOS gates  Design of Sequential Circuits Static
+Sequential Circuits  Dynamic Sequential Circuits
+Design of IOs and Clock Generation IO Structures  PLL clock generation
+and clock buffering  Design of Memory Memory Core  Memory Peripheral
+Circuits  Memory Faults and Test Patterns
+Digital System Design using Hardware Description Language Introduction
+to HDL Modeling and Designing with VHDL  VHDL Description of Combinational
+Networks  VHDL Description of Sequential Networks  VHDL Model for Memories
+33
+Rapid Prototyping and Implementation of Digital Systems Field
+Programmable Gate Arrays FPGA Complex Programmable Logic Devices CPLD 
+Logic Synthesis for FPGA and CPLD  Testing and Design for Testability DFT
+Boundary  Scan Test  Faults and Fault Simulation  Automatic Test  Pattern
+Generation  Scan Test and Built  in Self  test
+REFERENCES
+1 Rabaey JM Digital Integrated Circuits  A Design Perspective Second Edition
+Prentice Hall 2002
+2 Weste N and Eshraghian K Principles of CMOS VLSI Design  A Systems
+Perspective Prentice Hall 1993
+3 Roth Jr CH Digital Systems Design Using VHDL PWS Publishing Com
+1998
+4 Michael JS Smith Application  Specific Integrated Circuits Addison  Wesley
+1997
+COURSE OUTCOMES
+Upon completing the course the students will be able to
+1 Understand the impact of technology scaling
+2 Understand the basic operation of MOS transistors current equations and
+parasitic and to understand the concepts of propagation delay power
+consumption of CMOS ICs
+3 Know how to analyze and design complex logic gates in standard CMOS
+technology and compute their delay and power consumption
+4 Be able to analyze and design of static sequential circuits and understand
+basic clocking issues
+5 Know the basics of semiconductor memories
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+19EIMMPEXX
+PO2
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+ADVANCED VLSI SYSTEM DESIGN
+PO7
+PO8
+PO9
+L T
+P
+C
+3
+0
+3
+0
+COURSE OBJECTIVES
+ To introduce the concepts and techniques of modern integrated circuit design
+and testing CMOS VLSI
+ To train the students on the design project involved with data path operators
+data registers serialparallel conversion clockingtiming details and
+feedback
+ To complete a significant VLSI design project having a set of objective criteria
+and design constraints
+ To develop tests and the use of design for testability techniques during the
+VLSI system design and implementation process
+ To use automated layout tools to produce geometric descriptions of complex
+integrated circuit designs with VLSI chip
+34
+Introduction Combinational Logic Functions  Static Complementary Gates 
+Switch Logic Alternative Gate Circuits  Low Power Gates  Delay Through
+Resistive Interconnect  Delay Through Inductive Interconnect
+Subsystem Design Principles Combinational Shifters  Adders  ALUs 
+Multipliers High Density Memory  Field Programmable Gate Arrays 
+Programmable Logic Arrays
+Architecture Design Introduction  Hardware Description Languages 
+Register Transfer Design  High  Level Synthesis  Architectures for Low Power 
+Systems  on  Chips and Embedded CPUs  Architecture Testing
+Chip Design Introduction  Design Methodologies  Kitchen Timer Chip 
+Microprocessor Data Path
+CAD Systems and Algorithms Introduction to CAD Systems  Switch Level
+Simulation  Layout Synthesis  Layout Analysis  Timing Analysis and
+Optimization  Logic Synthesis  Test Generation  Sequential Machine
+Optimizations  Scheduling and Binding  HardwareSoftware Co  Design
+REFERENCES
+1 W Wolf Modern VLSI Design SystemonChip Design Third Edition Prentice
+Hall 2002
+2 Neil HE Weste Kamran Eshraghian and Micheal John Sebastian Principles of
+CMOS VLSI Design  A Systems Perspective Addison Wesley 2001
+3 JP Uyemura Circuit Design for CMOS VLSI Kluwer Academic Publishers
+1992
+4 Kerry Bernstein et al High Speed CMOS Design Styles Kluwer Academic
+Publishers 1998
+COURSE OUTCOMES
+Upon completing the course
+1 Student will be able to learn and participate in the process of modern VLSI
+design and verification
+2 Student will be able to develop an understanding for the advanced design
+concepts in modern VLSI technologies
+3 Student will be able to design and layout a complex chip containing entities
+such as a register arrays shifters multipliers an arithmetic logic unit
+ALU and other large scale devices
+4 Student will be able to Apply techniques used to test and debug IC designs
+5 Be able to complete a VLSI design project having a set of objective criteria
+and design constraints
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+PO2
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+35
+19EIMMPEXX
+FUNDAMENTALS OF IC PACKAGING
+ASSEMBLY AND TEST
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To know the importance on Integrated Circuit Packaging
+ To impartthe knowledge on various manufacturing process technologies
+ To understand the design considerations on electrical thermal and
+mechanical parameters
+ To test and analyse the performance characteristics of Integrated Circuit
+Packages
+ To study and understand various emerging technologies in the field of
+Integrated Circuit Packaging
+Overview of IC Packaging Technology IC Packaging Roadmap  Technology
+Driving Forces  Rents Rule  Hermetic Vs Non  hermetic Packages 
+Multidiscipline Issues
+Manufacturing Considerations Die Attach Technology  Die Interconnect
+Technology  Die Coating  Plastic Package Manufacturing Process  Ceramic
+Package Manufacturing Process  Metal Can Package Manufacturing Process 
+Multichip Module  Environmental Control ESD  Clean room Classification 
+Quality and Reliability Issues
+Design Considerations Electrical Reflection Noise  Crosstalk Noise 
+Switching Noise Signal Attenuation and Dispersion  Thermal Thermal Resistance
+ Heat Flow Mechanisms  Mechanical Coefficient of Thermal Expansion CTE 
+Thermal Stress and Strain Distribution Management
+Electrical Test Electrical Performance Testing  Electrical Test Methods 
+Electrical Analysis
+Emerging Technologies Ball Grid Array Chip  scale package CSP  Flip
+Chip Direct Chip Attach DCA and Wafer Scale package WSP  3D Packaging 
+Known Good Die
+REFERENCES
+1 JH Lau W Nakayama J Prince and CP Wong Electronic Packaging Design
+Materials Process and Reliability McGraw Hill 1998
+2 GD Giacomo Reliability of Electronic Packages and Semiconductor Devices
+McGraw  Hill 1996
+3 JC Whitaker The Electronics Handbook CRC Press 1996
+4 Tummala RR and Rymaszewski EMicroelectronics Packaging Handbook Van
+Nostrand Reinhold New York 1989
+COURSE OUTCOMES
+Upon completing the course the student should have
+1 Understood the importance and issues of Integrated Circuit Packaging
+2 Acquired the expertisein the manufacturing of various Integrated Circuit
+Packages
+3 Understood the design considerations on various physical parameters
+36
+4 The ability to test and analyse the performance characteristics of Integrated
+Circuit Packages
+5 Acquired the knowledge of various emerging Integrated Circuit Package
+technologies
+19EIMMPEXX
+MIXED SIGNAL IC DESIGN
+L
+T
+P
+C
+3
+0
+0
+3
+COURSE OBJECTIVES
+ Exposure to analog and digital circuit design techniques in integrated context
+ Learn to design mixed  signal building blocks including comparators and
+data converters
+ To Gain experience with system level design flow bottom  up and top  down
+design methodologies
+ To gain mixed  signal design experience in Cadence CAD tools including both
+custom and automated design
+ Analog Digital and Mixed  Mode simulation
+ Digital synthesis and Place  Route
+ Layout DRC LVS Post  layout verifications
+Submicron CMOS Overview and Models  CMOS Process Flow  Capacitors
+and Resistors  Using a MOSFET as a Capacitor  Using a Native or Natural
+MOSFET Capacitor  The Floating MOS Capacitor Metal Capacitors  Resistors 
+SPICE MOSFET Modeling  Model Selection  Model Parameters
+Digital Circuit Design The MOSFET Switch  Bidirectional Switches 
+A Clocked Comparator  Common  Mode Noise Elimination  Delay Elements 
+An Adder Analog Circuit Design Biasing  Selecting the Excess Gate Voltage 
+Selecting the Channel Length  Small  Signal Transconductance  MOSFET
+Transition Frequency fT  The Beta Multiplier Self  Biased Reference  Op  Amp
+Design  Output Swing  Slew  rate Concerns  Differential Output Op  Amp
+Integrator Building Blocks Lowpass Filters  Active  RC Integrators  Effects
+of Finite OpAmp Gain Bandwidth Product  Active  RC SNR  MOSFET 
+C Integrators use of an Active Circuit an OpAmp  gm  C Transconductor  C
+integrators Common  Mode Feedback Considerations  A High  Frequency
+Transconductor  Discrete  Time Integrators An Important Note  Exact
+Frequency Response of a First  Order Discrete  Time Digital or Ideal SC Filter
+Filtering Topologies The Bilinear Transfer Function  Active  RC
+Implementation  Transconductor  C Implementation  Switched  Capacitor
+Implementation  Digital Filter Implementation  The Canonic Form or Standard
+Form of a Digital Filter  The Biquadratic Transfer Function  Active  RC
+Implementation  Switched  Capacitor Implementation  High QQ Peaking and
+Instability  Transconductor  C Implementation  The Digital Biquad Filters using
+Noise  Shaping  Removing Modulation Noise  Implementing the Multipliers
+Design of data converters Nyquist rate AD converters Flash interpolating
+folding flash SAR and pipelined architectures Nyquist rate DA converters
+voltage current and charge mode converters hybrid and segmented converters 
+37
+Oversampled AD and DA converters  Delta  Sigma data converters  Design of
+PLLs DLLs and frequency synthesizers
+REFERENCES
+1 Jacob Baker R CMOS Mixed Signal Circuits Design Wesley  IEEE 2002
+2 Gregorian R and Ternes Analog MOS Integrated Circuits for Signal Processing
+Jossey Bass 1986
+3 Gregorian R Introduction to CMOS OP  AMPs and Comparators John  Wiley
+1999
+4 Johns D and Martin K Analog Integrated Circuit Design John  Wiley 1997
+5 Razavi B Monolithic Phase  Locked Loops and Clock Recovery Circuits Theory
+and Design IEEE Press 1996
+COURSE OUTCOMES
+Upon completing the course the students will be able to
+1 Appreciate capabilities and limitations of advanced microelectronic or IC
+technologies
+2 Understand and use advanced circuit models of IC components
+3 Analyse analogue and digital microelectronic circuits
+4 Design analogue digital and mixed microelectronic circuits
+5 Critically read and present papers from technical journals andKeep
+uptodate with future technological development in the field
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+PO2
+19EIMMPEXX
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+DIGITAL SYSTEM DESIGN WITH HDL VERILOG
+PO9
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To impart knowledge on Hardware description language
+ To give an overview of Switch and Gate Level Modeling
+ To educate the importance of the timing and delay in VHDL
+ To create the knowledge in VHDL simulators
+ To impart knowledge on the synthesis using VHDL
+Introduction Introduction to HDL  HDL and Programming Language
+Comparison  Brief tutorial on Verilog Simulators  Lexical Conventions and Data
+Types  Value setnetsregistersvectorsinteger real and time register data types 
+arrays  memories  parameters  strings  system tasks and compiler directives 
+modules and ports list of ports  port declaration  Port connection rules  inputs
+and outputs
+Logic Modelling Switch and Gate Level Modeling  Gate types  Gate level
+multiplexer  gate level 4 bit full adder  gate delays  Rise fall and turn off delays 
+mintypmax delay values  Data flow modeling Continuous assignments  regular
+38
+assignment delays  implicit continuous assignment delay  expression operators
+and operands  Behavior Modelling Structured Procedures  Procedural
+Assignments  Timing Controls  Conditional Statements  Multiway Branching 
+loops  Sequential and Parallel Blocks  Tasks and functions
+Timing and Delay Types of Delay Models  Path Delay Modelling  Timing
+Checks  Delay Back Annotation  User Defined Primitives UDP UDP Basics 
+Combinational UDPs  Sequential UDPs
+Simulation Hierarchical structures  Using External libraries  Timescale and
+Delay scaling  Timing Checks  Delay Annotation
+Synthesis using Verilog HDL Verilog HDL Synthesis  Synthesis Design Flow 
+Verification of Gate Level Netlist  Examples of Sequential Circuit Synthesis
+REFERENCES
+1 Samir Palnitkar Verilog HDL Prentice Hall Publications Second Edition 2003
+2 Bhaskar J Verilog HDL Synthesis BS Publications First Edition 2001
+3 S Brown and Z Vranesic Fundamentals of Digital Logic with VHDL Design
+Third edition McGraw Hill 2009
+4 Roth and John Digital Systems Design Using VHDL 2nd Edition CL
+publication 2008
+5 David R Smith Paul Franzon Verilog Styles for Synthesis of Digital Systems
+Prentice Hall 2000
+COURSE OUTCOMES
+Upon completing the course the student should
+1 Understand the basic operation of Verilog simulators
+2 Acquire knowledge of different modelling methods like Switch Gate Level
+and Behavior Modeling
+3 Understand the concepts of introducing timing and delay in VHDL
+programming
+4 Acquire the working knowledge in VHDL simulation
+5 Understand the synthesis process in VHDL
+PO1
+PO2
+CO1
+CO2
+CO3
+CO4
+CO5
+19EIMMPEXX
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+FUNDAMENTALS OF NANOELECTRONICS
+PO8
+PO9
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To introduce the idea of quantum mechanics which is totally different from
+classical mechanics
+ To impart knowledge of the structure of carbon nanotubes and its properties
+39
+ To make the students to understand principles properties and applications of
+carbon nanotubes devices
+ To study about generation of CNTFETs and its fabrication techniques
+ To familiarize the students to model the nano electronic devices
+Quantum Mechanics Principles of quantum mechanics  Wave Particle Duality
+ The Uncertainty Principle  Schrodinger  Time Dependent  Independent
+Equation Electron in free space The Infinite Potential Well Extensions of the
+Wave Theory to Atoms The OneElectron Atom Formation of Energy Bands The
+KronigPenney Model The kSpace DiagramThe kSpace Diagrams of Si and GaAs
+Carbon Nanotube CNT The Structure of Carbon Nanotube s Graphene band
+structure properties Synthesis of Carbon Nanotubes  electronic vibrational
+mechanical and optical properties of CNT Applications of CNT Fabrication of
+Fullerene C60 Functionalization of Carbon Nanotubes covalent functionalization
+of CNTsnon covalent functionalization of CNTs modification of CNTs via
+mechnochemical reactions  electrochemical deposition electroless deposition
+plasma activation of CNTs
+Carbon Nanotube devices Carrier Concentration  Electronic properties of
+Nanotubes  Electron Transport in ballistic conductor  Carbon Nanotube
+Electronics Theory of CNT PN junction  Carbon Nanotube Transistors  density of
+states  Schottky Barrier  Ohmic Contacts Schottky Contacts Subthreshold
+Short Channel Effects
+CNT Transistors Generation of CNTFETs  Bottom gate transistor Top gate
+transistor  Cylindrical gate transistor Fabrication Techniques  DiElectrophoresis
+method  Solution deposition  Imprint Techniques
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+PO2
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+Modelling of Nano Conductors and Transistors The New Ohms LawThe
+BottomUp ApproachElectrons FlowBallistic and Diffusive TransportDiffusion
+Equation for Ballistic TransportConductivity Driftelectrostatics smart contacts
+Nano transistorscurrent equation physics of Ballistic MOSFET  characteristics
+REFERENCES
+1 Semiconductor Physics and Devices Basic Principles Third Edition Donald A
+Neamen McGrawHill2003
+2 Lessons from Nanoelectronics A New Perspective on TransportSupriyo Datta
+Purdue University USA2012
+3 The Physics of Carbon Nanotube Devices ISBN 9780815515739 Franois
+Lonard 2009 by William Andrew
+4 Michael J OConnell Carbon Nanotubes Properties and Applications ISBN
+9780849327483 CRC Press 2006
+40
+COURSE OUTCOMES
+On successful completion of the course the students will be able to
+1 Understand the basics of quantum mechanics with reference to electron
+2 Gain indepth knowledge of the structure of carbon nanotubes and its
+properties
+3 Understand principles properties and applications of carbon nanotubes
+devices for Nanoelectronics
+4 Acquire the knowledge of CNTFETs and its fabrication techniques
+5 Model and fabricate a CNT based nanoelectronic device using various
+fabrication techniques with the thorough knowledge of material and device
+properties
+19EIMMPEXX
+PHOTOVOLTAIC DEVICES TECHNOLOGY
+L T P C
+3 0 0
+3
+COURSE OBJECTIVES
+ To introduce the basics of semiconductor materials their electrical properties
+and optical properties
+ To acquaint the students with the fundamentals of silicon solar cells theory
+and operation of silicon solar cells its fabrication and characterization
+analysis of silicon solar cells
+ To teach the concepts of Dye sensitized solar cells with its Pros and Cons
+ To make the students understand the concept of conjugated polymer solar
+cells for various structures
+ To impart knowledge of the operation and characteristics of quantum dot solar
+cells and qualitative analysis of these devices
+Fundamentals of Solar cells Basic of Semiconductor Physics the pn
+junction charge carriers in semiconductors  optical properties of semiconductors
+Hetero junctions Solar energy fundamentalsnature of solar energy conversion of
+solar energy photochemical conversion of solar energy photovoltaic conversion
+photophysics of semiconductors and semiconductor particles photocatalysis
+Silicon solar cells Device physics of silicon solar cells Semiconductor device
+equations The pn junction model of Shockley Real diode characteristics
+Crystalline silicon solar cells Silicon cell development Substrate production cell
+processing cell cost Opportunities for improvement amorphous silicon solar cells
+Amorphous siliconbased materials Manufacturing costs Environmental issues
+Challenges for the future
+Dye sensitized solar cell Photoelectrochemical solar cell semiconductor
+electrolyte interface Basic principle and working of Graetzel Cell ie dye sensitized
+solar cells DSSCs Derivation of the Lifetime in DSSCs theory of EIS IMPSIMVS
+for DSSCs factors affecting on efficiency of DSSCs present DSSCs research and
+developments limitations of DSSCs
+Polymer based Solar Cells Introduction to conducting polymers basic
+principle of HOMO  LUMO bulk heterojunction polymer solar cell Basic working
+principles device architectures single layer Bilayer Bulk heterojunction diffuse
+41
+bilayer heterojunction tandem solar cell efficiency relationship in organic bulk
+heterojunction solar cells
+Quantum Dot Sensitized Solar Cells Quantisation effects in semiconductor
+nanostructures optical spectroscopy of quantum wells super lattices and quantum
+dots Basic principle and working of quantum dot sensitized solar cells effect of
+device architecture theory of electron and light dynamic in QDSSCs study of EIS
+IMPSIMVS in QDSSCs
+REFERENCES
+1
+2
+3
+4
+5
+6
+7
+8
+Physics of solar cells from principles to new concepts Peter Wurfel
+Photoelectrochemical Solar Cells Suresh Chandra
+Solar energy conversion A E Dixon and J D Leslie
+Solar cells Martin A Green
+Solid State electronic Devices BG Streetman
+Photoelectrochemical solar cell Suresh Chandra
+Dye sensitized solar cell Michael Graetzel Review Articles
+N S Sariciftci and A J Heeger in Handbook of Organic Conductive Molecules
+and Polymers Vol 1 edited by H S Nalwa John Wiley  Sons 1997
+9 Nanostructured and photoelectrochemical systems for solar photon conversion
+Mary DArcher  Arthur J Nozik
+10 Quantum Dot Solar Cells Semiconductor Nanocrystals as Light Harvesters P
+V KamatReview Articles
+11 Clean electricity for photovoltaics Mary D Archer  Robert Hill
+COURSE OUTCOMES
+On successful completion of the course the students will be able to
+1 Understand the basics of semiconductor materials their electrical properties
+and optical properties
+2 Gain the knowledge of the fundamentals of silicon solar cells theory and
+operation of silicon solar cells its fabrication and characterization analysis
+of silicon solar cells
+3 Understand the basic concepts of Dye sensitized solar cells with its Pros and
+Cons
+4 Understand the concept of conjugated polymer solar cells for various
+structures
+5 Gain the knowledge of the operation and characteristics of quantum dot
+solar cells and qualitative analysis of these devices
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+Mapping of COs with POs
+PO3
+PO4
+PO5
+PO6
+PO2
+PO7
+PO8
+PO9
+42
+19EIMMPEXX
+SOLAR CELL DESIGN AND FABRICATION
+L T P C
+3 0 0
+3
+COURSE OBJECTIVES
+ To learn the fundamentals of solar energy conversion systems available solar
+energy and the local and national needs photovoltaic and photothermal
+engineering applications emerging technologies
+ To understand the interdisciplinary approach for designing standalone PV
+systems predicting performance with different systems Implementing design
+with cost analysis Gain system engineering expertise related to photovoltaic
+energy conversion generation storage and grid connection processes for
+residential and industrial applications
+ Be able to advance the current technology of the solar energy systems for
+making the process economical environmentally safe and sustainable Be able
+to serve industries or academia involved in sustainable energy engineering
+Concepts of Solar energy the sun Available solar energy from the sun
+insolation vs world energy demand Blackbody radiation Plancks Radiation Law
+Wiens displacement Law Stefan Boltzmann Equation spectral distribution of
+extraterrestrial and terrestrial radiations solar constant properties of solar
+radiation SunEarth Geometry Motion of the earth relative to the sun Apparent
+motion of the sun relative to a fixed observer on the earth Air Mass estimation of
+available solar radiation on earth absorption of solar radiation by earths
+atmosphere direct diffused and albedo components of sunlight solar radiation
+table global radiation data Mean annual irradiance on horizontal surface across
+the world Effects of latitude declination slope surface azimuth angle hour angle
+and the angle of incidence Radiation on an inclined surface direct reflected and
+diffused radiations radiation on inclined surfaces calculation of angles of
+incidence direction of beam radiation angles for tracking surfaces ratio of beam
+radiation on tilted surface to that of horizontal surface
+Photovoltaic technology Introduction to PV conversion of solar radiation to
+electrical energy PV sizing for meeting the worlds energy need how much land
+area is needed advantages and disadvantages of PV systems Reliability and sizing
+of the PVPT systems uncertainty and risk factors in PVPT design Cost analysis
+Terawatt challenge Energy payback different options of PV modules thin film solar
+cells Light absorption Directbandgap and indirect bandgap semiconductors light
+absorption coefficient Reflection and reflection losses Absorption as a function of
+photon energy Carrier transport
+Performance parameters of PV cells Fundamental principles of solar cell
+operation Solar cell device physics Basic structure of solar cells Quasi Fermi
+energy levels Law of junctions Carrier generation rate Recombination rate Dark
+current Light generated current Currentvoltage IV relationship Solar cell
+output parameter Fill factor solar cell efficiency Short circuit current Open
+circuit voltage Maximum power point operation Effect of finite width of the solar
+cell Solar cell equivalent circuit Effect of bandgap maximum thermodynamic
+efficiency Practical efficiency limit Losses in short circuit current open circuit
+43
+voltage efficiency Temperature effects Fill factor losses IV characteristic
+measurement Efficiency measurement Parasitic resistances Effects of series and
+shunt resistances
+Solar cell module design and fabrication Silicon solar cells to Photovoltaic
+Module PV production Cell fabrication and interconnections Top and Bottom
+connections Manufacturing process Cell matrix encapsulation vacuum
+lamination Postlamination steps Bifacial modules Electrical and optical
+performance of modules Local shading and hot spot formation Field performance
+Introduction to concentrated Solar Power CSP systems Energy generation and
+capacity factor Tracking requirements Photovoltaic and solar thermal
+concentrators concentrator optics solar collectors for CSP systems concentrated
+Photovoltaic CPV systems Principles and Practices Fresnel lens tracking
+systems CPV modules and engineering practices for CPV solar plants
+Performance
+evaluation
+of
+solar
+modules
+Measurements
+and
+characterization of solar cells and PV modules V  I characteristics spectral
+response measurements measurements and characterization of thin film solar cells
+Domestic industrial and commercial applications Lifetime of the PV modules
+Degradation caused by UV radiation Moisture penetration Corrosion Dust
+depositionsoiling losses Reflection losses Thermal effects Delamination of the
+module prevention of energy yield losses
+REFERENCES
+1 Solar Cells Operating Principles Technology and System Applications Martin
+Green published by the University of New South Wales 1980 Required
+available at the BU Barnes and Noble book store
+2 Solar Engineering of Thermal Processes Fourth Edition John A Duffie and
+William ABeckman John Wiley and Sons Inc 2005 Chapters 1 2 3 and 7
+Recommended
+3 Photovoltaic Science and Engineering Handbook Second Edition Antonio
+Luque and Steven Hegedus John Wiley and Sons 2012 An excellent Resource
+4 Thin film Solar Cells Jeff Poortmans and Vladimir Arkhipov Ed John Wiley
+and Sons Ltd 2006
+5 Solar Cell Device Physics Second Edition Stephen J Fonash Elsevier Inc
+2010
+6 Solar Electricity Second Edition Thomas Markvart Editor John Wiley and
+Sons Ltd 2000
+7 Concentrating Solar Power Technology principles developments and
+applications Keith Lovegrove and Wes Stein Woodhead Publishing series in
+Energy Woodhead Publishing 1518 Walnut Street Suite 1100 Philadelphia
+PA 191023406 USA 2012
+8 wwwpveducationorg
+COURSE OUTCOMES
+As an outcome of completing this course the students will
+1 Gain an understanding of the available solar energy and the current solar
+energy conversion and utilization processes
+44
+2 Have a working knowledge of semiconductor physics optical systems load
+matching and storage and grid connections related to photovoltaic
+engineering
+3 Be able to comprehend the challenges in sustainable energy processes
+perform cost analysis design photovoltaic systems for different applications
+meeting residential and industrial needs predict and test performance and
+4 Understand the manufacturing processes involved environmental challenges
+that need to be solved economic aspects and future potentials of solar
+energy utilization
+5 Evaluate the performance of a PV solar module using various measurement
+techniques
+PO1
+CO1
+CO2
+CO3
+CO4
+CO5
+PO2
+19EIMMPEXX
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+INTRODUCTION TO NANOMATERIALS
+PO9
+L T P C
+3 0
+0
+3
+COURSE OBJECTIVES
+ To impart knowledge of nanomaterials its properties and structure
+ To give an overview of fabrication techniques involved in nano fabrication
+process
+ To understand the function of nanoparticles
+ To study the fabrication of nanostructures
+Introduction Feynmanns vision on nanoscience  technology bulk vs
+nanomaterials natural and synthetic nanomaterials Quantum confinement in
+nanostructures size dependent physical phenomena in semiconductor and metal
+nanoparticles Classification of nanostructures 0D 1D and 2D nanostructures
+Visualization of nanostructures and techniques related
+Surface Energy Surface energy and surface stressorigin and estimation of
+surface energy Surface Energy minimization Sintering Ostwald ripening and
+agglomeration Energy minimization by Isotropic and anisotropic surfaces Surface
+energy and surface curvature Surface energy stabilization electrostatic
+stabilization steric stabilization electrosteric stabilization
+Size and shape dependence of nanoparticles Size effect on the morphology of
+free or supported nanoparticles Equilibrium shape of macroscopic crystal Wulff
+theorem equilibrium shape of nanometric crystals WulffKaichew theorem
+equilibrium shape of supported nanoparticles Kinetics of phase transformations
+Homogeneous  Heterogeneous nucleation Controlling nucleation growth and
+aggregation in nanoparticle growth and crystalline Phase Transitions in
+Nanocrystals
+45
+Fabrication of nanostructures Bottomup approaches for nanostructure
+fabrication Self assembly Top down approaches for nanostructure fabricationLithography Photolithography Laser lithography and SPM based lithography AFM
+ STM and nanomanipulation
+REFERENCES
+1 Nanostructures and Nanomaterials Synthesis Properties  applications by
+Guozhong Cao Imperial college Press 2006
+2 Nanomaterials and Nanochemistry by C BrechignacP Houdy M Lahmani
+SpringerVerlag 2007
+3 Materials Science and EngineeringAn Introduction 7e William D Callister
+Wiley 2007
+COURSE OUTCOMES
+Upon completing the course the student will be able to
+1 Understand the basic properties of nano materials and their importance in
+Nanoelectronics
+2 Gain the knowledge of nanomaterials structure
+3 Acquire the knowledge of the fabrication techniques involved in nano
+fabrication process
+4 Understand the function of nanoparticles
+5 Provide expertise in the fabrication of nanostructures
+PO1
+PO2
+CO1
+CO2
+CO3
+CO4
+CO5
+19EIMMPEXX
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+DESIGN AND SYNTHESIS OF NANOMATERIALS
+PO8
+PO9
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To introduce the basic theories and techniques of various synthesis methods
+of nano materials
+ To study the various lithographic techniques and its applications in
+nanofabrication
+ To understand the biological methods of synthesis
+ To know the various lithographic techiques used in nanomaterial synthesis
+Physical
+Methods
+IntroductionSpontaneous
+growth
+Evaporation
+condensation growth fundamentals of evaporation condensation growth Vapor 
+LiquidSolid VLS growth SWCNT and MWCNT growth mechganisms Physical
+Vapour deposition techniques PVD Sputtering  Evaporation Atomic layer
+deposition Chemical vapour deposition method CVD Molecular beam
+epitaxyMBE  Electrospinning Laser ablation Laser pyrolysis Ball Milling
+Chemical Methods Nanoparticles through homogeneous  heterogenous
+nucleation in solution Coprecipitation method Hydrothermal Solvothermal
+synthesis Template based synthesis Electrochemical synthesis Sonochemical
+46
+routes Sol gel Micelles and microemulsions Self assembly methods and
+Langmuir Blodgett LB method
+Biological Methods of Synthesis Use of bacteria fungi Actinomycetes for
+nanoparticle synthesis Magnetotactic bacteria for natural synthesis of magnetic
+nanoparticles Viruses as components for the formation of nanostructured
+materials Role of plants in nanoparticle synthesis
+Lithographic
+Techniques
+Ebeam
+lithography
+and
+SEM
+based
+nanolithography Xray Lithography Focused Ion beam lithography Near field
+scanning optical microscopy NSOM Atomic Force Microscope Lithography  Dip
+pen lithography Microcontact printing nanoimprint
+REFERENCES
+1 Nanostructures and Nanomaterials Synthesis Properties  applications by
+Guozhong Cao Imperial college Press 2006World Scientific Publishing
+Company 2 edition 2011
+2 An introduction to Electrospinning and Nanofibers by Seeram Ramakrishna
+Kazutoshi Fujihara Wee Eong Tee Teck Cheng Lim Zaveri Ma World
+Scientific Publishing Ltd Singapore 2005
+3 Springer Handbook of Nanotechnology  Bharat Bhusan SpringerVerlag
+2006
+4 Introduction to Nanoscience  Nanotechnology by Gabor L Hornyak Harry F
+Tibbals Joydeep Dutta John J Moore CRC Press Tylor  Francis Group
+New York 2009
+5 Introduction to Nanoscale Science  Technology Di Ventra Evoy Heflin
+Springer Science 2004
+COURSE OUTCOMES
+Upon completing the course the students will be able to
+1 Synthesize of various nano materials for several MEMS applications
+2 Characterize and analyse the synthesized nano materials
+3 Understand the biological methods of synthesis
+4 Gain the knowledge of various lithographic techniques
+5 Use the imprint technology for nanomaterial synthesis
+PO1
+PO2
+CO1
+CO2
+CO3
+CO4
+CO5
+19EIMMPC12
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+CHARACTERIZATION TECHNIQUES OF NANOMATERIALS
+PO9
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To study the various spectroscopic characterization techniques to investigate
+the properties of nano materials
+ To impart the knowledge to the students regarding various microscopic
+techniques available
+47
+ To teach the characterization techniques to analyse thermal characteristics of
+nano materials
+ To understand the mechanical properties of nanomaterials using different
+characterization methods
+ To study the magnetic and electrochemical properties of nanomaterials using
+various suitable techniques
+Spectroscopic Techniques Xray Spectroscopy Powder XRD Small angle Xray diffraction GIXRD and Single crystalline Xray diffraction Xray fluorescence
+spectroscopy XAFS Xray Photoelectron Spectroscopy XPS Ultraviolet
+Photoelectron Spectroscopy UPS Vibrational Spectroscopy Raman and IR
+spectroscopy Fourier Transfrom techniques FTIR and FT Raman Electronic
+Spectroscopy Absorption and Emission Spectroscopy
+Microscopic Techniques Scanning Electron Microscopy SEM Transmission
+Electron Microscopy TEM Scanning Probe Microscopy Atomic Force Microscopy
+Scanning Tunneling Microscopy STM Near field scanning optical microscopy
+NSOM Confocal Laser Scanning Microscopy
+Techniques for Thermal  Mechanical Analysis Thermal Analysis TGA
+DTG DTA DSC  combustion calorimetry Thermal diffusivity by the laser flash
+technique simultaneous techniques including analysis for gaseous products
+Mechanical testing Introduction tension testing High strain rate testing of
+materials Fracture Toughness testing methods Hardness testing Nanoindentation
+principles elastic and plastic deformation mechanical properties of materials in
+small dimensions models for interpretation of nanoindentation loaddisplacement
+curvesNanoindentation data analysis methodsHardness testing of thin films and
+coatings MD simulation of nanoindentation
+Magnetic and Electrochemical Techniques Magnetic Vibrating Sample
+Magnetometer Mossbauer spectroscopy ESR NMR Magnetooptic Kerr effect
+Electrochemical Techniques Cyclic voltammetry Electrochemical Impedance
+Scanning electrochemical Microscopy The quartz crystal micro balance
+REFERENCES
+1
+Characterization of Materials Vol 1 2 by Elton N Kaufmann John Wiley and
+Sons Publication 2003 New Jersey
+2 Principles of instrumental analysis Douglas A Skoog Donald M West
+Saunders College Philadelphia Cengage 2014
+3 XRay Diffraction Procedures For Polycrystalline and Amorphous Materials
+2nd Edition  Harold P Klug Leroy E Alexander WileyBlackwell 1974
+4 Transmission Electron Microscopy A Textbook for Materials Science 4Vol
+Set David B Williams and C Barry Carter Springer 2005
+5 Physical Principles of Electron Microscopy An Introduction to TEM SEM and
+AEM  Ray F Egerton Springer 2010
+COURSE OUTCOMES
+Upon completing the course the students will be able to
+1
+Understand the spectroscopic characterization techniques to investigate the
+properties of nano materials
+48
+2
+3
+4
+5
+Get the knowledge regarding various microscopic techniques available
+Know the characterization techniques to analyse thermal characteristics of
+nano materials
+Calculate the mechanical properties of nanomaterials using different
+characterization methods
+Measure the magnetic and electrochemical properties of nanomaterials using
+various suitable techniques
+PO1
+PO2
+CO1
+CO2
+CO3
+CO4
+CO5
+19EIMMPEXX
+Mapping of COs with POs
+PO3
+PO4
+PO5
+PO6
+NANO FABRICATION TECHNIQUES
+PO7
+PO8
+PO9
+L T
+P
+C
+3
+0
+3
+0
+COURSE OBJECTIVE
+ To introduce the various fabrication techniques available in the field of
+Nanotechnology
+ To teach various lithographic techniques available for nanofabrication
+ To impart the knowledge of nanofabrication process by charged beams
+ To study the various scanning probes technology and application in the field
+of nanofabrication
+ To teach the concept of Etching and pattern transfer techniques used in
+nanofabrication
+Nanofabrication by Photons Introduction to Nanotechnology and
+NanofabricationPrinciple of Optical Projection LithographyOptical Lithography at
+Shorter Wavelengths Deep UVExtreme UVXray Optical Lithography at High NAOptical Lithography at Low k1 Factor OffAxis Illumination OAI PhaseShifting
+Mask PSM Optical Proximity Correction OPC Photoresists Design for
+Manufacturing DFM Double Processing
+Nanofabrication by Charged Beams Focusing Charged Particle Beam
+Charged Particle OpticsSourcesAberrationsScattering and Proximity Effect
+Electron ScatteringProximity Effect and CorrectionEffect of Secondary ElectronsLowEnergy EBeam LithographyIon Scattering Resist Materials and Processes
+Sensitivity
+of Resist
+MaterialsContrast of Resist
+MaterialsResolution
+Enhancement Processes
+Nanofabrication by Scanning Probes Principles of SPMsExposure of Resists
+Field Electron EmissionExposure of Resist by STMExposure of Resist by NSOM
+Local Oxidation LithographyAdditive Nanofabrication FieldInduced DepositionDipPen Nanolithography Subtractive Nanofabrication Electrochemical EtchingFieldinduced
+DecompositionThermomechanical
+IndentationMechanical
+Scratching
+49
+Nanofabrication by Replication Thermal Press Nanoimprint Nanoimprint
+StampsNanoimprint
+PolymersDemoldingAlignmen
+Room
+Temperature
+NanoimprintUVCured Nanoimprint Transparent StampsUV Curable PolymersStepandFlash Imprint LithographyAlignment Through Transparent StampsCombined Nanoimprint and Photolithography Soft Lithography Soft StampsMicrocontact PrintingReplication by Capillary Force
+Nanoscale Pattern Transfer Additive Pattern Transfer Thin Film DepositionPattern Transfer by LiftOffPattern Transfer by PlatingDamascene ProcessPattern
+Transfer by Stencil Mask Subtractive Pattern Transfer Isotropic Wet EtchingIsotropic Wet EtchingReactiveIon Etching RIE Process Control in Nanoscale
+RIERIE by Inductively Coupled PlasmaCritical Issues in RIEIon Milling
+REFERENCES
+1 NanofabricationPrinciples Capabilities and Limits Zheng Cui ISBN 9780387755762 Springer Science 2008
+2 NanofabricationTechniques and Principles Stepanova Maria Dew Steven
+Eds 2008
+3 Recent advancement in nanofabrication Techniques and applications Bo Cui
+ISBN 9789533076027 IntechOpen 2011
+COURSE OUTCOMES
+On successful completion of the course the students will be able to
+1 Get the knowledge of various fabrication techniques available in the field of
+Nanotechnology
+2 Understand the concept and methods of lithographic techniques available for
+nanofabrication
+3 Get the knowledge of nanofabrication process by charged beams
+4 Get basic idea about various scanning probes technology and their application
+in the field of nanofabrication
+5 Understand the concept of Etching and pattern transfer techniques used in
+nanofabrication
+PO1
+PO2
+CO1
+CO2
+CO3
+CO4
+CO5
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+OE  OPEN ELECTIVES
+19EIMMOEXX
+OPTOELECTRONIC MATERIALS AND DEVICES
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To impart knowledge on Electronic properties of semiconductor materials for
+optoelectronic devices
+ To educate on basic structure and realization of Optoelectronic Devices and
+LEDs
+ To provide an overview on semiconductor LASER diodes and their application
+in optical fibre communication
+50
+ To introduce the concepts and working of photo detectors and optoelectronic
+modulators
+Electronic properties of semiconductor materials for optoelectronic devices
+Theory and electrical characteristics of semiconductor materials for optoelectronic
+devicesOptical properties of selected semiconductor materials Optical
+characteristics of some semiconductor materials  Photonic bandgap materials
+PN junction  the basic structure for optoelectronic device realization
+Operation of various junctions including Schottky  barrier contacts 
+Heterojunctions and their importance to optoelectronic device fabrication  Solar
+cells
+Light Emitting Diodes Operation of LEDs their structures and applications 
+Homojunctions and heterojunctions
+Semiconductor Laser Diodes Operation of semiconductor laser diodes
+semiconductor lasers  Types of semiconductor lasers  Multi quantum  well lasers
+ Beam characteristics and modulation of semiconductor lasers  Role of
+semiconductor lasers in modern fiber  optic communication systems
+Photodetectors Operation of different types of photodetectors  Materials for
+the fabrication of photodetectors and their applications
+Optoelectronic Modulators Electro  Optic effect linear and quadrature 
+Materials that exhibit the EO effect  Fabrication of optoelectronic modulators into
+practical light  intensity andor phase modulators
+REFERENCES
+1
+2
+Bhattacharya P Semiconductor Optoelectronic Devices Prentice Hall 1998
+Piprek J Introduction to Physics and Simulation of Semiconductor
+Optoelectronic devices Academic Press Incorporated 2003
+3 Fukuda M Optical Semiconductor Devices Wiley John and Sons Incorporated
+1998
+4 Singh J Semiconductor Optoelectronics Physics and Technology McGraw
+Hill 1995
+5 Chuang SL Physics of Optoelectronic Devices Wiley  Interscience 1995
+COURSE OUTCOMES
+Upon completing the course the student should
+1
+2
+3
+4
+5
+Understand the basic concepts of Optoelectronic Materials and Devices
+Acquire the knowledge on basic structure and realization of Optoelectronic
+Devices LEDs and acquire the working concepts of LEDs
+Understand the concepts and structure of semiconductor LASER diodes and
+their application in optical fibre communication
+Acquire the working knowledge of RF MEMS based reconfigurable antenna
+Understand the concepts working and application of photo detectors and
+optoelectronic modulators
+PO1
+CO1
+CO2
+CO3
+PO2
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+51
+CO4
+CO5
+19EIMMOEXX
+MEMS DESIGN AND FABRICATION
+L T
+P
+C
+3
+0
+3
+0
+COURSE OBJECTIVES
+ To introduce the basic concepts of micro systems and advantages of
+miniaturization
+ To teach the fundamentals of micromachining and micro fabrication
+techniques
+ To train the students on the design of micro sensors and actuators and
+fabrication flow process
+ To impart knowledge on various packaging technologies for MEMS
+Introduction to micro machined devices Miniaturization  Microsystem
+verses MEMS  Micro fabrication  Smart Materials Structures and System 
+Integrated Microsystem Micromechanical Structure Micro sensors Micro actuator
+ Introduction to Scaling  Scaling in Geometry  Scaling in Rigid  body dynamics
+Scaling in Dynamic Forces  the Trimmer Force Scaling Vector  Scaling in
+electrostatic forces  scaling in electricity
+Micromachining technologies Silicon as a Material for Micromachining
+Crystal Structure of Silicon  Silicon Wafer Preparation  Thin Film Deposition
+Evaporation  Sputtering  Chemical Vapour Deposition  Epitaxial Growth of
+Silicon  Thermal Oxidation for Silicon Dioxide  Lithography Photolithography 
+Lift  Off Technique  Etching Isotropic Etching  Anisotropic Etching  Etch Stops
+ Dry Etching  Silicon Micromachining  Specialized Materials for Microsystem
+Polymers  Ceramic Materials  Advanced Processes for Micro Fabrication  Wafer
+Bonding Techniques  Special Micro Fabrication Techniques
+Modeling of solids in microsystem The Simplest Deformable Element A Bar 
+Transversely Deformable Element A Beam  Energy Methods for Elastic Bodies 
+Examples and Problems  Concepts of spring constant and Estimation of spring
+constant for simple cantilever beam fixed  fixed beam microstructures  INPlane
+Stresses
+Micro Sensors Concepts of Piezoresistivityand Piezoelectricity  Fabrication
+Processes Principle of Operation and Design of Silicon Piezo Resistive
+Accelerometer Capacitive Accelerometer Folded Beam Comb Drive Capacitive
+AccelerometerPiezo Electric Accelerometer  Fabrication Processes Principle of
+Operation and Design of Silicon Capacitive Pressure Sensor Silicon Piezo Resistive
+Pressure Sensor Piezo Electric Pressure Sensor  Overload Protection in Pressure
+Sensors  Principle of operations and Fabrication Process of Conductometric Gas
+Sensors Portable Blood Analyzers and Piezoelectric Ink Jet Printers MEMS
+Actuators and their applications Actuation mechanisms  Electrostatic actuation 
+Electrostatic cantilever actuators  Torsional electrostatic actuators  Electrostatic
+comb drives  Feedback stabilization of electrostatic actuators  Electrostatic rotary
+micro motors  Electrostatic linear micro motors  Electrostatic micro grippers 
+Electrostatic relays and switches  Thermal actuation  Thermal expansion of solids
+ Thermal array actuators  Piezoelectric actuation  Cantilever resonators RF
+52
+MEMS switches  Pull in and Pull out voltage analysis
+Integration of micro and smart systems CMOS FirstApproach  MEMS
+FirstApproach  Other Approaches of integration  Microsystem Packaging
+Objectives of Packaging Special Issues in Microsystem Packaging types of
+microsystem packages Packaging Technologies Reliability and key Failure
+Mechanisms  case studies of integrated microsystems Pressure sensor Micro
+machined Accelerometer
+REFERENCES
+1
+GK Ananthasuresh KJ Vinoy S Gopalakrishnan KN Bhat VK Aatre
+Micro and Smart Systems Wiley India First Edition 2010
+2
+TaiRanHsu MEMS  Microsystems Design and Manufacture Tata McGraw
+Hill New Delhi 2002
+3
+Chang Liu Foundations of MEMS ILLINOIS ECE Series Pearson Education
+International 2006
+4
+Stephen D Senturia Micro system Design Springer International Edition
+2001
+5
+Gregory TA Kovacs Micro machined Transducers Source Book WCB McGraw
+Hill Singapore 1998
+COURSE OUTCOMES
+At the end of the course the students will be able to
+1 Know the basic concepts of micro systems and advantages of miniaturization
+2 Understand the fundamentals of micromachining and micro fabrication
+techniques
+3 Design the solid models for microsystems
+4 Expertise the knowledge in design of micro sensors and actuators fabrication
+5 Develop various packaging techniques in the design of MEMS
+PO1
+PO2
+CO1
+CO2
+CO3
+CO4
+CO5
+PO3
+Mapping of COs with POs
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+AUDIT COURSES
+19EIMMACXX
+L T P C
+ENGLISH FOR RESEARCH PAPER WRITING
+2 0 0 0
+COURSE OBJECTIVES
+Students will be able to
+ Understand that how to improve your writing skills and level of readability
+ Learn about what to write in each section
+ Understand the skills needed when writing a Title Ensure the good quality of
+paper at very firsttime submission syllabus
+Structuring Paragraphs and Sentences Being
+Redundancy Avoiding Ambiguity and Vagueness
+Concise
+and
+Removing
+53
+Clarifying Who Did What Highlighting Your Findings Hedging and Criticising
+Paraphrasing and Plagiarism Sections of a Paper Abstracts Introduction
+Review of the Literature Methods Results Discussion Conclusions The Final
+Check
+key skills are needed when writing a Title key skills are needed when writing an
+Abstract key skills are needed when writing an Introduction skills needed when
+writing a Review of the Literature
+Skills are needed when writing the Methods skills needed when writing the
+Results skills are needed when writing the Discussion skills are needed when
+writing the conclusion
+Useful phrases how to ensure paper is as good as it could possibly be the firsttime submission
+REFERENCES
+1 Goldbort R 2006 Writing for Science Yale University Press available on
+Google Books Model Curriculum of Engineering  Technology PG Courses
+VolumeI  41 
+2 Day R 2006 How to Write and Publish a Scientific Paper Cambridge
+University Press 3 Highman N 1998 Handbook of Writing for the
+Mathematical Sciences SIAM Highmansbook 4 Adrian Wallwork English
+19EIMMACXX
+DISASTER MANAGEMENT
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+Students will be able to
+ Learn to demonstrate a critical understanding of key concepts in disaster risk
+reduction and humanitarian response
+ Critically evaluate disaster risk reduction and humanitarian response policy
+and practice from multiple perspectives
+ Develop an understanding of standards of humanitarian response and
+practical relevance in specific types of disasters and conflict situations
+ Critically understand the strengths and weaknesses of disaster management
+approaches planning and programming
+Introduction Disaster
+Definition Factors And Significance Difference Between Hazard And Disaster
+Natural And Manmade Disasters Difference Nature Types And Magnitude
+Repercussions Of Disasters And Hazards
+Economic Damage Loss Of Human And Animal Life Destruction Of Ecosystem
+Natural Disasters Earthquakes Volcanisms Cyclones Tsunamis Floods
+Droughts And Famines Landslides And Avalanches Manmade disaster Nuclear
+Reactor Meltdown Industrial Accidents Oil Slicks And Spills Outbreaks Of
+Disease And Epidemics War And Conflicts
+54
+Disaster Prone Areas In India
+Study Of Seismic Zones Areas Prone To Floods And Droughts Landslides And
+Avalanches Areas Prone To Cyclonic And Coastal Hazards With Special Reference
+To Tsunami PostDisaster Diseases And Epidemics
+Disaster Preparedness And Management
+Preparedness Monitoring Of Phenomena Triggering A Disaster Or Hazard
+Evaluation Of Risk Application Of Remote Sensing Data From Meteorological And
+Other Agencies Media Reports Governmental And Community Preparedness
+Risk Assessment
+Disaster Risk Concept And Elements Disaster Risk Reduction Global And
+National Disaster Risk Situation Techniques Of Risk Assessment Global CoOperation In Risk Assessment And Warning Peoples Participation In Risk
+Assessment Strategies for Survival
+Disaster Mitigation Meaning
+Concept And Strategies Of Disaster Mitigation Emerging Trends In Mitigation
+Structural Mitigation and NonStructural Mitigation Programs of Disaster
+Mitigation In India
+REFERENCES
+1 R Nishith Singh AK Disaster Management in India Perspectives issues and
+strategies New Royal book Company
+2 Sahni PardeepEtAl Eds Disaster Mitigation Experiences And Reflections
+Prentice Hall Of India New Delhi 3 Goel S L Disaster Administration And
+Management Text And Case StudiesDeep Deep Publication Pvt Ltd New
+Delhi
+19EIMMACXX
+VALUE EDUCATION
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+ Understand value of education and self development
+ Imbibe good values in students
+ Let the should know about the importance of character
+Values and selfdevelopment Social values and individual attitude and work
+ethics Indian vision of humanism Moral and non moral valuation Standards and
+principles Value judgements
+Importance of cultivation of values Sense of duty Devotion Selfreliance
+Confidence Concentration Truthfulness Cleanliness
+Honesty Humanity Power of faith National Unity Patriotism Love for nature
+Discipline
+Personality and Behavior Development  Soul and Scientific attitude Positive
+Thinking Integrity and discipline Punctuality Love and Kindness Avoid fault
+Thinking Free from anger Dignity of labour Universal brotherhood and religious
+tolerance True friendship Happiness Vs suffering love for truth Aware of selfdestructive habits Association and Cooperation Doing best for saving nature
+55
+Character and Competence Holy books vs Blind faith Selfmanagement and
+Good health Science of reincarnation Equality NonviolenceHumility Role of
+Women All religions and same message Mind your Mind Selfcontrol Honesty
+Studying 
+REFERENCES
+1 Chakroborty SK Values and Ethics for organizations Theory and practice
+Oxford University Press New Delhi
+COURSE OUTCOMES
+Students will be able to
+1
+2
+3
+Knowledge of selfdevelopment
+Learn the importance of Human values
+Developing the overall personality
+19EIMMACXX
+CONSTITUTION OF INDIA
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+Students will be able to
+ Understand the premises informing the twin themes of liberty and freedom
+from a civil rights perspective
+ To address the growth of Indian opinion regarding modern Indian
+intellectualsconstitutional role and entitlement to civil and economic rights as
+well as the emergence of nationhood in the early years of Indian nationalism
+ To address the role of socialism in India after the commencement of the
+Bolshevik Revolution in 1917 and its impact on the initial drafting of the
+Indian Constitution
+History of Making of the Indian Constitution
+History Drafting Committee  Composition  Working
+Philosophy of the Indian Constitution
+Preamble Salient Features
+Contours of Constitutional Rights  Duties
+Fundamental Rights Right to Equality Right to Freedom Right against
+Exploitation Right to Freedom of Religion Cultural and Educational Rights Right
+to Constitutional Remedies Directive Principles of State Policy Fundamental
+Duties
+Organs of Governance
+Parliament Composition Qualifications and Disqualifications Powers and
+Functions Executive President Governor Council of Ministers Judiciary
+Appointment and Transfer of Judges Qualifications Powers and Functions
+Local Administration
+Districts Administration Head Role and Importance Municipalities
+Introduction Mayor and role of Elected Representative CEO of Municipal
+Corporation
+56
+Panchayati Raj Introduction PRI ZilaPachayat Elected officials and their
+roles CEO ZilaPachayat Position and role Block level Organizational Hierarchy
+Different departments
+Village level Role of Elected and Appointed officials Importance of grass root
+democracy
+Election Commission
+Election Commission Role and Functioning Chief Election Commissioner and
+Election Commissioners State Election Commission Role and Functioning
+Institute and Bodies for the welfare of SCSTOBC and women
+REFERENCES
+1 The Constitution of India 1950 Bare Act Government Publication
+2 Dr S N Busi Dr B R Ambedkar framing of Indian Constitution 1st Edition
+2015
+3 M P Jain Indian Constitution Law 7th Edn Lexis Nexis 2014
+4 DD Basu Introduction to the Constitution of India Lexis Nexis 2015
+COURSE OUTCOMES
+Students will be able to
+1 Discuss the growth of the demand for civil rights in India for the bulk of
+Indians before the arrival of Gandhi in Indian politics
+2 Discuss the intellectual origins of the framework of argument that informed
+the conceptualization of social reforms leading to revolution in India
+3 Discuss the circumstances surrounding the foundation of the Congress
+Socialist Party CSP under the leadership of Jawaharlal Nehru and the
+eventual failure of the proposal of direct elections through adult suffrage in
+the Indian Constitution
+4 Discuss the passage of the Hindu Code Bill of 1956
+19EIMMACXX
+PEDAGOGY STUDIES
+L
+T
+P
+C
+2
+0
+0
+0
+COURSE OBJECTIVES
+Students will be able to
+ Review existing evidence on the review topic to inform programme design and
+policy making undertaken by the DfID other agencies and researchers
+ Identify critical evidence gaps to guide the development
+Introduction and Methodology
+Aims and rationale Policy background Conceptual framework and terminology
+Theories of learning Curriculum Teacher education Conceptual framework
+Research questions Overview of methodology and Searching
+Thematic overview
+Pedagogical practices are being used by teachers in formal and informal
+classrooms in developing countries Curriculum Teacher education
+Evidence on the effectiveness of pedagogical practices
+Methodology for the in depth stage quality assessment of included studies How
+can teacher education curriculum and practicum and the school curriculum and
+57
+guidance materials best support effective pedagogy Theory of change Strength and
+nature of the body of evidence for effective pedagogical practices Pedagogic theory
+and pedagogical approaches eachers attitudes and beliefs and Pedagogic
+strategies
+Professional development alignment with classroom practices and followup
+support Peer support Support from the head teacher and the community
+Curriculum and assessment Barriers to learning limited resources and large class
+sizes
+Research gaps and future directions
+Research design Contexts Pedagogy Teacher education Curriculum and
+assessment Dissemination and research impact
+REFERENCES
+1 Ackers J Hardman F 2001 Classroom interaction in Kenyan primary
+schools Compare 31 2 245261
+2 Agrawal M 2004 Curricular reform in schools The importance of evaluation
+Journal of Curriculum Studies 36 3 361379
+3 Akyeampong K 2003 Teacher training in Ghana  does it count Multisite
+teacher Education research project MUSTER country report 1 London
+DFID
+4 Akyeampong K Lussier K Pryor J Westbrook J 2013 Improving teaching
+and learning of basic maths and reading in Africa Does teacher preparation
+count International Journal Educational Development 33 3 272282
+5 Alexander RJ 2001 Culture and pedagogy International comparisons in
+primary Education Oxford and Boston Blackwell
+6 Chavan M 2003 Read India A mass scale rapid learning to read campaign
+7 wwwprathamorgimagesresource20working20paper202pdf
+COURSE OUTCOMES
+Students will be able to understand
+1 What pedagogical practices are being used by teachers in formal and informal
+classrooms in developing countries
+2 What is the evidence on the effectiveness of these pedagogical practices in
+what conditions and with what population of learners
+3 How can teacher education curriculum and practicum and the school
+curriculum and guidance materials best support effective pedagogy
+19EIMMACXX
+STRESS MANAGEMENT BY YOGA
+COURSE OBJECTIVES
+1 To achieve overall health of body and mind
+2 To overcome stress
+Definitions of Eight parts of yog Ashtanga
+Yam and Niyam
+Dos and Donts in life
+L T
+P
+C
+2
+0
+0
+0
+58
+i Ahinsa satya astheya bramhacharya and aparigraha
+ii Shaucha santosh tapa swadhyay ishwarpranidhan
+Asan and Pranayam
+i Various yog poses and their benefits for mind  body
+ii Regularization of breathing techniques and its effectsTypes of pranayam
+REFERENCES
+1 Yogic Asanas for Group TariningPartI Janardan Swami Yogabhyasi
+Mandal Nagpur
+2 Rajayoga or conquering the Internal Nature by Swami Vivekananda
+AdvaitaAshrama Publication Department Kolkata
+COURSE OUTCOMES
+Students will be able to
+1 Develop healthy mind in a healthy body thus improving social health also
+2 Improve efficiency
+19EIMMACXX
+PERSONALITY DEVELOPMENT THROUGH LIFE ENLIGHTENMENT
+SKILLS
+L
+T P C
+2
+0 0 0
+COURSE OBJECTIVES
+1 To learn to achieve the highest goal happily
+2 To become a person with stable mind pleasing personality and determination
+3 To awaken wisdom in students
+NeetisatakamHolistic development of personality
+ Verses 19202122 wisdom
+ Verses 293132 pride  heroism
+ Verses 26286365 virtue
+ Verses 525359 donts
+ Verses 71737578 dos
+Approach to day to day work and duties
+Shrimad BhagwadGeeta  Chapter 2Verses 41 4748
+Chapter 3Verses 13 21 27 35 Chapter 6Verses 51317 23 35
+Chapter 18Verses 45 46 48
+Statements of basic knowledge
+Shrimad BhagwadGeeta
+Chapter2Verses 56 62 68
+Chapter 12 Verses 13 14 15 1617 18
+Personality of Role model Shrimad BhagwadGeeta
+Chapter2Verses 17 Chapter 3Verses 363742
+Chapter 4Verses 18 3839
+Chapter18  Verses 373863
+59
+REFERENCES
+1 Srimad Bhagavad Gita by Swami SwarupanandaAdvaita Ashram Publication
+Department Kolkata
+2 Bhartriharis Three Satakam Nitisringarvairagya by PGopinath Rashtriya
+Sanskrit Sansthanam New Delhi
+COURSE OUTCOMES
+Students will be able to
+1
+Study of ShrimadBhagwadGeeta will help the student in developing his
+personality and achieve the highest goal in life
+2
+The person who has studied Geeta will lead the nation and mankind to peace
+and prosperity
+3
+Study of Neetishatakam will help in developing versatile personality of
+students
+MEMicroelectronics  MEMS  C 35
+ANNAMALAI UNIVERSITY PRESS  2019  2020

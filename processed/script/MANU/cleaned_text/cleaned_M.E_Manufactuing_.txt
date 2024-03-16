@@ -1,0 +1,3770 @@
+FACULTY OF ENGINEERING AND TECHNOLOGY
+DEPARTMENT OF MANUFACTURING ENGINEERING
+Program ME
+Specialization Manufacturing Engineering
+Courses of Study and Scheme of Examination REGULATION2023
+SEMESTER I
+Course Code
+Category
+23MFMEPC11
+PCI
+23MFMEPC12
+PCII
+23MFMEPE13
+23MFMEPE14
+23MFMEMC15
+23MFMECP16
+CPI
+23MFMECP17
+CPII
+23MFMEAC18
+ACI
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+Applied Probability 
+Statistical Inferences
+Mechanical Behaviour of
+Materials
+3
+25
+75
+100
+3
+3
+25
+75
+100
+3
+PEI
+PEII
+Program ElectiveI
+Program ElectiveII
+3
+3
+25
+25
+75
+75
+100
+100
+3
+3
+MC
+Research Methodology and IPR
+Production Engineering
+Laboratory
+Computer Aided Engineering
+Laboratory
+Audit CourseI
+2
+3
+25
+40
+75
+60
+100
+100
+2
+2
+3
+40
+60
+100
+2
+2
+0
+205
+495
+700
+18
+Total
+SEMESTER II
+Course Code
+Category
+23MFMEPC21
+23MFMEPC22
+23MFMEPE23
+23MFMEPE24
+PCIII
+23MFMEOE25
+23MFMECP26
+23MFMETS27
+23MFMEAC28
+L
+T
+P
+CA
+FE
+Total
+Credits
+Metal Forming Technology
+3
+25
+75
+100
+3
+PCIV
+PEIII
+PEIV
+OEI
+Metal Joining Technology
+Program ElectiveIII
+Program ElectiveIV
+Open Elective I Inter Faculty
+3
+3
+3
+3
+25
+25
+25
+25
+75
+75
+75
+75
+100
+100
+100
+100
+3
+3
+3
+3
+CPIII
+Computing and Simulation
+Laboratory
+Industrial Training and Seminar 
+Mini project
+3
+40
+60
+100
+2
+60
+100
+2
+2
+S
+2
+40
+Audit CourseII
+Tr
+2
+0
+205
+495
+700
+19
+TS
+ACII
+Course
+Total
+FACULTY OF ENGINEERING AND TECHNOLOGY
+DEPARTMENT OF MANUFACTURING ENGINEERING
+Program ME
+Specialization Manufacturing Engineering
+Courses of Study and Scheme of Examination REGULATION2023
+SEMESTER III
+Course Code
+Category
+23MFMEPE31
+23MFMEOE32
+PEV
+OEII
+Program ElectiveV
+Open Elective II Inter faculty
+23MFMEPV33
+THI
+Thesis Phase I  Vivavoce
+Course
+L
+T
+P
+CA
+FE
+Total
+Credits
+3
+Pr
+16
+S
+4
+25
+25
+75
+75
+100
+100
+3
+3
+40
+60
+100
+10
+90
+210
+300
+16
+3
+Total
+SEMESTER IV
+Course Code
+Category
+Course
+L
+T
+P
+CA
+FE
+Total Credits
+23MFMEPV41
+THII
+Thesis Phase II  Vivavoce
+Pr
+24
+S
+6
+40
+60
+100
+15
+40
+60
+100
+15
+Total
+PC
+PE
+Program Core
+Program Elective
+CP
+TS
+OE
+Open Elective
+MC
+Core Practical
+Industrial Training and
+Seminar
+Mandatory Learning Course
+AC
+PV
+Audit Course
+Project work  Vivavoce
+XX
+yy
+Branch code
+ME Specialization Code
+LIST OF PROFESSIONAL ELECTIVES
+1
+MFMEPEXX Mechanics of Metal Machining
+2
+MFMEPEXX Manufacturing Management
+3
+MFMEPEXX Metal Casting Technology
+4
+MFMEPEXX Machine Tool Drives and Controls
+5
+MFMEPEXX Maintenance Management
+6
+MFMEPEXX Computer Integrated Manufacturing Systems
+7
+MFMEPEXX Plant Layout and Material Handling
+8
+MFMEPEXX Composite Materials
+9
+MFMEPEXX Tool Engineering
+10
+MFMEPEXX Automats and Transfer Machines
+11
+MFMEPEXX Design for Manufacturing and Assembly
+12
+MFMEPEXX Impact Engineering
+13
+MFMEPEXX Precision Engineering and NanoTechnology
+14
+MFMEPEXX Nano Materials Technology
+LIST OF OPEN ELECTIVES
+1
+MFMEOEXX Engineering Economics
+2
+MFMEOEXX Total Quality Management
+3
+MFMEOEXX Supply Chain Management
+LIST OF AUDIT COURSES
+1
+MFMEACXX English for Research Paper Writing
+2
+MFMEACXX Disaster Management
+3
+MFMEACXX Sanskrit for Technical Knowledge
+4
+MFMEACXX Value Education
+5
+MFMEACXX Constitution of India
+6
+MFMEACXX Pedagogy Studies
+7
+MFMEACXX Stress Management by Yoga
+8
+MFMEACXX Personality Development through Life Enlightenment Skills
+DEPARTMENT OF
+MANUFACTURING ENGINEERING
+VISION
+To prepare students to be lifelong learners and global citizens with successful careers in
+design research development and management of systems in manufacturing and service
+organizations
+MISSION
+A curriculum and educational experience designed and continuously improved through
+involvement and contribution of students faculty administrators staff and industry
+A wellfocused research program funded at the local regional and national level
+A demonstrated competence and expertise in addressing the needs of industry and community
+at large
+PROGRAMME EDUCATIONAL OBJECTIVES PEO
+PEO1 The graduates acquire ability to create model design synthesize and analyze essential
+production operational skills mechanism and automation system
+PEO2 The graduates use their talent selfconfidence knowledge and engineering practice
+which facilitate them to presume position of scientific andor managerial leadership in their
+career paths
+PEO3 The graduates will adopt ethical attitude and exhibit effective skills in communication
+management team work and leader qualities
+PEO4 The graduates apply their consciousness of moral professional responsibilities and
+motivation to practice lifelong learning in a team work environment
+ME MANUFACTURING ENGINEERING
+PROGRAM OUTCOMES PO
+Upon Completion of the two years of the Master of Manufacturing Engineering Degree
+PO1 INTEGRATION OF KNOWLEDGE
+Demonstrate strong basics in mathematics science engineering and technology which serve as
+the foundation for the Programme
+PO2 PROBLEM ANALYSIS
+Demonstrate the ability to design and conduct experiments as well as to analyze and interpret
+data in the spheres of fundamental engineering
+PO3 DESIGN AND DEVELOPMENT OF SOLUTIONS
+Demonstrate the ability to design a system component or process to meet desired needs within
+realistic constraints such as economic environmental social political ethical health and
+safety manufacturability and sustainability
+PO4 USE OF MODERN TOOLS AND TECHNIQUES
+Become familiar with modern engineering tools and analyse the problems within the domains
+of Manufacturing Technology as the members of multidisciplinary teams
+PO5 COLLABORATIVE AND MULTIDISCIPLINARY APPROACH
+Acquire the capability to identify formulate and solve engineering problems related to
+manufacturing engineering in interdisciplinary and multidisciplinary sciences
+PO6 ETHICAL PRACTICES AND SOCIAL RESPONSIBILITIES
+Demonstrate an understanding of professional and ethical responsibility with reference to their
+career in the field of manufacturing engineering
+PO7 COMMUNICATION SKILLS
+Interact with engineering community and with society at large regarding intricate engineering
+activities on technical perspectives and emerge as an efficient motivator He will be able to
+communicate effectively both in verbal and non verbal forms
+PO8 PROJECT MANAGEMENT
+Design and develop innovative  manufacturable  marketable environmental friendly products
+useful to the society and nation at large Graduate will be able to manage any organization well
+and will be able to emerge as a successful entrepreneur
+PO9 LIFE LONG LEARNING
+Understand the value for life longlong learning in the context of technological challenges
+PO10 ENVIRONMENT AND SUSTAINABLITY
+Acquire ample knowledge essential for sustainable development in consideration of
+environmental impacts and contemporary issues
+PO11 SOCIAL RESPONSIBILITY
+Understand the nature of profession and be vigilant in order to maximize the chances of a
+positive contribution to society
+PO12 INVESTIGATION OF COMPLEX PROBLEM
+Perform investigations design and conduct experiments analyze and interpret the results to
+provide valid conclusion
+PROGRAM SPECIFIC OUTCOMES PSO
+PSO 1 Inculcate research attitude and develop innovative methodologies independently to
+solve Manufacturing Engineering problems
+PSO 2 Inscribe and be exposed with significant technical reports  documents in the domain
+of Manufacturing Engineering
+PSO 3 Demonstrate an acceptable degree of mastery with an exposure to the stateoftheart
+practices for employability  higher education
+Mapping PEOs with POs
+POs
+PEOs
+PEO1
+PEO2
+PO1
+PO2
+PO3
+PO4
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+PEO3
+PEO4
+PO5 PO6
+PO7
+PO8
+2
+2
+1
+2
+1
+1
+2
+PO9
+PO10
+PO11
+PO12
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+FIRST SEMESTER
+23MFMEPC11
+APPLIED PROBABILITY 
+STATISTICAL INFERENCES
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To understand the statistical concepts and to motivate in students an intrinsic interest in
+statistical thinking
+ To introduce probability theory and statistics from a computational perspective
+ Instill the belief that Statistics is important for scientific research to be able to
+effectively conduct research
+ Provide a foundation and motivation for exposure to statistical ideas subsequent to the
+course
+No derivation only application in problem solving
+Introduction to Probability Theory Classical empirical and subjective probabilities
+Introduction to Statistics and Data  Types of Data  Quantitative Data Qualitative Data
+Logical Data Multivariate Data etc  nominal ordinal interval and ratio data Features of Data
+distributions  Center Spread Shape Symmetry Skewness and Kurtosis Definitions only
+Frequency Distributions and Histogram Stem and Leaf Diagrams Measures of Center  Mean
+Median Mode Measures of Spread  Range Variance Standard Deviation Measures of
+Relative Position Quartiles Percentiles Inter quartile range
+Distribution and functions Random Variables Discrete Random Variables Probability
+Distributions and Probability Mass Functions Mean and Variance of a Discrete Random
+Variable Discrete Uniform Distribution  Mean and Variance Binomial Distribution  Mean
+and Variance Poisson Distribution  Mean and Variance
+Continuous Random Variables Probability Distributions and Probability Density Functions
+Mean and Variance of a Continuous Random Variable Continuous Uniform Distribution
+Mean and Variance Normal Distribution Mean and Variance Proof not required
+Inference Statistical Inference Types of sampling and sampling error Random Sample 
+Statistic Sampling Distribution Central Limit Theorem Statement Only Distribution of
+sample mean and sample variance t chisquare and F distributions derivation not required
+Confidence Interval on the Mean Confidence Interval on the Variance Confidence Interval for
+a Population Proportion Confidence Interval on the Difference in Means Confidence Interval
+on the Ratio of two Variances
+Testing of Hypothesis  Non Parametric Test Introduces hypothesis testing methodology one
+and two sample z and t tests Type I and Type II errors  testing of mean difference in mean
+and proportions  Tests for Independence of attributes  Goodness of fit and simple linear
+regression and correlation Non parametric test run test sign test U test  H test
+Design of Experiment Experimental design  Analysis of variance  Methods for one two
+factor models completely randomized blocks  concepts of factorial design fractional factorial
+design response surface methods and central composite design
+REFERENCES
+1 Jay L Devore Probability and Statistics For Engineering and the Sciences Thomson
+and Duxbury 2002
+2 Mario F Triola Elementary Statistics Ninth Edition Boston Pearson Education Inc
+2004 Johanna
+3 Richard Levin I Statistics for Management PHI 1988
+4 Douglas C Montgomery and George C Runger Applied Statistics and Probability for
+Engineers Wiley India 5th Edition 2012
+5 David S Moore and George P McCabe Introduction to practice of statistics WH
+Freeman  Company 5th Edition 2005
+6 Richard A Johnson Miller and Freunds Probability and Statistics for Engineers
+Prentice Hall of India 8th Edition 2015
+7 Gupta SC and Kapoor V K Fundamentals of Mathematical Statistics Sultan Chand
+and Sons 2014
+8 Mendenhall Beaver Beaver Introduction to Probability  Statistics Cengage
+Learning 14th Edition 2014
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Acquire the basic knowledge of probability and statistics
+2 Distinguish between discrete and continuous random variables and construct the
+probability distribution of some of the discrete and continuous random variables
+3 Describe general properties of the sampling distribution of mean proportion and
+variance and construct and interpret their confidence interval
+4 Formulate the hypothesis and carry out testing
+5 Develop experimental design and analyze to improve product design and improve
+process performance
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+3
+3
+2
+3
+3
+2
+3
+CO1
+CO2
+CO3
+CO4
+CO5
+PO3
+PO4
+PO5
+1 High 2 Medium 3 Low
+2
+3
+3
+2
+3
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+PSO1
+PSO2
+PSO3
+2
+3
+3
+2
+3
+3
+3
+23MFMEPC12
+MECHANICAL BEHAVIOUR OF
+MATERIALS
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To impart a sound understanding of the tensile hardness and toughness behaviour of
+materials
+ To understand the factors affecting the fatigue and fracture behaviour of materials
+ To study the time dependant mechanical behaviour of materials
+Tensile behaviour Engineering stressstrain curve Derivation of tensile strength yield
+strength ductility modulus of elasticity resilience and toughness from stress strain curves
+comparison of stressstrain curves for different materials  True Stress  Strain Curve true
+stress at maximum load true fracture strain true uniform strain Necking strain  necking
+Criteria  Effect of strain rate temperature and testing machine on flow properties  Notch
+tensile test  Tensile properties of steel  strengthening mechanisms  Strain hardening  Strain
+aging  Yield point phenomena  Solid solution strengthening  Martensite Strengthening Grain refinement HallPetch relation
+Hardness  Toughness behaviour Hardness Measurements Brinnell hardness Meyers
+hardness Vickers hardness Rockwell hardness and Microhardness  Relationship between
+hardness and the flow curve  Hardness at elevated temperatures  Toughness
+measurements Charpy Izod and Instrumented Charpy  Transition Temprature Curves
+significance various criteria metallurgical factors affecting the curves Drop weight test
+explosion crack starter test Dynamic tear test and Robertson crack arrest test  Fracture
+Analysis Diagram
+Fatigue behaviour Introduction Stress cycles SN curves Goodman diagram Soderberg
+diagram Gerbar diagram  Cyclics stress strain curve  Low cyle fatigue  Strain life Equation
+ Fatigue mechanisms  High cycle fatigue  Effect of following paramenters on Fatigue
+mean stress stress concentration specimen size surface roughness residual stress
+microstructure and temperature Fatigue crack propagation  Fatigue under combined stresses
+ Cumulative fatigue damage  Design for fatigue
+Fracture behaviour Types of fracture in metals ductile and brittle fracture  Theoretical
+cohesive strength of metals  Griffith theory  Metallographic aspects of fracture Fractography  Notch effect  Concept of fracture curve  Fracture under Combined Stresses Environment sensitive fracture hydrogen embrittlement stress corrosion cracking Fracture mechanics strain energy release rate stress intensity factor crack deformation
+modes fracture toughness testing plastic zone size correction crack opening displacement
+Jintegral and Rcurve
+Time dependant mechanical behaviour Creep curve  Stress rupture Test  Structural changes
+during creep  Mechanisms of creep deformation  Deformation mechanisms maps Activation energy for steady state creep  Fracture at elevated temperature  Introduction to
+high temperature alloys  Predication of long time properties  Creep under combined
+stresses  Creep Fatigue Interaction
+REFERENCES
+1 George EDieter Mechanical Metallurgy Tata McGraw  Hill Education PvtLtd 3 rd
+Edition New Delhi 2014
+2 Hertzberg RW Richard W Hertzberg  Richard P Vinci  Jason L Hertzberg
+Deformation and Fracture Mechanics of Engineering Materials John Wiley  Sons
+Inc 5th Revised Edition New York 2012
+3 Thomas Courtney H Mechanical Behavoiur of Materials McGraw Hill 2nd Edition
+2005
+4 MAMeyers and K KChawla Mechanical Behavior of Materials Cambridge
+University Press 2009
+5 H Kuhn and D Medlin  Metals Handbook Mechanical Testing Vol8 American
+Society for Metals Metals Park Ohio 2000
+6 BroekD Elementary Engineering Fracture Mechanics 4th Edition Martinus Nijhoff
+Publishing The Hague 2008
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Evaluate the tensile behavior of the metals and to study the various strengthening
+mechanisms
+2 Evaluate the hardness and impact behavior of the metals
+3 Illustrate the fatigue properties of Metals
+4 Illustrate the fracture and fracture mechanics of metals
+5 Describe the time dependent behavior and the various creep mechanisms
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+CO1
+1
+1
+3
+CO2
+1
+1
+3
+3
+2
+CO3
+1
+1
+3
+3
+2
+CO4
+1
+1
+3
+3
+2
+2
+CO5
+1
+1
+2
+2
+23MFMEMC15
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+PSO1
+PSO2
+PSO3
+2
+RESEARCH METHODOLOGY AND
+IPR
+L
+2
+2
+3
+T
+0
+2
+P
+0
+C
+2
+COURSE OBJECTIVES
+ To formulate research problems
+ To understand the importance of research ethics
+ To educate the effects of Computer and Information Technology
+ To impart an understanding of growth of individuals  nation
+Meaning of research problem Sources of research problem Criteria Characteristics of a good
+research problem Errors in selecting a research problem Scope and objectives of research
+problem Approaches of investigation of solutions for research problem data collection
+analysis interpretation Necessary instrumentations
+Effective literature studies approaches analysis Plagiarism Research ethics Effective
+technical writing how to write report Paper Developing a Research Proposal Format of
+research proposal a presentation and assessment by a review committee
+Nature of Intellectual Property Patents Designs Trade and Copyright Process of Patenting
+and Development technological research innovation patenting development International
+Scenario International cooperation on Intellectual Property Procedure for grants of patents
+Patenting under PCT
+Patent Rights Scope of Patent Rights Licensing and transfer of technology Patent information
+and databases Geographical Indications New Developments in IPR Administration of Patent
+System New developments in IPR IPR of Biological Systems Computer Software etc
+Traditional knowledge Case Studies IPR and IITs
+REFERENCES
+1 Stuart Melville and Wayne Goddard Research methodology an introduction for
+science  engineering students
+2 Wayne Goddard and Stuart Melville Research Methodology An Introduction
+Ranjit Kumar 2 nd Edition Research Methodology A Step by Step Guide for
+beginners
+3 Halbert Resisting Intellectual Property Taylor  Francis Ltd 2007
+4 Mayall Industrial Design McGraw Hill 1992
+5 Niebel Product Design McGraw Hill 1974
+6 Asimov Introduction to Design Prentice Hall 1962
+1 Robert P Merges Peter S Menell Mark A Lemley  Intellectual Property in New
+Technological Age 2016
+2 T Ramappa Intellectual Property Rights Under WTO S Chand 2008
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Identify a good research problem
+2 Develop a research problem
+3 Compile and report research findings
+4 Facilitate the process for protecting intellectual property
+5 Administer and employ a patent system
+Mapping with Programme Outcomes
+Mapping with PSOs
+COs
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+PSO1
+PSO2
+PSO3
+CO1
+3
+3
+3
+1
+2
+3
+3
+3
+1
+1
+3
+3
+3
+3
+1
+3
+3
+3
+3
+3
+1
+3
+3
+2
+2
+1
+3
+2
+2
+2
+1
+2
+1
+CO2
+CO3
+CO4
+CO5
+L
+0
+PRODUCTION ENGINEERING
+LABORATORY
+23MFMECP107
+T
+0
+P
+3
+C
+2
+COURSE OBJECTIVES
+ To provide hands on experience on different materials processing techniques
+ To study the effect of process parameters on difference characteristics in material
+processing
+LIST OF EXPERIMENTS
+1 Formability of sheet metals by water hammer technique
+2 Rolling of metal strips
+3 Temperature measurement in arc welding process
+4 Influence of multipass welding on microstructure and hardness
+5 Estimation of cutting forces by Merchants theory
+6 Power measurement in a lathe
+7 Electric Discharge Machining
+8 Abrasive Jet Machining
+9 Estimation of flow stress by disc compression test
+10 Phase diagram of a twocomponent system
+11 Characteristic of moulding sand
+12 Process capability
+COURSE OUTCOMES
+Upon completing this course students should be able to correlate the theoretical knowledge
+with the practical knowledge in the following areas
+1 Forming processes and its metallurgy
+2 Welding processes and its metallurgy
+3 Forces involved and power consumption during metal machining
+4 Nontraditional machining processes
+5 Casting processes and its metallurgy and Quality control
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+1
+1
+CO2
+CO3
+CO4
+CO5
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+PSO1
+2
+2
+1
+2
+2
+PSO2
+PSO3
+2
+2
+2
+1
+2
+2
+1
+1
+23MFMECP17
+COMPUTER AIDED ENGINEERING
+LABORATORY
+L
+0
+T
+0
+P
+3
+C
+2
+COURSE OBJECTIVES
+ To impart hands on experience to students in Geometric Modeling Assembly and
+Engineering Drafting
+ To introduce the concepts of CNC programming and simulation on CNC turning CNC
+Milling trainer machines
+ To train the students to make use of software for finite element analysis for various
+applications in the field of manufacturing engineering
+CAD
+1 SKETCHER Introduction Basic sketch Constraints  Geometry  Dimensional
+2 SOLID MODELING  Extrude Revolve Sweep Loft Datum plane creation etc
+3 SURFACE MODELING  Extrude  Revolve surfacing Advance surfacing technique
+ Ruled  Loft surfacing Mesh of curves Free form surfaces Surface operations 
+trim merge intersect etc
+4 FEATURE MANIPULATION  Copy Edit Pattern Suppress History operations etc
+5 ASSEMBLY  Constraints Patterns Exploded views Interference check creating
+components from assembly mass property calculations and assembly cut sections
+6 DRAFTING  Standard view Sectional views and Detailing
+CAM
+1 Study of different control systems and CNC codes
+2 Programming and simulation for turning taper turning circular interpolation thread
+Cutting and facing operation
+3 Programming and simulation using DoLoop and Subroutine for CNC turning centre
+machining of internal surfaces in CNC turning centre
+4 Programming and simulation of profile milling operation circular interpolation
+circular and rectangular pocket milling Programming using canned cycles
+5 CNC code generation using CAM software packages  Turning Milling
+FEA
+1 Study on Basics of FEA Nodes Elements Boundary Conditions
+2 One Dimensional FEA Problem  Truss structure analysis Cantilever analysis
+3 Two Dimensional FEA Problems  Plane stress analysis Temperature distribution
+analysis Axisymmetric analysis Contact element analysis
+4 Nonlinear FEA Problem  Nonlinear Beam analysis Geometrical nonlinear analysis
+Material nonlinear analysis
+5 Three Dimensional FEA Problems  3D Shell Analysis 3D Analysis
+6 FEA Application in metal forming metal cutting fluid flow process etc
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1 Gain practical experience in handling 2D drafting and 3D modeling using modeling
+software systems
+2 Acquire hands on experience on the finite element modeling
+3 Understand the effective input parameters of FEA
+4 Understand and apply the concepts G and M codes and manual part programming of
+turning and milling processes
+5 Perform finite element modeling analysis of solid mechanics heat transfer problems
+shell and contact problems in 2D and 3D
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+PO4
+PO5
+CO1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+CO2
+CO3
+CO4
+CO5
+1
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+1
+1
+1
+PO12
+PSO1
+PSO2
+PSO3
+2
+1
+2
+1
+1
+1
+L
+3
+T
+0
+P
+0
+C
+3
+SECOND SEMESTER
+23MFMEPC21
+METAL FORMING TECHNOLOGY
+COURSE OBJECTIVES
+ To familiarize response of materials under plastic deformation
+ To predict the stress for various metal working processes
+ To determine the working load for various forming process
+ To familiarize the slip line field theory and upper bound analysis
+ To introduce Recent developments in high speed forming
+Description of stress at a pointstate of stress in two dimensions and three dimensionsstress
+tensor Mohrs circles two dimensions and three dimensions state of stress Hydrostatic and
+stress deviator Fundamentals of plasticityflow curvetrue stress and true strainyielding
+criteria for ductile loads combined stress testoctahedral shear stress and shear straininvariants of stress and strainplastic stress and strain relationsLevymises equationPrandtlResus equations
+Determination of workloadwork formula for homogenous deformationrolling rod drawing
+and extrusion processes Determination of load by stress evaluation method Determination of
+drawing loadstrip drawing with wedge shaped dies  cylindrical rod drawing with a conical
+die tube drawing and tube sinking Determinations of roll loads and roll force
+Determination of load by stress evaluation method Determination of forging loadplane strain
+forging of a thin strip and a flat circular disc Determination of extrusion load for round bar and
+flat strip Slip line field theory  Plane strain indentation of punch and Plane strain extrusion
+process Upper bound analysis  Plane strain indentation with frictionless interface and Plain
+strain frictionless extrusion
+Effect of high speed on stress strain relationships  effect of friction temperature and stress
+wavescomparison and requirements of HVF equipments Description of high speed forming
+machinehot forging pneumatic  mechanical high velocity forging  Fuel combustion process
+Electromagnetic forming principleessential of processprocess variablesapplications
+Explosive formingExplosivescharacteristicsstand off and contact operations stress waves
+and their effectsrequirements for standoff operationsprocess variablesproperties of formed
+componentsapplications Electro hydraulic formingprinciples requirements and
+characteristics  process variables Water hammer forming  principle and parameters
+governing the process
+REFERENCES
+1 An Introduction to the Principles of Metal Working Rowe GW Edward Arnold
+Publication
+2 Mechanical Metallurgy George E Dieter McGrawHill International edition
+Newyork1988
+3 Developments in High Speed Metal Forming Davies R and Austin ER The
+Machinery Publishing Co Ltd London 1970
+4 Fundamentals of Metal Forming Robert H Wagoner and Jean Loup Chenot John
+Wiley  Sons Inc New York 1992
+5 Plasticity for Engineers Calladine C R John Wiley  Sons 1991
+6 Metals Handbook Material Information Society ASM V4 Metals hand book1979
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Describe the fundamentals of theory of plasticity
+2 Appraise the rod wire and strip drawing processes and evaluate the force requirements
+3 Appraise the forging and extrusion processes and evaluate the force requirements
+4 Enumerate the different high speed energy forming machines and its features
+5 Discuss the characteristics and application of various high speed forming processes
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+3
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+PSO1
+1
+3
+PSO2
+CO2
+3
+2
+1
+3
+CO3
+3
+2
+1
+3
+PSO3
+CO4
+3
+2
+2
+CO5
+3
+1
+2
+23MFMEPC22
+METAL JOINING TECHNOLOGY
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To provide the fundamental knowledge on basic physical metallurgy and welding
+metallurgy
+ To study about the weldability aspects of ferrous metals and nonferrous metals
+ To know the details of various welding defects
+ To study about the weldability tests Service tests and Corrosion test
+Basic characteristics of fusion welds Brief introduction to fusion welding process  Heat
+flow in welding temperature distribution in welding heat flow equations simple
+problems metallurgical effects of heat flow in welding TTT diagrams CCT diagrams Metallurgy of fusion Weld different zones of steel weldments and their properties
+microstructure products in weldments
+Weldability of ferrous metals Weldability of Carbon Steels HSLA steels QT steels CrMo steels Significance of carbon equivalent important problems encountered in welding of
+above steels and remedial steps  Weldability of Stainless Steels stainless steel
+classification Schaffler diagram Delong diagram WRC diagram problems associated with
+welding of austenitic stainless steel ferritic stainless steel martensitic stainless steel and
+duplex stainless steels
+Weldability of nonferrous metals Weldability of Aluminum alloys Classification of
+aluminum alloys various processes used for aluminum welding problems involved in
+aluminum welding precaution and welding procedure requirements Weldability of Titanium
+alloys classifications of titanium alloys various welding processes and procedures involved
+in titanium welding problems involved and remedial steps  welding of nickel base alloys and
+magnesium alloys
+Welding defects Cracks hot cracks cold cracks nomenclature location and orientation of
+weld cracks chevron cracks lamellar cracks reheat cracks stress corrosion cracks Residual Stresses mechanism involved types of residual stresses measuring residual stress
+by hole drilling method xray diffraction method method of stress relieving vibratory stress
+relief  Distortion longitudinal traverse angular distortion simple problems bowing
+rational distortion buckling and twisting controlling of distortions in weldments
+Weldability testing Hot crack Tests Murex test Houldcroft test Varestraint test ring
+weldability test hot ductility test  Cold Crack Tests controlled thermal severity test
+tekken test lehigh test longitudinal bead weld test implant test  Service Weldability Tests
+tensile test nick break test bend test impact test hardness test fracture toughness test
+fatigue test creep test and corrosion test
+REFERENCES
+1 Welding Engineering and Technology Parmar RS Khanna Publishers New Delhi
+1998
+2 Welding Metallurgy Linnert GE Vol I  II 4th edition American Welding Society
+1994
+3 Introduction of Physical Metallurgy of Welding Kenneth Easterling 2 nd Edition
+Butterworth  Heinman 1992
+4 The Metallurgy of Welding Saferian D Pergamon Press 1985
+5 Welding Metallurgy Kuo S Kohn Wiley 1987
+6 Welding Hand Book Welding Process Vol II 8th Edition American Welding Society
+1991
+7 Welding Hand book Material and Application VolIII 8th Edition American Welding
+Society 1991
+8 Modern Arc Welding Technology Nadkarni SV Oxford  IBH Publishing Co Ltd
+New Delhi
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Understand the basics of Physical Metallurgy SUCH AS Welding Metallurgy and heat
+flow equations and different zones of Steel weldment in Fusion welding
+2 Differentiate the Weldability of ferrous metals like Carbon Steels and High Strength
+Low Alloy SteelsHSLA
+3 Select the appropriate technique for welding of Non ferrous metals like aluminium
+nickel and titanium
+4 Classify the various types of welding defects such as Cracks Residual stress and
+Distortion
+5 Evaluate the Weldability testing Service Weldability tests and Corrosion tests
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+PO4
+CO1
+3
+2
+2
+1
+2
+1
+1
+1
+2
+2
+1
+1
+1
+CO2
+CO3
+CO4
+CO5
+23MFMECP25
+1
+2
+2
+PO5
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+PSO1
+PSO2
+1
+2
+2
+2
+2
+2
+2
+1
+1
+1
+2
+T
+0
+P
+3
+1
+1
+2
+COMPUTING AND SIMULATION
+LABORATORY
+L
+0
+PSO3
+1
+C
+2
+COURSE OBJECTIVES
+ To provide hands on experience in some mathematical and simple statistical analysis
+using mathematical software
+TOPICS
+Simulation dealing with matrices Graphing Functions of one variable and two variables
+Response of under damped single degree of freedom systems to initial excitations Response
+of single degree freedom to harmonic and pulse excitations Random number generation
+2D 3D plots Control Charts Frequency response plots Solving of Linear Algebraic
+Equations Quadratic Function Discrete Function
+Manufacturing Design Calculations and Process simulation
+DOE  Response Surface Methodology Ttest ANOVA Correlation and Regression
+Analysis Cluster Analysis Factor Analysis
+COURSE OUTCOMES
+Upon the completion of the course the students will be able to
+1 Accomplish mathematical calculation such a matrix graphing and random generations
+using computer software
+2 Draw various types of 2D and 3D plots used for engineering applications
+3 Acquire knowledge on ANOVA Regression and correlation analysis
+4 Carryout process simulations and production design calculations
+5 Understand the basic concepts of Response surface methodology and its importance in
+experimental works
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+PO4
+PO5
+CO1
+3
+3
+3
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+3
+3
+3
+CO2
+CO3
+CO4
+CO5
+PO6
+PO7
+PO8
+Mapping with PSOs
+PO9
+PO10
+PO11
+PSO1
+PSO2
+2
+2
+1
+1
+1
+3
+3
+2
+2
+2
+3
+3
+2
+2
+2
+T
+2
+P
+2
+L
+0
+INDUSTRIAL TRAINING AND
+SEMINAR  MINI PROJECT
+23MFMETS27
+PO12
+PSO3
+C
+2
+COURSE OBJECTIVES
+ To train the students in the field work related the Manufacturing Engineering and to
+have a practical knowledge in carrying out Structural field related works
+ To train and develop skills in solving problems during execution of certain works
+related to Manufacturing Engineering
+The students individually undergo a training program in reputed concerns in the field of
+Manufacturing Engineering during the summer vacation at the end of second semester for full
+ time  fourth semester for part  time for a minimum stipulated period of four weeks At the
+end of the training the student has to submit a detailed report on the training he had within ten
+days from the commencement of the third semester for Fulltime  fifth semester for parttime
+The students will be evaluated by a team of staff members nominated by head of the
+department through a vivavoce examination
+  Four weeks during the summer vacation at the end of II Semester
+COURSE OUTCOMES
+1 Face the challenges in the field with confidence
+2 Benefit by the training with managing the situation that arises during the execution
+of works related to Manufacturing Environments
+3 Get the training to face the audience and to interact with the audience with
+confidence
+4 Tackle any problem during group discussion in the corporate interviews
+5 Gain practical knowledge in carrying out manufacturing related works
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+CO1
+3
+2
+2
+CO2
+PO3
+2
+2
+2
+CO3
+CO4
+CO5
+2
+2
+PO4
+2
+PO5
+PO6
+PO7
+2
+2
+2
+1
+1
+2
+1
+PO8
+Mapping with PSOs
+PO9
+1
+1
+1
+2
+PO10
+PO11
+1
+2
+2
+1
+1
+PO12
+PSO1
+PSO2
+PSO3
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+THIRD SEMESTER
+23MFMETH33
+L
+0
+THESIS PHASEI  VIVAVOCE
+T
+16
+P
+4
+C
+10
+COURSE OBJECTIVES
+ To develop the ability to solve a specific problem right from its identification and
+literature review till the successful solution of the same
+ To train the students in preparing project reports and to face reviews and viva voce
+examination
+METHOD OF EVALUATION
+o The student undergoes literature survey and identifies the topic of thesis and finalizes in
+consultation with GuideSupervisor and prepares a comprehensive thesis report after
+completing the work to the satisfaction of the supervisor
+o The progress of the thesis is evaluated based on a minimum of three reviews
+o The review committee will be constituted by the Head of the Department
+o A thesis report is required at the end of the semester
+o The thesis work is evaluated based on oral presentation and the thesis report jointly by
+external and internal examiners constituted by the Head of the Department
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Take up any challenging practical problems and find solution by formulating proper
+methodology
+2 Students will acquire the ability to make links across different areas of knowledge and
+to generate develop and evaluate ideas and information so as to apply these skills to the
+project task
+3 Students will acquire collaborative skills through working in a team to achieve common
+goals
+4 Students will be able to learn on their own reflect on their learning and take
+appropriate actions to improve it
+5 Students will acquire the skills to communicate effectively and to present ideas clearly
+and coherently to specific audience in both the written and oral forms
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+CO2
+PO2
+PO3
+PO4
+1
+1
+2
+2
+1
+2
+CO3
+CO4
+CO5
+2
+2
+2
+PO5
+PO6
+PO7
+PO8
+2
+1
+Mapping with PSOs
+PO9
+2
+1
+1
+2
+1
+PO11
+2
+2
+2
+2
+PO10
+2
+2
+2
+PO12
+PSO1
+PSO2
+PSO3
+1
+2
+2
+1
+2
+2
+2
+2
+2
+2
+1
+2
+1
+2
+2
+2
+FOUURTH SEMESTER
+23MFMETH41
+L
+0
+THESIS PHASEII  VIVAVOCE
+T
+26
+P
+6
+C
+15
+COURSE OBJECTIVES
+ To develop the ability to solve a specific problem right from its identification and
+literature review till the successful solution of the same
+ To train the students in preparing project reports and to face reviews and viva voce
+examination
+METHOD OF EVALUATION
+o The progress of the thesis is evaluated based on a minimum of three reviews
+o The review committee will be constituted by the Head of the Department
+o A thesis report is required at the end of the semester
+o The thesis work is evaluated based on oral presentation and the thesis report jointly by
+external and internal examiners constituted by the Head of the Department
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Take up any challenging practical problems and find solution by formulating proper
+methodology
+2 Students will acquire the ability to make links across different areas of knowledge and
+to generate develop and evaluate ideas and information so as to apply these skills to the
+project task
+3 Students will acquire collaborative skills through working in a team to achieve common
+goals
+4 Students will be able to learn on their own reflect on their learning and take
+appropriate actions to improve it
+5 Students will acquire the skills to communicate effectively and to present ideas clearly
+and coherently to specific audience in both the written and oral forms
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+PO2
+PO3
+PO4
+1
+1
+2
+PO5
+PO7
+2
+CO3
+PO8
+2
+CO2
+2
+2
+2
+2
+2
+2
+1
+PO9
+PO10
+PO11
+PO12
+PSO1
+PSO2
+PSO3
+2
+2
+1
+2
+2
+1
+1
+2
+1
+CO4
+CO5
+PO6
+Mapping with PSOs
+2
+1
+1
+2
+1
+1
+2
+2
+2
+2
+2
+PROFESSIONAL ELECTIVE COURSES
+23MFMEPEXX
+MECHANICS OF METAL MACHINING
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To impart fundamental knowledge on mechanics of chip formation
+ To impart knowledge about tool failure analysis and thermodynamics involved in
+metal cutting
+ To impart knowledge about wearmechanisms of cutting tools and wearchatter in
+machining
+ To provide an understanding of the mechanics of chip formation tool failure analysis
+and thermodynamics involved in metal cutting and the evolution of tool materials
+Need for rational approach to the problem of cutting materialsobservation made in the cutting
+of metalsbasic mechanism of chip formationthin and thick zone modestypes of chipschip
+breakerorthogonal Vs oblique cuttingforce velocity relationship for shear plane angle in
+orthogonal cuttingenergy consideration in machiningreview of Merchant Lee and Shafter
+theoriescritical comparison
+Nomenclature of single point cutting toolSystem of tool nomenclature and conversion of rake
+anglesnomenclature of multi point tools like drills millingconventional Vs climb milling
+mean cross sectional area of chip in millingspecific cutting pressure
+Heat distribution in machining  effects of various parameters on temperature  methods of
+temperature measurement in machining  hot machining  cutting fluids
+Tool failure Mechanism of plastic failure  form stability measurement of tool wear  tool life
+tests  tool life equation for variable theories  variables affecting tool life  economics of
+machining  machinability  machinability index  problems
+Processing and Machining  Measuring Techniques  Reasons for failure of cutting tools and
+forms of wearmechanisms of wearchatter in machiningfactors effecting chatter in
+machiningtypes of chattermechanism of chatter
+REFERENCES
+1 Boothroid DG  Knight WA Fundamentals of machining and machine tools
+Marcel Dekker New York 1989
+2 Shaw MC Metal cutting principles Oxford Clare don press 1984
+3 Bhattacharya A Metal Cutting Theory and practice Central Book Publishers India
+1984
+4 Principles of metal cutting Kuppusamy G University Press 1996
+5 The machining of metals Armargeo EJA and Brown RH prentice Hall 1969
+6 Fundamentals of metal machining Boothrough G McGraw Hill 1982
+7 Fundamentals of metal cutting and machine tools Juneja BL and Sekhar GS New age
+international 1995
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1 To understand fundamental knowledge on mechanics of chip formation and to
+distinguish between orthogonal and oblique cutting
+2 To acquire fundamental knowledge about the basic structures of concept of tools and
+tool materials
+3 To understand the heat distribution during machining
+4 To impart knowledge about tool failure analysis and thermodynamics involved in metal
+cutting
+5 To differentiate various types of wear
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+1
+1
+CO2
+PO2
+PO3
+2
+CO3
+CO4
+CO5
+1
+1
+23MFMEPEXX
+3
+2
+2
+3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+1
+1
+2
+3
+1
+1
+3
+2
+MANUFACTURING MANAGEMENT
+PSO1
+L
+3
+T
+0
+PSO2
+PSO3
+1
+1
+3
+2
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To introduce the operations management principles and the related quantitative
+approaches that helps in achieving the organizational goals
+Manufacturing management  Evolution and objectives  Concept of Production system Types of Production systems  Continuous Intermittent  Production versus Services
+Forecasting  components of demand  Quantitative methods  Single moving average method Single exponential smoothing method  Simple linear regression models  Seasonal model 
+Measures of accuracy  Simple problems  Qualitative Methods
+Capacity planning Defining and measuring capacity  determinants of effective capacity 
+Developing capacity alternatives Aggregate planning Costs Strategies  Application of chase
+and level strategies  Transportation model  Simple problems
+Inventory planning and control Need inventory costs Determination of EOQ EPQELS
+without shortages  Effect of quantity discounts Determination of ROL Safety Stocks 
+Service level  Methods of calculating safety stock using Normal distribution  unit service
+level  single period inventory model Inventory control systems  P Q and Ss System 
+Selective inventory control techniques  Simple problems
+Materials Requirements Planning MRP  Master production schedule Bill of materials MRP
+concepts Lot sizing Lotforlot technique EOQ approach Periodic order quantity approach 
+Simple problems Concepts of manufacturing  Enterprise Resource planning ERP  TPM 
+pillars of TPM  six big losses  TPM implementation  Overall equipment effectiveness Principles of JIT production  value added focus  sources of waste  Toyotos seven waste 
+waste reduction  push pull system  Kanban theory  JIT implementation  JIT purchasing Supply chain management
+Scheduling and assignment problems  Notations and definitions  criteria objective functions
+of scheduling  Job shop scheduling Sequencing of n jobs through 1 machine  priority rules 
+Measures of Performance  n jobs through 2 machines  Jacksons rule  Simple problems
+Flow shop scheduling  n jobs through 2 3 machines  Johnsons rule CDS algorithm Palmer
+algorithm Dannenbring algorithm 2 jobs on m machines  graphical method  Multiproduct
+assignment problem  Index method  Simple problems
+REFERENCES
+1 Production and Operations Management Theory and Problems Chary SN TMH
+New Delhi 1990
+2 Production and Operation Management Paneerselvam R PHI 1999
+3 Operation Management  Theory  Problems Monks J G McGraw Hill 1987
+4 Production and Operations Management Chase RB Aquilano NJ and Jacobs RR
+8th e edition TMH 1998
+5 Production Planning and Inventory Control Narasimhan SL Mc Leavey DW and
+Billington PJ 2 nd Edition PHI 1997
+6 Production and Operations Management Jay Heizer and Barry Render Prentice Hall
+Inc fourth edition 1996
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Develop an understanding of various types of production systems
+2 Differentiate Production and services
+3 Gain an understanding and appreciation of the principles and applications relevant to
+the planning design and operations of manufacturingservice firms
+4 Develop the ability to identify operational methodologies to assess and improve an
+organizations performance
+5 Gain ability to recognize situations in a production system environment that suggests
+the use of certain quantitative methods to assist in decision making in the areas such as
+Aggregate planning Inventory control forecasting MRP and scheduling
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+CO1
+2
+2
+1
+1
+2
+3
+2
+2
+2
+3
+CO2
+CO3
+CO4
+CO5
+23MFMEPEXX
+PO3
+PO4
+PO5
+2
+3
+2
+2
+2
+2
+2
+2
+3
+3
+PO6
+PO7
+PO8
+Mapping with PSOs
+PO9
+PO10
+PO11
+2
+2
+1
+2
+2
+3
+3
+2
+2
+3
+3
+METAL CASTING TECHNOLOGY
+PO12
+PSO1
+PSO2
+PSO3
+2
+2
+1
+1
+2
+2
+2
+2
+2
+3
+3
+3
+2
+3
+3
+L T P C
+3 0 0 3
+COURSE OBJECTIVES
+ To provide the knowledge on modern casting techniques
+ To impart an understanding of the design of runners risers gating and casting defects
+design considerations and modernization of foundries
+Modern casting techniques Shaw process slush casting continuous casting squeeze casting
+Rheo casting Thixo casting Electro slag casting Full mould process Low pressure die
+casting High pressure die casting
+Pouring Gating design  Illustrative Problems in determination of filling time and discharge
+rate  Aspiration effect  Effects of friction and velocity distribution Riser design and
+placement  determination of dimensions of riser  residual stress
+Solidification Solidification shrinkages of pure metals and alloys  Effect of mould
+materials and alloy Composition on casting  Metal fluidity measurement and application
+of fluidity  gases in metals  degassing  grain refinement Heat treatment of castings
+Illustrative Problems related to determination of solidification time
+Casting defects and testing Specification of castings  Inspection of castings  Analysis of
+casting defects  Quality control and quality assurance Foundry mechanization Principles and
+practice Modernization of foundries Pollution controlEnergy saving Layout for
+foundry Material handling equipments Sand handling Mould handling Core handling
+Charge handling Hot metal handling handling of castings
+Casting design consideration Design problems involving thin sections Alloy selection
+feeding through thin sections nonuniform wall thickness chilling effect of the mould Design
+problems involving junctions  Design problems involving unequal sections Padding feed
+paths in permanent and investment castings
+REFERENCES
+1 Foundry Engineering Howard F Taylor Merton C Flemings John Wulff Wiley
+Eastern Limited 1993
+2 Fundamentals of Metal Casting Technology Mukerjee PC Oxford  IBH Co 1979
+3 Principles of Foundry Technology Jain PL Tata McGrawHill Pub Ltd New
+Delhi1997
+4 Metal Casting  Principles and Practice Ramana rao TV New Age international 1996
+5 Manufacturing Science Amitabha Gosh Affiliated EastWest Press1985
+COURSE OUT COMES
+Upon completing this course students should be able to
+1 To teach the uncoventionalmodern casting techniques along with their merits and
+demerits
+2 To teach the design philosophies that help in good riser  gating design leading to
+economising the mold material requirement and at the same to reduce cost  defects of
+the casting made
+3 To teach the thermal expansion and frictional effects occurring after the metal is
+poured in to the mould and to teach the relevant design philosophies
+4 To impress upon the possible casting defects and the ways of minimising them and on
+the economics of foundry mechanisation and energy utilized
+5 To teach the design philosophies that help in thin section casting with minimum
+defects at junctions
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+PO4
+CO1
+1
+1
+1
+CO2
+1
+1
+CO3
+1
+CO4
+CO5
+PO10
+PO11
+PO12
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+23MFMEPEXX
+PO5
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PSO2
+PSO3
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+P
+0
+C
+3
+MACHINE TOOL DRIVES AND
+CONTROLS
+L
+3
+PSO1
+T
+0
+COURSE OBJECTIVES
+ Remember different type of drives mechanism selection of speeds and feeds and
+designs the machine tool gear box
+ Understand the working principle of hydraulic circuit components like control valves
+controllers actuators sensors and its selection
+ Develop different logic circuits using logic elements to control machine tools
+ Acquire knowledge of trouble shooting and design of hydraulic circuits for different
+applications
+ Apply APT program to design different hydraulic control circuits
+Machine Tool Drives Selection of range of speeds and feeds  advantages of GP series Design of machine tool gear boxes Types of drives sliding clustered drives Ruppert drives
+Meander drives Mechanical stepless drives
+Oil Hydraulics Basics of Hydraulics drives  Application  Advantages of hydraulic control
+drives Pump Classification gear vane piston Linear Rotary Fixed and Variable
+displacement pumps hydraulic pumps Types of valves Direction control Flow control and
+Pressure control valves Types unloading  sequence valves counter balance valves Construction and Operation Simple hydraulic circuits Meter in Meter out Bleed off circuits
+Regenerative circuits
+Fluidic control Wall attachment principle  Types of amplifiers  Types of Logic elements 
+Types of Sensors  Simple logic circuits
+Numerical control Introduction to numerical control  Application of NC machines 
+Economics of NC machines  Open loop  closed loop system  Interpolator  transducers 
+Comparators
+Manual and Computer Aided Programming Languages APT programming  Exercises in
+programming
+REFERENCES
+1 Machine Tool Design and Numerical Control Metha NK Tata McGraw  Hill
+Publication
+2 Industrial Hydraulics John Pippenger and Tyler Hicks McGraw Hill Co
+3 Machine Tool Design Vol III and IV Acherkan NS MIR Publishers Moscow
+4 Programming for NC Machines Roberts  Prentice McGraw Hill
+5 Computer Numerical Control of Machine Tools Radhakrishnan P New Central Book
+Agency Calcutta
+6 Hydraulic Hand book Warring RH Gulf Publishing Company
+7 Principles of Machine Tools Sen GS  Bhattacharya New Central Book Agency
+Calcutta
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1 Understand machine tool drives and their types
+2 Identify hydraulic components and circuits
+3 Ability to design simple logic circuits
+4 Understand the benefits and applications of Numerical control machines
+5 Get the knowledge on the design aspects of circuits for Machine Tool Control the drive
+systems used for Machine Tools and NC systems
+6 Ability to develop NC machines programming
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+CO1
+1
+2
+CO2
+2
+1
+3
+3
+1
+CO3
+PO3
+2
+1
+23MFMEPEXX
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+3
+PSO1
+PSO3
+1
+2
+1
+1
+3
+PSO2
+2
+3
+2
+CO4
+CO5
+PO4
+Mapping with PSOs
+3
+3
+2
+MAINTENANCE MANAGEMENT
+2
+3
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To impart a better understanding of the fundamental philosophies of Maintenance
+Management and the different techniques that enable the selection of the optimum
+maintenance strategy It also discuss the concepts of reliability engineering and spare
+parts management
+Maintenance system Types of Maintenance  Maintenance strategies and planning 
+quantitative analysis  Breakdown  time frequency distributions  Breakdown maintenance
+policy preventive maintenance policy Selection of repair Vs preventive maintenance policy 
+simple problems Introduction to TPM  six big losses  pillars of TPM  5s  Overall
+Equipment Effectiveness OEE
+Maintenance facilities planning Planning of Maintenance Function  Long range planning 
+Short range planning  Man power allocation  Planning techniques  Planning steps  Optimal
+number of machines  crew size  Use of waiting line and Simulation model
+Replacement strategies and Policies Basic concepts of replacement analysis economic service
+life opportunity costs  cash flow approaches to replacement analysis  Replacement analysis
+using specified time period  probabilistic replacement models  simple problems
+Reliability Engineering Bath tub curve  Failure data analysis and life testing  Reliability
+parameters  Reliability models  Reliability evaluation methods  Weibull analysis  System
+reliability with components in series parallel and mixed configuration  Active partial and
+standby redundancy  Availability and Maintainability concepts  Reliability centered
+maintenance  FTA FMECA
+Spares management Spare parts management  Characteristics of spare parts inventory 
+Approaches for selective inventory control  VEDABC analysis  Models for breakdown
+spares capital spares insurance spares and rotable spares  simple problems Introduction to
+Maintenance Resource Planning MRP  maintenance Manpower Resources and Spares
+Requirement Planning MRSRP
+REFERENCES
+1 Production and Operations Management Theory and Problems Chary SN TMH
+New Delhi 1990
+2 Operation Management Theory  Problems Monks JG McGraw Hill 1987
+3 Concepts in Reliability Engineering Srinath LS East west press Ltd 1991
+4 Terrotechnology Reliability Engineering and Maintenance Management Bikas
+Bhadury and SK Basu Asian Books Pvt Ltd New Delhi 2003
+5 Introduction to Total Productive Maintenance Seiichi Nakeiima Productivity Press
+India Pvt Ltd Madras 1988
+6 Maintenance and Engineering Management Mishra RC Pathak K Prentice hall India
+Private Limited New Delhi 2002
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Develop a maintenance plan for a technical system
+2 Have a working knowledge of the techniques of reliability engineering
+3 Apply learned concepts to improve the maintenance the maintainability hazard risk
+and the safety of the plant
+4 Apply problem solving models to maintenance
+5 Analyze different failure of a componentequipment
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+PO4
+PO5
+CO1
+2
+3
+3
+2
+1
+2
+3
+3
+2
+2
+3
+3
+3
+3
+CO2
+CO3
+CO4
+CO5
+3
+2
+PO6
+PO7
+3
+3
+2
+PO8
+Mapping with PSOs
+PO9
+PO10
+PO11
+2
+2
+3
+3
+3
+2
+2
+3
+3
+2
+3
+3
+3
+PO12
+PSO1
+PSO2
+PSO3
+3
+3
+2
+1
+2
+2
+2
+2
+2
+2
+2
+3
+23MFMEPEXX
+COMPUTER INTEGRATED
+MANUFACTURING SYSTEMS
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To familiarize the basic concepts of CIM
+ To introduce the fundamentals of robotics and its applications in manufacturing
+industries
+ To introduce the concept of FMS and the materials handling and storage system used
+ To familiarize the group technology concept and the clustering algorithms associated
+with it
+ To introduce the concepts of CAPP and CAQC
+Introduction to CIM An overview of CIM  Significance  Product development through CIM
+ Design and Implementation  CIM models  Present status
+Industrial Robotics Automation and Robotics  Robot Anatomy Joint motions  End
+effectors Grippers and Tools  Robotic sensors  Robot vision system  Robot programming 
+Robot cell Types  Design and control Applications of Industrial Robots in Material transfer
+Machine loadingunloading Welding Spray coating Processing operations Assembly and
+Inspection Advanced Applications
+Flexible Manufacturing System FMS Definition  Components  Types  Flexibilities 
+Materials Handling and storage system Conveyors Types  Automated Guided Vehicle
+AGV Types Guidance and Routing  Automated Material Handling and Storage system
+ASRS Types Components and Special features  Carousel system  WIP storage  Role of
+computers in FMS  FMS Layouts  Benefits of FMS
+Group Technology GT Part family  Parts classification and coding  Cellular
+Manufacturing  Benefits of GT Algorithms for Machine cell formation Algorithms based on
+similarity coefficients Single Linkage Clustering Analysis SLCA Algorithms based on
+sorting of PartMachine Incidence Matrix Production Flow Analysis PFA  Rank Order
+Clustering ROC Cluster Identification Algorithm CIA  Cellular Layouts
+Automated Process Planning Generative and Variant types of process planning  AI in process
+planning  Software Computer Aided Quality Control CAQC Overview  Inspection
+Technology Types of Coordinate Measuring Machines CMM  Noncontact inspection
+methods  Machine vision system
+REFERENCES
+1 Mikell P Groover Automation Production Systems and Computer Integrated
+Manufacturing PrenticeHall of India Pvt Ltd New Delhi 2002
+2 Mikell P Groover Mitchell Weiss Roger N Nagel and Nicolas G Odery Industrial
+Robotics Technology Programming and Applications McGrawHill Book Co 1986
+3 Radhakrishnan P Subramanyam S and Raju V CADCAMCIM Second Edition
+New Age International Pvt Ltd 2002
+4 Deb SR Robotics Technology and Flexible Automation Tata McGrawHill
+Publishing Co Ltd 1996
+COURSE OUTCOMES
+Upon completing this course students will able to
+1 Outline the basic concepts of CIM and its importance in the global competitive
+market
+2 Understand the anatomy of industrial robots and their application in various
+areas of manufacturing
+3 Apply the concepts of FMS and automated materials handling and storage systems
+4 Adapt the group technology concept and clustering algorithms in modern
+manufacturing systems
+5 Get familiarize with the concepts of CAPP CAQC and the usage of CMM
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+1
+1
+1
+1
+1
+CO2
+CO3
+CO4
+CO5
+PO2
+PO3
+2
+23MFMEPEXX
+3
+2
+3
+2
+2
+PO4
+3
+PO5
+2
+2
+1
+1
+2
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+PSO1
+1
+1
+2
+3
+PLANT LAYOUT AND MATERIAL
+HANDLING
+1
+1
+1
+2
+L
+3
+T
+0
+PSO2
+PSO3
+3
+3
+2
+2
+2
+2
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To introduce the concepts of layout planning and the various algorithms used in and
+also to introduce the design of material handling systems mechanized assembly
+hoppers and feeders and transfer systems
+Plant Layout Need for Layout Planning  Layout Objectives and Determinants Process
+Layout Operation Sequence Analysis  LoadDistance Analysis  Travel Chart  Muthurs
+systematic layout planning  Pairwise Exchange MethodSimple Problems Product Layout
+Line Balancing Largest Candidate Rule  Kilbridge  Westers Method  Ranked Positional
+Weight Method  COMSOAL
+Apples plant layout procedure  Reeds plant layout procedure  Computer Aided Plant Layout
+Planning CORELAP PLANET MAT ALDAP CRAFT  Plant Layout Algorithms
+Modified spanning tree algorithm  Graph based method  BLOCPLAN Algorithm
+Facilities planning  Introduction to models for single row machine layout problem  multirow
+layout problem and quadratic assignment model  introduction to algorithms for the multirow
+layout problems
+Material Handling Functions  Principles  Types of Material Handling Systems Analysis of
+Material Handling Equipment Economic Analysis of Material Handling Equipments
+Breakeven Analysis  Equipment Operating Cost Per Unit Distance  Work Volume Analysis
+ Illustrative Problems Productivity  Indicator Ratios Packaging Functions  Materials 
+Palletizing  Packaging Equipments
+Mechanized Assembly Principles and Operating characteristics of Part Feeders such as
+Vibratory Bowl Feeder Reciprocating Tube Hopper Centrifugal Hopper Feeder and Center
+Board hopper feeder  Orientation of Parts  Inbowl and Outofbowl tooling  Different
+Types of Escapements Transfer Systems and Indexing Mechanisms
+REFERENCES
+1 Material Handling John R Immer McGraw Hill Book Coy 1953
+2 Facility Layout and Location An Analytical Approach Francis R L McGinnis L F
+ White J A PHI 1999
+3 Manufacturing Facilities Location Planning  Design Sule D R PWS Publishing
+Co Boston 2 nd Edition 1994
+4 Facilities Design Sunderesh Heragu PWS Publishing Co Boston 1997
+5 Materials Management  Materials Handling Sharma S C Khanna Publishers New
+Delhi
+6 Production and Operations Management  Principles and Techniques Ray Wild ELBS
+7 Analysis and control of production systems 2nd edition Elsayed A and Thomas O
+Bouchar Prentice Hall NJ 1994
+8 Theory and Problems in Operation and Production Management Chary S N TataMcGraw Hill 1994
+9 Mechanised Assembly Boothroyd  Redford
+10 Automation Production Systems and ComputerIntegrated Manufacturing Groover
+MP PHI New Delhi 2002
+11 Facilities Planning III Edition Tompkins White Bozer Tanchoco John Wilery 
+Sons PvtLtd Singalore 2003
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Understand the different layout planning and its techniques such as process layout and
+product layout
+2 Differentiate various types of layout procedure computer aided plant layout planning
+and plant layout Algorithm
+3 Select appropriate facilitate planning for different layout problems
+4 Classify various types of material handling functions of material handling system and
+analysis of material handling system
+5 Evaluate the Mechanized assembly on part feeders and Transfer system
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+CO1
+2
+3
+2
+2
+2
+2
+1
+3
+3
+1
+2
+1
+CO2
+CO3
+CO4
+CO5
+PO4
+1
+1
+1
+PO5
+1
+2
+2
+1
+PO6
+1
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+PSO1
+PSO2
+1
+2
+1
+1
+1
+2
+2
+2
+1
+1
+PSO3
+23MFMEPEXX
+COMPOSITE MATERIALS
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To impart an indepth knowledge on composite materials types production processing
+and the structural development in composite materials
+Introduction Fundamentals of composites  need for composites  Enhancement of properties
+ classification of composites  MatrixPolymer matrix composites PMC Metal matrix
+composites MMC Ceramic matrix composites CMC Reinforcement  Particle reinforced
+composites Fibre reinforced composites Applications of various types of composites
+Classification of Polymers  properties and applications of selective engineering polymers Polymer Matrix Composites Polymer matrix resins  Thermosetting resins thermoplastic
+resins  Reinforcement fibres  Rovings  Woven fabrics  Non Woven random mats  various
+types of fibres PMC processes  Hand layup processes  Spray layup processes  Compression
+moulding  Reinforced reaction injection moulding  Resin transfer moulding Pultrusion Filament winding  Injection moulding Fibre reinforced plastics FRP Glass fibre reinforced
+plastics GRP
+Metal Matrix Composites Characteristics of MMC Various types of Metal matrix composites
+Alloy vs MMC Advantages of MMC Limitations of MMC Metal Matrix Reinforcements particles  fibres Effect of reinforcement  Volume fraction  Rule of mixtures Processing of
+MMC  Powder metallurgy process  diffusion bonding  stir casting squeeze casting
+Ceramics Matrix Composites Engineering ceramic materials  properties  advantages limitations  Monolithic ceramics  Need for CMC Ceramic matrix  Various types of Ceramic
+Matrix composites  oxide ceramics  non oxide ceramics aluminium oxide  silicon nitride reinforcements particles  fibres  whiskers Sintering  Hot pressing Cold isostatic pressing
+piping  Hot isostatic pressing HIPing
+Advances in Composites Carboncarbon composites  Advantages of carbon matrix limitations of carbon matrix Carbon fibre  chemical vapour deposition of carbon on carbon
+fibre perform Sol gel technique Composites for aerospace industrial applications
+REFERENCES
+1 Composite materials Engineering and Science Mathews FL and Rawings RD
+Chapman
+2 Composite materials Chawla KK SpringerVerlag 1987
+3 Engineering Materials Kenneth GBudinski Prentice Pvt Ltd 41th Indian Reprint
+2002
+4 Introduction to Metal Matrix Composites TWClyne and PJ Withers Cambridge
+University Press 1993
+5 Fundamentals of Composite Manufacturing B Strong SME 1989
+6 Composite materials SC Sharma Narosa Publications 2000
+7 Short Term Course on Advances in Composite Materials Composite Technology
+Centre Department of Metallurgy lIT  Madras December 2001
+8 Hand Book of Plastic processing Brydson
+9 FRP Technology Fibre Reinforced Resin System Weatherhead RG Applied Science
+Publishers Limited London 1990
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 To teach the need for various types composite materials and to list the performance
+requirements of good matrices and reinforcements with which the composite material
+is fabricated
+2 To explain the purpose of Polymer matrix composites and to teach the different
+techniques of manufacturing the same along with their comparative advantages
+3 To teach the purpose of different types of metal matrix composites and to tailor make
+them to suit to the design needs
+4 To teach the purpose of ceramic matrix composites and the underlying philosophies
+of imparting toughness and also to teach the manufacturing techniques
+5 To teach the purpose of carboncarbon composites and manufacturing techniques along
+with comparative advantages and limitations
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+PO4
+CO1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+CO2
+CO3
+CO4
+CO5
+23MFMEPEXX
+PO5
+PO6
+PO7
+PO8
+PO9
+TOOL ENGINEERING
+Mapping with PSOs
+PO10
+PO11
+PO12
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+L
+3
+PSO1
+T
+0
+PSO2
+PSO3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To introduce different production tools including press tools their design
+ To provide an understanding of design and use of jigs and fixtures
+ To introduce the students the modern concepts of tool engineering
+Design principles of cutting tools  problems in cutting tool design  factors in tool design 
+Single point cutting tool  chip breakers  determination of tool shank dimensions Milling
+cutters  determination of number of teeth teeth size and other features Design features 
+drills  reamers  broaching tools
+Press tool design Press classification  selection and features of press Dies  types 
+clearances Progressive die design for typical components for blanking and piercing 
+compound die combination die  Illustrative examples Strip layout design  influencing
+factors
+Bending Types of bending  determination of bending force  bend allowance  Springback
+Drawing dies Design of dies  blank development  Cup drawing  illustrative examples
+Ironing  calculation of number of draws Design of forging dies  blank size materials for die
+block
+Elements of Jigs and Fixure  Locating and clamping principles Locating method and devices
+ Clamping devices Types of Jigs Plate Template Latch Channel Leaf Box and Indexing
+Modular work holding systems  quick change toolings  single minute exchange of dies 
+Computer aided fixture design  phases Plastic tooling  Plastic tool materials  construction
+methods  applications Safety aspects of tool design  criteria for selection of tool material
+REFERENCES
+1 A Text Book of Production Engineering PC Sharma SChand 2001
+2 Tool Design Donaldson GH Lecain Goold VV TMH 2000
+3 Cutting Tool Design Rodin P MIR Publisher Moscow 1968
+4 Die design Hand book Wilson FW McGraw Hill
+5 Fundamentals of Tool Design ASTME Prentice Hall 1974
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Gain knowledge in nomenclature of cutting tools and design of multi point cutting
+tools
+2 Classify types of presses press tools and design of dies
+3 Design bending drawing and forging dies for different components
+4 Classify jigs and fixtures for different components
+5 Gain knowledge on lean manufacturing tools and plastic toolings
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+PO4
+CO1
+3
+3
+3
+2
+2
+3
+3
+3
+2
+3
+3
+2
+2
+2
+2
+CO2
+CO3
+CO4
+CO5
+PO5
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+2
+23MFMEPEXX
+AUTOMOTS AND TRANSFER
+MACHINES
+PO11
+PO12
+PSO1
+PSO2
+PSO3
+2
+3
+3
+3
+2
+1
+1
+2
+3
+3
+2
+2
+3
+T
+0
+P
+0
+C
+3
+L
+3
+COURSE OBJECTIVES
+ The aim of present course is to introduce the students about the basic automation theory
+and understanding of its devices Students can think and get innovative idea in the area
+of shop floor automation
+Automation introduction Automated Manufacturing System Reasons for Automating
+strategies for automation and process improvement automation migration strategies levels of
+automations Types of Automations Classification of Automatic Machines
+Pneumatic System Design Introduction pneumatics system components pneumatics
+actuators application of pneumatics system in automation pneumatics circuit design for
+automation limitations of pneumatic system
+Hydraulics System Design Introduction Hydraulic system components hydraulic actuators
+application of hydraulic system in automation hydraulic circuit design for automation
+limitations of hydraulic system
+Automated Machinery Introductions Automated transfer machine automated transfer line
+Continuous and rotary transfer line autostorage and retrieval system automated guided
+vehicles automated material handling system automated inspection system and CMM
+Industrial Robotics and Mechatronics System Introduction Robot Anatomy and Related
+Attributes Robot Control Systems End Effectors Sensors in Robotics Industrial Robot
+Applications Robot Programming overview Transducers Sensors and Actuators
+Classification Principle of Operation Selection Criteria Signal Conditioning Calibration
+REFERENCES
+1 Automation Production Systems and Computer Integrated Manufacturing Mikell P
+Groover PHI Learning Private Limited
+2 Hydraulics and Pneumatics Andrew Parr JAICO Publishing Home Ahmedabad
+3 Industrial Automation and Robotics A K Gupta and S K Arora University Science
+Press Laxmi Publishing Pvt Ltd
+4 Programmable Logic Controller Vijay R Jadhav Khanna Publishers New Delhi
+5 Robotics and Control R K Mittal and I J Nagrath McGraw Hill Education India
+Private Limited
+6 Automatic Machine Tools Town HC
+7 Assembly automation and product design Boothroyd G
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Understand the basic knowledge on automated manufacturing system strategies and
+types of automation and classification of automatic machines
+2 Develop knowledge and skill to design of hydraulic pneumatic and electropneumatic
+logic circuits using different sensors control valves controllers and actuators for
+automating processes in manufacturing
+3 Demonstrate problemsolving skills in automation and safely use the machines in the
+industries
+4 Acquire knowledge about the various Automated Machineries
+5 Gain an insight into the Industrial Robotics and Mechatronics System
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+CO1
+1
+3
+3
+CO2
+CO3
+2
+CO4
+1
+CO5
+PO3
+PO4
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+PSO1
+2
+1
+2
+2
+1
+2
+PSO3
+1
+3
+3
+PSO2
+3
+2
+1
+3
+PO5
+Mapping with PSOs
+2
+3
+1
+1
+1
+2
+23MFMEPEXX
+DESIGN FOR MANUFACTURING AND
+ASSEMBLY
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ Understand the relationship between customer desires functional requirements and
+product design
+ The aim is to make the student aware of fits and tolerance that are used in the industry
+ To make students aware of the necessity to produce best design processes and systems
+for the best use of material
+ To acquaint the students with recent developments in reverse engineering and rapid
+prototyping
+ To aid in efficient in design to minimize material usage on an application perspective
+Fits and tolerance Terminology for limits and fits general limits of tolerance limit system
+selective assembly problem Gauges and gauge designPlain gauge design of limit gauges
+manufacturing of limit gauges choice of limit gaugesproblem
+Jigs and fixtures Design principles common to jigs and fixtures fundamentals of jigs and
+fixtures design materials for jigs and fixtures constructionproblem
+Forging Die design for machine forging determination of stock design selection of forging
+equipment size of die blocksproblem Extrusion Design of parts of extrusion block analysis
+of extrusion process variation of extrusion pressureproblem Sheet metal drawing Press
+selection cutting forces methods of reducing cutting forces blanking die design piercing die
+design pilots drawing die bending dies design procedure for progressive dies
+WeldingBasic consideration introduction critical dimensions of weld connections stress
+analysis in static loading tensile load in butt welds bending load in butt welded joints fillet
+welds concentric and eccentric loading of fillet welds some typical structural parts design of
+spot welds and plug weldsproblem
+CMM reverse engineering rapid prototyping 3D printer design to minimize material usage
+design for assembly design for recyclability
+REFERENCES
+1 PC Sharma Production engineering S Chand and Co Pvt LTD New Delhi
+2 VM Radhakrishnan Welding technology and design New age international
+publishers
+3 Chua CK Leong KF and Lim CS Rapid prototyping Principles and applications
+Third Edition World Scientific Publishers 2010
+4 Liou LW and Liou FW Rapid prototyping and Engineering applications A tool box
+for prototype development CRC Press 2007
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1 To make the student aware of fits and tolerance those are used in the industry
+2 To study the fundamentals and design principles of Jigs and fixtures and their constructionproblem
+3 To make students aware of the different manufacturing process such as Forging Extrusion
+and Sheet metal drawing and to study the equipment design procedures
+4 To aware the welding activity in fabrication and to study the design of welded joints
+5 To acquaint the knowledge in the advanced manufacturing techniques such as in reverse
+engineering rapid prototyping and 3D printing and to aid in efficient in design to minimize
+material usage on an application perspective
+Mapping with Programme Outcomes
+COs
+PO1
+PO2
+PO3
+CO1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+CO2
+CO3
+CO4
+CO5
+23MFMEPEXX
+PO4
+PO5
+2
+1
+1
+2
+2
+2
+2
+1
+PO6
+1
+PO7
+1
+PO8
+PO9
+Mapping with PSOs
+PO10
+2
+IMPACT ENGINEERING
+PO11
+PO12
+PSO1
+PSO2
+PSO3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To impart an indepth study of impact engineering with a focus on the current status of
+materials processing using explosives
+ To familiarize the basic concepts of explosive forming process
+ To introduce the fundamentals of explosive welding and cladding of metals
+ To introduce the effect of explosive forming processes
+ To introduce the concepts of explosive compaction techniques of powders and
+composites using explosives
+Explosives  Types  Propagation of ideal detonation  reaction zone Shock waves  general
+considerations  Pressure Impulses and energies of shocks generated by explosions in air and
+water Mechanics of energy transfer  ecometrical method  bubble phenomenon
+Standoff and contact operations  parameters and applications Interaction between explosion
+and work Piece in contact operation  Pressure time relation in metal explosive system Stress
+waves in solids  Microstructural changes  Hugoniot curves for iron and brass  changes in
+physical properties  fracturing under impulsive loads
+Explosive welding of metals  Mechanism Jetting collision Karman Vortex  Welding of semi
+cylindrical parallel plates  parameters welding window of dynamic angle of obliguity and
+velocity of welding  Transition from smooty to wavy flow  Loyers welding window different
+types of explosive cladding setup  multilayered welding Applications  Metallurgy of
+explosive welding
+Explosive forming  strain energy of deformation  effect of explosive stand off and strain
+distribution in the explosive forming of flat circular blanks  Simple problems  Multiple shot
+explosive forming  Use of scale models in explosive Conning explosive Conning dies Effect
+of explosive forming on materials properties
+Shock consolidation ceramics and composites  shock waves The jumprelations Equation
+Hugoniot  Compaction mechanism static versus shock compaction  different shock
+compaction techniques  Cylinrical Converged Underwater and high temperature Temperature measurements  shock consolidation of biocompatibles  ceramics  melt infiltration of shock compacted ceramics  Metallurgy of shock consolidation
+REFERENCES
+1 Explosive working of metals and its applications Bernard Crossland Oxford
+University Press 1983
+2 Explosive working of metals Jolm Rineheart and John Pearson Pergamon London
+1985
+3 Development of High Speed Forming Davies and Austin ASTME 1976
+4 High velocity forming of metals Wilson Prentice Hall of India Private Ltd 1976
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1 Understand the processes variables generated by explosions
+2 Protect the metals from surface damages
+3 Understand the environmental factors affecting the atmospheric contaminations
+4 Evaluate the high temperature explosive properties of metals
+5 Studying the metallurgical properties of explosive cladded process
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+1
+1
+1
+1
+1
+CO2
+CO3
+CO4
+CO5
+PO2
+PO3
+PO4
+2
+2
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+23MFMEPEXX
+PO5
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+2
+3
+1
+1
+1
+1
+1
+1
+PRECISION ENGINEERING AND
+NANOTECHNOLOGY
+L
+3
+PSO1
+PSO2
+PSO3
+2
+2
+1
+1
+1
+2
+1
+2
+1
+1
+1
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To impart fundamental knowledge on Precision Engineering
+ To impart knowledge about Nano Technology
+Introduction Definition  Introduction to Precision Engineering and Manufacturing Accuracy
+Repeatability  Principles of Measurement  Precision Flexure Design Precision Optical
+Manufacturing  Micro  Optics  Precision Machine Design  Micro  Sensors
+Design fabrication  Testing and packaging
+Principles Principles and Application of precision Engineering to the design of Instruments
+and Manufacturing Equipment Principles of Metrology  Accuracy and Resolution  Sensors
+Actuators Bearings flexures for Precision Motion Generation
+Precision Manufacturing Manufacturing Methods in Precision Engineering  Joining
+Technologies  Finishing processes  Special Casting techniques  Etching techniques 
+Coatings with metals  Inorganic Materials  Optical Production Methods  Vacuum
+Deposition MEMS  Micro Machining
+Nano Technology  Instrumentation Nano Technology  Introduction to Scanning Probe
+Microscopy SPM  contact mode Tapping Mode Scanning Tunneling Mode STM Atomic
+Force Microscope AFM Advanced SPM  Electrostatic Force Mode EFM Magnetic Force
+ModeMFM Scanning Capacitance Mode SCM Nanoindentation  High Resolution
+Drexlerian Nano Technology Introduction to biological Applications Quantum Effects 
+Futures Quantum Dots Quantum Computing
+Smart structures Materials and Micro Actuators Smart structures  smart sensors  micro
+valves  MEMS  micro motors  micro pumps  micro dynamometer  micro machines structures assembly  cooling channels  micro optics  micro nozzIes
+REFERENCES
+1 Principles of Precision Engineering NakazawaH Oxford University press 1994
+2 Nano Technology Mark Ratner and Daniel Ratner Pearson Education Delhi 2003
+3 Precision engineering in Manufacturing MurthyRL New Age international Pvt
+Limited
+4 Hand book of Surface and Nano Technology DJ White House
+5 Institute of Physics Publishing Bristol and Philadelphia Bristol BSI 6BE UK
+6 The Science and Engineering of Microelectronic Fabrication Stephen A Campbell
+Oxford University Press 1996
+7 Understanding Smart Sensors Randy Frank Artech House Boston 1996
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1 Understand the basic concepts of Precision Engineering
+2 Impart fundamental knowledge about MEMS
+3 Evaluate the Quantum Effect Futures
+4 Design the smart materials for specific applications
+5 Acquire knowledge about the nano instrumentation
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+CO2
+PO2
+PO3
+1
+2
+1
+2
+CO3
+CO4
+CO5
+PO4
+2
+2
+23MFMEPEXX
+1
+1
+PO5
+PO6
+PO7
+2
+2
+2
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+PSO1
+2
+1
+2
+PSO3
+1
+2
+2
+2
+1
+PSO2
+2
+NANO MATERIALS TECHNOLOGY
+L
+3
+T
+0
+1
+2
+3
+P
+0
+C
+3
+COURSE OBJECTIVES
+ This course has been designed to provide in depth knowledge on nano materials
+fabrication methods characterization techniques and application of nano materials
+Introduction to nano technology  Scientific revolutions  Types of nanotechnology and
+nanomachines  The periodic table  Atomic structure  Molecules and phases  Energy Molecular and Atomic Size Surfaces and Dimensional space  Atoms by inference  Scanning
+probe microscopy atomic force microscope  Scanning tunneling microscope 
+Nanomanipulator Nanotweezers  Atom Manipulation  Nanodots  Self assembly  Dip pen
+nanolithography
+Nanopowders and Nanomaterials Classification of nano materials  Properties of nano
+materials  characteristics of nano particulate materials Production Methods Top down
+approach  mechanical milling Chemical Etching Electro explosion Sputtering Laser
+ablation Bottom up approach Plasma spraying Chemical vapour deposition Sol Gels Laser
+pyrolosis Atomic or molecular condensation
+Characterisation and Detection Techniques Atomic structure and chemical composition
+spectroscopic methods vibrational spectroscopies Nuclear magnetic resonance Xray and UV
+spectroscopies Xray and neutron diffraction Determination of size shape and surface area
+Electron microscopes BET and pycnometry Ephiphaniometer Laser granulometries and Zeta
+potential Elliptically polarised light scattering Determination of nanoparticles in aerosols and
+in biological tissues
+Applications of Nanomaterials New forms of carbon  Types of Nanotubes  Formation of
+Nanotubes  Assemblies Purification of carbon nanotubes  Properties of Nanotubes  Uses of
+Nanotubes electronics hydrogen storage materials mechanical machines  Space elevators
+Application of Nanomaterials  insulation materials machine tools batteries high power
+magnets motor vehicles and aircraft medical implants and other medical usesNanocomposites and Nanowires
+Applications of Nanotechnology Nanotechnology in industries  Nanotechnology in
+computing quantum computing and molecular computation  Nanotechnology in electronics
+computational nanotechnology and optoelectronics mechanical nanocomputers super
+computing systems Nanotechnology in health and life sciences drug delivery drug
+encapsulation tissue repair and implantation biorestorable materials  Nanotechnology in
+smart materials sensors and smart instruments ageless materials nanoparticle coatings
+REFERENCES
+1 Nanotechnology Basic Science and Emerging Technologies Michael Wilson and
+Geoff Smith Chapman and Hall London 2002
+2 Industrial application of nanomaterials  chances and risks Wulfgang Luther Future
+Technologies Division Germany 2004
+3 Nanotechnology Applications and TrendsJSchulte John Wiley and Sons 2005
+4 Nanotechnology GLTimp SpringerVerlog New York 1999
+5 Handbook of Nanotechnology Editor BBhushanSpringerVerlog New York 2004
+COURSE OUTCOMES
+Upon the completion of the course the students will be able to
+1 Classify the types of Nano technology and nano Machines for the analysis of Molecules
+and Phases
+2 Gain Knowledge on various types of nano materials and powders and their production
+techniques
+3 Determine the size shape and surface area of nano materials suing advanced
+spectroscopic techniques
+4 Learn the formation of carbon nano tubes and its significance in the development of
+nano composites
+5 Realise the application of nano technology in the field of computing and drug delivery
+systems
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+3
+3
+3
+3
+3
+CO2
+CO3
+CO4
+CO5
+PO2
+PO3
+3
+3
+3
+3
+3
+PO4
+PO5
+1
+1
+1
+1
+1
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+2
+3
+3
+3
+2
+PO12
+PSO1
+2
+3
+2
+1
+1
+3
+2
+2
+2
+2
+L
+3
+T
+0
+PSO2
+PSO3
+P
+0
+C
+3
+OPEN ELECTIVE COURSES
+23MFMEOEXX
+ENGINEERING ECONOMICS
+COURSE OBJECTIVES
+ To enable students to understand the fundamental economic concepts applicable to
+engineering and to learn the techniques of incorporating inflation factor in economic
+decision making towards the design and manufacturing problems
+Introduction to Economics Introduction to Economics Flow in an economy Law of supply
+and demand Concept of Engineering Economics  Engineering efficiency Economic
+efficiency Scope of engineering economics  Element of costs Marginal cost Marginal
+Revenue Sunk cost Opportunity cost Breakeven analysis  V ratio Elementary economic
+Analysis  Material selection for product Design selection for a product Process planning
+Value Engineering Make or buy decision Value engineering  Function aims Value
+engineering procedure Interest formulae and their applications Time value of money Single
+payment compound amount factor Single payment present worth factor Equal payment series
+sinking fund factor Equal payment series payment Present worth factor equal payment series
+capital recovery factor  Uniform gradient series annual equivalent factor Effective interest
+rate Examples in all the methods
+Cash Flow Methods of comparison of alternatives  present worth method Revenue
+dominated cash flow diagram Future worth method Revenue dominated cash flow diagram
+cost dominated cash flow diagram rate of return method  Examples in all the methods
+Replacement and Maintenance Analysis Replacement and Maintenance analysis  Types of
+maintenance types of replacement problem determination of economic life of an asset
+Replacement of an asset with a new asset  capital recovery with return
+Depreciation Depreciation Introduction Straight line method of depreciation declining
+balance method of depreciationSum of the years digits method of depreciation sinking fund
+method of depreciation Annuity method of depreciation service output method of
+depreciationExamples on comparison of alternatives and determination of economic life of
+asset
+REFERENCES
+1 Panneer Selvam R Engineering Economics Prentice Hall of India Ltd New Delhi
+2001
+2 Chan SPark Contemporary Engineering Economics Prentice Hall of India 2011
+3 DonaldG Newman JeromePLavelle Engineering Economics and analysis Engg
+Press Texas 2010
+4 Degarmo EP Sullivan WG and Canada JR Engineering Economy Macmillan
+New York 2011
+5 Zahid A khan Engineering Economy Engineering Economy Dorling Kindersley
+2012
+COURSE OUTCOMES
+At the end of the course the student will be able to
+1 Formulate economic decisions based on Supply Demand Breakeven analysis and
+Costing
+2 Recommend make or buy decisions for products
+3 Evaluate business options based on cash flow analysis
+4 Analyze economic factors to decide on maintenance or replacement of machines
+5 Calculate depreciation of an asset using different methods
+Mapping with Programme Outcomes
+Mapping with PSOs
+COs
+PO1
+PO2
+PO3
+PO4
+PO5
+PO6
+PO7
+PO8
+PO9
+PO10
+PO11
+PO12
+PSO1
+PSO2
+PSO3
+CO1
+2
+2
+2
+2
+2
+2
+3
+2
+3
+2
+1
+1
+2
+2
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+3
+3
+3
+3
+3
+1
+1
+1
+3
+3
+3
+3
+3
+CO2
+CO3
+CO4
+CO5
+23MFMEOEXX
+TOTAL QUALITY MANAGEMENT
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ To provide an understanding of philosophiesand tools of quality management
+ To impart the knowledge and on the application of the statistical quality control
+techniques which are used in manufacturing and service industries
+ To provide knowledge and understanding of acceptance sampling and reliability in
+modern manufacturing
+Concepts of TQM  Dimensions of Quality  Deming Crosby and Jurans Philosophies 
+Barriers to TQM  Quality system  ISO 90002000 ISO 14000 Quality system standards Quality costs Seven tools for Quality Control Seven tools for Quality management Quality
+Function Deployment QFD  Taguchi loss function
+Statistical Process Control Control charts for attributes and count of defects  p chart np chart
+c chart u chart
+Control charts for variables  chart R chart  chart  process capabilities studies Cp and
+Cpk   Concept of Six sigma Special control charts  Group control chart sloping control
+chart moving averages and moving ranges control charts coefficient of variation control chart
+Acceptance sampling plans for attributes Concepts  Difference between inspection and
+quality control  single sampling plan  OC curve Reliability Engineering Definition  Bath
+tub curve  MTBF  MTTF  System reliability with components in series parallel FTA
+FMECA
+REFERENCES
+1 Introduction to Statistical Quality Control Montgomery DC John Wiley 1994
+2 Statistical Quality Control Gupta RC Khanna Pub 1998
+3 Amitava Mitra Fundamentals of quality control and improvement prentice hall 2nd
+edition 1998
+4 Besterfield Total Quality Management Pearson Education 2nd Edition 2003
+5 MahajanM  Statistical Quality Control dhanpat rai  co pvt ltd 2010
+6 The Assurance Sciences Halpern Siegmund PHI 1978
+7 Concepts in Reliability Engineering Srinath LS Eastwest Press Ltd 1991 IS 397
+Part I II and III IS 2500
+COURSE OUTCOMES
+Upon completing this course students should be able to
+1 Describe quality management philosophies and able to apply the tools of quality for
+improvement
+2 Understand the statistical basis of attributes control charts and know how to set up and
+use the p chart np chart c chart and u chart
+3 Understand the statistical basis of charts for variables and know how to set up and use x
+bar s and R control charts and special control charts and to estimate process capability
+from the control chart information
+4 Understand the role of acceptance sampling in modern quality control systems
+5 Understand the concept of reliability and the various techniques to obtain reliability
+Mapping with Programme Outcomes
+COs
+CO1
+CO2
+CO3
+CO4
+CO5
+PO1
+PO2
+2
+2
+2
+PO3
+PO4
+2
+2
+2
+3
+3
+PO5
+3
+3
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+PSO1
+PSO2
+3
+2
+2
+PSO3
+23MFMEOEXX
+SUPPLY CHAIN MANAGEMENT
+L
+3
+T
+0
+P
+0
+C
+3
+COURSE OBJECTIVES
+ Discuss the fundamental concepts of supply chain management impart the knowledge
+on how to align the management of a supply chain with corporate goals and strategies
+Introduction to Supply Chain Management Definition Decision phases in supply chain
+Process Vs Push pull view of supply chainThe development chain  Design the right scfunctional Vs innovative products product life cycle and SC design  clock speed
+Supply chain SC performance and evaluation Order Winning to Order fulfillment SCOR
+Model  Balance Score card model SC Strategies Efficient Vs Responsive strategy Agile Vs
+Lean supply chain postponement strategy push pull strategy
+Value of Information Bullwhip effect information and supply chain technology Supply chain
+integration Concepts of MTO MTS ETO and ATO demand driven strategies impact of
+internet on SCMSupply network  factors influencing supply chain network design  distribution strategies
+VAT material flow analysis Strategic alliances  Make or buy decision  Framework for
+strategic alliance  outsourcing  Krajalic matrix  core competency  3PL 4PL  Effect of
+Demand and supply uncertainty cross docking  risk pooling Square root law centralized vs
+decentralized system
+Global SC  International Issues in SCM Introduction risks and advantages design for
+logistics supplies integration into to new productdevelopment mass customization Issues in
+customer value  Information technology for SCM Goals  standardization infrastructureDSS for supply chain management
+REFERENCES
+1 Designing and managing the Supply Chain Simchi  Levi Davi Kaminsky Philip and
+SimchiLevi Edith Tata McGraw Hill Publishing Company Ltd New Delhi 2003
+2 Supply chain management 2nd edition Sunil Chopra and Peter Meindl Pearson
+Education New Delhi 2003
+3 Supply Chain Management Text and Cases Janat Shah Pearson Education India
+2009
+4 Supply Chain Management Robert B Hand Field and Ernest Nichols Prentice Hall
+New Jersey 1999
+5 Supply chain management concepts techniques and practices Ling Li world scientific
+press 2011
+6 Supply chain management Theories  practices R Mohanty andS G Deshmukh Ist
+edition Biztantra innovation in management 2005
+COURSE OUTCOMES
+Upon completing this course students will be able to
+1 Understand the roles of supply chain among various business functions and their roles
+in the organizations strategic planning and gaining competitive advantage
+2 Identify and make use of supply chain management methodologies
+3 Apply supply chain concepts in both manufacturing and service industry
+4 Analyze the
+principles
+concepts
+and
+challenges
+for developing
+sourcing manufacturing and distribution strategies in a global market
+5 Describe the role of information technology to improve the performance of the supply
+chain
+Mapping with Programme Outcomes
+COs
+PO1
+CO1
+1
+CO4
+CO5
+PO3
+1
+1
+2
+PO4
+1
+2
+CO2
+CO3
+PO2
+2
+2
+2
+3
+3
+PO5
+PO6
+PO7
+PO8
+PO9
+Mapping with PSOs
+PO10
+PO11
+PO12
+2
+2
+PSO1
+PSO2
+PSO3
+1
+2
+1
+2
+2
+1
+2
+2
+2
+3
+AUDIT COURSES
+23MFMEACXX
+ENGLISH FOR RESEARCH PAPER WRITING
+L
+2
+T
+0
+P
+0
+COURSE OBJECTIVES
+Students will be able to
+ Understand that how to improve your writing skills and level of readability
+ Learn about what to write in each section
+ Understand the skills needed when writing a title
+ Ensure the good quality of paper at very firsttime submission
+Planning and Preparation Word Order Breaking up long sentences Structuring Paragraphs
+and Sentences Being Concise and Removing Redundancy Avoiding Ambiguity and
+Vagueness
+Clarifying Who Did What Highlighting Your Findings Hedging and Criticising Paraphrasing
+and Plagiarism Sections of a Paper Abstracts Introduction
+Review of the Literature Methods Results Discussion Conclusions The Final Check
+Key skills are needed when writing a Title key skills are needed when writing an Abstract key
+skills are needed when writing an Introduction skills needed when writing a Review of the
+Literature
+Skills are needed when writing the Methods skills needed when writing the Results skills are
+needed when writing the Discussion skills are needed when writing the Conclusions
+Useful phrases how to ensure paper is as good as it could possibly be the first time
+submission
+REFERENCES
+1
+Goldbort R  Writing for Science Yale University Press available on Google 2006
+2
+Day R How to Write and Publish a Scientific Paper Cambridge University Press
+2006
+3
+Highman N Handbook of Writing for the Mathematical Sciences SIAM Highmans
+book 1998
+4
+Adrian Wallwork  English for Writing Research Papers Springer New York Dordrecht
+Heidelberg London 2011
+23MFMEACXX
+DISASTER MANAGEMENT
+L
+2
+T
+0
+P
+0
+COURSE OBJECTIVES
+Students will be able to
+ Learn to demonstrate a critical understanding of key concepts in disaster risk reduction
+and humanitarian response
+ Critically evaluate disaster risk reduction and humanitarian response policy and
+practice from multiple perspectives
+ Develop an understanding of standards of humanitarian response and practical
+relevance in specific types of disasters and conflict situations
+ Critically understand the strengths and weaknesses of disaster management approaches
+planning and programming in different countries particularly their home country or the
+countries they work in
+Introduction Disaster Definition Factors And Significance Difference Between Hazard And
+Disaster Natural And Manmade Disasters Difference Nature Types And Magnitude
+Repercussions of Disasters And Hazards Economic Damage Loss of Human And Animal
+Life Destruction Of Ecosystem Natural Disasters Earthquakes Volcanisms Cyclones
+Tsunamis Floods Droughts And Famines Landslides And Avalanches Manmade disaster
+Nuclear Reactor Meltdown Industrial Accidents Oil Slicks And Spills Outbreaks of Disease
+And Epidemics War And Conflicts
+Disaster Prone Areas In India Study Of Seismic Zones Areas Prone To Floods And Droughts
+Landslides And Avalanches Areas Prone To Cyclonic And Coastal Hazards With Special
+Reference To Tsunami PostDisaster Diseases And Epidemics
+Disaster Preparedness and Management Preparedness monitoring of phenomena triggering a
+disaster or hazard evaluation of risk application of remote sensing data from meteorological
+and other agencies media reports governmental and community preparedness
+Risk Assessment Disaster Risk Concept And Elements Disaster Risk Reduction Global and
+National Disaster Risk Situation Techniques of Risk Assessment Global CoOperation In
+Risk Assessment And Warning Peoples Participation in Risk Assessment Strategies for
+Survival
+Disaster Mitigation Meaning Concept And Strategies Of Disaster Mitigation Emerging
+Trends In Mitigation Structural Mitigation And NonStructural Mitigation Programs Of
+Disaster Mitigation in India
+REFERENCES
+1 R Nishith Singh AK Disaster Management in India Perspectives issues and strategies
+New Royal book Company
+2 Sahni Pardeep EtAl Eds Disaster Mitigation Experiences And Reflections
+Prentice Hall Of India New Delhi
+3 Goel S L  Disaster Administration And Management Text And Case Studies Deep
+Deep Publication Pvt Ltd New Delhi
+23MFMEACXX
+SANSKRIT FOR TECHNICAL
+KNOWLEDGE
+L
+2
+T
+0
+P
+0
+COURSE OBJECTIVES
+ To get a working knowledge in illustrious Sanskrit the scientific language in the world
+ Learning of Sanskrit to improve brain functioning
+ Learning of Sanskrit to develop the logic in mathematics science  other subjects
+Enhancing the memory power
+ The engineering scholars equipped with Sanskrit will be able to explore the huge
+knowledge from ancient literature
+Alphabets in Sanskrit PastPresentFuture Tense Simple Sentences Order Introduction of
+roots Technical information about Sanskrit Literature Technical concepts of Engineering Electrical Mechanical Architecture Mathematics
+REFERENCES
+1
+Abhyaspustakam  DrVishwas SamskritaBharti Publication New Delhi
+2
+Teach Yourself Sanskrit Prathama DeekshaVempati Kutumbshastri Rashtriya
+Sanskrit Sansthanam New Delhi Publication
+3
+Indias Glorious Scientific Tradition Suresh Soni Ocean books P Ltd New
+Delhi
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1
+Understanding basic Sanskrit language
+2
+Ancient Sanskrit literature about science  technology can be understood
+3
+Being a logical language will help to develop logic in students
+23MFMEACXX
+VALUE EDUCATION
+L
+2
+T
+0
+P
+0
+COURSE OBJECTIVES
+Students will be able to
+ Understand value of education and self development
+ Imbibe good values in students
+ Let the should know about the importance of character
+Values and selfdevelopment Social values and individual attitudes Work ethics Indian
+vision of humanism Moral and non moral valuation Standards and principles Value
+judgements
+Importance of cultivation of values Sense of duty Devotion Selfreliance Confidence
+Concentration Truthfulness Cleanliness Honesty Humanity Power of faith National Unity
+PatriotismLove for nature Discipline
+Personality and Behavior Development  Soul and Scientific attitude Positive Thinking
+Integrity and discipline Punctuality Love and Kindness Avoid fault Thinking Free from
+anger Dignity of labour Universal brotherhood and religious tolerance True friendship
+Happiness Vs suffering love for truth Aware of selfdestructive habits Association and
+Cooperation Doing best for saving nature
+Character and Competence Holy books vs Blind faith Selfmanagement and Good health
+Science of reincarnation Equality Nonviolence Humility Role of Women All religions and
+same message Mind your Mind Selfcontrol Honesty Studying effectively
+REFERENCES
+1
+Chakroborty SK Values and Ethics for organizations Theory and practice
+Oxford University Press New Delhi
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1
+Knowledge of selfdevelopment
+2
+Learn the importance of Human values
+3
+Developing the overall personality
+23MFMEACXX
+CONSTITUTION OF INDIA
+L
+2
+T
+0
+P
+0
+COURSE OBJECTIVES
+Students will be able to
+ Understand the premises informing the twin themes of liberty and freedom from a civil
+rights perspective
+ To address the growth of Indian opinion regarding modern Indian intellectuals
+constitutional role and entitlement to civil and economic rights as well as the
+emergence of nationhood in the early years of Indian nationalism
+ To address the role of socialism in India after the commencement of the Bolshevik
+ Revolution in 1917 and its impact on the initial drafting of the Indian Constitution
+History of Making of the Indian Constitution History Drafting Committee  Composition 
+Working
+Philosophy of the Indian Constitution Preamble Salient Features
+Contours of Constitutional Rights  Duties Fundamental Rights Right to Equality Right to
+Freedom Right against Exploitation Right to Freedom of Religion Cultural and Educational
+Rights Right to Constitutional Remedies Directive Principles of State Policy Fundamental
+Duties
+Organs of Governance Parliament Composition Qualifications and Disqualifications Powers
+and Functions Executive President Governor Council of Ministers Judiciary Appointment
+and Transfer of Judges Qualifications Powers and Functions
+Local Administration Districts Administration head Role and Importance Municipalities
+Introduction Mayor and role of Elected Representative CEO of Municipal Corporation
+Pachayati raj Introduction PRI Zila Pachayat Elected officials and their roles CEO Zila
+Pachayat Position and role Block level Organizational Hierarchy Different departments
+Village level Role of Elected and Appointed officials Importance of grass root democracy
+Election Commission Election Commission Role and Functioning Chief Election
+Commissioner and Election Commissioners State Election Commission Role and
+Functioning Institute and Bodies for the welfare of SCSTOBC and women
+REFERENCES
+1
+The Constitution of India 1950 Bare Act Government Publication
+2
+Dr S N Busi Dr B R Ambedkar framing of Indian Constitution 1st Edition 2015
+3
+M P Jain Indian Constitution Law 7th Edn Lexis Nexis 2014
+4
+DD Basu Introduction to the Constitution of India Lexis Nexis 2015
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1
+Discuss the growth of the demand for civil rights in India for the bulk of Indians before
+the arrival of Gandhi in Indian politics
+2
+Discuss the intellectual origins of the framework of argument that informed the
+conceptualization of social reforms leading to revolution in India
+3
+Discuss the circumstances surrounding the foundation of the Congress Socialist Party
+CSPunder the leadership of Jawaharlal Nehru and the eventual failure of the proposal
+of direct elections through adult suffrage in the Indian Constitution
+4
+Discuss the passage of the Hindu Code Bill of 1956
+23MFMEACXX
+PEDAGOGY STUDIES
+L
+2
+T
+0
+P
+0
+COURSE OBJECTIVES
+Students will be able to
+ Review existing evidence on the review topic to inform programme design and policy
+making undertaken by the DfID other agencies and researchers
+ Identify critical evidence gaps to guide the development
+Introduction and Methodology Aims and rationale Policy background Conceptual framework
+and terminology Theories of learning Curriculum Teacher education Conceptual framework
+Research questions Overview of methodology and Searching
+Thematic overview Pedagogical practices are being used by teachers in formal and informal
+classrooms in developing countries Curriculum Teacher education
+Evidence on the effectiveness of pedagogical practices Methodology for the in depth stage
+quality assessment of included studies How can teacher education curriculum and practicum
+and the school curriculum and guidance materials best support effective pedagogy Theory of
+change Strength and nature of the body of evidence for effective pedagogical practices
+Pedagogic theory and pedagogical approaches Teachers attitudes and beliefs and Pedagogic
+strategies
+Professional development alignment with classroom practices and follow up support Peer
+support Support from the head teacher and the community Curriculum and assessment
+Barriers to learning limited resources and large class sizes
+Research gaps and future directions Research design Contexts Pedagogy Teacher education
+Curriculum and assessment Dissemination and research impact
+REFERENCES
+1
+Ackers J Hardman F 2001 Classroom interaction in Kenyan primary schools
+Compare 31 2 245261
+2
+Agrawal M 2004 Curricular reform in schools The importance of evaluation Journal
+of Curriculum Studies 36 3 361379
+3
+Akyeampong K 2003 Teacher training in Ghana  does it count Multisite teacher
+education research project MUSTER country report 1 London DFID
+4
+Akyeampong K Lussier K Pryor J Westbrook J 2013 Improving teaching and
+learning of basic maths and reading in Africa Does teacher preparation count
+International Journal Educational Development 33 3 272282
+5
+Alexander RJ 2001 Culture and pedagogy International comparisons in primary
+education Oxford and Boston Blackwell
+6
+Chavan M 2003 Read India A mass scale rapid learning to read campaign
+7
+wwwprathamorgimagesresource20working20paper202pdf
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1
+What pedagogical practices are being used by teachers in formal and informal
+classrooms in developing countries
+2
+What is the evidence on the effectiveness of these pedagogical practices in what
+conditions and with what population of learners
+3
+How can teacher education curriculum and practicum and the school curriculum and
+guidance materials best support effective pedagogy
+23MFMEACXX
+STRESS MANAGEMENT BY YOGA
+COURSE OBJECTIVES
+ To achieve overall health of body and mind
+ To overcome stress
+Definitions of Eight parts of yog  Ashtanga  Yam and Niyam
+Dos and Donts in life
+i Ahinsa satya astheya bramhacharya and aparigraha
+ii Shaucha santosh tapa swadhyay ishwarpranidhan
+Asan and Pranayam
+i Various yog poses and their benefits for mind  body
+L
+2
+T
+0
+P
+0
+ii Regularization of breathing techniques and its effectsTypes of pranayama
+REFERENCES
+1
+Yogic Asanas for Group TariningPartI  Janardan Swami Yogabhyasi Mandal
+Nagpur
+2
+Rajayoga or conquering the Internal Nature by Swami Vivekananda Advaita
+Ashrama Publication Department Kolkata
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1
+Develop healthy mind in a healthy body thus improving social health also
+2
+Improve efficiency
+23MFMEACXX
+PERSONALITY DEVELOPMENT THROUGH
+LIFE ENLIGHTENMENT SKILLS
+L
+2
+T
+0
+COURSE OBJECTIVES
+ To learn to achieve the highest goal happily
+ To become a person with stable mind pleasing personality and determination
+ To awaken wisdom in students
+NeetisatakamHolistic development of personality
+ Verses 19202122 wisdom
+ Verses 293132 pride  heroism
+ Verses 26286365 virtue
+ Verses 525359 donts
+ Verses 71737578 dos
+Approach to day to day work and duties
+Shrimad Bhagwad Geeta 
+ Chapter 2Verses 41 4748
+ Chapter 3Verses 13 21 27 35
+ Chapter 6Verses 5131723 35
+ Chapter 18Verses 45 46 48
+Statements of basic knowledge
+Shrimad Bhagwad Geeta
+ Chapter2Verses 56 62 68
+ Chapter 12 Verses 13 14 15 1617 18
+Personality of Role model
+Shrimad Bhagwad Geeta
+ Chapter2Verses 17
+ Chapter 3Verses 363742
+ Chapter 4Verses 18 3839
+ Chapter18  Verses 373863
+REFERENCES
+P
+0
+1 Srimad Bhagavad Gita by Swami Swarupananda Advaita Ashram Publication
+Department Kolkata
+2 Bhartriharis Three Satakam Nitisringarvairagya by PGopinath Rashtriya Sanskrit
+Sansthanam New Delhi
+COURSE OUTCOMES
+Upon successful completion of the course the students are able to
+1 Study of ShrimadBhagwadGeeta will help the student in developing his personality and
+achieve the highest goal in life
+2 The person who has studied Geeta will lead the nation and mankind to peace and
+prosperity
+3 Study of Neetishatakam will help in developing versatile personality of students
