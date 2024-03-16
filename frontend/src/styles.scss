@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+  button {
+    @apply bg-sky-400 p-2 rounded-sm dark:bg-slate-600;
+  }
+
+  input {
+    @apply transition transition-all duration-100 backdrop-opacity-50 shadow dark:bg-slate-600 focus:outline focus:outline-cyan-400 dark:focus:outline-cyan-800 bg-slate-300 focus:ring-0 focus:border-none focus:outline-2 focus:outline-offset-2 rounded-lg p-4;
+  }
+}
