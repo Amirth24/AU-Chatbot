@@ -1,4 +1,6 @@
 """A module for class `ChatAgent`"""
+from typing import Union
+import pathlib
 from langchain.vectorstores.chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnableParallel, RunnablePassthrough
@@ -7,12 +9,21 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import (SystemMessagePromptTemplate,
                                     HumanMessagePromptTemplate,
                                     PromptTemplate)
-
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 SYSTEM_MESSAGE = """You're a AI bot built to answer questions about \
 a university. Converse with the user for the provided context
 
 Context: {context}
 """
+
+
+def get_vec_db(db_dir: Union[str | pathlib.Path]):
+    """Returns Vector  Db Client"""
+    return Chroma(
+        persist_directory=db_dir,
+        embedding_function=GoogleGenerativeAIEmbeddings(
+            model="models/embedding-001")
+    )
 
 
 class ChatAgent():
@@ -52,7 +63,7 @@ class ChatAgent():
 
     def talk(self, question):
         """Returns the async stream of llm's output."""
-        return self.chain.stream(question)
+        return self.chain.astream(question)
 
 
 if __name__ == "__main__":
@@ -60,7 +71,6 @@ if __name__ == "__main__":
     from langchain.memory import ChatMessageHistory
     from langchain.document_loaders import TextLoader
     from langchain_text_splitters import CharacterTextSplitter
-    from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
     def main(db, chatbot, mess_his):
         while True:
@@ -80,7 +90,7 @@ if __name__ == "__main__":
     docs = reduce(lambda x, y: x+y, docs)
     db = Chroma(
             persist_directory="chroma_data/",
-            embedding_function=GoogleGenerativeAIEmbeddings(model="models/embedding-001"),
+            embedding_function=GoogleGenerativeAIEmbeddings(model="models/embedding-001")
             )
 
     print("Loaded Database")
