@@ -1,0 +1,10 @@
+chroma-hnswlib==0.7.3
+chromadb==0.4.24
+fastapi==0.110.0
+google-ai-generativelanguage==0.4.0
+langchain==0.1.12
+langchain-community==0.0.28
+langchain-core==0.1.32
+langchain-google-genai==0.0.11
+langchain-text-splitters==0.0.1
+langsmith==0.1.26
