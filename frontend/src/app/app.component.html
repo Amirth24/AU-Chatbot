@@ -15,6 +15,7 @@
         <li *ngFor="let msg of messages" class="p-4 flex-1 inline-flex flex-col gap-2 {{msg.by == 'AI' ? 'bg-slate-400 dark:bg-slate-700' : 'You'}}">
           <span class="font-bold text-sm">{{msg.by == "AI" ? "Assitant" : "You"}}</span>
           <span class="prose xl:prose-lg">{{msg.content}}</span>
+
         </li>
       </ul>
     </div>
