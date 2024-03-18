@@ -1,0 +1,250 @@
+[
+    {
+        "name": "Dr. G. YAMUNA",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Image Processing",
+            "Signal Processing",
+            "Information Security",
+            "Video Processing",
+            "Wireless Communication Systems",
+            "Antenna Design",
+            "VLSI Design"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. R. JOSEPH DANIEL",
+        "designation": "PROFESSOR & HEAD",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Microelectronics",
+            "Semiconductor Devices and Modelling",
+            "MEMS/NEMS",
+            "Nanoelectronics"
+        ],
+        "teaching_experience_in_years": 28
+    },
+    {
+        "name": "Dr. P. SHANMUGA RAJA",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "MEDICAL ELECTRONICS",
+            "NANO ELECTRONICS",
+            "EMBEDDED SYSTEM",
+            "Data Communication"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. R. KANIMOZHI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Image Processing",
+            "Medical Electronics"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Mr. G. RAMPRABHU",
+        "designation": "ASSISTANT PROFESSOR of ELECTRONICS & COMMUNICATION ENGG & DY.DIRECTOR in ADIC",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.(E&C)",
+            "M.E.",
+            ""
+        ],
+        "qualification": [
+            "VLSI design"
+        ],
+        "teaching_experience_in_years": 20
+    },
+    {
+        "name": "Dr. E. GNANAMANOHARAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.(E&C)",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Communication and Wireless Mobile Ad hoc Networks",
+            "Optical Networks and Wireless sensor Networks"
+        ],
+        "teaching_experience_in_years": 19
+    },
+    {
+        "name": "Dr. S. SIVAGNANAM",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.(E&C)",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Microstrip Patch Antenna Design",
+            "Micro Wave Antenna",
+            "Communication Engineering."
+        ],
+        "teaching_experience_in_years": 19
+    },
+    {
+        "name": "Dr. M. SARAVANAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.(E&C)",
+            "ME (PC&I).",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "ANTENNA DESIGN",
+            "COMMUNICATION ENGINEERING."
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. R. GAYATHRI",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E(E&C).",
+            "M.E (PC&I)",
+            "M.B.A.",
+            "PhD(Electrical Engg)"
+        ],
+        "qualification": [
+            "Antennas",
+            "Communication System",
+            "Microwave",
+            "biomedical imaging",
+            "Network."
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. P.D. SATHYA",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Signal / Image Processing",
+            "Antenna Design",
+            "Heuristic Optimization Techniques"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. K. DEVARAJAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E(E&C).",
+            "M.E(PCI).",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Wireless Communication Networks and Security Management",
+            "Antenna Design"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. P. SAKTHIBALAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E(E&C).",
+            "M.E(CSE).",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Security in 5G Communiction Network"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. P. VIMALA",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.(E&C).",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Digital Communication",
+            "Digital Signal Processing",
+            "Wireless Communication",
+            "Compressive Sensing"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. B. SUDHAKAR",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & COMMUNICATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "COMMUNICATION",
+            "SIGNAL PROCESSING",
+            "SPEECH PROCESSING",
+            "NETWORKS",
+            "IMAGE PROCESSING"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Mr. S. SENTHIL",
+        "designation": "ASSISTANT PROFESSOR/PROGRAMMER",
+        "department": "Computer and Information Science",
+        "specialization": [
+            "M.C.A.",
+            ""
+        ],
+        "qualification": [
+            "DBMS"
+        ],
+        "teaching_experience_in_years": 14
+    }
+]

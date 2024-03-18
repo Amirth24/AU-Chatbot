@@ -1,0 +1,334 @@
+[
+    {
+        "name": "Dr. C. KARTHIKEYAN",
+        "designation": "PROFESSOR & DEAN",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.Tech.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "ENVIRONMENTAL BIOTECHNOLOGY"
+        ],
+        "teaching_experience_in_years": 32
+    },
+    {
+        "name": "Dr. R. DHANASEKAR",
+        "designation": "PROFESSOR & HEAD",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Industrial Fermentation",
+            "Bio systems Engineering"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. R. SARAVANAN",
+        "designation": "PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Dip.Indu.Safety",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Industrial Safety Engineering"
+        ],
+        "teaching_experience_in_years": 29
+    },
+    {
+        "name": "Dr. P. MULLAI",
+        "designation": "PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Bioenergy",
+            "Chemical Reaction Kinetics",
+            "Wastewater Treatment",
+            "Anaerobic Fermentation Bioenergy"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. B. PREETHA",
+        "designation": "PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "BIOCHEMICAL ENGINEERING & ENVIRONMENTAL BIOTECHNOLOGY"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. M. THENMOZHI",
+        "designation": "PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Chemical & Biological Thermodynamics"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. M. RAJASIMMAN",
+        "designation": "PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Environmental Engineering and Inverse Fluidization"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. R. MUTHUVELAYUDHAM",
+        "designation": "PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Biochemical Engineering",
+            "Environmental Biotechnology"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. R. RAVI",
+        "designation": "PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Environmental Biotechnology & Biological Treatment of Waste Gas"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. B. CHIRSABESAN",
+        "designation": "PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "ENVIRONMENTAL BIOTECHNOLOGY"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. B. SURESH",
+        "designation": "PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "SAFETY ENGINEERING",
+            "CHEMICAL ENGINEERING"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. S. ANHURADHA",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Food Engineering",
+            "Chemical Engineering"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. S. DHANASEKARAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Mass Transfer Operations",
+            "Industrial Stoichiometry",
+            "Industrial Pollution and Control Technology",
+            "Industrial Effluent treatment"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. K. THIRUMAVALAVAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "BIOPOLYMER",
+            "BIOFUEL",
+            "BIOMEDICINE"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. M. VIJAY",
+        "designation": "ASSOCIATE PROFESSOR & DIRECTOR in Centre for Disaster Management",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "M.B.A.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Bioelectrochemical Engineering & Industrial Safety Engineering & Environmental Engineering"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. R. RAMSENTHIL",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "",
+            "M.E.PhD (CHEMICAL)"
+        ],
+        "qualification": [
+            "CHEMICAL ENGINEERING",
+            "INDUSTRIAL SAFETY",
+            "BIO TECHNOLOGY",
+            "WASTE WATER TREATMENT",
+            "FOOD TECHNOLOGY"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. C.S. RATHNASABAPATHY",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "PhD."
+        ],
+        "qualification": [
+            "Process Control",
+            "Industrial Safety Engineering"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. S. SATHIAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "PhD.",
+            ""
+        ],
+        "qualification": [
+            "CHEMICAL ENGINEERING",
+            "INDUSTRIAL SAFETY",
+            "INDUSTRIAL HYGIENE"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. V. SARAVANAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "AIR POLLUTION CONTROL"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. T.R.. MANIKKANDAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "BIO FUEL",
+            "FOOD TECHNOLOGY"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. K. MANIKANDAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "BIO FUELS",
+            "Bio Energy BIOTECHNOLOGY & INDUSTRIAL SAFETY ENGINEERING",
+            ""
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. T. BALAMURALI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CHEMICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "MEMBRANE TECHNOLOGY"
+        ],
+        "teaching_experience_in_years": 21
+    }
+]

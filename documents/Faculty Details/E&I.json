@@ -1,0 +1,309 @@
+[
+    {
+        "name": "Dr. B. SHANTHI",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E(E&I)",
+            "M.Tech(Inst.Tech)",
+            "M.Sc(IT)",
+            "Ph.D(IE)",
+            ""
+        ],
+        "qualification": [
+            "Instrument Technology & Power Electronics"
+        ],
+        "teaching_experience_in_years": 32
+    },
+    {
+        "name": "Dr. J. KRISHNAN",
+        "designation": "PROFESSOR of ELECTRONICS & INSTRUMENTATION ENGG & DIRECTOR, BIOMEDICAL ENGINEERING",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.Tech.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Biomedical Instrumentation"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. V. ALAMELUMANGAI",
+        "designation": "PROFESSOR & HEAD",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Process control"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. S. ARULSELVI",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Power Electronics",
+            "Process Control",
+            "Control system",
+            "Neural Networks",
+            "Fuzzy Logic",
+            "Instrumentation and Image Processing."
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. R. MALATHI",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Computational Bio Engineering",
+            "Electro Physiological Modelling"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. D. RATHIKARANI",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Adaptive Control",
+            "System Identification",
+            "Industrial Instrumentation",
+            "Transducers and Measurement System",
+            "Process Control"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. S. SIVAGAMASUNDARI",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Process Control & Instrumentation"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. G. SAKTHIVEL",
+        "designation": "PROFESSOR of ELECTRONICS & INSTRUMENTATION ENGG & DIRECTOR i/c in EMMC",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Embedded system",
+            "PROCESS CONTROL"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. R. VINODHA",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Process Control",
+            "Digital Signal Processing",
+            "Artificial Intelligence"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. N. JAYA",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "PROCESS CONTROL",
+            "NONLINEAR CONTROL",
+            "CONTROL SYSTEMS",
+            "FUZZY LOGIC CONTROL",
+            "ADAPTIVE CONTROL"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. T.S. ANANDHI",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "MULTIPLE CONNECTED POWER CONVERTERS",
+            "RENEWABLE ENERGY SYSTEM",
+            "CONTROL METHOD FOR POWER CONVERTERS"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. S. SRINIVASAN",
+        "designation": "PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Process Control",
+            "Embedded systems",
+            "Microprocessor & Microcontroller"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. N. NACHAMMAI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E(E&I)",
+            "M.Tech.",
+            ""
+        ],
+        "qualification": [
+            "ELECTRONICS DESIGN & TECHNOLOGY"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. N. VANAMADEVI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Digital signal processing",
+            "Digital system design based on ASICS (FPGA)",
+            "Artificial Intelligence"
+        ],
+        "teaching_experience_in_years": 29
+    },
+    {
+        "name": "Dr. S. PALANIVEL",
+        "designation": "ASSOCIATE PROFESSOR & JOINT DIRECTOR in Academic Affairs",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Process Control",
+            "Industrial Automation",
+            "Transducers",
+            "Measurements"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. T. ANITHA",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Power Electronics",
+            "DC-DC Electronics",
+            "Intelligent control",
+            "Photovoltaic systems",
+            "Soft-switching converters",
+            "Process control."
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. M. MANIVANNAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Instrumentation and Control Systems",
+            "Semiconductor Devices",
+            "Micro Electro Mechanical Systems (MEMS)"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. S. KAVITHA",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "ELECTRONICS & INSTRUMENTATION ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "MICROELECTRONICS AND MEMS"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Mr. G. PRABAKARAN",
+        "designation": "ASSISTANT PROFESSOR/PROGRAMMER",
+        "department": "Computer and Information Science",
+        "specialization": [
+            "M.C.A.",
+            "M.Phil.",
+            ""
+        ],
+        "qualification": [
+            "C++",
+            "Foxpro",
+            "Oracle",
+            "Visual Basic"
+        ],
+        "teaching_experience_in_years": 19
+    }
+]

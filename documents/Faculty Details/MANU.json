@@ -1,0 +1,306 @@
+[
+    {
+        "name": "Dr. G. GANESAN",
+        "designation": "PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Metal forming",
+            "Metallurgy",
+            "Metal Matrix and Polymer composites",
+            "Mechanical Behaviour of Materials",
+            "Metal cutting",
+            "Total Quality Management"
+        ],
+        "teaching_experience_in_years": 35
+    },
+    {
+        "name": "Dr. V. BALASUBRAMANIAN",
+        "designation": "PROFESSOR & DIRECTOR, CEMAJOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "MATERIALS JOINING & SURFACE ENGINEERING"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. S. RAVI",
+        "designation": "PROFESSOR & HEAD",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Materials Joining",
+            "Fatigue and fracture mechanics"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. S. RAMANATHAN",
+        "designation": "PROFESSOR & CONVENER",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Composites",
+            "Metal forming"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. K. SHANMUGAM",
+        "designation": "PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "MATERIALS JOINING",
+            "MATERIALS CHARACTERIZATION",
+            "SURFACE ENGINEERING",
+            "METAL MACHINING"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. S. MALARVIZHI",
+        "designation": "PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Joining of Dissimilar Materials; Advanced Materials Joining Processes"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. R. VARAHAMOORTHI",
+        "designation": "PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PATENT ON METALLURGY (FIRST IN DEPT.) -SURFACE ENGINEERING/MATERIALS JOINING/ENGINEERING MATERIALS/RELIABILITY"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. S. MANICKAM",
+        "designation": "PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E(Manu)",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Metal Joining",
+            "Welding"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. S. RAJU",
+        "designation": "PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Production Management",
+            "Operations Research",
+            "Production Engineering",
+            "Sheet metal forming"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Mr. P. NARENDERSINGH",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            ""
+        ],
+        "qualification": [
+            "CAD/CAM/CIM",
+            "Robotics",
+            "Non-Traditional Manufacturing"
+        ],
+        "teaching_experience_in_years": 33
+    },
+    {
+        "name": "Dr. S. CHIDAMBARANATHAN",
+        "designation": "ASSOCIATE PROFESSOR in Manu. Engg.",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Production Operations Management",
+            "Supply Chain Management"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. V. SRINIVASAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "TRIBOLOGY",
+            "POLYMER MATRIX COMPOSITES",
+            "ENGINEERING METALLURGY",
+            "OPERATIONS RESEARCH"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. K. SRINIVASAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.(M & P)",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Welding Engineering"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. M. SEEMAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Composite machining",
+            "Acoustic emission monitoring",
+            "Modelling and optimization",
+            "Metal joining"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. S. RAJAKUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Manufacturing Engineering",
+            "Welding Engineering",
+            "Surface Engineering",
+            "Composite Materials and Optimization Techniques"
+        ],
+        "teaching_experience_in_years": 20
+    },
+    {
+        "name": "Dr. P. SIVARAJ",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Material Joining",
+            "production Tech",
+            "Non Traditional Machining"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Mr. N. MUTHUKUMAR",
+        "designation": "ASSISTANT PROFESSOR in Manu. Engg.",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.(Mech)",
+            "M.E (Manufacturing)"
+        ],
+        "qualification": [
+            "QUALITY MANAGEMENT",
+            "MATERIALS MANAGEMENT",
+            "OPERATION RESEARCH"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. N. MOHAMAD RAFFI",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "MANUFACTURING ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "NON DESTRUCTIVE TESTING",
+            "ENGINEERING METALLURGY",
+            "PRODUCTION TECHNOLOGY",
+            "METAL FORMING PROCESS",
+            "POLYMER COMPOSITES",
+            "MATERIAL SCIENCE",
+            "MACHINE TOOL CONTROL AND AUTOMATES",
+            "CASTING TECHNOLOGY",
+            "and METAL JOINING PROCESS."
+        ],
+        "teaching_experience_in_years": 20
+    }
+]

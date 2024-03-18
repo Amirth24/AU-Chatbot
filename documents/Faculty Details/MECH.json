@@ -1,0 +1,473 @@
+[
+    {
+        "name": "Dr. C.G. SARAVANAN",
+        "designation": "PROFESSOR of MECHANICAL ENGINEERING & DIRECTOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "IC ENGINES",
+            "AUTOMOBILE ENGINEERING"
+        ],
+        "teaching_experience_in_years": 33
+    },
+    {
+        "name": "Dr. B. SIVARAMAN",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "HEAT TRANSFER",
+            "SOLAR ENERGY",
+            "CFD",
+            "DESIGN OF THERMAL POWER EQUIPMENTS."
+        ],
+        "teaching_experience_in_years": 36
+    },
+    {
+        "name": "Dr. S. VAIDYANATHAN",
+        "designation": "PROFESSOR & HEAD",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Computational Fluid Dynamics",
+            "Computational Heat Transfer",
+            "Numerical Studies of Shock and Swirling Supersonic Flows"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. A. RAGUPATHY",
+        "designation": "PROFESSOR of MECHANICAL ENGINEERING & DIRECTOR, DARE",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E(Mech)",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Thermal Sciences"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. P. BALAGURU",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "MACHINE DESIGN",
+            "THERMAL POWER EQUIPMENT DESIGN",
+            "STRESS ANALYSIS OF COMPOSITE MATERIALS"
+        ],
+        "teaching_experience_in_years": 32
+    },
+    {
+        "name": "Dr. M. LOGANATHAN",
+        "designation": "PROFESSOR of MECHANICAL ENGINEERING & DIRECTOR in CICE&AR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "hydrogen engine",
+            "two-stroke engine",
+            "bio diesel",
+            "exhaust after treatment",
+            "fuel injection",
+            ""
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. S. SIVAPRAKASAM",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "IC Engine",
+            "Alternative fuel",
+            "Engine pollution and controls",
+            "Machine Design"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. B. KARTHIKEYAN",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Thermal Analysis of Composite",
+            "Biocomposite",
+            "Nano composite",
+            "Energy"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. G. MURUGAN",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "FATIGUE INVESTIGATIONS & AUTOMOBILE ENGINEERING"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. R. KALAIVANAN",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Thermal Engg."
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. E. JAMES GUNASEKARAN",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "CFD",
+            "INTERNAL COMBUSTION ENGINES",
+            "AFTER TREATMENT SYSTEMS",
+            "ENGINE POLLUTION CONTROL"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. N. KARUNAKARAN",
+        "designation": "PROFESSOR of MECHANICAL ENGINEERING & DIRECTOR, DSDE",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.B.A.",
+            "M.E.",
+            "PhD",
+            ""
+        ],
+        "qualification": [
+            "Industrial Engineering & Management",
+            "FEA",
+            "Thermal Analysis."
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. S. VIVEKANANDAN",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Energy engineering"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. S. MANIKANDAN",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Thermal Power Enginnering"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. R. KARTHIKEYAN",
+        "designation": "PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Heat transfer",
+            "Thermodynamics",
+            "Refrigeration & Air conditioning"
+        ],
+        "teaching_experience_in_years": 29
+    },
+    {
+        "name": "Dr. A. PANNIRSELVAM",
+        "designation": "ASSOCIATE PROFESSOR & Dev.Officer(Mech.)",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.Tech.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Internal combustion engines"
+        ],
+        "teaching_experience_in_years": 36
+    },
+    {
+        "name": "Dr. C. SIVARAJAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "PhD"
+        ],
+        "qualification": [
+            "Thermal Engineering"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. S. SARAVANAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Materials Processing"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. P. VELMURUGAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "ENERGY ENGINEERING"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. P. RAMESH",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Energy",
+            "Internal Combustion Engine and Computational Techniques"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. A. RAJA",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "THERMAL POWER ENGINEERING"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. C.M. RAGURAMAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Heat Transfer",
+            "Energy Engg.",
+            "Power plant Engg."
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. K. SIVAKUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "solar Energy"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. M.R. RAJAMANICKAM",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Thermal Power",
+            "Solar Energy"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. B. PREM ANAND",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Internal Combustion(IC) Engines & Electric Vehicles(EV)"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. D. KARTHIKEYAN",
+        "designation": "ASSOCIATE PROFESSOR & DY.DIRECTOR in DRD",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "I.C.ENGINE",
+            "AFTERTREATMENT DEVICES",
+            "BIODIESEL TESTING."
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. LA. CHIDAMBARAM",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "ENERGY",
+            "HYDROLOGY",
+            "ENERGY STORAGE",
+            "WATER RESOURCE & FLUIDS",
+            "ENVIRONMENTAL/NATURAL SCIENCES",
+            "GAS DYNAMICS",
+            "MINING",
+            "SOLAR-THREMAL-REFRIGERATION-AIR CONDITIONING",
+            "RENEWABLE ENERGY-HOMES/BUILDING APPLICATIONS",
+            "WASTE WATER MANAGEMENT"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. P. PREMKUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Energy from waste material",
+            "Alternate Fuel and Internal Combustion Engine"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Mr. V. VINOTH KUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "MECHANICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            ""
+        ],
+        "qualification": [
+            "THERMAL POWER"
+        ],
+        "teaching_experience_in_years": 23
+    }
+]
