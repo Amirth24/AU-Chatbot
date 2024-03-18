@@ -1,43 +1,59 @@
 import { Injectable } from '@angular/core';
-import {Observable, of} from 'rxjs'
+import {Subject, connect} from 'rxjs'
+
+
+enum MessageFrom {
+  AI = "AI",
+  HUMAN = "HUMAN"
+}
+export interface Message {
+  by: MessageFrom,
+  content: string
+}
 
 @Injectable({
   providedIn: 'root'
 })
 export class ChatService {
   private socket: WebSocket | null = null;
-  private _messList: string[] = [];
-  public messages$: Observable<any>| null = null;
+  public messages$: Subject<Message> = new Subject();
+  public live$: Subject<boolean> = new Subject();
   private _currentMessage: string = "";
   constructor() {}
-  init(url: string) {
+  connect(url: string){
     this.socket = new WebSocket(url);
-    this.socket.onopen = (e) => {
-      console.log("Joined Chat");
-      console.log(e);
-    }
-
-    this.messages$ = new Observable((subscriber) => {
-      subscriber.next(this._messList);
-
-      if (this.socket !== null){
-        this.socket.onmessage = (e) => {
-          console.log(e.data);
-          this._currentMessage += e.data;
-          if (this._currentMessage.endsWith('[END]')){
-            this._messList = [
-              ...this._messList,this._currentMessage.slice(0, -5)];
-            subscriber.next(this._messList)
-            this._currentMessage="";
-          }
-        }
+  }
+  init(url: string) {
+    this.connect(url);
+    if (this.socket !== null){
+      this.socket.onopen = () => {
+        this.live$.next(true);
       }
 
-    });
+      this.socket.onclose = () => {
+        this.live$.next(true);
+      }
+      this.socket.onmessage = (e) => {
+        console.log(e.data);
+        this._currentMessage += e.data;
+        if (this._currentMessage.endsWith('[END]')){
+          this.messages$.next({
+            by: MessageFrom.AI,
+            content: this._currentMessage.slice(0, -5)
+          })
+          this._currentMessage="";
+        }
+      }
+    }
+
   }
 
   sendMsg(mess: string){
     this.socket?.send(mess);
+    this.messages$.next({
+      by: MessageFrom.HUMAN,
+      content: mess
+    })
     console.log("Message Sent " + mess);
   }
 }
