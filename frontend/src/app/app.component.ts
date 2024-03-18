@@ -3,8 +3,9 @@ import { FormsModule } from '@angular/forms';
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { HeaderComponent } from './header/header.component';
+import type {Message} from './chat.service'
 import { ChatService } from './chat.service';
-import { trigger, state, style, animate, transition } from '@angular/animations';
+import { trigger, style, animate, transition } from '@angular/animations';
 
 @Component({
   selector: 'app-root',
@@ -25,18 +26,24 @@ import { trigger, state, style, animate, transition } from '@angular/animations'
   ]
 })
 export class AppComponent {
-  messages: string[] = [];
+  messages: Message[] = [];
   showChat: boolean = false;
   showButton: boolean = true;
   currentMsg: string = '';
-  constructor(private chsrv: ChatService){
-  }
+  isLive: boolean = false;
+  constructor(private chsrv: ChatService){}
+
   ngOnInit(){
+    document.title = this.title;
     this.chsrv.init('ws://127.0.0.1:8000/chat/1')
-    this.chsrv.messages$?.subscribe({
-      next: (data) => this.messages = data,
+    this.chsrv.messages$.subscribe({
+      next: (data) => this.messages.push(data),
       error: () => "An Error Occured"
     });
+
+    this.chsrv.live$.subscribe({
+      next: (data) => this.isLive = data
+    })
 
   }
 
@@ -45,11 +52,14 @@ export class AppComponent {
     this.currentMsg = '';
   }
 
-  RevealChat(){
+  revealChat(){
     this.showChat = true;
     this.showButton = false;
   }
 
+  reconnect(){
+    this.chsrv.connect('ws://127.0.0.1:8000/chat/1')
+  }
 
   title = 'bot';
   dark = false;

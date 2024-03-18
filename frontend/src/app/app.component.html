@@ -1,23 +1,28 @@
 <main class="{{dark?'dark':''}} flex flex-col justify-center items-center transition transition-all duration-400  w-screen dark:text-gray-100 h-screen dark:bg-slate-700" >
   <app-header [toggleColor]="toggleColor"></app-header>
-  <div class="flex flex-col mb-32 justify-center items-center">
-    <h1 class="my-4 text-5xl">Annamalai University ChatBot</h1>
-    <p class="my-4 text-xl">
-      Welcome to the Annamalai University ChatBot which is designed specifically to answer all queries and questions related to the university feel free to use the chatbot to ask your questions.
-    </p>
-    <button *ngIf="showButton" class="my-4" (click)="RevealChat()" >Let's Begin</button>
+  <div class="flex flex-col mb-24 justify-center items-center">
+    <h1 class="my-4 text-5xl">Annamalai University Intelligent Assistant</h1>
+    <div *ngIf="!showChat" class="mx-auto w-1/2 text-center">
+      <p class="text-xl indent-4 mx-auto">
+        An Assistant designed specifically to answer all queries and questions related to the university feel free to use the chatbot to ask your questions.
+      </p>
+      <button *ngIf="showButton" class="mt-16 p-6 rounded-lg transition transition-all duration-400 text-4xl hover:scale-110 shadow-lg hover:shadow" (click)="revealChat()" >Let's Begin</button>
+    </div>
   </div>
-  <section *ngIf="showChat" class="w-1/4 p-4 min-h-1/4 flex flex-col rounded shadow-lg mx-auto dark:bg-slate-800 bg-gray-100">
-    <div class="w-full dark:bg-slate-600 min-h-48 max-h-96 bg-slate-300 rounded-md p-4">
-      <ul class="flex flex-col w-full gap-2">
-        <li *ngFor="let msg of messages">
-          {{msg}}
+  <section *ngIf="showChat" class="w-2/3 p-4 min-h-1/3 flex flex-col rounded shadow-lg mx-auto dark:bg-slate-800 bg-gray-100" [@slideInOut]>
+    <div class="w-full dark:bg-slate-600 overflow-y-scroll min-h-48 max-h-96 bg-slate-300 rounded-md ">
+      <ul class="flex flex-col w-full h-full  gap-2">
+        <li *ngFor="let msg of messages" class="p-4 flex-1 inline-flex flex-col gap-2 {{msg.by == 'AI' ? 'bg-slate-400 dark:bg-slate-700' : 'You'}}">
+          <span class="font-bold text-sm">{{msg.by == "AI" ? "Assitant" : "You"}}</span>
+          <span class="prose xl:prose-lg">{{msg.content}}</span>
+
         </li>
       </ul>
     </div>
     <div class="inline-flex gap-4 mt-2">
-      <textarea id="message" [(ngModel)]="currentMsg" rows="4" class="block w-full h-16 text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 resize-none focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Ask any Questions here..."></textarea>
+      <textarea id="message" (keyup.enter)="sendMsg()" [(ngModel)]="currentMsg" rows="4" class="block p-2 w-full h-16 text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 resize-none focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Ask any Questions here..."></textarea>
       <button (click)="sendMsg()" class="px-4 py-2 rounded-lg shadow-md">Send</button>
     </div>
+    <button *ngIf="!isLive" class="bg-red-500" (click)="reconnect()">Server Disconnected</button>
   </section>
 </main>
