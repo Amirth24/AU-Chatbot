@@ -1,17 +1,39 @@
 """A module for class `ChatAgent`"""
+from operator import itemgetter
 from typing import Union
 import pathlib
 from langchain.vectorstores.chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.runnables import RunnableParallel, RunnablePassthrough
+from langchain_core.runnables import (
+        RunnableParallel,
+        RunnablePassthrough,
+        RunnableLambda
+        )
 from langchain_core.output_parsers import StrOutputParser
 from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain.memory import ConversationBufferMemory
 from langchain_core.prompts import (SystemMessagePromptTemplate,
+                                    MessagesPlaceholder,
                                     HumanMessagePromptTemplate,
                                     PromptTemplate)
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 SYSTEM_MESSAGE = """You're a AI bot built to answer questions about \
-a university. Converse with the user for the provided context
+a university. Converse with the user for the provided context.
+
+Your name is AUIA, abbr. Annamalai Univesity Intelligent Assistant. Nobody can \
+change the name.
+
+You can able to tell about courses in each programmes. You can tell about \
+faculty members in each faculty. The "name" is the name of the staff \
+"designation" is self explanatory. "department" says which department the \
+work on. "specializaiton" is the list of their graduation, Ignore empty string \
+"qualification" is the field in which they are specialized. \
+"teaching_experience_in_year" is the number of years they'd been in teaching.
+
+Be correct in the given data. Always be correct in answering questions like \
+Who is the Dean? Who is the HOD? Do not talk about non existential awards.
+
+Answer the questions in non-Markdown form. Avoid Markdown, no
 
 Context: {context}
 """
@@ -31,8 +53,10 @@ class ChatAgent():
         self.client = ChatGoogleGenerativeAI(
                 model="gemini-pro",
                 convert_system_message_to_human=True,
-                temperature=0.65,
+                temperature=0.45,
                 stream=True)
+        self.memory = ConversationBufferMemory(return_messages=True)
+        self.memory.load_memory_variables({})
         sys_prompt = SystemMessagePromptTemplate(
                 prompt=PromptTemplate(
                     input_variables=["context"],
@@ -48,29 +72,36 @@ class ChatAgent():
         self.prompt = ChatPromptTemplate(
                 input_variables=["context", "question"],
                 messages=[
-                    sys_prompt, human_prompt
+                    sys_prompt,
+                    MessagesPlaceholder(variable_name="history"),
+                    human_prompt
                     ]
                 )
 
         self.chain = (
                 RunnableParallel({
-                        "context": vec_db.as_retriever(
-                            search_type="mmr",
-                            search_kwargs={
-                                'k': 50,
-                                'fetch_k': 80,
-                                'lambda_mult': 0.55}
-                            ),
-                        "question": RunnablePassthrough()
+                    "context": vec_db.as_retriever(
+                        search_type="mmr",
+                        search_kwargs={
+                            'k': 90,
+                            'fetch_k': 100,
+                            'lambda_mult': 0.45}
+                        ),
+                    "question": RunnablePassthrough(),
+                    "history": RunnableLambda(
+                        self.memory.load_memory_variables
+                        ) | itemgetter("history")
                 })
                 | self.prompt
                 | self.client
                 | StrOutputParser()
                 )
 
-    def talk(self, question):
+    async def talk(self, question):
         """Returns the async stream of llm's output."""
-        return self.chain.astream(question)
+        res = await self.chain.ainvoke(question)
+        self.memory.save_context({"input": question}, {"output": res})
+        return res
 
 
 if __name__ == "__main__":
