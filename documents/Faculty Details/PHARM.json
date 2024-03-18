@@ -1,0 +1,523 @@
+[
+    {
+        "name": "Dr. V. PARTHASARATHY",
+        "designation": "PROFESSOR of PHARMACY & DIRECTOR in CCB&DD",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D (UNIVERSITY OF SHEFFIELD",
+            "U.K); POST DOCT. RESEARCH (HARVARD UNIVERSITY",
+            "U.S.A)"
+        ],
+        "qualification": [
+            "MOLECULAR IMMUNOLOGY AND BIOTECHNOLOGY: CANCER IMMUNOLOGY AND AIDS."
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. K. JANAKIRAMAN",
+        "designation": "PROFESSOR & HEAD",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARM.MICROBIOLOGY"
+        ],
+        "teaching_experience_in_years": 28
+    },
+    {
+        "name": "Dr. C.K. DHANAPAL",
+        "designation": "PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACY PRACTICE"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. N. KANNAPPAN",
+        "designation": "PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Pharmaceutical Analysis"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. V.V. VENKATACHALAM",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACY",
+            "Pharmacology"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. S. MADHUSUDHAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Industrial Pharmacy",
+            "Pharmacy Practice"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. K. BALAMURUGAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACEUTICS"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. A. KOTTAIMUTHU",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Industrial Pharmacy(Pharmaceutics)"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. T. SIVAKKUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Pharmaceutical chemistry"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. S. SELVAMUTHUKUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Pharmaceutics",
+            "Nanotechnology"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. K. KANNAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACEUTICS"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. A. ANTON SMITH",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Industrial Pharmacy (Pharmaceutics)"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. D. KILIMOZHI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACOLOGY",
+            "PHYTOCHEMISTRY and PHARMACEUTICS"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. K. KATHIRESAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "INDUSTRIAL PHARMACY"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. P. VENKATESAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "INDUSTRIAL PHARMACY (Pharmaceutics)"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. S. RANI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "PHARMACOLOGY"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. S. PARIMALAKRISHNAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Industrial Pharmacy"
+        ],
+        "teaching_experience_in_years": 20
+    },
+    {
+        "name": "Dr. M. SWAMIVELMANICKAM",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "INDUSTRIAL PHARMACY"
+        ],
+        "teaching_experience_in_years": 20
+    },
+    {
+        "name": "Dr. P. PANDIAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "industrial pharmacy"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. R. SURESH",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "PHARMACEUTICAL CHEMISTRY"
+        ],
+        "teaching_experience_in_years": 19
+    },
+    {
+        "name": "Dr. R. MURALI",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Clinical Pharmacy"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. R.T. SARAVANAKUMAR",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACY PRACTICE"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. B. JAYANTHI",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "PHARMACEUTICS"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. N. SRINIVASAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Pharmacognosy"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. M. MENAKA",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "INDUSTRIAL PHARMACY"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. G. ALAGU MANIVASAGAM",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Industrial Pharmacy",
+            "Pharmaceutics."
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. G. GOPALAKRISHNAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACY PRACTICE"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Mr. P. MAHENDRAVARMAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACY PRACTICE"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. D. SENTHILKUMAR",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACOLOGY"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. R. SANILKUMAR",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "INDUSTRIAL PHARMACY(Pharmaceutics)"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. G. VEERAMANI",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACY PRACTICE"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. K. SARAVANAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Pharmacy practice"
+        ],
+        "teaching_experience_in_years": 16
+    },
+    {
+        "name": "Dr. S. SIVAKRISHNAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACOLOGY"
+        ],
+        "teaching_experience_in_years": 16
+    },
+    {
+        "name": "Dr. P. BALACHANDRAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACOLOGY"
+        ],
+        "teaching_experience_in_years": 16
+    },
+    {
+        "name": "Dr. G. SIVAKAMASUNDARI",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Quality Assurance"
+        ],
+        "teaching_experience_in_years": 15
+    },
+    {
+        "name": "Dr. K. DEVI",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Quality Assurance"
+        ],
+        "teaching_experience_in_years": 15
+    },
+    {
+        "name": "Dr. V.P. MAHESHKUMAR",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "PHARMACY",
+        "specialization": [
+            "M.Pharm.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "PHARMACY PRACTICE - Clinical Pharmacy",
+            "Pharmacoepidemiology & Pharmacoeconomics",
+            "Rational use of medicine",
+            "Pharmaceutical Management & Public Health."
+        ],
+        "teaching_experience_in_years": 15
+    }
+]

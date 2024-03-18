@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Dr. B. VIDIVELLI",
+        "designation": "PROFESSOR & HEAD",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "STRUCTURAL ENGINEERING - REPAIR AND REHABILITATION OF CONCRETE STRUCTURES"
+        ],
+        "teaching_experience_in_years": 32
+    },
+    {
+        "name": "Dr. G. KUMARAN",
+        "designation": "PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "STRUCTURAL ENGINEERING"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. K. SUGUNA",
+        "designation": "PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Structural Engineering"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. B. PALANI",
+        "designation": "PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Structural Engineering"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. R. BASKAR",
+        "designation": "PROFESSOR & Grievance Redressal Officer in (AUGMAR)",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "A.M.I.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "STEEL CONCRETE COMPOSITE",
+            "STEEL STRUCTURERS"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. S. THIRUGNANASAMBANDAM",
+        "designation": "PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Geopolymer Concrete",
+            "Structural Engineering",
+            "Advanced Concrete Structures",
+            "Repair and Rehabilitation of Structures",
+            "Damage Assessment of Structures",
+            "Finite Element Method."
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. A. PRABAGHAR",
+        "designation": "ASSOCIATE PROFESSOR & JOINT CONTROLLER OF EXAMINATIONS",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "STRUCTURAL ENGG"
+        ],
+        "teaching_experience_in_years": 33
+    },
+    {
+        "name": "Dr. G. SRINIVASAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "PhD."
+        ],
+        "qualification": [
+            "STRUCTURAL ENGINEERING",
+            "BACTERIAL CONCRETE"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. R. SIVAGAMASUNDARI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "STRUCTURAL ENGINEERING - Fibre Reinforcement concrete"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. K. RAVICHANDRAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "SEISMIC RESISTANT STRUCTURES"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. J. SARAVANAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "ALTERNATIVE / NEW MATERIALS FOR CONCRETE AND STRUCTURAL APPLICATIONS (Composite Materials",
+            "CRM",
+            "FRP Reinforcements & Geopolymer Concrete)"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. K. NATARAJAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "PhD.",
+            ""
+        ],
+        "qualification": [
+            "GEOTECHNICAL ENGINEERING",
+            "SOIL STRUCTURE INTERACTION"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. D. GOPINATH",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "concrete Technology"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. R. MURUGAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Non-Metallic Reinforcements (GFRP) for Concrete Structures"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. P. PALSON",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL & STRUCTURAL ENGG.",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Structural Design"
+        ],
+        "teaching_experience_in_years": 23
+    }
+]

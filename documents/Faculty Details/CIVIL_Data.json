@@ -1,0 +1,472 @@
+[
+    {
+        "name": "Dr. A. MURUGAPPAN",
+        "designation": "PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "HYDROLOGY AND WATER RESOURCES ENGINEERING; ENVIRONMENTAL ENGINEERING"
+        ],
+        "teaching_experience_in_years": 37
+    },
+    {
+        "name": "Dr. V. ARUTCHELVAN",
+        "designation": "PROFESSOR of Civil Engineeiring & Direc.ED&ADMN/Advisor, DSDE",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Water and Wastewater Engineering; Study on Micro and Macro organisms in water",
+            "wastewater and Solid waste treatment"
+        ],
+        "teaching_experience_in_years": 36
+    },
+    {
+        "name": "Dr. V. NEHRU KUMAR",
+        "designation": "PROFESSOR of CIVIL ENGINEERING & DIRECTOR - CEHS",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Environmental Engineering & Climate Change"
+        ],
+        "teaching_experience_in_years": 32
+    },
+    {
+        "name": "Dr. S. POONGOTHAI",
+        "designation": "PROFESSOR & HEAD",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Water Resources Engineering",
+            "Watershed Management",
+            "Irrigation Engineering",
+            "Water Quality in Tsunami affected areas",
+            "Remote sensing and GIS"
+        ],
+        "teaching_experience_in_years": 32
+    },
+    {
+        "name": "Dr. N. MANIKUMARI",
+        "designation": "PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E(Stru).",
+            "M.E(Water.Re).",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "WATER RESOURCES ENGINEERING & MANAGEMENT",
+            "SOFT COMPUTING APPLIED TO TANK IRRIGATION SYSTEM"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. M. RAJENDRAN",
+        "designation": "PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.(Civil)",
+            "M.E(Wat.Res.Mgmt)",
+            "Ph.D(Civil)",
+            ""
+        ],
+        "qualification": [
+            "1.Air Quality Modeling and Monitoring 2.Water Resources Engineering and Managemnet"
+        ],
+        "teaching_experience_in_years": 29
+    },
+    {
+        "name": "Dr. S. PALANIVELRAJA",
+        "designation": "PROFESSOR of CIVIL ENGINEERING & DIRECTOR in CARE&CC",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Air Pollution Meteorology and Modelling"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. T. RAMESH",
+        "designation": "PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Environmental Engg."
+        ],
+        "teaching_experience_in_years": 29
+    },
+    {
+        "name": "Dr. S. MOHAN",
+        "designation": "PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "ENVIRONMENTAL ENGINEERING"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. S. BALAKUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D",
+            ""
+        ],
+        "qualification": [
+            "ENVIRONMENTAL ENGINEERING"
+        ],
+        "teaching_experience_in_years": 28
+    },
+    {
+        "name": "Dr. S. GNANAKUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "ENVIRONMENTAL ENGINEERING"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Mr. S. RAJARATHINAM",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            ""
+        ],
+        "qualification": [
+            "Wastewater Treatment"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. G. SENTHILKUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Solid Waste Management",
+            "Contaminant Transport in soil",
+            "Environmental Impact Assessment",
+            "E waste management",
+            ""
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. C. JODHI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "ENVIRONMENTAL ENGINEERING"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. B. ASHA",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "WASTEWATER ENGINEERING"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. N. NAGARAJAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Water Resources Engineering",
+            "Watershed Management",
+            "Soil and Water Conservation Engineering",
+            "Irrigation Engineering",
+            "GIS and Remote Sensing",
+            "Water Quality Modelling"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. B. KUMARAVEL",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Air Pollution Modeling Water Resources Engineering and Management"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. V. DAMODHARAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Solid Waste Management"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. K. KARTHIKEYAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "PhD.",
+            ""
+        ],
+        "qualification": [
+            "Water Resources Engg.",
+            "Groundwater Engg.",
+            "Planning and Cost Evaluation in Civil Engg.",
+            ""
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. S. SIVAPRAKASAM",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "P.hD"
+        ],
+        "qualification": [
+            "WATER RESOURCES ENGINEERING AND MANAGEMENT"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. K. EZHISAIVALLABI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Groundwater Engineering",
+            "Surveying",
+            "Hydrology",
+            "Watershed conservation"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. T. VELAYUTHAM",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Water Resource Management and Environmental Engineering"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. N. ASHOK KUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Water resource Engineering",
+            "Environmental Waste Management"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. R. MATHIYAZHAGAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Water Resources and Industrial Wastewater"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. P. SIVARAJAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Water and Wastewater Management"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. M. LATHA",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Groundwater Engineering",
+            "Hydrology",
+            "Watershed Conservation",
+            "Fluid Mechanics Basic Engineering"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. P. RAVICHANDRAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Environmental Engineering"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. R. BALAMURUGAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "ENVIRONMENTAL ENGINEERING"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. N. RAVISANKAR",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "CIVIL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Irrigation Water Management"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Mr. K.S.. ASHOK BABU",
+        "designation": "ASSISTANT PROFESSOR/PROGRAMMER",
+        "department": "Computer and Information Science",
+        "specialization": [
+            "B.E COMPUTER SCIENCE"
+        ],
+        "qualification": [
+            "VISUAL BASIC",
+            "WAP & SOFTWARE PROJECT MANAGEMENT"
+        ],
+        "teaching_experience_in_years": 20
+    }
+]

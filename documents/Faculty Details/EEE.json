@@ -1,0 +1,381 @@
+[
+    {
+        "name": "Dr. S. SUBRAMANIAN",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E. (Distinction)",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Power System State Estimation"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. B. BASKARAN",
+        "designation": "PROFESSOR & HEAD",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Matrix Converter"
+        ],
+        "teaching_experience_in_years": 37
+    },
+    {
+        "name": "Dr. I.A. CHIDAMBARAM",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Power System Operation and Control",
+            "Load-Frequency Control",
+            "Power System Restoration",
+            "Power System Restructuring and Deregulation",
+            "Smart Grid"
+        ],
+        "teaching_experience_in_years": 36
+    },
+    {
+        "name": "Dr. P. ARAVINDHABABU",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Power Systems Analysis",
+            "Swarm Intelligence Based Optimization"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. S. SINGARAVELU",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Electrical Machines",
+            "Power Systems",
+            "Renewable Energy",
+            "HVDC and Smart Grid"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. S. GANAPATHY",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "POWER SYSTEM OPERATION AND CONTROL",
+            "SOFT COMPUTING TECHNIQUES"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. M. MOHAMED THAMEEM ANSARI",
+        "designation": "PROFESSOR & DIRECTOR in RENE.ENERGY",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Power Systems",
+            "Hybrid Power Systems",
+            "Restructured Power Systems"
+        ],
+        "teaching_experience_in_years": 31
+    },
+    {
+        "name": "Dr. R. NEELA",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "B.E(EEE)"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. R. ASHOK KUMAR",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "RADIAL DISTRIBUTION SYSTEM",
+            "DEREGULATION",
+            "FACTS",
+            "SOFT COMPUTING TECHNIQUES",
+            "SCHEDULING OF POWER SYSTEMS"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. L. LAKSHMINARASIMMAN",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Power System Economics",
+            "Soft Computing Techniques",
+            "Distribution System Planning"
+        ],
+        "teaching_experience_in_years": 30
+    },
+    {
+        "name": "Dr. M. ANITHA",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Deregulated power systems"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. G. BALAMURUGAN",
+        "designation": "PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Power systems"
+        ],
+        "teaching_experience_in_years": 27
+    },
+    {
+        "name": "Dr. ND. SRIDHAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Power System Operation and Control",
+            "Load - frequency Control",
+            "Power System Restructuring and Deregulation"
+        ],
+        "teaching_experience_in_years": 26
+    },
+    {
+        "name": "Dr. A. EZHILARASI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Power electronics"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. K. GAYATHRI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "POWER SYSTEM PROTECTION"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. A.S. KANNAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "DEEE",
+            "DCPA",
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "POWER SYSTEMS ENGINEERING WITH FACTS CONTROLLERS",
+            "PERFORMANCE EVALUATION OF FACTS CONTROLLERS"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. V. PADMATHILAGAM",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Power Electronics",
+            "Electronics",
+            "Neural and Fuzzy networks",
+            "Power Quality"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. S. PADMA",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Electronics",
+            "Machine design"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. R. KANNAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Electrical Machine Design"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. R. BENS RAJ",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Multilevel Inverter"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. S. SASIKUMAR",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "PhD"
+        ],
+        "qualification": [
+            "POWER SYSTEM"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. R. ASHOK BAKKIYARAJ",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Powersystem"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. B. RAJAGOPAL",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "ELECTRICAL ENGINEERING",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Electrical Machines",
+            "Power Electronics",
+            "IoT based systems",
+            "Renewable Energy",
+            "High voltage Engineering",
+            "Power system"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Mr. T. BASKAR",
+        "designation": "ASSISTANT PROFESSOR/PROGRAMMER",
+        "department": "Computer and Information Science",
+        "specialization": [
+            "M.Sc(IT)",
+            ""
+        ],
+        "qualification": [
+            "MATLAB",
+            "VLSI"
+        ],
+        "teaching_experience_in_years": 15
+    }
+]

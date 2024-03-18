@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Dr. V. SRINIVASAN",
+        "designation": "PROFESSOR",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "M.Tech.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "COMPUTER NETWORKS",
+            "NETWORK SECURITY AND SPEECH PROCESSING"
+        ],
+        "teaching_experience_in_years": 37
+    },
+    {
+        "name": "Dr. K. SELVAKUMAR",
+        "designation": "PROFESSOR",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "CRYPTOGRAPHY AND WIRELESS NETWORKS"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. D. VENKATASEKHAR",
+        "designation": "PROFESSOR & HEAD",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.Tech.",
+            "M.S(Engg.)",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Image Processing",
+            "Computer Networks"
+        ],
+        "teaching_experience_in_years": 33
+    },
+    {
+        "name": "Dr. S. JOTHILAKSHMI",
+        "designation": "ASSOCIATE PROFESSOR in Elect & Comm.",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Artificial Intelligence",
+            "Data Analytics"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. J. SASIKALA",
+        "designation": "ASSOCIATE PROFESSOR in Elect & Comm.",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "qualification": [
+            "Image Processing",
+            "Optimization",
+            "Evolutionary Algorithms",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. K. JAGAN MOHAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Image Processing",
+            "Computer Networks"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. R. SUBAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E.[IT]",
+            "M.E.[CSE].",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Networks",
+            "Wireless Networks",
+            "Mobile Computing and Data Mining"
+        ],
+        "teaching_experience_in_years": 20
+    },
+    {
+        "name": "Dr. V. TAMIZHAZHAGAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E.(I.T).",
+            "M.E(CSE).",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Wireless Networks"
+        ],
+        "teaching_experience_in_years": 19
+    },
+    {
+        "name": "Mr. R. PADMARAJ",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E(I.T)",
+            "M.E(CSE).",
+            ""
+        ],
+        "qualification": [
+            "SOFTWARE ENGINEERING",
+            "FREE AND OPEN SOURCE TECHNOLOGY"
+        ],
+        "teaching_experience_in_years": 19
+    },
+    {
+        "name": "Dr. D. SURESH",
+        "designation": "ASSISTANT PROFESSOR & Dy.Nodal Officer",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E(I.T).",
+            "M.E(CSE).",
+            "Ph.D"
+        ],
+        "qualification": [
+            "Mobile Communication",
+            "Wireless Sensor Networks",
+            "Network Security",
+            "Network Management"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. M. ARASAKUMAR",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "Software Quality Assurance",
+            "Web Services",
+            "Cyber Security"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. K. RAJA",
+        "designation": "ASSISTANT PROFESSOR & DY. CONTROLLER OF EXAMINATIONS",
+        "department": "INFORMATION TECHNOLOGY",
+        "specialization": [
+            "B.E.(I.T).",
+            "M.E(C.S.E).",
+            "Ph.D.",
+            ""
+        ],
+        "qualification": [
+            "COMPUTER GRAPHICS",
+            "COMPUTER NETWORKS",
+            "MULTIMEDIA"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Mr. T. SUNDARAVADIVEL",
+        "designation": "ASSISTANT PROFESSOR/PROGRAMMER",
+        "department": "Computer and Information Science",
+        "specialization": [
+            "B.Sc(M)",
+            "M.Sc(SOFT.ENG).",
+            "M.Tech.",
+            ""
+        ],
+        "qualification": [
+            "Software Testing and Database Management"
+        ],
+        "teaching_experience_in_years": 15
+    }
+]
