@@ -1,0 +1,747 @@
+[
+    {
+        "name": "Dr. P. ARUNA",
+        "designation": "PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.Tech.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Neural Network",
+            " Image Processing",
+            " Medical image analysis",
+            " Image Compression and Software Engineering"
+        ],
+        "teaching_experience_in_years": 32
+    },
+    {
+        "name": "Dr. S. PALANIVEL",
+        "designation": "PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E(Honours).",
+            " M.E.",
+            " Ph.D(IIT Madras).",
+            ""
+        ],
+        "specialization": [
+            "Speech",
+            " Video Processing and Machine Learning"
+        ],
+        "teaching_experience_in_years": 29
+    },
+    {
+        "name": "Dr. R. BHAVANI",
+        "designation": "PROFESSOR & HEAD",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Image Processing and Computer Graphics"
+        ],
+        "teaching_experience_in_years": 29
+    },
+    {
+        "name": "Dr. M. KALAISELVI GEETHA",
+        "designation": "PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.Tech.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Artificial Intelligence",
+            " Machine Learning",
+            " Image and Video Processing"
+        ],
+        "teaching_experience_in_years": 29
+    },
+    {
+        "name": "Dr. T.S. SUBASHINI",
+        "designation": "PROFESSOR of COMPUTER SCIENCE & ENGG. & DIRECTOR in ADIC",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Image Processing",
+            " Pattern Recognition",
+            " IOT",
+            " Deep learning"
+        ],
+        "teaching_experience_in_years": 27
+    },
+    {
+        "name": "Dr. A. SUHASINI",
+        "designation": "PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Computer Networks",
+            " Image Processing",
+            " Machine learning techniques",
+            " Pattern classification Techniques",
+            " Network security."
+        ],
+        "teaching_experience_in_years": 29
+    },
+    {
+        "name": "Dr. AN. SIGAPPI",
+        "designation": "PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Image Processing",
+            " Machine Learning",
+            " Deep Learning",
+            " IoT"
+        ],
+        "teaching_experience_in_years": 27
+    },
+    {
+        "name": "Dr. A. GEETHA",
+        "designation": "PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E",
+            " Ph.D"
+        ],
+        "specialization": [
+            "Image Processing",
+            " Video Processing",
+            " Human Computer Interaction"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. P. DHANALAKSHMI",
+        "designation": "PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.Tech.",
+            "M.B.A.",
+            "Ph.D."
+        ],
+        "specialization": [
+            "Audio and Speech Signal Processing",
+            " Pattern Recognition",
+            " Data Mining and Software Engineering"
+        ],
+        "teaching_experience_in_years": 25
+    },
+    {
+        "name": "Dr. R. PRIYA",
+        "designation": "PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "specialization": [
+            "IMAGE PROCESSING AND PATTERN CLASSIFICATION TECHNIQUES"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. S. PASUPATHY",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "MS(Comp Sci).",
+            "PGDBA.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Object Oriented Analysis & Design",
+            " S/W Quality Assurance & Testing",
+            " Data Mining"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. M. BALASUBRAMANIAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            " M.Tech (IIT DELHI).",
+            " Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Image and Video Processing",
+            " Machine and Deep Learning"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. R. RAGUPATHY",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "specialization": [
+            "Pattern Recognition",
+            " Mobile Ad-Hoc Networks",
+            " Image Processing",
+            " Big Data Analytics",
+            " Sentiment Analysis"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. R. MADHAN MOHAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D."
+        ],
+        "specialization": [
+            "Wireless Ad hoc networks"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. S.G. SANTHI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Wireless Sensor Networks ",
+            " Network Security",
+            " Web Security",
+            " Internet of Things"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. G. ARULSELVI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "specialization": [
+            "Satellite Image Processing",
+            " Pattern Classification Techniques",
+            " Neural Networks",
+            " CNN"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. G. RAMACHANDRAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Computer Networks",
+            " Mobile Adhoc Networks",
+            " Peer to Peer Networks",
+            " IoT"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. N.J. NALINI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "M.E(CSE)",
+            "Ph.D(CSE)"
+        ],
+        "specialization": [
+            "SPEECH AND IMAGE PROCESSING",
+            " PATTERN RECOGNITION."
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. R. SAMINATHAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "DATA STRUCTURES",
+            " COMPUTER NETWORKS",
+            " NETWORK SECURITY"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. P. SUDHAKAR",
+        "designation": "ASSOCIATE PROFESSOR in Elect & Comm.",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "M.B.A.",
+            "Ph.D"
+        ],
+        "specialization": [
+            "Software Engineering",
+            " Image Processing",
+            " Wireless Networks",
+            " Data Mining"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. M. GOVINDARAJAN",
+        "designation": "ASSOCIATE PROFESSOR & Nodal Officer",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            " M.E.",
+            " Ph.D.",
+            " PDF."
+        ],
+        "specialization": [
+            "Data Mining"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. B. KIRUBAGARI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Speech Processing"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Mr. A. KANTHIMATHINATHAN",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            ""
+        ],
+        "specialization": [
+            "Computer Science and Engineering"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. L.R. SUDHA",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "specialization": [
+            "Image Processing",
+            " Biometrics",
+            " Soft Computing"
+        ],
+        "teaching_experience_in_years": 23
+    },
+    {
+        "name": "Dr. G. PRABAKARAN",
+        "designation": "ASSOCIATE PROFESSOR in Elect & Comm.",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Image processing",
+            " computer graphics"
+        ],
+        "teaching_experience_in_years": 22
+    },
+    {
+        "name": "Dr. R. ARUNKUMAR",
+        "designation": "ASSOCIATE PROFESSOR in Elect & Comm.",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "IMAGE PROCESSING",
+            " MACHINE LEARNING",
+            " DATA AND COMPUTER NETWORKS",
+            " INFORMATION CODING TECHNIQUES",
+            " INTERNET OF THINGS."
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. M. ARULSELVI",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "specialization": [
+            "Medical Image Processing"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Dr. S. VIJAY BHANU",
+        "designation": "ASSOCIATE PROFESSOR & DEPUTY CONTROLLER OF EXAMINATIONS",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "M.E.",
+            "M.B.A.",
+            "PG Dip.Mark.Mgmt.",
+            "Ph.D."
+        ],
+        "specialization": [
+            "COMPUTER NETWORKS",
+            " NETWORK SECURITY and CLOUD COMPUTING"
+        ],
+        "teaching_experience_in_years": 24
+    },
+    {
+        "name": "Dr. K. KAVITHA",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "specialization": [
+            "Ad hoc networks"
+        ],
+        "teaching_experience_in_years": 20
+    },
+    {
+        "name": "Dr. C. ANBUANANTH",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Computer Networks",
+            " Wireless Communications",
+            " VANET",
+            " MANET"
+        ],
+        "teaching_experience_in_years": 20
+    },
+    {
+        "name": "Dr. T. SURESH",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "M.B.A.",
+            "Ph.D."
+        ],
+        "specialization": [
+            "Computer networks",
+            " Network security",
+            " Computer graphics and multimedia",
+            " DBMS",
+            " Theory of computation"
+        ],
+        "teaching_experience_in_years": 20
+    },
+    {
+        "name": "Dr. A. PUNITHA",
+        "designation": "ASSOCIATE PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Image and Video Processing"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. S. ABIRAMI",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "image processing"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Mr. S. KARTHIK",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            ""
+        ],
+        "specialization": [
+            "Computer Networks",
+            " DBMS",
+            " Network Security",
+            " Software Engineering"
+        ],
+        "teaching_experience_in_years": 20
+    },
+    {
+        "name": "Dr. M. THILLAIKARASI",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "specialization": [
+            "Software Engineering"
+        ],
+        "teaching_experience_in_years": 19
+    },
+    {
+        "name": "Dr. S. ARIVALAGAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "IMAGE PROCESSING",
+            "DATA STRUCTURES",
+            " COMPUTER NETWORKS",
+            "DBMS"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. S. SARAVANAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            " Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "COMPUTER NETWORKS",
+            " MOBILE COMPUTING",
+            " SOFTWARE ENGINEERING"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. S. MOHAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.B.A.",
+            "M.E.",
+            "M.Sc.",
+            "B.G.L.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Machine Learning",
+            " Deep Learning",
+            " Big Data Analytics and Wireless Networks"
+        ],
+        "teaching_experience_in_years": 18
+    },
+    {
+        "name": "Dr. S. SATHIYA",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Digital Image Processing",
+            " Pattern Recognition",
+            " Microprocessors",
+            ""
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. V. RADHIKARANI",
+        "designation": "ASSISTANT PROFESSOR (DR.AMBEDKAR CHAIR)",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "specialization": [
+            "Artificial Intelligence",
+            " Machine Learning",
+            " Pattern Classification",
+            " Data Mining"
+        ],
+        "teaching_experience_in_years": 17
+    },
+    {
+        "name": "Dr. KT. MEENA ABARNA",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E.",
+            "M.E.",
+            "Ph.D"
+        ],
+        "specialization": [
+            "wireless networking",
+            " networks",
+            " image processing",
+            " data mining",
+            " software engineering and computer graphics"
+        ],
+        "teaching_experience_in_years": 16
+    },
+    {
+        "name": "Dr. P. ANBALAGAN",
+        "designation": "ASSISTANT PROFESSOR",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E(CSE).",
+            "M.E(CSE).",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Data Mining",
+            " Big Data Analytics",
+            " Cloud Computing"
+        ],
+        "teaching_experience_in_years": 15
+    },
+    {
+        "name": "Mr. N. NAGARAJAN",
+        "designation": "ASSISTANT PROFESSOR/PROGRAMMER",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.E(CSE-II Cl)",
+            "M.E(CSE-I Cl)"
+        ],
+        "specialization": [
+            "digital logic and design",
+            "Data Structure",
+            "web design tools",
+            "E-commerce"
+        ],
+        "teaching_experience_in_years": 21
+    },
+    {
+        "name": "Ms. E. NANDHINIPRIYA",
+        "designation": "ASSISTANT PROFESSOR/PROGRAMMER",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.Sc(CS).",
+            "M.C.A.",
+            ""
+        ],
+        "specialization": [
+            "DBMS"
+        ],
+        "teaching_experience_in_years": 16
+    },
+    {
+        "name": "Dr. S. RAJAKUMARAN",
+        "designation": "ASSISTANT PROFESSOR/PROGRAMMER",
+        "department": "COMPUTER SCIENCE & ENGG.",
+        "qualification": [
+            "B.Sc(CS).",
+            "M.C.A.",
+            "Ph.D.",
+            ""
+        ],
+        "specialization": [
+            "Image Processing",
+            " Artificial Intelligence"
+        ],
+        "teaching_experience_in_years": 15
+    }
+]
