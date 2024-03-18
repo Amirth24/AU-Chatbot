@@ -22,7 +22,7 @@ if __name__ == "__main__":
             for page in pages
         ])
 
-    loaders = loaders + [
+    loaders = [ loaders ] + [
         text.TextLoader(file)
         for file in glob.glob(str('processed/*/*/*.txt'))
     ]
