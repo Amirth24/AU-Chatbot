@@ -2,7 +2,7 @@
 import glob
 from functools import reduce
 from pathlib import Path
-from langchain_community.document_loaders import async_html, text
+from langchain_community.document_loaders import async_html, text, json_loader
 from langchain_community.vectorstores.chroma import Chroma
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -22,13 +22,23 @@ if __name__ == "__main__":
             for page in pages
         ])
 
-    loaders = [ loaders ] + [
+    print("File Loading")
+    loaders = [loaders] + [
         text.TextLoader(file)
         for file in glob.glob(str('processed/*/*/*.txt'))
+    ] + [
+        json_loader.JSONLoader(
+            file,
+            jq_schema=".[]",
+            text_content=False
+        )
+        for file in glob.glob('documents/**/*.json', recursive=True)
     ]
+    print("No of docs:", len(loaders))
 
+    print("Text Splitting")
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=250,
+        chunk_size=500,
         chunk_overlap=50,
         length_function=len,
         is_separator_regex=False,
@@ -41,7 +51,9 @@ if __name__ == "__main__":
                 loaders
             )
         )
+    print("No of Chunks: ", len(docs))
 
+    print("Document Processing")
     Chroma.from_documents(
         persist_directory="chroma_data",
         documents=docs,
