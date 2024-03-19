@@ -40,8 +40,8 @@ async def connect(ws: WebSocket, client_id: int):
         agent = ChatAgent(vec_db)
         while True:
             data = await ws.receive_text()
-            async for tok in agent.talk(data):
-                await connection_manager.send_pm(tok, ws)
+            res = await agent.talk(data)
+            await connection_manager.send_pm(res, ws)
             await connection_manager.send_pm("[END]", ws)
     except WebSocketDisconnect:
         connection_manager.disconnect(ws)
