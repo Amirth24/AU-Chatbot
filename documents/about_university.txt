@@ -1,107 +1,22 @@
-FACULTY OF ENGINEERING & TECHNOLOGY
-Institutional Vision & Mission
-VISION
-Providing world class quality education with strong ethical values to nurture and develop outstanding professionals fit for globally competitive environment.
+The Faculty of Engineering and Technology (FEAT) at Annamalai University is dedicated to providing world-class quality education with strong ethical values. Here are some key aspects of FEAT:
 
-MISSION
+1. **Vision and Mission:**
+   - **Vision:** To provide world-class quality education with strong ethical values, nurturing outstanding professionals for a globally competitive environment.
+   - **Mission:**
+     - Provide quality technical education grounded in basic engineering principles, technical skills, managerial skills, and innovative research capabilities.
+     - Transform students into outstanding professionals and technocrats with strong ethical values, capable of creating, developing, and managing global engineering enterprises.
+     - Develop a Global Knowledge Hub focusing on excellence in education, research, entrepreneurship, and technological services for the industry and society.
+     - Inculcate the importance and methodology of lifelong learning to face future challenges with updated knowledge.
 
-Provide quality technical education with a sound footing on basic engineering principles, technical and managerial skills, and innovative research capabilities.
-Transform the students into outstanding professionals and technocrats with strong ethical values capable of creating, developing and managing global engineering enterprises.
-Develop a Global Knowledge Hub, striving continuously in pursuit of excellence in Education, Research, Entrepreneurship and Technological services to the Industry and Society.
-Inculcate the importance and methodology of life-long learning to move forward with updated knowledge to face the challenges of tomorrow.
-With the objective and a dynamic vision to support contemporary Engineering, the Faculty of Engineering and Technology (FEAT) was established in the year 1945, as the Second Engineering College of the then composite Madras State. The FEAT proudly celebrated its Golden Jubilee in the year 1996 and Diamond Jubilee in the year 2005. The FEAT has eleven departments of study namely Chemical Engineering, Civil Engineering, Civil & Structural Engineering, Computer Science & Engineering, Electrical Engineering, Electronics and Communication Engineering, Electronics & Instrumentation Engineering, Information Technology, Mechanical Engineering, Manufacturing Engineering  and Pharmacy.
+2. **Establishment and Growth:** 
+   - Established in 1945 as the Second Engineering College of the then composite Madras State.
+   - Celebrated Golden Jubilee in 1996 and Diamond Jubilee in 2005.
+   - Offers programs across eleven departments including Computer Science & Engineering, Civil Engineering, Electrical Engineering, Mechanical Engineering, and Pharmacy.
 
-Programmes Offered
+3. **Programs Offered:** FEAT offers various programs including B.E. programs in Computer Science & Engineering (with specializations in Artificial Intelligence, Machine Learning, and Data Science), Chemical Engineering, Civil Engineering, Electrical and Electronics Engineering, Electronics and Communication Engineering, Mechanical Engineering, and more. It also offers a Diploma in Mining Engineering program.
 
-B.E Programmes
-Sl.No.	Code	Branch	
-Accreditation Status
-Valid upto
-1	AM	Computer Science and Engineering (Artificial Intelligence and Machine Learning)	
-2	CF	Computer Science and Engineering (Data Science)	
-3	CH	Chemical Engineering	
-NBA Accredited
-30.06.2025
-4	CE	Civil Engineering	
-NBA Accredited
-30.06.2025
-5	CZ	Civil and Structural Engineering	
-NBA Accredited
-30.06.2022
-6	CS	Computer Science and Engineering	
-NBA Accredited
-30.06.2025
-7	EE	Electrical and Electronics Engineering	
-NBA Accredited
-30.06.2025
-8	EC	Electronics and Communication Engineering	
-NBA Accredited
-30.06.2022
-9	EI	Electronics and Instrumentation Engineering	
-10	IT	Information Technology	
-11	ME	Mechanical Engineering	
-NBA Accredited
-30.06.2025
-12	MM	Mechanical Engineering (Manufacturing)	
-Note : Admission to the First Year programmes has been included in the Tamil Nadu Engineering Admission (TNEA). .
+4. **Collaborations and MoUs:** FEAT has collaborations with institutions globally such as Tennessee Technological University (USA), Ball State University (USA), Fukui University (Japan), University of Technology Sydney (Australia), and Kumamoto University (Japan) among others for academic exchange, collaborative research, and technical collaborations.
 
+5. **Training and Placement:** FEAT has a dedicated Training and Placement Cell that organizes pre-placement training, placement assistance, internships, career guidance sessions, and competitive exam preparations for students. Companies like L&T, Tech Mahindra, IBM, TCS, HCL Technologies, and many others participate in campus placements, with a high percentage of students securing placements in both core and IT sectors.
 
-Diploma in Mining Engineering Programme
-Faculty of Engineering and Technology, Annamalai University, Annamalainagar, Tamilnadu is offering Diploma in Mining Engineering Programme in association with M/S NLCIL, Neyveli, Tamilnadu, India.
-
-An MOU was signed between M/S NLCIL and Annamalai University to offer the Diploma in Mining Engineering Programme. As a part of NLCIL’s corporate social responsibility, NLCIL has agreed to sponsor the infrastructure facilities for three year regular Diploma in Mining Engineering programme under the name and style of NLCIL–AU Diploma in Mining Engineering programme at Annamalai University, Annamalainagar, Annamalai University has agreed to allocate 50% of the total seats to the NLCIL and the other 50% will be filled by the University as per the norms prevailing from time to time.
-
-NLCIL sponsors 50 percent of tuition fees to the project affected students (PAP) to enhance the life style of the project affected persons (given their land to NLCIL) living around Neyveli.
-
-Hostel Facilities
-                Separate hostel facilities are available for boys and girls.
-Activities in FEAT
-
-Academic programmes leading to the award of Bachelor, Master, and Doctoral degrees along with Diploma and Certificate Programmes in selected fields.
-Research programmes for Students, Faculty, and Professionals.
-Special programmes, conferences, seminars, short term programmes, and consultancy services.
-Collaborative research programmes in coordination with government /non-governmental organizations.
-Extension services
-Important MoUs 
-The Faculty of Engineering has entered into MoU with:
-
-Tennesee Technological University, (TTU), USA to enable academic exchange of the staff and students between Annamalai University and TTU under the Indo-US, Knowledge Initiative Award from University Grants Commission, New Delhi
-Ball State University of USA.
-Fukui University of Japan to enable the academic exchange of the Staff and Students between Annamalai University and the Fukui University.
-University of Technology, Sydney, Australia, for promotion of technical collaborations.
-Kumamoto University, Japan for Collaboration in the area of “Materials Processing using Explosives” to promote academic exchanges.
-National Institute for Interdisciplinary Science & Technology, (NIIST) Trivandrum, Kerala for Collaborative research in ‘Light Alloys’
-CSIR - Structural Engineering Research Centre (SERC), Chennai for Collaborative Research in the field of Structural Engineering
-NLC India Limited, Neyveli for offering Diploma in Mining Engineering Program.
-Training and Placement Cell 
-Salient features of the activities of Training & Placement Cell, Faculty of Engineering and Technology, Annamalai University are:
-
-Organizing Pre-Placement Trainings
-Providing Placement Assistance through Campus Drives with Industries of Repute
-Enhancing Employability through Upskilling Programs
-Arranging Internships in industries
-Conducting career guidance sessions about avenues open after graduation
-Preparing the students for various Competitive Exams
-Every year, the campus placements are conducted by inviting the companies through campus drives. An average of 70- 80 percent of the eligible students have got placements both in Core and IT sectors through campus drives.
-Some of our Recruiters are:
-L & T
-Tech Mahindra
-Schneider Electric
-Wheels India
-IBM
-Azentio
-HCL Technologies
-TCS
-JSW
-SPIC
-Super Auto Forge
-Delphi TVS
-Cetex Petrochemicals
-Sai Life Sciences
-Apollo Pharmacy
-Episource
-Axis Global Automation
-ATOS Global IT Solutions
-E-parambara
-Tagros Chemicals Pvt. Ltd.
-TAC
+FEAT's commitment to academic excellence, research, industry collaboration, and student development makes it a prominent institution in the field of engineering and technology education.

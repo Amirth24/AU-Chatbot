@@ -1,0 +1,20 @@
+[
+    {
+        "Computer Science and Engineering": ["CSE", "CSE Engg.", "Comp Engg.", "Engineering", "Engg.", "Eng.", "Tech", "CS Engineering", "Computing Engineering", "Computer Eng.", "CS Eng."],
+        "Computer Science and Engineering (Artificial Intelligence and Machine Learning)": ["AI & ML", "AI Engineering", "ML Engineering", "Artificial Intelligence Eng.", "AI & ML Eng."],
+        "Computer Science and Engineering (Data Science)": ["Data Science", "Data Engg.", "Data Analytics Engineering", "Data Mining Engineering"],
+        "Head of Department": ["HOD", "Department Head", "Department Head CSE", "HoD", "CSE Department Head"],
+        "Professor": ["Prof.", "Prof", "Prof. Dr.", "Teaching Staff"],
+        "Faculty of Engineering and Technology (FEAT)": ["FEAT"],
+        "Vision and Mission": ["Vision", "Mission"],
+        "Establishment and Growth": ["Establishment", "Growth"],
+        "Programs Offered": ["B.E. programs", "B.Tech programs", "Ph.D. programs", "Undergraduate programs", "UG programs", "Postgraduate programs", "PG programs"],
+        "Collaborations and MoUs": ["Collaborations", "MoUs"],
+        "Training and Placement": ["Training", "Placement", "Training and Placement Cell", "T&P Cell"],
+        "Batchelor of Engineering": ["B.E."],
+        "Bachelor of Technology": ["B.Tech"],
+        "Doctor of Philosophy": ["Ph.D."],
+        "Undergraduate": ["UG"],
+        "Postgraduate": ["PG"]
+    }
+]
