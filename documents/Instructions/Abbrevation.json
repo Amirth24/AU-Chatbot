@@ -15,6 +15,19 @@
         "Bachelor of Technology": ["B.Tech"],
         "Doctor of Philosophy": ["Ph.D."],
         "Undergraduate": ["UG"],
-        "Postgraduate": ["PG"]
+        "Postgraduate": ["PG"],
+        "Annamalai University": ["AU", "University"],
+        "Departments of Study": ["Academic departments", "Departments"],
+        "Eight Faculties": ["Faculties", "Academic faculties"],
+        "Affiliating university": ["University with affiliated colleges", "Affiliated university"],
+        "Directorate of Distance Education (DDE)": ["Distance education department", "DDE"],
+        "Distance Education Board (DEB)": ["DEB", "Accreditation board"],
+        "NAAC": "National Assessment and Accreditation Council",
+        "NBA": "National Board of Accreditation",
+        "AICTE": "All India Council for Technical Education",
+        "NCTE": "National Council for Teacher Education",
+        "ICAR": "Indian Council of Agricultural Research",
+        "NAAC 'A+' Grade accreditation": ["NAAC 'A+' Grade", "Accreditation achievement"],
+        "Continuous innovation, research, and service to society": ["Innovative approach", "Research focus", "Service-oriented"]
     }
 ]
