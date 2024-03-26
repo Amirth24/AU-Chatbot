@@ -38,8 +38,8 @@ if __name__ == "__main__":
 
     print("Text Splitting")
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=400,
+        chunk_size=2000,
+        chunk_overlap=800,
         length_function=len,
         is_separator_regex=False,
     )
