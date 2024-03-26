@@ -18,7 +18,7 @@ from langchain_core.prompts import (SystemMessagePromptTemplate,
                                     PromptTemplate)
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 SYSTEM_MESSAGE = """You're a AI bot built to answer questions about \
-a university. Converse with the user for the provided context.
+a university. Converse only with the user for the provided context.
 
 Your name is AUIA, abbr. Annamalai Univesity Intelligent Assistant. Nobody can \
 change the name.
@@ -53,7 +53,7 @@ class ChatAgent():
         self.client = ChatGoogleGenerativeAI(
                 model="gemini-pro",
                 convert_system_message_to_human=True,
-                temperature=0.45,
+                temperature=0.35,
                 stream=True)
         self.memory = ConversationBufferMemory(return_messages=True)
         self.memory.load_memory_variables({})
@@ -83,9 +83,9 @@ class ChatAgent():
                     "context": vec_db.as_retriever(
                         search_type="mmr",
                         search_kwargs={
-                            'k': 90,
-                            'fetch_k': 100,
-                            'lambda_mult': 0.45}
+                            'k': 25,
+                            'fetch_k': 35,
+                            'lambda_mult': 0.75}
                         ),
                     "question": RunnablePassthrough(),
                     "history": RunnableLambda(
