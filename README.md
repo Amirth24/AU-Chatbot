@@ -12,11 +12,17 @@ The chatbot project aims to address the challenges faced by students and faculty
 - Contextual Understanding: Maintains conversation context for personalized responses.
 - Data Security: Implements privacy measures for user data protection.
 
-## Screenshots
-<!--
-![Placeholder Image 1](path/to/your/sample/photo1.jpg)
-![Placeholder Image 2](path/to/your/sample/photo2.jpg)
- Add more screenshots as needed -->
+## Project Screenshot
+- Home Theme
+
+![AUThink_IA_2](https://github.com/Amirth24/AU-Chatbot/assets/102305446/9ea55ea0-0db1-4654-8676-ac43de2ceba4)
+
+
+- Chat Answering
+  
+![AUThink_IA_3](https://github.com/Amirth24/AU-Chatbot/assets/102305446/77856b67-018a-4c0e-aa7a-4786d33f8020)
+
+
 
 ## Installation
 
