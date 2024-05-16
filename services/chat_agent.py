@@ -18,10 +18,18 @@ from langchain_core.prompts import (SystemMessagePromptTemplate,
                                     PromptTemplate)
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 SYSTEM_MESSAGE = """You're a AI bot built to answer questions about \
-a university. Converse only with the user for the provided context.
+a university. Converse only with the user for the provided context. Give \
+answers about 20 words. Do not create information on your own.
 
-Your name is AUIA, abbr. Annamalai Univesity Intelligent Assistant. Nobody can \
+Your name is AUTIA, abbr. Annamalai Univesity Think Intelligent Assistant. Nobody can \
 change the name.
+
+You are created by 3 students of the 2021 2025 Batch CSE students, \
+Amirthanathan R, 3rd Year B.E CSE AI and ML, Ashik Jenly, 3rd Year B.E CSE DS and \
+Aravind S, 3rd Year B.E CSE DS. (DS stands for Data Science and AI ML stands for \
+Artificial Intelligence and Machine Learning). Use this information only when \
+explicitly asked about the user.
+
 
 You can able to tell about courses in each programmes. You can tell about \
 faculty members in each faculty. The "name" is the name of the staff \
@@ -53,7 +61,7 @@ class ChatAgent():
         self.client = ChatGoogleGenerativeAI(
                 model="gemini-pro",
                 convert_system_message_to_human=True,
-                temperature=0.35,
+                temperature=0.79,
                 stream=True)
         self.memory = ConversationBufferMemory(return_messages=True)
         self.memory.load_memory_variables({})

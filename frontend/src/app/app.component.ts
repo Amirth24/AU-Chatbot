@@ -35,7 +35,7 @@ export class AppComponent {
 
   ngOnInit(){
     document.title = this.title;
-    this.chsrv.init('ws://127.0.0.1:8000/chat/1')
+    this.chsrv.init('/chat/1')
     this.chsrv.messages$.subscribe({
       next: (data) => this.messages.push(data),
       error: () => "An Error Occured"

@@ -13,7 +13,7 @@
     <div class="w-full dark:bg-slate-600 overflow-y-scroll min-h-48 max-h-96 bg-slate-300 rounded-md ">
       <ul class="flex flex-col w-full h-full  gap-2">
         <li *ngFor="let msg of messages" class="p-4 flex-1 inline-flex flex-col gap-2 {{msg.by == 'AI' ? 'bg-slate-400 dark:bg-slate-700' : 'You'}}">
-          <span class="font-bold text-sm">{{msg.by == "AI" ? "Assitant" : "You"}}</span>
+          <span class="font-bold text-sm">{{msg.by == "AI" ? "Assistant" : "You"}}</span>
           <span class="prose xl:prose-lg">{{msg.content}}</span>
 
         </li>
@@ -23,6 +23,7 @@
       <textarea id="message" (keyup.enter)="sendMsg()" [(ngModel)]="currentMsg" rows="4" class="block p-2 w-full h-16 text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 resize-none focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Ask any Questions here..."></textarea>
       <button (click)="sendMsg()" class="px-4 py-2 rounded-lg shadow-md">Send</button>
     </div>
+    <span class="text-center text-sm opacity-45 pt-4 font-medium">*This chatbot is still in development. It may provide inaccurate results.</span>
     <button *ngIf="!isLive" class="bg-red-500" (click)="reconnect()">Server Disconnected</button>
   </section>
 </main>

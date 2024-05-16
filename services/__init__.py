@@ -1,15 +1,18 @@
 """A Basic API endpoint to connect with `ChatAgent`"""
-
+import os
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from .connection_manager import ConnectionManager
 from .chat_agent import ChatAgent, get_vec_db
 
 
-DB_DIR = "chroma_data/"
+DB_DIR = os.environ.get("DB_DIR", "chroma_data/")
 
 # The application
 app = FastAPI()
+
 
 # Connection Manager
 connection_manager = ConnectionManager()
@@ -26,10 +29,13 @@ app.add_middleware(
 )
 
 
+FRONTEND_DIR = os.environ.get("FRONTEND_DIR", "./dist/frontend/browser/")
+
+
 @app.get('/')
-def health():
-    """To check wheather api is reachable"""
-    return {"status": "ok"}
+def index() -> FileResponse:
+    """Serve the frontend of the application"""
+    return FileResponse(f"{FRONTEND_DIR}/index.html")
 
 
 @app.websocket('/chat/{client_id}')
@@ -45,3 +51,5 @@ async def connect(ws: WebSocket, client_id: int):
             await connection_manager.send_pm("[END]", ws)
     except WebSocketDisconnect:
         connection_manager.disconnect(ws)
+
+app.mount("/", StaticFiles(directory=FRONTEND_DIR))
